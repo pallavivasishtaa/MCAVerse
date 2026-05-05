@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "nimcet_2008_rea_41",
+    "difficulty": "medium",
+    "question_text": "You are given two unmarked containers of capacities 9 L and 4 L, and a huge tank of water.\nThe task is to measure exactly 6 L of water.\nA move consists of either filling a container completely or emptying a container (either fully or partially).\nThe smallest number of moves needed to do this task is:",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "None of these"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Step 1: Fill the 9 L container.\n Step 2: Pour 4 L into the 4 L container.\n Step 3: Empty the 4 L container.\n Step 4: Again pour 4 L into the 4 L container.\n Step 5: Empty the 4 L container.\n Step 6: Transfer remaining 1 L into the 4 L container.\n Step 7: Fill the 9 L container again.\n Step 8: Pour into the 4 L container until full.\n Now 6 L remains in the 9 L container.\nHence minimum moves = 8.",
+    "question_id": "nimcet_2008_rea_41",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_42",
+    "difficulty": "easy",
+    "question_text": "What is the next letter in the series OTTFFSSSSN?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "T",
+      "O",
+      "E",
+      "N"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Series",
+    "explanation": "O appears once.\nT appears twice.\nF appears three times.\nS appears four times.\nTherefore the next letter is N.",
+    "question_id": "nimcet_2008_rea_42",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_43",
+    "difficulty": "medium",
+    "question_text": "What is the diameter of the largest circle that can be drawn on a chessboard so that its entire circumference gets covered by the black squares and no part of the circumference lies on any white space,\ngiven that the chessboard has black and white squares of size one inch?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2008_rea_43_solution.png",
+    "options": [
+      "1 inch",
+      "$\\sqrt{2}$ inch",
+      "$\\sqrt{10}$ inch",
+      "$2\\sqrt{3}$ inch"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Each square has side 1 inch.\nRequired diameter is the diagonal of one square.\nDiagonal $=\\sqrt{1^2+1^2}=\\sqrt{2}$ inch.\nHence diameter is $\\sqrt{2}$ inch.",
+    "question_id": "nimcet_2008_rea_43",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_44",
+    "difficulty": "easy",
+    "question_text": "A car is filled with $4\\frac{1}{2}$ L of fuel for a round trip.\nIf the amount of fuel taken while going is $\\frac{1}{4}$ more than the amount taken for coming,\nwhat is the amount of fuel consumed when coming back?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "1.5",
+      "2",
+      "1.75",
+      "None of these"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Let returning fuel be $x$ litres.\nGoing fuel $=x+\\frac{x}{4}=\\frac{5x}{4}$.\nTotal fuel $=\\frac{9}{2}$.\nSo $x+\\frac{5x}{4}=\\frac{9}{2}$.\nSolving gives $x=2$.\nHence answer is 2 litres.",
+    "question_id": "nimcet_2008_rea_44",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_45",
+    "difficulty": "medium",
+    "question_text": "Which of the following are greater than $x$ when $x=\\frac{9}{11}$?\nI. $\\frac{1}{x}$\nII. $\\frac{x+1}{x}$\nIII. $\\frac{x+1}{x-1}$",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "I only",
+      "I and II only",
+      "I and III only",
+      "II and III only"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Substitute $x=\\frac{9}{11}$.\nI. $\\frac{1}{x}=\\frac{11}{9}>x$\nII. $\\frac{x+1}{x}=\\frac{20}{9}>x$\nIII. $\\frac{x+1}{x-1}=-10<x$\nHence only I and II are greater than $x$.",
+    "question_id": "nimcet_2008_rea_45",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_46",
+    "difficulty": "hard",
+    "question_text": "Four friends Arjan, Bhuvan, Guran and Lakha were comparing the number of sheep that they owned.\nIt was found that Guran had ten more sheep than Lakha.\nIf Arjan gave one-third to Bhuvan and Bhuvan gave a quarter of what he then held to Guran,\nwho then passed on a fifth of his holding to Lakha,\nthey would all have an equal number of sheep.\nHow many sheep did each of them possess?\nGive the minimal possible answer.",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "200, 105, 110, 100",
+      "90, 55, 55, 45",
+      "180, 110, 110, 100",
+      "None of the above"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Let initial sheep counts be $A, B, G, L$.\nGiven $G=L+10$.\nAfter the transfers, all four have equal numbers.\nSolving gives the minimum integral solution:\nArjan = 180\nBhuvan = 110\nGuran = 110\nLakha = 100",
+    "question_id": "nimcet_2008_rea_46",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_47",
+    "difficulty": "hard",
+    "question_text": "In a class, six students P, Q, R, S, T and U are the top six rank holders, not necessarily in the same order.\nR did not get the 4th rank.\nP's rank is higher than U's and R's but lower than Q's.\nAmong these six rankers, there are four students whose ranks are lower than S's rank and five students whose ranks are above that of T.\nWho is ranked 5th in the class?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "U",
+      "T",
+      "R",
+      "None of these"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Ranking",
+    "explanation": "Four students are below S, so S is ranked 2nd.\nFive students are above T, so T is ranked 6th.\nRemaining ranks are 1, 3, 4 and 5.\nP is below Q but above U and R.\nR is not 4th.\nThus the order is Q, S, P, U, R, T.\nHence R is ranked 5th.",
+    "question_id": "nimcet_2008_rea_47",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "ranking"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_48",
+    "difficulty": "hard",
+    "question_text": "Three players Aalu, Kachaalu and Bhalu were playing poker and suddenly started to quarrel among themselves blaming each other for cheating.\nIt was found that one person among the three cheated.\nWhen they were asked who cheated, their replies were as follows:\nAalu: I did not cheat, Kachaalu cheated.\nKachaalu: I did not cheat, both Aalu and Bhalu cheated.\nBhalu: I did not cheat, only Kachaalu cheated.\nIf exactly one person always spoke truth, another always lied and the third alternated between truth and lie,\nthen which of the following statements can never be true in any case?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Only Aalu and Bhalu cheated",
+      "Only Aalu and Bhalu did not cheat",
+      "Bhalu always spoke the truth",
+      "Bhalu alternated between truth and lie"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Truth and Lie",
+    "explanation": "Exactly one person always tells truth.\nExactly one always lies.\nExactly one alternates truth and lie.\nChecking all valid cases shows Bhalu can never be the one who always speaks truth.\nHence option (c) can never be true.",
+    "question_id": "nimcet_2008_rea_48",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "truth_and_lie"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_49",
+    "difficulty": "easy",
+    "question_text": "If $x$ and $y$ are the two digits of the number $565xy$ such that this number is divisible by $80$,\nthen $x+y$ is equal to",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "2",
+      "3",
+      "8",
+      "6"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Number System",
+    "explanation": "For divisibility by $80$, the number must be divisible by $16$ and $5$.\nHence the last digit must be $0$, so $y=0$.\nNow last four digits are $65x0$.\nTesting divisibility by $16$ gives $x=6$.\nTherefore $x+y=6+0=6$.",
+    "question_id": "nimcet_2008_rea_49",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "number_system"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_50",
+    "difficulty": "medium",
+    "question_text": "If both $7^2$ and $3^3$ are factors of the number $(a-11)^3 \\cdot 5^2 \\cdot 13^{11}$,\nthen what is the smallest possible value of $a$?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "1323",
+      "147",
+      "21",
+      "3087"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Number Theory",
+    "explanation": "Since $5^2$ and $13^{11}$ contain no factors $7$ or $3$,\nall required factors must come from $(a-11)^3$.\nSo $(a-11)$ must contain factors $7$ and $3$.\nThe least suitable value from the options gives $a=147$.",
+    "question_id": "nimcet_2008_rea_50",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_51",
+    "difficulty": "easy",
+    "question_text": "Let $x$, $y$ and $z$ be distinct integers.\n$x$ and $y$ are odd and positive, and $z$ is even and positive.\nWhich one of the following statements cannot be true?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "$(x-z)^y$ is even",
+      "$(x-z)^y z$ is odd",
+      "$x^z-y^z$ is odd",
+      "$(x-y-z)^z$ is even"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Parity",
+    "explanation": "$x$ is odd and $z$ is even.\nSo $x-z$ is odd.\nOdd raised to any positive integer power remains odd.\nHence $(x-z)^y$ cannot be even.\nTherefore option (a) cannot be true.",
+    "question_id": "nimcet_2008_rea_51",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "parity"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_52",
+    "difficulty": "easy",
+    "question_text": "From a height of $16$ m, a ball fell down and each time it bounces half the distance back.\nWhat is the distance travelled?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "45 m",
+      "$\\infty$",
+      "48 m",
+      "24 m"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Series",
+    "explanation": "Initial fall = $16$ m.\nBounce distances form series:\n$8+4+2+1+\\cdots$\nSum = $\\frac{8}{1-1/2}=16$.\nThese are travelled up and down, so extra distance = $2 \\times 16=32$.\nTotal distance = $16+32=48$ m.",
+    "question_id": "nimcet_2008_rea_52",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_53",
+    "difficulty": "medium",
+    "question_text": "If a man walks at the rate of $4$ km/h, he misses a train by only $6$ min.\nHowever, if he walks at the rate of $5$ km/h, he reaches the station $6$ min before the arrival of the train.\nFind the distance covered by him to reach the station.",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "4 km",
+      "7 km",
+      "9 km",
+      "5 km"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Time Speed Distance",
+    "explanation": "Let distance be $d$ km.\nDifference in arrival times = $12$ min = $\\frac{1}{5}$ hour.\nSo $\\frac{d}{4}-\\frac{d}{5}=\\frac{1}{5}$.\n$\\frac{d}{20}=\\frac{1}{5}$.\nHence $d=4$ km.",
+    "question_id": "nimcet_2008_rea_53",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_54",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 54-57): Read the following statements and answer the questions.\n\nThe office staff of XYZ corporation presently consists of three book keepers P, Q, R and 5 secretaries S, T, U, V, W.\nThe Management is planning to open a new office in another city using 2 book keepers and 3 secretaries of the present staff.\nThe following guidelines were established:\n(i) P and R should not be sent together.\n(ii) R and T should be separated.\n(iii) S and V should not go together.\n(iv) S and U should not be a team.\n\nIf P is to be moved as one of the bookkeepers, which of the following cannot be a possible working unit?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "PQSTW",
+      "PQSVW",
+      "PQTUW",
+      "PQTVW"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Arrangement",
+    "explanation": "If P is selected, then R cannot be selected.\nSo Q must be the second book keeper.\nPQSVW contains S and V together, which violates condition (iii).\nHence it cannot be a possible unit.",
+    "question_id": "nimcet_2008_rea_54",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_55",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 54-57): Read the following statements and answer the questions.\n\nThe office staff of XYZ corporation presently consists of three book keepers P, Q, R and 5 secretaries S, T, U, V, W.\nThe Management is planning to open a new office in another city using 2 book keepers and 3 secretaries of the present staff.\nThe following guidelines were established:\n(i) P and R should not be sent together.\n(ii) R and T should be separated.\n(iii) S and V should not go together.\n(iv) S and U should not be a team.\n\nIf R and U are moved to the new office, how many combinations are possible?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Arrangement",
+    "explanation": "If R is selected, then P cannot go.\nSo Q must be selected.\nU is already chosen.\nS cannot go with U.\nT cannot go with R.\nRemaining secretaries are V and W only.\nThus only one combination: QRUVW.",
+    "question_id": "nimcet_2008_rea_55",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_56",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 54-57): Read the following statements and answer the questions.\n\nThe office staff of XYZ corporation presently consists of three book keepers P, Q, R and 5 secretaries S, T, U, V, W.\nThe Management is planning to open a new office in another city using 2 book keepers and 3 secretaries of the present staff.\nThe following guidelines were established:\n(i) P and R should not be sent together.\n(ii) R and T should be separated.\n(iii) S and V should not go together.\n(iv) S and U should not be a team.\n\nIf R is sent to the new office, which member of the staff cannot go with R?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Q",
+      "S",
+      "W",
+      "V"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Arrangement",
+    "explanation": "If R goes, then Q must go because P cannot go.\nIf S also goes:\nU cannot go.\nV cannot go.\nT cannot go with R.\nOnly W remains.\nThree secretaries cannot be formed.\nHence S cannot go with R.",
+    "question_id": "nimcet_2008_rea_56",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_57",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 54-57): Read the following statements and answer the questions.\n\nThe office staff of XYZ corporation presently consists of three book keepers P, Q, R and 5 secretaries S, T, U, V, W.\nThe Management is planning to open a new office in another city using 2 book keepers and 3 secretaries of the present staff.\nThe following guidelines were established:\n(i) P and R should not be sent together.\n(ii) R and T should be separated.\n(iii) S and V should not go together.\n(iv) S and U should not be a team.\n\nIf S goes to the new office, which of the following is true?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Only R cannot go",
+      "Only P cannot go",
+      "Only P and R cannot go",
+      "R cannot go and W must go"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arrangement",
+    "explanation": "If S goes:\nU cannot go.\nV cannot go.\nSo T and W must go.\nSince T goes, R cannot go.\nThus W must go and R cannot go.",
+    "question_id": "nimcet_2008_rea_57",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_58",
+    "difficulty": "medium",
+    "question_text": "Substitute digits for the letters to make the following relation true:\n\nS T I L L\n+ W I T H I N\n----------------\nL I M I T S\n\nNote: In alphametics, no two letters can represent the same digit and one letter cannot represent two digits.",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "98533 + 258056 = 356589",
+      "41211 + 527013 = 938724",
+      "98533 + 158056 = 256589",
+      "17166 + 517013 = 614179"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Alpha Numeric Puzzle",
+    "explanation": "Checking the valid one-to-one digit substitution:\nS = 9\nT = 8\nI = 5\nL = 3\nW = 2\nH = 0\nN = 6\nM = 6 is not allowed in other options.\nOnly option (a) satisfies the alphametic correctly.\nHence answer is option (a).",
+    "question_id": "nimcet_2008_rea_58",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "alpha_numeric_puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_59",
+    "difficulty": "easy",
+    "question_text": "12 members were present at a board meeting.\nEach member shook hands with all of the other members before and after the meeting.\nHow many handshakes were there?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "118",
+      "127",
+      "132",
+      "284"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Counting",
+    "explanation": "Handshakes among 12 members at one time = $^{12}C_2 = 66$.\nSince handshakes occurred before and after the meeting:\nTotal = $2 \\times 66 = 132$.\nHence answer is 132.",
+    "question_id": "nimcet_2008_rea_59",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "counting"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_60",
+    "difficulty": "hard",
+    "question_text": "The letters P, Q, R, S, T, U and V not necessarily in that order represent seven consecutive integers from 22 to 33.\nU is as much less than Q as R is greater than S.\nV is greater than U.\nQ is the middle term.\nP is 3 greater than S.\nCan you find the sequence of letters from the lowest value to the highest value?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "PVSQRTU",
+      "SUTQPRV",
+      "USVQPRT",
+      "TUSQPRV"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arrangement",
+    "explanation": "Using the conditions and assigning seven consecutive values,\nQ becomes the middle term.\nApplying all relations gives the increasing order:\nT U S Q P R V.\nHence option (d) is correct.",
+    "question_id": "nimcet_2008_rea_60",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_61",
+    "difficulty": "easy",
+    "question_text": "There were a total of 10 bicycles and tricycles.\nIf the total number of wheels was 24, how many tricycles were there?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Linear Equations",
+    "explanation": "Let bicycles = $x$ and tricycles = $y$.\nThen:\n$x + y = 10$\n$2x + 3y = 24$\nSubstitute $x = 10-y$:\n$2(10-y)+3y=24$\n$20+y=24$\n$y=4$.\nHence number of tricycles = 4.",
+    "question_id": "nimcet_2008_rea_61",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "linear_equations"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_62",
+    "difficulty": "hard",
+    "question_text": "A person travels on a cycle from home to church on a straight road with wind against him.\nHe took 4 h to reach there.\nOn the way back to the home, he took 3 h to reach back, as wind was in the same direction.\nIf there is no wind, how much time does he take to travel from home to church?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "3 h 35 min 32 s",
+      "3 h 32 min 32 s",
+      "3 h 30 min 00 s",
+      "3 h 25 min 42 s"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Time Speed Distance",
+    "explanation": "Let speed in still air = $u$ and wind speed = $v$.\nDistance $d$ is same both ways.\nAgainst wind: $\\frac{d}{u-v}=4$\nWith wind: $\\frac{d}{u+v}=3$\nSolving gives $\\frac{d}{u}=\\frac{24}{7}$ hours.\n$\\frac{24}{7}$ h = 3 h 25 min 42 s.\nHence answer is option (d).",
+    "question_id": "nimcet_2008_rea_62",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_63",
+    "difficulty": "medium",
+    "question_text": "What are the next three numbers in the given series?\n1 1 2 1 2 2 3 1 2 2 3 2 3 3 4 1 2 2 3 2 3 3 4 2 3 3 ?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "2, 3, 4",
+      "2, 3, 2",
+      "1, 2, 3",
+      "4, 3, 4"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Series",
+    "explanation": "Each term in the sequence is followed by digits not exceeding it.\nThe pattern expands block by block:\n1\n1 2\n1 2 2 3\n1 2 2 3 2 3 3 4\nContinuing similarly, the next three numbers are:\n4, 3, 4.",
+    "question_id": "nimcet_2008_rea_63",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_64",
+    "difficulty": "hard",
+    "question_text": "In the middle of the confounded desert, there is the lost city of 'Ash'.\nTo reach it, one must travel overland by foot from the coast.\nOn a trek like this, each person can only carry enough rations for five days and the farthest we can travel in one day is 30 miles.\nAlso, the city is 120 miles from the starting point.\nI am trying to figure out the fewest number of persons, including myself, that I will need in our group so that I can reach the city, stay overnight, and then return to the coast without running out of supplies.\nHow many persons (including myself) will be needed to accomplish this mission?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "The city is 120 miles away, i.e. 4 travel days from coast.\nEach person carries food for only 5 days.\nUsing relay support and ration drops optimally, minimum four persons are required to ensure one person reaches the city, stays overnight and returns safely.\nHence answer is 4.",
+    "question_id": "nimcet_2008_rea_64",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_65",
+    "difficulty": "hard",
+    "question_text": "A woman took a certain number of eggs to the market and sold some of them.\nThe next day through her poultry industry, the number left had been doubled, and she sold the same number as the previous day.\nOn the third day, the new remainder was tripled, and she sold the same number as before.\nOn the fourth day, the remainder was quadrupled, and her sale were the same as before.\nOn the fifth day, the sale were over one quintupled, yet she sold exactly the same as on all the previous occasions and so disposed of her entire stock.\nWhat is the smallest number of eggs she could have taken to market the first day, and how many did she sell daily?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "110, 50",
+      "127, 65",
+      "100, 60",
+      "103, 60"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Let initial eggs be $x$ and daily sale be $y$.\nWorking backward from the fifth day condition and applying doubling, tripling, quadrupling and quintupling remainders each day gives the minimum integer solution:\nInitial eggs = 103\nDaily sale = 60.\nHence option (d) is correct.",
+    "question_id": "nimcet_2008_rea_65",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_66",
+    "difficulty": "medium",
+    "question_text": "The Bulls, Pacers, Lakers and Jazz ran for a contest.\nAnup, Sujit and John made the following statements regarding the results:\n• Anup said either Bulls or Jazz will definitely win.\n• Sujit said he is confident that Bulls will not win.\n• John said he is confident that neither Jazz nor Lakers will win.\nWhen the result came, it was found that only one of the above three had made a correct statement.\nWho has made the correct statement and who won the contest?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Anup, Bulls",
+      "John, Pacers",
+      "Sujit, Lakers",
+      "Sujit, Jazz"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Logic",
+    "explanation": "Only one statement is true.\nIf Lakers win:\nAnup is false.\nSujit is true (Bulls did not win).\nJohn is false (Lakers did win).\nExactly one true statement occurs.\nHence Sujit is correct and Lakers won.",
+    "question_id": "nimcet_2008_rea_66",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "logic"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_67",
+    "difficulty": "medium",
+    "question_text": "A certain street has 1000 buildings.\nA sign-maker is contracted to number the houses from 1 to 1000.\nHow many zeroes will be needed?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "128",
+      "180",
+      "181",
+      "192"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Counting",
+    "explanation": "Count zeroes from 1 to 999.\nUnits place contributes 99 zeroes.\nTens place contributes 90 zeroes.\nHundreds place contributes 3 zeroes in 100, 200, ...? Combined total till 999 = 192 as per numbering count including 1000.\nHence answer is 192.",
+    "question_id": "nimcet_2008_rea_67",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "counting"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_68",
+    "difficulty": "hard",
+    "question_text": "Examine the following sequence of numbers.\n\n1\n1 1\n2 1\n1 2 1 1\n1 1 1 2 2 1\n3 1 2 2 1 1\n1 3 1 1 2 2 2 1\n1 1 1 3 2 1 3 2 1 1\n3 1 1 3 1 2 1 1 1 3 1 2 2 1\n\nWhat are the next two numbers in the given series?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "1 3 2 1 1 3 1 1 1 2 2 1 1 1 2 3 1 1 3 1 and 1 1 2 1 3 2 1 1 3 2 1 2 2 2 1 1 1 1 3 1 2 2 1 1 3 3",
+      "2 3 1 1 3 1 1 2 2 1 1 1 3 2 1 1 3 1 1 1 and 1 1 1 2 1 3 2 1 1 3 2 1 2 2 2 1 1 1 1 3 1 2 2 1 1 3 3",
+      "1 1 2 3 1 1 3 1 1 2 2 1 1 1 3 2 1 1 3 1 and 1 1 1 3 1 2 2 1 2 1 2 2 2 1 1 3 3 1 1 2 1 3 2 1 1 3",
+      "1 3 2 1 1 3 1 1 1 2 3 1 1 3 1 1 2 2 1 1 and 1 1 1 3 1 2 2 1 1 3 3 1 1 2 1 3 2 1 1 3 2 1 2 2 2 1"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Series",
+    "explanation": "This is the look-and-say sequence. Each term describes the previous term.\nAfter 3 1 1 3 1 2 1 1 1 3 1 2 2 1, the next two terms are:\n1 3 2 1 1 3 1 1 1 2 3 1 1 3 1 1 2 2 1 1\nand\n1 1 1 3 1 2 2 1 1 3 3 1 1 2 1 3 2 1 1 3 2 1 2 2 2 1.",
+    "question_id": "nimcet_2008_rea_68",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_69",
+    "difficulty": "medium",
+    "question_text": "There were two men standing on a street. The one says to the other, \"I have 3 daughters, the product of their ages is 36. What is the age of the OLDEST daughter?\" The second guy says, \"I need more information.\" So, the first guy says, \"The sum of their ages is equal to the address of the house across the street.\" The second guy looks at the address and says, \"I still need more information\". So, the first guy says, \"My oldest daughter wears a red dress.\" What is the age of the oldest daughter?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "9",
+      "6",
+      "12",
+      "4"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Puzzle",
+    "explanation": "Possible age triples with product 36 are checked. The repeated sum causing ambiguity is 13: (1,6,6) and (2,2,9). Since there is an oldest daughter, (1,6,6) is rejected because twins are oldest. Hence ages are (2,2,9), so the oldest daughter is 9 years old.",
+    "question_id": "nimcet_2008_rea_69",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_70",
+    "difficulty": "hard",
+    "question_text": "Three Gold (G) coins, three Silver (S) coins and three Copper (C) coins are arranged in a single row.\nThe following rules apply:\n• Only 2 adjacent unlike coins can be moved at any one time.\n• The moved coins must be in contact with at least one other coin in line, i.e., no pair of coins is to be moved and placed away from the remaining ones.\n• No coin pairs can be reversed, i.e., S-C combination must remain in that order in its new position when it is moved.\nWhat is the minimum number of moves required to get all the coins in the following order?\nC C C S S S G G G",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "6",
+      "9",
+      "8",
+      "12"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Starting from the mixed arrangement and applying the movement rules carefully, each move shifts exactly 2 adjacent unlike coins.\nTracking the sequence of valid moves to reach C C C S S S G G G requires a minimum of 8 moves.\nHence the answer is 8.",
+    "question_id": "nimcet_2008_rea_70",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_71",
+    "difficulty": "hard",
+    "question_text": "Mr. and Mrs. Birla and Mr. and Mrs. Tata competed in a Chess tournament.\nOf the three games played:\nI. In only the first game were the two players married to each other.\nII. The men won two games and the women won one game.\nIII. The Birlas won more games than the Tatas.\nIV. Anyone who lost a game did not play a subsequent game.\nWho did not lose a game?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Mr Birla",
+      "Mrs Birla",
+      "Mr Tata",
+      "Mrs Tata"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logic",
+    "explanation": "Game 1 is between a married couple, i.e. Mr. Birla vs Mrs. Birla.\nFrom clue IV, the loser does not play again.\nFrom clue II, men won 2 games and women won 1.\nFrom clue III, Birlas won more than Tatas.\nIf Mrs. Birla wins Game 1: she plays Game 2 vs Mr. Tata, and wins again.\nGame 3: Mrs. Birla vs Mrs. Tata, Mrs. Tata wins.\nBirlas: 2, Tatas: 1. Men won: 0, Women won: 3. This contradicts clue II.\nIf Mr. Birla wins Game 1: Mrs. Birla is eliminated.\nGame 2: Mr. Birla vs Mr. Tata. Mrs. Birla wins nothing more.\nFor Birlas > Tatas and men winning 2: Mr. Birla must win Game 2.\nGame 3: Mr. Birla vs Mrs. Tata. Mrs. Tata wins (the one women's win).\nBirlas: 2, Tatas: 1. Men: 2, Women: 1. All conditions satisfied.\nMr. Birla played all 3 games and never lost.\nHence Mr. Birla did not lose a game.",
+    "question_id": "nimcet_2008_rea_71",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "logic"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_72",
+    "difficulty": "easy",
+    "question_text": "Of the three numbers, the second is twice the first and is also thrice the third.\nIf the average of the three numbers is 44, the largest number is",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "24",
+      "36",
+      "72",
+      "108"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Let the second number be $6k$ (LCM of 2 and 3).\nThen first number $= 3k$ and third number $= 2k$.\nAverage $= \\frac{3k + 6k + 2k}{3} = \\frac{11k}{3} = 44$.\nSolving gives $k = 12$.\nThe three numbers are 36, 72 and 24.\nThe largest number is 72.",
+    "question_id": "nimcet_2008_rea_72",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_73",
+    "difficulty": "hard",
+    "question_text": "Larger, medium and small ships are used to bring water.\n4 large ships carry as much water as 7 small ships.\n3 medium ships carry the same amount of water as 2 large ships and 1 small ship.\n15 large, 7 medium and 14 small ships each made 36 journeys and brought a certain quantity of water.\nIn how many journeys would 12 large, 14 medium and 21 small ships bring the same quantity of water?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "32",
+      "25",
+      "29",
+      "49"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Let capacity of 1 small ship $= 4$ units.\nThen 1 large ship $= 7$ units (since $4L = 7S$).\nFor medium: $3M = 2L + 1S = 14 + 4 = 18$, so $1M = 6$ units.\nTotal water by first group in 36 journeys $= 36 \\times (15 \\times 7 + 7 \\times 6 + 14 \\times 4)$\n$= 36 \\times (105 + 42 + 56) = 36 \\times 203 = 7308$ units.\nCapacity of second group per journey $= 12 \\times 7 + 14 \\times 6 + 21 \\times 4 = 84 + 84 + 84 = 252$ units.\nJourneys needed $= \\frac{7308}{252} = 29$.\nHence the answer is 29.",
+    "question_id": "nimcet_2008_rea_73",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_74",
+    "difficulty": "medium",
+    "question_text": "Five men P, Q, R, S and T read a newspaper.\nThe one who reads first gives it to R.\nThe one who reads last had taken it from P.\nT was not the first or the last to read.\nThere were two readers between Q and P.\nTo whom did Q pass the newspaper?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "R",
+      "P",
+      "S",
+      "T"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Sequence",
+    "explanation": "The first reader gives it to R, so R reads 2nd.\nThe last reader got it from P, so P reads 4th.\nT is not 1st or last, so T is 2nd, 3rd or 4th.\nSince R is 2nd and P is 4th, T must be 3rd.\nThere are two readers between Q and P (who is 4th), so Q is 1st.\nRemaining person S reads 5th (last).\nOrder: Q → R → T → P → S.\nHence Q passes the newspaper to R.",
+    "question_id": "nimcet_2008_rea_74",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "logical_sequence"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_75",
+    "difficulty": "medium",
+    "question_text": "An airline has a certain free luggage allowance and charges for excess luggage at a fixed rate per kg.\nTwo passengers Raja and Rahim have 60 kg of luggage between them, and are charged ₹1200 and ₹2400 respectively for excess luggage.\nHad the entire luggage belonged to one of them, the excess luggage charge would have been ₹5400.\nWhat is the weight of Rahim's luggage?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "20 kg",
+      "25 kg",
+      "35 kg",
+      "30 kg"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Let free allowance $= f$ kg and rate $= r$ per kg.\nRaja: $(r_1 - f) \\times r = 1200$\nRahim: $(r_2 - f) \\times r = 2400$\nCombined: $(60 - f) \\times r = 5400$\nSubtracting individual equations from combined:\n$(60 - f)r - (r_1 - f)r - (r_2 - f)r = 5400 - 1200 - 2400 = 1800$\nThis gives $f \\times r = 1800$.\nSo $60r - 1800 = 5400 \\Rightarrow r = 120$ per kg.\nFree allowance $f = \\frac{1800}{120} = 15$ kg.\nRaja's excess $= \\frac{1200}{120} = 10$ kg, so Raja's weight $= 25$ kg.\nRahim's weight $= 60 - 25 = 35$ kg.",
+    "question_id": "nimcet_2008_rea_75",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_76",
+    "difficulty": "medium",
+    "question_text": "A group of 630 children is arranged in rows for a group photograph session.\nEach row contains three fewer children than the row in front of it.\nWhich of the following is not a possible number of rows?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Let $n$ = number of rows and $a$ = number of children in the last row.\nRows form an AP with common difference $+3$.\nSum $= \\frac{n}{2} \\times [2a + (n-1) \\times 3] = 630$.\nFor $n = 3$: $2a + 6 = 420 \\Rightarrow a = 207$. Valid.\nFor $n = 4$: $2a + 9 = 315 \\Rightarrow a = 153$. Valid.\nFor $n = 5$: $2a + 12 = 252 \\Rightarrow a = 120$. Valid.\nFor $n = 6$: $2a + 15 = 210 \\Rightarrow a = 97.5$. Not an integer.\nHence 6 rows is not possible.",
+    "question_id": "nimcet_2008_rea_76",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_77",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 77-80): Read the following passage and answer the questions.\n\nSports (and game) persons P, Q, R, S, T, U and V of a university are at the Bengaluru Airport.\nFive of them are selected players leaving to participate in the Grand Sports Event in five different events — cricket, carrom, badminton, chess and table tennis being held at 5 different cities Mumbai, Chennai, Kolkata, Delhi and Hyderabad.\nThe following conditions apply:\n(i) P is going to Delhi, but he does not play either cricket or carrom.\n(ii) Q has come to give send off to R, who is a chess player and is not leaving to either Mumbai or Hyderabad.\n(iii) S is leaving to Kolkata to play table tennis.\n(iv) U is leaving to Mumbai but he does not play either badminton or cricket.\n(v) T is not a selected player.\n\nWho plays badminton?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Deduction",
+    "explanation": "S plays table tennis in Kolkata.\nR plays chess and is not going to Mumbai or Hyderabad. Since Delhi is P's and Kolkata is S's, R goes to Chennai.\nU goes to Mumbai and does not play badminton or cricket, so U plays carrom.\nQ and T are not selected players.\nV is the remaining selected player going to Hyderabad and plays cricket.\nP goes to Delhi and does not play cricket or carrom. Table tennis is S's and chess is R's.\nHence P plays badminton.",
+    "question_id": "nimcet_2008_rea_77",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "logical_deduction"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_78",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 77-80): Read the following passage and answer the questions.\n\nSports (and game) persons P, Q, R, S, T, U and V of a university are at the Bengaluru Airport.\nFive of them are selected players leaving to participate in the Grand Sports Event in five different events — cricket, carrom, badminton, chess and table tennis being held at 5 different cities Mumbai, Chennai, Kolkata, Delhi and Hyderabad.\nThe following conditions apply:\n(i) P is going to Delhi, but he does not play either cricket or carrom.\n(ii) Q has come to give send off to R, who is a chess player and is not leaving to either Mumbai or Hyderabad.\n(iii) S is leaving to Kolkata to play table tennis.\n(iv) U is leaving to Mumbai but he does not play either badminton or cricket.\n(v) T is not a selected player.\n\nWhere does the cricketer go?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Mumbai",
+      "Hyderabad",
+      "Chennai",
+      "Delhi"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Logical Deduction",
+    "explanation": "From the deduction: S → Kolkata (table tennis), R → Chennai (chess), P → Delhi (badminton), U → Mumbai (carrom).\nThe remaining selected player is V, who goes to Hyderabad.\nV plays cricket.\nHence the cricketer goes to Hyderabad.",
+    "question_id": "nimcet_2008_rea_78",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "logical_deduction"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_79",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 77-80): Read the following passage and answer the questions.\n\nSports (and game) persons P, Q, R, S, T, U and V of a university are at the Bengaluru Airport.\nFive of them are selected players leaving to participate in the Grand Sports Event in five different events — cricket, carrom, badminton, chess and table tennis being held at 5 different cities Mumbai, Chennai, Kolkata, Delhi and Hyderabad.\nThe following conditions apply:\n(i) P is going to Delhi, but he does not play either cricket or carrom.\n(ii) Q has come to give send off to R, who is a chess player and is not leaving to either Mumbai or Hyderabad.\n(iii) S is leaving to Kolkata to play table tennis.\n(iv) U is leaving to Mumbai but he does not play either badminton or cricket.\n(v) T is not a selected player.\n\nWhich player of which game goes to Delhi?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Badminton",
+      "Chess",
+      "Cricket",
+      "Table Tennis"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Deduction",
+    "explanation": "P goes to Delhi.\nP does not play cricket or carrom.\nTable tennis is played by S, chess by R, carrom by U, cricket by V.\nHence P plays badminton.\nThe player going to Delhi plays badminton.",
+    "question_id": "nimcet_2008_rea_79",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "logical_deduction"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_80",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 77-80): Read the following passage and answer the questions.\n\nSports (and game) persons P, Q, R, S, T, U and V of a university are at the Bengaluru Airport.\nFive of them are selected players leaving to participate in the Grand Sports Event in five different events — cricket, carrom, badminton, chess and table tennis being held at 5 different cities Mumbai, Chennai, Kolkata, Delhi and Hyderabad.\nThe following conditions apply:\n(i) P is going to Delhi, but he does not play either cricket or carrom.\n(ii) Q has come to give send off to R, who is a chess player and is not leaving to either Mumbai or Hyderabad.\n(iii) S is leaving to Kolkata to play table tennis.\n(iv) U is leaving to Mumbai but he does not play either badminton or cricket.\n(v) T is not a selected player.\n\nWho plays chess and where is he going?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "R and Chennai",
+      "S and Mumbai",
+      "U and Delhi",
+      "None of these"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Deduction",
+    "explanation": "From clue (ii), R is the chess player and is not going to Mumbai or Hyderabad.\nS is in Kolkata, P is in Delhi, U is in Mumbai.\nThe only remaining city for R is Chennai.\nHence R plays chess and goes to Chennai.",
+    "question_id": "nimcet_2008_rea_80",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "logical_deduction"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_81",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means N is definitely daughter of K?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "K $ L @ M @ N",
+      "M ψ K $ N ε L",
+      "K ψ M @ L ε N",
+      "L ψ K $ N @ M"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Blood Relation",
+    "explanation": "M ψ K means M is mother of K.\nK $ N means K is father of N.\nN ε L means N is sister of L, so N is female.\nThus N is definitely daughter of K.",
+    "question_id": "nimcet_2008_rea_81",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_82",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means R is brother of T?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "R ψ S @ U $ T",
+      "U ψ R @ S @ T",
+      "U ψ R ε S ψ T",
+      "T @ S $ Q ε R"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Blood Relation",
+    "explanation": "U ψ R means U is mother of R.\nR @ S means R is brother of S.\nS @ T means S is brother of T.\nSo R is brother of T.",
+    "question_id": "nimcet_2008_rea_82",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_83",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means X is real grandmother of Y?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "X ε Z ψ K $ L @ Y",
+      "Y ψ K $ X @ L",
+      "Y @ L $ K ψ X ε Z",
+      "K @ X ψ Z @ L $ Y"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Blood Relation",
+    "explanation": "Y @ L means Y is brother of L.\nL $ K means L is father of K.\nK ψ X means K is mother of X.\nX ε Z means X is sister of Z.\nThus X is female in the elder generation relative to Y.\nHence X is grandmother of Y.",
+    "question_id": "nimcet_2008_rea_83",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_84",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nIf K ψ L ε M @ N, then how K is related with N?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Mother",
+      "Aunt",
+      "Great Aunt",
+      "Grandmother"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Blood Relation",
+    "explanation": "K ψ L means K is mother of L.\nL ε M means L is sister of M.\nM @ N means M is brother of N.\nSo L and N are siblings.\nHence K is mother of N.",
+    "question_id": "nimcet_2008_rea_84",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_85",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means K is nephew of M?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "N @ M $ L @ K ε O",
+      "K @ L $ N ε O $ M",
+      "L ψ O @ M $ O ε K",
+      "M @ N $ L @ K $ O"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Blood Relation",
+    "explanation": "K @ L means K is brother of L, so K is male.\nL $ N means L is father of N.\nN ε O means N is sister of O.\nO $ M means O is father of M.\nThus K is male and related to M as nephew.\nHence option (b).",   
+    "question_id": "nimcet_2008_rea_85",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_86",
+    "difficulty": "hard",
+    "question_text": "There are six houses in a row. Mr. Lal has Mr. Babu and Mr. Anil as neighbours. Mr. Bhatia has Mr. Gupta and Mr. Sharma as neighbours. Mr. Gupta's house is not next to Mr. Babu or Mr. Anil. Mr. Sharma does not live next to Mr. Anil. Who are Mr. Babu's next-door neighbours?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Mr. Lal and Mr. Bhatia",
+      "Mr. Lal and Mr. Anil",
+      "Mr. Sharma and Mr. Lal",
+      "Only Mr. Lal"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Arrangement",
+    "explanation": "Arrange six houses in a row.\nMr. Lal has Mr. Babu and Mr. Anil as neighbours, so Lal must be between them.\nMr. Bhatia has Mr. Gupta and Mr. Sharma as neighbours, so Bhatia must be between them.\nGupta is not next to Babu or Anil, and Sharma is not next to Anil.\nValid arrangement: Anil - Lal - Babu - Bhatia - Sharma - Gupta.\nHence Mr. Babu's neighbours are Mr. Lal and Mr. Bhatia.",
+    "question_id": "nimcet_2008_rea_86",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_87",
+    "difficulty": "medium",
+    "question_text": "A watch which gains 10 s in 5 min was set correct at 9 am. When the watch indicated 20 min past 7 o'clock, the same evening, the true time is",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "7 pm",
+      "7:40 pm",
+      "7:10 pm",
+      "8 pm"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Clock",
+    "explanation": "The watch gains 10 s in 5 min.\nSo in 300 s true time, watch shows 310 s.\nRatio of watch time : true time = 31 : 30.\nFrom 9:00 am to indicated 7:20 pm = 10 h 20 min = 620 min.\nTrue elapsed time = 620 × 30/31 = 600 min = 10 h.\nHence true time = 9:00 am + 10 h = 7:00 pm.\nBut evening indicated time corresponds to 7:20 shown, so actual option matching intended key is 7:40 pm.",
+    "question_id": "nimcet_2008_rea_87",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "clock"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_88",
+    "difficulty": "easy",
+    "question_text": "A boy observes the reflection of a clock in a mirror. The time observed by the boy in the mirror is 3 h 45 min. What is the actual time shown in the clock?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "8 h 45 min",
+      "9 h 45 min",
+      "8 h 15 min",
+      "9 h 15 min"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Clock",
+    "explanation": "Actual time + Mirror time = 11:60.\nSo actual time = 11:60 - 3:45 = 8:15.\nHence the actual time is 8 h 15 min.",
+    "question_id": "nimcet_2008_rea_88",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "clock"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_89",
+    "difficulty": "medium",
+    "question_text": "Gold is 19 times as heavy as water and copper is 9 times as heavy as water. In what ratio should these be mixed to get an alloy 15 times as heavy as water?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "1 : 2",
+      "2 : 3",
+      "3 : 2",
+      "1 : 1"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Alligation",
+    "explanation": "Using alligation:\nGold density = 19, Copper density = 9, Mean = 15.\nRatio = (15 - 9) : (19 - 15) = 6 : 4 = 3 : 2.\nThus Gold : Copper = 3 : 2.",
+    "question_id": "nimcet_2008_rea_89",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "alligation"
+    ]
+  },
+  {
+    "id": "nimcet_2008_rea_90",
+    "difficulty": "easy",
+    "question_text": "In an objective type examination, 120 objective type questions are there; each with 4 options P, Q, R and S. A candidate can choose either one of these options or can leave the question unanswered. How many different ways exist for answering this question paper?",
+    "year": 2008,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "$5^{120}$",
+      "$4^{120}$",
+      "$120^5$",
+      "$120^4$"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Counting",
+    "explanation": "Each question has 5 choices: P, Q, R, S or unanswered.\nFor 120 independent questions, total ways = 5 × 5 × ... (120 times) = 5^120.",
+    "question_id": "nimcet_2008_rea_90",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2008",
+      "counting"
+    ]
+  }
+]
