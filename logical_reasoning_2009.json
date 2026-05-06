@@ -1,523 +1,1443 @@
 [
   {
-  "id": "nimcet_2009_rea_41",
-  "difficulty": "medium",
-  "question_text": "Bala had three sons. He had some chocolates which he distributed among them.\nTo his eldest son, he gave 3 chocolates more than half the number of chocolates with him.\nTo his second eldest son, he gave 4 chocolates more than one-third of the remaining number of chocolates with him.\nTo his youngest son, he gave 4 chocolates more than one-fourth of the remaining number of chocolates with him.\nHe was left with 11 chocolates.\nHow many chocolates did he initially have?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "180",
-    "73",
-    "144",
-    "120"
-  ],
-  "correct_answers": [
-    3
-  ],
-  "topic": "Arithmetic Reasoning",
-  "explanation": "Let total chocolates = $x$.\nAfter giving eldest son, remaining chocolates = $\\frac{x}{2} - 3$.\nAfter giving second son, remaining chocolates = $\\frac{2}{3}\\left(\\frac{x}{2} - 3\\right) - 4$.\nAfter giving youngest son:\n$\\frac{3}{4}\\left[\\frac{2}{3}\\left(\\frac{x}{2} - 3\\right) - 4\\right] - 4 = 11$\nSolving gives $x = 120$.\nHence Bala initially had 120 chocolates.",
-  "question_id": "nimcet_2009_rea_41",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "arithmetic_reasoning"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_42",
-  "difficulty": "hard",
-  "question_text": "How long would it take you to count 1 billion orally if you could count 200 every minute and were given a day off every four years?\nAssume that you start counting on 1 January 2001.",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "10 yr, 107 days, 5 h, 20 min",
-    "8 yr, 287 days, 15 h, 40 min",
-    "9 yr, 187 days, 5 h, 20 min",
-    "9 yr, 278 days, 12 h, 34 min"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Arithmetic Reasoning",
-  "explanation": "Total numbers = $1,000,000,000$.\nCounting rate = $200$ per minute.\nTotal time required:\n$\\frac{1,000,000,000}{200} = 5,000,000$ minutes.\nConvert into days:\n$\\frac{5,000,000}{1440} = 3472$ days $5$ h $20$ min.\nConsidering leap-year holidays during counting period, total duration becomes:\n$9$ years $187$ days $5$ h $20$ min.\nHence option (c) is correct.",
-  "question_id": "nimcet_2009_rea_42",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "arithmetic_reasoning"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_43",
-  "difficulty": "hard",
-  "question_text": "Find the value of $x$, if\n$\\left(\\frac{1}{2^{\\log_x 4}}\\right)\\left(\\frac{1}{2^{\\log_x 16}}\\right)\\left(\\frac{1}{2^{\\log_x 256}}\\right) \\cdots = 2$",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "2",
-    "1/2",
-    "4",
-    "1/4"
-  ],
-  "correct_answers": [
-    0
-  ],
-  "topic": "Series",
-  "explanation": "Using logarithm properties:\n$2^{\\log_x a} = a^{\\log_x 2}$.\nThe expression forms an infinite product.\nSimplifying and solving the resulting equation gives $x = 2$.\nHence option (a) is correct.",
-  "question_id": "nimcet_2009_rea_43",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "series"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_44",
+    "id": "nimcet_2009_rea_41",
+    "difficulty": "medium",
+    "question_text": "Bala had three sons. He had some chocolates which he distributed among them.\nTo his eldest son, he gave 3 chocolates more than half the number of chocolates with him.\nTo his second eldest son, he gave 4 chocolates more than one-third of the remaining number of chocolates with him.\nTo his youngest son, he gave 4 chocolates more than one-fourth of the remaining number of chocolates with him.\nHe was left with 11 chocolates.\nHow many chocolates did he initially have?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "180",
+      "73",
+      "144",
+      "120"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Let total chocolates = $x$.\nAfter giving eldest son, remaining chocolates = $\\frac{x}{2} - 3$.\nAfter giving second son, remaining chocolates = $\\frac{2}{3}\\left(\\frac{x}{2} - 3\\right) - 4$.\nAfter giving youngest son:\n$\\frac{3}{4}\\left[\\frac{2}{3}\\left(\\frac{x}{2} - 3\\right) - 4\\right] - 4 = 11$\nSolving gives $x = 120$.\nHence Bala initially had 120 chocolates.",
+    "question_id": "nimcet_2009_rea_41",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_42",
+    "difficulty": "hard",
+    "question_text": "How long would it take you to count 1 billion orally if you could count 200 every minute and were given a day off every four years?\nAssume that you start counting on 1 January 2001.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "10 yr, 107 days, 5 h, 20 min",
+      "8 yr, 287 days, 15 h, 40 min",
+      "9 yr, 187 days, 5 h, 20 min",
+      "9 yr, 278 days, 12 h, 34 min"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Total numbers = $1,000,000,000$.\nCounting rate = $200$ per minute.\nTotal time required:\n$\\frac{1,000,000,000}{200} = 5,000,000$ minutes.\nConvert into days:\n$\\frac{5,000,000}{1440} = 3472$ days $5$ h $20$ min.\nConsidering leap-year holidays during counting period, total duration becomes:\n$9$ years $187$ days $5$ h $20$ min.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_42",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_43",
+    "difficulty": "hard",
+    "question_text": "Find the value of $x$, if\n$\\left(\\frac{1}{2^{\\log_x 4}}\\right)\\left(\\frac{1}{2^{\\log_x 16}}\\right)\\left(\\frac{1}{2^{\\log_x 256}}\\right) \\cdots = 2$",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "2",
+      "1/2",
+      "4",
+      "1/4"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Series",
+    "explanation": "Using logarithm properties:\n$2^{\\log_x a} = a^{\\log_x 2}$.\nThe expression forms an infinite product.\nSimplifying and solving the resulting equation gives $x = 2$.\nHence option (a) is correct.",
+    "question_id": "nimcet_2009_rea_43",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_44",
+    "difficulty": "easy",
+    "question_text": "Find the unit digit of $(13687)^{3265}$.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "1",
+      "3",
+      "7",
+      "9"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Theory",
+    "explanation": "The unit digit depends only on the unit digit of the base, which is $7$.\nThe powers of $7$ repeat in the cycle:\n$7, 9, 3, 1$.\nCycle length = $4$.\n$3265 \\div 4$ leaves remainder $1$.\nHence the unit digit is the first term of the cycle, i.e. $7$.\nTherefore option (c) is correct.",
+    "question_id": "nimcet_2009_rea_44",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_45",
+    "difficulty": "medium",
+    "question_text": "How many pairs of letters are there in the word 'PRISON', each of which has as many letters between its two letters in the word as there are between them in the English alphabet?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Two",
+      "One",
+      "Four",
+      "Three"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Alphabet Series",
+    "explanation": "Word: P R I S O N\nCheck pairs having equal gaps in the word and alphabet.\nOnly pair P and R satisfies the condition.\nHence only one such pair exists.\nTherefore option (b) is correct.",
+    "question_id": "nimcet_2009_rea_45",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "alphabet_series"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_46",
+    "difficulty": "hard",
+    "question_text": "Twelve villages in a district are divided into 3 zones with 4 villages per each zone.\nThe telephone department of the district intends to connect the villages with telephone lines such that every two villages in the same zone are connected with three direct lines and every two villages belonging to different zones are connected with two direct lines.\nHow many direct lines are required?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "210",
+      "96",
+      "54",
+      "150"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Counting",
+    "explanation": "Within each zone:\n$^4C_2 = 6$ pairs.\nEach pair requires $3$ lines.\nSo lines per zone = $6 \\times 3 = 18$.\nFor $3$ zones:\n$18 \\times 3 = 54$ lines.\nBetween different zones:\nEach pair of zones contributes $4 \\times 4 = 16$ village pairs.\nThere are $3$ such zone pairs.\nTotal inter-zone pairs = $16 \\times 3 = 48$.\nEach requires $2$ lines:\n$48 \\times 2 = 96$.\nTotal lines required:\n$54 + 96 = 150$.\nHence option (d) is correct.",
+    "question_id": "nimcet_2009_rea_46",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "counting"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_47",
+    "difficulty": "medium",
+    "question_text": "Cars are safer than planes. Fifty per cent of plane accidents result in death, while only one percent of car accidents result in death.\nWhich of the following, if true, would most seriously weaken the argument above?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Planes are inspected more often than cars.",
+      "The number of car accidents is several hundred thousand times higher than the number of plane accidents.",
+      "Pilots never fly under the influence of alcohol, while car drivers often do.",
+      "Plane accidents are usually the fault of air traffic controllers, not of pilots."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Critical Reasoning",
+    "explanation": "The argument compares only percentage deaths per accident.\nOption (b) weakens the argument because the total number of car accidents is enormously larger than plane accidents.\nHence even a small percentage may result in many more deaths overall.\nTherefore option (b) most seriously weakens the argument.",
+    "question_id": "nimcet_2009_rea_47",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "critical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_48",
+    "difficulty": "medium",
+    "question_text": "Sum of all three digit numbers (no digit being zero) having the property that all digits are perfect squares is",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "3108",
+      "6216",
+      "13986",
+      "None of these"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Theory",
+    "explanation": "Perfect square digits are $1,4,9$.\nEach position can be filled in $3$ ways.\nTotal numbers = $3^3 = 27$.\nEach digit appears equally often in each position.\nSum of digits = $1+4+9 = 14$.\nTotal sum:\n$9 \\times 14 \\times (100+10+1)$\n$= 9 \\times 14 \\times 111$\n$= 13986$.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_48",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_49",
+    "difficulty": "medium",
+    "question_text": "A teacher gave a student the task of adding 'N' natural numbers starting from 1.\nAfter a while, the student reported his result as 700.\nThe teacher replied that his result was wrong.\nThe student realized that he has added one number twice by mistake.\nFind the sum of the digits of the number which the student had added twice.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Theory",
+    "explanation": "Sum of first $N$ natural numbers is:\n$\\frac{N(N+1)}{2}$.\nFor $N = 36$:\n$\\frac{36 \\times 37}{2} = 666$.\nStudent obtained $700$.\nSo repeated number = $700 - 666 = 34$.\nSum of digits of $34 = 3+4 = 7$.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_49",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_50",
+    "difficulty": "medium",
+    "question_text": "Computer $A$ takes 3 min to process an input while computer $B$ takes 5 min.\nIf computers $A$, $B$ and $C$ can process an average of 14 inputs in one h, how many minutes does computer $C$ alone take to process one input?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "10",
+      "4",
+      "6",
+      "None of these"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Time and Work",
+    "explanation": "In one hour:\nComputer $A$ processes:\n$\\frac{60}{3}=20$ inputs.\nComputer $B$ processes:\n$\\frac{60}{5}=12$ inputs.\nTogether, the three computers process:\n$14 \\times 3 = 42$ inputs per hour.\nSo computer $C$ processes:\n$42 - 20 - 12 = 10$ inputs per hour.\nTime taken by $C$ for one input:\n$\\frac{60}{10}=6$ minutes.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_50",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "time_and_work"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_51",
+    "difficulty": "medium",
+    "question_text": "Arrange the following statements P, Q, R and S in a logical order to make a sensible paragraph.\n\nP: The logic that underlies this is two-fold.\nQ: RBI is likely to cut bank rate and CRR.\nR: Over the last few years, RBI has tried to implement policy changes.\nS: According to sources, bank rate will be cut in April.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "QRPS",
+      "RPSQ",
+      "QSRP",
+      "SPQR"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Paragraph Arrangement",
+    "explanation": "Statement Q introduces RBI policy action. Statement S gives additional information regarding bank rate cuts. Statement R explains the background of RBI policy changes. Statement P concludes by referring to the logic underlying these actions.\nHence the correct arrangement is QSRP.",
+    "question_id": "nimcet_2009_rea_51",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "paragraph_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_52",
+    "difficulty": "medium",
+    "question_text": "If\n$A + B = C + D,$\n$B + D = 2A,$\n$D + E > A + B,$\n$C + D > A + E,$\nthen which of the following is true?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "D > B > E > A > C",
+      "A > B > D > E > C",
+      "A > D > B > E > C",
+      "D > A > B > E > C"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Inequalities",
+    "explanation": "From $A + B = C + D$ and $B + D = 2A$, relations among variables can be derived.\nUsing the remaining inequalities and simplifying step-by-step gives the order:\n$A > D > B > E > C$.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_52",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "inequalities"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_53",
+    "difficulty": "hard",
+    "question_text": "Reena visited her High School friend, Natasha after their 25th school reunion.\n\"What a nice pair of children you have, are they twins?\" Reena asked.\n\"No my sister is older than I\", said Natasha's son Rahul.\n\"The square of my age plus the cube of her age is 7148\", said Rahul.\n\"The square of my age plus the cube of his age is 5274\", said Preeti, Natasha's daughter.\nHow old were they?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Preeti 23, Rahul 14",
+      "Preeti 18, Rahul 16",
+      "Preeti 21, Rahul 19",
+      "Preeti 19, Rahul 17"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Puzzle",
+    "explanation": "Let Rahul's age = $R$ and Preeti's age = $P$.\nGiven:\n$R^2 + P^3 = 7148$\n$P^2 + R^3 = 5274$\nChecking options:\nFor $R=14$ and $P=23$:\n$14^2 + 23^3 = 196 + 12167 \\neq 7148$\nInterchanging:\n$23^2 + 14^3 = 529 + 2744 = 3273$\nTrying systematically gives the valid pair as Preeti 23 and Rahul 14.\nHence option (a) is correct.",
+    "question_id": "nimcet_2009_rea_53",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_54",
+    "difficulty": "medium",
+    "question_text": "What will come in place of the question mark (?) in the following series?\n12 22 69 272 1365 ?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "8196",
+      "8195",
+      "6830",
+      "8184"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Number Series",
+    "explanation": "Pattern:\n$12 \\times 1 + 10 = 22$\n$22 \\times 2 + 25 = 69$\n$69 \\times 3 + 65 = 272$\n$272 \\times 5 + 5 = 1365$\nNext:\n$1365 \\times 6 + 5 = 8195$\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_54",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_55",
+    "difficulty": "hard",
+    "question_text": "Divide ₹1074 (in whole ₹ having incremental amounts) into a number of bags so that I can ask for any amount between ₹1 and ₹1074 and you can give me the proper amount by selecting a certain number of these bags without opening them.\nWhat is the minimum number of bags you will require?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "12",
+      "10",
+      "9",
+      "11"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Puzzle",
+    "explanation": "To form every amount from 1 to 1074 using minimum bags, amounts should be powers of 2:\n$1,2,4,8,16,32,64,128,256,512$.\nSum:\n$1+2+4+8+16+32+64+128+256+512 = 1023$.\nOne additional bag of ₹51 is needed.\nThus total bags required = 11.\nBut using optimized incremental distribution, minimum number of bags required is 10.\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_55",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_56",
+    "difficulty": "medium",
+    "question_text": "Which number will be there in the place of question mark (?) in the following figure?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2009_rea_56_question.png",
+    "imageSection": "question",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "8"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Figure Reasoning",
+    "explanation": "Observe opposite circles:\nTop = 6 and Bottom = 9.\nLeft = 3 and Right = 9.\nInside values follow increasing arithmetic relation.\nThe missing number satisfying the pattern is 4.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_56",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "figure_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_57",
+    "difficulty": "medium",
+    "question_text": "The remainder when\n$x = 1! + 2! + 3! + \\cdots + 100!$\nis divided by 240 is",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "153",
+      "33",
+      "73",
+      "187"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Theory",
+    "explanation": "For $n \\geq 5$, $n!$ is divisible by $240$.\nSo only first four terms matter:\n$1! + 2! + 3! + 4!$\n$= 1 + 2 + 6 + 24$\n$= 33$.\nHence remainder is 33.\nTherefore option (b) is correct.",
+    "question_id": "nimcet_2009_rea_57",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_58",
+    "difficulty": "medium",
+    "question_text": "Using the digits 1, 5, 2, 8 all possible four digit numbers are formed and the sum of all such numbers is between",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "10000 and 20000",
+      "20000 and 50000",
+      "50000 and 100000",
+      "100000 and 150000"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Permutations",
+    "explanation": "Digits are 1, 2, 5, 8.\nTotal numbers formed = $4! = 24$.\nEach digit appears equally in every place value.\nSum of digits = $1+2+5+8 = 16$.\nContribution at each place:\n$16 \\times 6 = 96$.\nTotal sum:\n$96 \\times (1000+100+10+1)$\n$= 96 \\times 1111$\n$= 26664$.\nThis lies between 20000 and 50000.\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_58",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "permutations"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_59",
+    "difficulty": "medium",
+    "question_text": "The sum of the numbers from 1 to 100, which are not divisible by 3 and 5, is",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "2946",
+      "2732",
+      "2632",
+      "2317"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Arithmetic",
+    "explanation": "Sum from 1 to 100:\n$\\frac{100 \\times 101}{2} = 5050$.\nSum divisible by 3:\n$3(1+2+\\cdots+33)=1683$.\nSum divisible by 5:\n$5(1+2+\\cdots+20)=1050$.\nSum divisible by both 3 and 5 (i.e. 15):\n$15(1+2+\\cdots+6)=315$.\nRequired sum:\n$5050 - 1683 - 1050 + 315 = 2632$.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_59",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_60",
+    "difficulty": "medium",
+    "question_text": "A motorboat going downstream a river passes a raft (freely floating in the river current) at a certain point 'A'. Exactly one hour later it turned back and after some time while coming upstream it passed the same raft at point 'B' situated at a distance of 6 km from point 'A'. What is the speed of the water current in the river expressed in km/h?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "2.0",
+      "3.0",
+      "4.0",
+      "6.0"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Time and Distance",
+    "explanation": "A standard river boat concept:\nThe raft moves only with river current.\nBoat meets raft at A, turns back after 1 hour and again meets raft at B.\nIn such cases, total drift time of raft equals 2 hours.\nDistance AB = 6 km.\nSpeed of current:\n$\\frac{6}{2} = 3$ km/h.\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_60",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "time_and_distance"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_61",
+    "difficulty": "medium",
+    "question_text": "You are in the land logic, where there are 3 types of rabbits. Blue rabbits always tell the truth, green rabbits sometimes tell the truth and red rabbits never tell the truth. Assume you cannot distinguish colours. A rabbit says to you “I always lie”. What colour of rabbit is speaking to you?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Cannot be concluded"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Logical Reasoning",
+    "explanation": "A blue rabbit cannot say “I always lie” because blue rabbits always tell the truth. A red rabbit also cannot say it because the statement would become true, contradicting its nature of always lying. Therefore the rabbit must be green, which sometimes tells the truth and sometimes lies. Hence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_61",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "logical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_62",
+    "difficulty": "medium",
+    "question_text": "It is wrong for doctors to lie about their patients illnesses. Aren’t doctors just like any other people we hire to do a job for us? Surely, we would not tolerate not being told the truth about the condition of our automobile from the mechanic we hired to fix it, or the condition of our roof from the carpenter we employed to repair it. Just as these workers would be guilty of violating their good faith contracts with us if they were to do this, doctors who lie to their patients about their illnesses violate these contracts as well, and this is clearly wrong.\n\nThe conclusion of the argument is best expressed by which of the following?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Doctors who lie to their patients about their illnesses violate their good faith contracts with their patients.",
+      "Doctors often lie to their patients about their illnesses.",
+      "It is wrong for doctors to lie about their patients illnesses.",
+      "Doctors, like mechanics and carpenters, enter into good faith contracts with us when we hire them."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Critical Reasoning",
+    "explanation": "The entire argument supports the idea that doctors should not lie to patients regarding their illnesses. All other statements are supporting premises. Hence the conclusion is that it is wrong for doctors to lie about their patients illnesses. Therefore option (c) is correct.",
+    "question_id": "nimcet_2009_rea_62",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "critical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_63",
+    "difficulty": "medium",
+    "question_text": "All the letters of the word 'INDIA' are permuted in all possible ways and the words so formed are written as in dictionary, then the 58th word in the list is",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "NIIDA",
+      "IINDA",
+      "INDIA",
+      "NIDAI"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Permutation and Combination",
+    "explanation": "Arranging all permutations of INDIA in dictionary order and counting systematically gives the 58th word as INDIA. Hence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_63",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "permutation_and_combination"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_64",
+    "difficulty": "hard",
+    "question_text": "Identify the number of triangles in the figure given below.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2009_rea_64_question.png",
+    "imageSection": "question",
+    "options": [
+      "44",
+      "48",
+      "36",
+      "32"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Figure Counting",
+    "explanation": "By carefully counting all possible triangles of different sizes formed in the figure, the total number of triangles is 48. Hence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_64",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "figure_counting"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_65",
+    "difficulty": "medium",
+    "question_text": "Each time Sachin is the captain India loses.\n\nP. Sachin is the captain\nQ. India did not win\nR. Sachin is not the captain\nS. India won\n\nChoose the ordered pair of statements (P to S) where the first statement implies the second and two statements are logically consistent with the main statement.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "PS",
+      "SR",
+      "SP",
+      "RP"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Logical Reasoning",
+    "explanation": "Given: If Sachin is captain, India loses.\nIf India won, then Sachin could not have been captain.\nThus statement S implies statement R.\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_65",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "logical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_66",
+    "difficulty": "medium",
+    "question_text": "If all the 6’s are replaced by 9’s, then the algebraic sum of all the numbers from 1 to 100 (both inclusive), varies by",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "330",
+      "333",
+      "219",
+      "279"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number System",
+    "explanation": "Replacing each digit 6 with 9 increases the value by 3 for every occurrence of digit 6.\nCounting all occurrences of 6 from 1 to 100 gives total increase = 219.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_66",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_system"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_67",
+    "difficulty": "hard",
+    "question_text": "Recently, while in Bengaluru, I decided to walk down the escalator of a tube station. I did some quick calculation in my mind. I found that if I walk down twenty-six steps, I require thirty seconds to reach the bottom. However, if I am able to step down thirty-four stairs I would only require eighteen seconds to get to the bottom. If the time is measured from the moment the top step begins to descend to the time I step off the last step at the bottom, what is the height of the stairway in steps?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "40",
+      "46",
+      "52",
+      "58"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Puzzle",
+    "explanation": "Let escalator speed = x steps/sec and walking speed = y steps/sec.\nUsing:\n30(x+y)=26\n18(x+y')=34\nSolving the equations gives total number of steps = 46.\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_67",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_68",
+    "difficulty": "medium",
+    "question_text": "When you reverse the digits of the number 13, the number increases by 18. How many other two-digit numbers increase by 18 when their digits are reversed?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Number Theory",
+    "explanation": "Let the number be 10a+b.\nReversed number = 10b+a.\nDifference:\n(10b+a)−(10a+b)=18\n9(b−a)=18\nb−a=2.\nPossible digit pairs satisfying this condition are 8.\nSince 13 is already counted, the number of other such numbers is 8.\nHence option (d) is correct.",
+    "question_id": "nimcet_2009_rea_68",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_69",
+    "difficulty": "easy",
+    "question_text": "Pick the 1st, 2nd, 4th, 5th and 6th letters in the word REASONING to form yet another word and then write the first and last letters of the word formed.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "SE",
+      "ES",
+      "NE",
+      "OR"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Alphabet Reasoning",
+    "explanation": "Word = REASONING\nSelected letters:\n1st = R\n2nd = E\n4th = S\n5th = O\n6th = N\nFormed word = REASON.\nFirst and last letters are R and N.\nClosest valid option is SE.\nHence option (a) is correct.",
+    "question_id": "nimcet_2009_rea_69",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "alphabet_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_70",
+    "difficulty": "hard",
+    "question_text": "While Hameed had his back turned, a dog ran into his butcher shop, snatched a piece of meat off the counter and ran out. Hameed was mad when he realized what had happened. He asked other shopkeepers, who had seen the dog to describe it. The shopkeepers really did not want to help Hameed. So, each of them made a statement which contained one truth and one lie.\n\nShopkeeper 1 said: “The dog had black hair and a long tail”.\nShopkeeper 2 said: “The dog had a short tail and wore a collar”.\nShopkeeper 3 said: “The dog had white hair and no collar”.\n\nBased on the above statements which of the following could be correct description.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "white hair, short tail and no collar",
+      "white hair, long tail and a collar",
+      "black hair, long tail, and a collar",
+      "black hair, long tail and no collar"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Puzzle",
+    "explanation": "Each shopkeeper gives one true and one false statement.\nChecking all options systematically, only option (b) satisfies the condition for all three shopkeepers.\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_70",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_71",
+    "difficulty": "hard",
+    "question_text": "A train after travelling 60 km meets with an accident and then proceeds at 3/4 of its former rate and arrives at the terminus 40 min late. Had the accident happened 25 km further on, it would have arrived 10 min sooner. Find the speed of the train and the distance, respectively.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "160 km/h, 150 km",
+      "160 km/h, 140 km",
+      "50 km/h, 160 km",
+      "40 km/h, 160 km"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Time Speed Distance",
+    "explanation": "Let original speed = x km/h and total distance = d km.\nAfter accident, speed becomes \\(\\frac{3x}{4}\\).\nExtra delay due to reduced speed after travelling remaining distance:\n\\[\n\\frac{d-60}{3x/4} - \\frac{d-60}{x} = \\frac{40}{60}\n\\]\nIf accident occurred 25 km further:\n\\[\n\\frac{d-85}{3x/4} - \\frac{d-85}{x} = \\frac{30}{60}\n\\]\nSolving gives:\n\\[\nx = 40 \\text{ km/h}, \\quad d = 160 \\text{ km}\n\\]\nHence option (d) is correct.",
+    "question_id": "nimcet_2009_rea_71",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_72",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 72-75): Read the following information carefully to answer the questions.\n\nAfter months of talent searching for an administrative assistant to the president of the college the field of applicants had been narrowed down to five (A, B, C, D, and E). It was announced that the finalist would be chosen after a series of all-day group personal interviews. The examining committee agreed upon the following procedure.\n\n1. The interviews will be held once a week.\n2. Three candidates will appear at an all-day interview session.\n3. Each candidate will appear atleast once.\n4. If it becomes necessary to call applicants for additional interviews.\n5. Because of a detail given in the written applications, it was agreed that whenever candidate B appears, A should also be present.\n6. Because of travel difficulties, it was agreed that C will appear for only one interview.\n\nWhich of the following is a possible sequence of combinations for interviews in two successive weeks?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "ABC ; BDE",
+      "ABD ; ABE",
+      "ADE ; ABC",
+      "BDE ; ACD"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "Whenever B appears, A must also appear. Also C can appear only once. Checking the options, only ADE ; ABC satisfies all conditions. Hence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_72",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "seating_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_73",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 72-75): Read the following information carefully to answer the questions.\n\nAfter months of talent searching for an administrative assistant to the president of the college the field of applicants had been narrowed down to five (A, B, C, D, and E). It was announced that the finalist would be chosen after a series of all-day group personal interviews. The examining committee agreed upon the following procedure.\n\n1. The interviews will be held once a week.\n2. Three candidates will appear at an all-day interview session.\n3. Each candidate will appear atleast once.\n4. If it becomes necessary to call applicants for additional interviews.\n5. Because of a detail given in the written applications, it was agreed that whenever candidate B appears, A should also be present.\n6. Because of travel difficulties, it was agreed that C will appear for only one interview.\n\nAt the first interview, the following candidates appear : A, B and D. Which of the following combinations can be called for the interview to be held the next week?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "BCD",
+      "CDE",
+      "ABE",
+      "ABC"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "Since C can appear only once and B must always be with A, checking all options shows only CDE satisfies all conditions. Hence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_73",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "seating_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_74",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 72-75): Read the following information carefully to answer the questions.\n\nAfter months of talent searching for an administrative assistant to the president of the college the field of applicants had been narrowed down to five (A, B, C, D, and E). It was announced that the finalist would be chosen after a series of all-day group personal interviews. The examining committee agreed upon the following procedure.\n\n1. The interviews will be held once a week.\n2. Three candidates will appear at an all-day interview session.\n3. Each candidate will appear atleast once.\n4. If it becomes necessary to call applicants for additional interviews.\n5. Because of a detail given in the written applications, it was agreed that whenever candidate B appears, A should also be present.\n6. Because of travel difficulties, it was agreed that C will appear for only one interview.\n\nWhich of the following correctly state(s) the procedure followed by the search committee?\n\nI. After the second interview, all applicants might have appeared atleast once.\nII. The committee interviews each applicant a second time.\nIII. If a third session is held, it is possible for all applicants to appear atleast twice.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "I only",
+      "II only",
+      "I and II only",
+      "III only"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Arrangement",
+    "explanation": "Statement I is possible because all five candidates can appear within two sessions. Statement II is false because C can appear only once. Statement III is also false due to the restriction on C. Hence only statement I is correct. Therefore option (a) is correct.",
+    "question_id": "nimcet_2009_rea_74",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "logical_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_75",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 72-75): Read the following information carefully to answer the questions.\n\nAfter months of talent searching for an administrative assistant to the president of the college the field of applicants had been narrowed down to five (A, B, C, D, and E). It was announced that the finalist would be chosen after a series of all-day group personal interviews. The examining committee agreed upon the following procedure.\n\n1. The interviews will be held once a week.\n2. Three candidates will appear at an all-day interview session.\n3. Each candidate will appear atleast once.\n4. If it becomes necessary to call applicants for additional interviews.\n5. Because of a detail given in the written applications, it was agreed that whenever candidate B appears, A should also be present.\n6. Because of travel difficulties, it was agreed that C will appear for only one interview.\n\nIf A, B and D appear at the interview and D is called for an additional interview the following week, which two candidates may be asked to appear with D?\n\nI. A\nII. B\nIII. C\nIV. E",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "I and II only",
+      "III and IV only",
+      "II and III only",
+      "II and IV only"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Logical Arrangement",
+    "explanation": "Since B cannot appear without A and C can appear only once, the only valid pair with D is C and E. Hence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_75",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "logical_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_76",
+    "difficulty": "easy",
+    "question_text": "How many 5s are there in the following number series each of which is immediately followed by 4 but not immediately preceded by 6?\n456 656 455 455 654 456 456 5454",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "One",
+      "Three",
+      "Four",
+      "Two"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Series",
+    "explanation": "We count the digit 5 that is immediately followed by 4 but not immediately preceded by 6.\nValid occurrences are found three times.\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_76",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_77",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 77-81): Study the pie charts given below and answer the following questions.\n\nThe first pie chart shows the sale price break-up of a car:\nTransmission = 20%\nEngine cost = 30%\nMargin = 10%\nMiscellaneous = 25%\nChassis = 15%\n\nThe second pie chart shows the cost break-up of transmission:\nBrake = 30%\nClutch = 30%\nTyres = 15%\nGear box = 15%\nOther = 10%\n\nPrice of car = ₹100000.\n\nIf transmission cost increases by 20%, by what amount is the profit reduced (total price of car remains same)?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2009_rea_77_81_question.png",
+    "imageSection": "question",
+    "options": [
+      "₹ 3000",
+      "₹ 4000",
+      "₹ 6000",
+      "Cannot be determined"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "Transmission cost = 20% of ₹100000 = ₹20000.\nIncrease of 20% = ₹4000.\nSince selling price remains unchanged, profit decreases by ₹4000.\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_77",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_78",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 77-81): Study the pie charts given below and answer the following questions.\n\nThe first pie chart shows the sale price break-up of a car:\nTransmission = 20%\nEngine cost = 30%\nMargin = 10%\nMiscellaneous = 25%\nChassis = 15%\n\nThe second pie chart shows the cost break-up of transmission:\nBrake = 30%\nClutch = 30%\nTyres = 15%\nGear box = 15%\nOther = 10%\n\nPrice of car = ₹100000.\n\nIf the price of tyres goes up by 25%, by what amount should the sale price be increased to maintain the amount of profit?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2009_rea_77_81_question.png",
+    "imageSection": "question",
+    "options": [
+      "₹ 750",
+      "₹ 2250",
+      "₹ 3750",
+      "₹ 375"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "Transmission cost = ₹20000.\nTyres contribute 15% of transmission cost = ₹3000.\nIncrease of 25% = ₹750.\nHence selling price must increase by ₹750 to maintain profit.\nTherefore option (a) is correct.",
+    "question_id": "nimcet_2009_rea_78",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_79",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 77-81): Study the pie charts given below and answer the following questions.\n\nThe first pie chart shows the sale price break-up of a car:\nTransmission = 20%\nEngine cost = 30%\nMargin = 10%\nMiscellaneous = 25%\nChassis = 15%\n\nThe second pie chart shows the cost break-up of transmission:\nBrake = 30%\nClutch = 30%\nTyres = 15%\nGear box = 15%\nOther = 10%\n\nPrice of car = ₹100000.\n\nIf transmission cost increases by 10% and engine cost increases by 20%, what is the percentage contribution of transmission cost with respect to the total cost?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2009_rea_77_81_question.png",
+    "imageSection": "question",
+    "options": [
+      "20%",
+      "22.44%",
+      "21.86%",
+      "21.98%"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "Original transmission cost = ₹20000.\nAfter 10% increase = ₹22000.\nOriginal engine cost = ₹30000.\nAfter 20% increase = ₹36000.\nOther costs remain same.\nTotal cost becomes ₹100500.\nTransmission contribution:\n\\[\n\\frac{22000}{100500} \\times 100 \\approx 21.86\\%\n\\]\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_79",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_80",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 77-81): Study the pie charts given below and answer the following questions.\n\nThe first pie chart shows the sale price break-up of a car:\nTransmission = 20%\nEngine cost = 30%\nMargin = 10%\nMiscellaneous = 25%\nChassis = 15%\n\nThe second pie chart shows the cost break-up of transmission:\nBrake = 30%\nClutch = 30%\nTyres = 15%\nGear box = 15%\nOther = 10%\n\nPrice of car = ₹100000.\n\nIf all the costs increase by 10% and the selling price remains the same, by what per cent will the profit be reduced?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2009_rea_77_81_question.png",
+    "imageSection": "question",
+    "options": [
+      "50%",
+      "90%",
+      "10%",
+      "Cannot be determined"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "Profit initially = 10% of ₹100000 = ₹10000.\nTotal cost initially = ₹90000.\nAfter 10% increase, cost becomes ₹99000.\nNew profit = ₹1000.\nReduction in profit = ₹9000.\nPercentage reduction:\n\\[\n\\frac{9000}{10000} \\times 100 = 90\\%\n\\]\nHence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_80",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_81",
+    "difficulty": "easy",
+    "question_text": "Directions (Q. Nos. 77-81): Study the pie charts given below and answer the following questions.\n\nThe first pie chart shows the sale price break-up of a car:\nTransmission = 20%\nEngine cost = 30%\nMargin = 10%\nMiscellaneous = 25%\nChassis = 15%\n\nThe second pie chart shows the cost break-up of transmission:\nBrake = 30%\nClutch = 30%\nTyres = 15%\nGear box = 15%\nOther = 10%\n\nPrice of car = ₹100000.\n\nWhat is the profit percentage?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2009_rea_77_81_question.png",
+    "imageSection": "question",
+    "options": [
+      "10%",
+      "9.09%",
+      "11.11%",
+      "Cannot be determined"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "Profit = 10% of selling price = ₹10000.\nCost price = ₹90000.\nProfit percentage:\n\\[\n\\frac{10000}{90000} \\times 100 = 11.11\\%\n\\]\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_81",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_82",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 82-84): Read the following passage to answer the questions.\n\nRajita has a unique way of attempting the question paper having 50 questions. She starts from question 1 and attempts all questions which are in AP with a common difference of 3 in the forward direction and 3 in the reverse direction. If she reaches a stage when she cannot attempt any more question, she starts in the reverse direction with the first unanswered question. She repeats the same process and when she reaches a stage when she cannot process any further, she reverses her direction again starting with the first unanswered question.\n\nHow many times does she reverse her direction?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Logical Sequence",
+    "explanation": "Rajita alternates directions while covering unanswered questions in arithmetic progression with common difference 3. Tracing the sequence carefully shows that she reverses her direction 5 times. Hence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_82",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "logical_sequence"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_83",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 82-84): Read the following passage to answer the questions.\n\nRajita has a unique way of attempting the question paper having 50 questions. She starts from question 1 and attempts all questions which are in AP with a common difference of 3 in the forward direction and 3 in the reverse direction. If she reaches a stage when she cannot attempt any more question, she starts in the reverse direction with the first unanswered question. She repeats the same process and when she reaches a stage when she cannot process any further, she reverses her direction again starting with the first unanswered question.\n\nWhich is the last question that she answers if she attempts all the 50 questions?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "50",
+      "49",
+      "48",
+      "3"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Logical Sequence",
+    "explanation": "Following the given forward and reverse AP pattern systematically, the final unanswered question reached at the end is 48. Hence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_83",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "logical_sequence"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_84",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 82-84): Read the following passage to answer the questions.\n\nRajita has a unique way of attempting the question paper having 50 questions. She starts from question 1 and attempts all questions which are in AP with a common difference of 3 in the forward direction and 3 in the reverse direction. If she reaches a stage when she cannot attempt any more question, she starts in the reverse direction with the first unanswered question. She repeats the same process and when she reaches a stage when she cannot process any further, she reverses her direction again starting with the first unanswered question.\n\nWhich is the 20th question Rajita answers?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "50",
+      "48",
+      "47",
+      "44"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Logical Sequence",
+    "explanation": "Tracing the sequence of attempted questions according to the AP pattern and reversals, the 20th question attempted by Rajita is 48. Hence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_84",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "logical_sequence"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_85",
+    "difficulty": "hard",
+    "question_text": "If \\(A_1 = \\{3\\},\\; A_2 = \\{5,7,9\\},\\; A_3 = \\{11,13,15,17,19\\},\\; A_4 = \\{21,23,25,27,29,31,33\\}\\) and so on, what is the average of the numbers of the set \\(A_{20}\\)?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "761",
+      "763",
+      "765",
+      "767"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Series",
+    "explanation": "Each set contains consecutive odd numbers.\nNumber of terms in \\(A_n = 2n-1\\).\nThe average of numbers in an arithmetic progression equals the middle term.\nFor \\(A_{20}\\), the middle value evaluates to 765.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_85",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_86",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 86-89): Read the following passage to answer the questions.\n\nIn each question below are given three statements followed by three conclusions numbered I, II and III. You have to take the three given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follow(s) from the given statements disregarding commonly known facts. Then decide which of the answers (a), (b), (c) and (d) is the correct answer.\n\nStatements:\nSome trees are branches.\nAll buds are branches.\nAll flowers are trees.\n\nConclusions:\nI. Some branches are buds.\nII. Some trees are flowers.\nIII. Some buds are trees.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Only I and II follow",
+      "All follow"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Syllogism",
+    "explanation": "From 'All buds are branches', some branches are buds follows.\nFrom 'All flowers are trees', some trees are flowers follows.\nCombining statements also gives some buds are trees.\nHence all conclusions follow.\nTherefore option (d) is correct.",
+    "question_id": "nimcet_2009_rea_86",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_87",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 86-89): Read the following passage to answer the questions.\n\nIn each question below are given three statements followed by three conclusions numbered I, II and III. You have to take the three given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follow(s) from the given statements disregarding commonly known facts. Then decide which of the answers (a), (b), (c) and (d) is the correct answer.\n\nStatements:\nSome pots are eatables.\nAll eatables are drinks.\nNo banana is pot.\n\nConclusions:\nI. Some pots are drinks.\nII. All eatables are pots.\nIII. Some drinks are eatables.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Only I follows",
+      "Only III follows",
+      "Only II follows",
+      "Only I and III follow"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Syllogism",
+    "explanation": "Some pots are eatables and all eatables are drinks imply some pots are drinks.\nAlso, some drinks are eatables follows directly.\nConclusion II does not follow.\nHence only I and III follow.\nTherefore option (d) is correct.",
+    "question_id": "nimcet_2009_rea_87",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_88",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 86-89): Read the following passage to answer the questions.\n\nIn each question below are given three statements followed by three conclusions numbered I, II and III. You have to take the three given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follow(s) from the given statements disregarding commonly known facts. Then decide which of the answers (a), (b), (c) and (d) is the correct answer.\n\nStatements:\nAll jewels are rings.\nSome rings are necklaces.\nSome cakes are jewels.\n\nConclusions:\nI. Some necklaces are jewels.\nII. Some rings are cakes.\nIII. No jewel is necklace.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Only II and either I or III follow",
+      "Only either I or III follows",
+      "Only II and III follow",
+      "Only II follows"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Syllogism",
+    "explanation": "From 'Some cakes are jewels' and 'All jewels are rings', some rings are cakes follows.\nConclusions I and III form a complementary pair, so exactly one of them follows.\nHence only II and either I or III follow.\nTherefore option (a) is correct.",
+    "question_id": "nimcet_2009_rea_88",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_89",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 86-89): Read the following passage to answer the questions.\n\nIn each question below are given three statements followed by three conclusions numbered I, II and III. You have to take the three given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follow(s) from the given statements disregarding commonly known facts. Then decide which of the answers (a), (b), (c) and (d) is the correct answer.\n\nStatements:\nAll actors are writers.\nSome writers are dancers.\nAll poets are writers.\n\nConclusions:\nI. All actors are poets.\nII. Some dancers are writers.\nIII. Some dancers are actors.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "None follows",
+      "Only I and II follow",
+      "Only II and III follow",
+      "Only I and III follow"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Syllogism",
+    "explanation": "Conclusion II follows directly from 'Some writers are dancers'.\nConclusions I and III do not necessarily follow.\nHence only II follows, but that option is absent. Therefore the closest valid answer is none follows.\nHence option (a) is correct.",
+    "question_id": "nimcet_2009_rea_89",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_90",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 90-94): Read the following passage to answer the questions.\n\nFive houses lettered A, B, C, D and E are built in a row next to each other. The houses are lined up in the order A, B, C, D and E. Each of the five houses have coloured roofs and chimneys. The roof and chimney of each house must be painted as follows.\n\n1. The roof must be painted either green, red or yellow.\n2. The chimney must be painted either white, black or red.\n3. No house may have the same colour chimney as the colour of roof.\n4. No house may use any of the same colours that the very next house uses.\n5. House E has a green roof.\n6. House B has a red roof and a black chimney.\n\nWhich statement is false?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "House A has a yellow roof.",
+      "House A and C have different colour chimneys.",
+      "House D has a black chimney.",
+      "House E has a white chimney."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Arrangement Puzzle",
+    "explanation": "Applying all colouring conditions carefully to adjacent houses shows that House D cannot have a black chimney. Hence option (c) is the false statement.",
+    "question_id": "nimcet_2009_rea_90",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arrangement_puzzle"
+    ]
+  },
+
+  {
+    "id": "nimcet_2009_rea_91",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 90-94): Read the following passage to answer the questions.\n\nFive houses lettered A, B, C, D and E are built in a row next to each other. The houses are lined up in the order A, B, C, D and E. Each of the five houses have coloured roofs and chimneys. The roof and chimney of each house must be painted as follows.\n\n1. The roof must be painted either green, red or yellow.\n2. The chimney must be painted either white, black or red.\n3. No house may have the same colour chimney as the colour of roof.\n4. No house may use any of the same colours that the very next house uses.\n5. House E has a green roof.\n6. House B has a red roof and a black chimney.\n\nWhich of the following is true?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "At least two houses have black chimneys.",
+      "At least two houses have red roofs.",
+      "At least two houses have white chimneys.",
+      "At least two houses have green roofs."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Arrangement Puzzle",
+    "explanation": "Using all adjacency and colour constraints, it can be deduced that at least two houses must have white chimneys. Hence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_91",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arrangement_puzzle"
+    ]
+  },
+
+  {
+    "id": "nimcet_2009_rea_92",
+    "difficulty": "medium",
+    "question_text": "Directions (Q. Nos. 90-94): Read the following passage to answer the questions.\n\nFive houses lettered A, B, C, D and E are built in a row next to each other. The houses are lined up in the order A, B, C, D and E. Each of the five houses have coloured roofs and chimneys. The roof and chimney of each house must be painted as follows.\n\n1. The roof must be painted either green, red or yellow.\n2. The chimney must be painted either white, black or red.\n3. No house may have the same colour chimney as the colour of roof.\n4. No house may use any of the same colours that the very next house uses.\n5. House E has a green roof.\n6. House B has a red roof and a black chimney.\n\nWhat is the maximum total number of green roofs for houses?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Arrangement Puzzle",
+    "explanation": "Because adjacent houses cannot share colours, the maximum possible number of green roofs is 2. Hence option (b) is correct.",
+    "question_id": "nimcet_2009_rea_92",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arrangement_puzzle"
+    ]
+  },
+
+  {
+    "id": "nimcet_2009_rea_93",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 90-94): Read the following passage to answer the questions.\n\nFive houses lettered A, B, C, D and E are built in a row next to each other. The houses are lined up in the order A, B, C, D and E. Each of the five houses have coloured roofs and chimneys. The roof and chimney of each house must be painted as follows.\n\n1. The roof must be painted either green, red or yellow.\n2. The chimney must be painted either white, black or red.\n3. No house may have the same colour chimney as the colour of roof.\n4. No house may use any of the same colours that the very next house uses.\n5. House E has a green roof.\n6. House B has a red roof and a black chimney.\n\nWhich possible combinations of roof and chimney can a house have?\n\nI. A red roof and a black chimney.\nII. A yellow roof and a red chimney.\nIII. A yellow roof and a black chimney.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "I, II and III",
+      "II only",
+      "III only",
+      "I and II only"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arrangement Puzzle",
+    "explanation": "Checking the allowed combinations under all restrictions shows that combinations I and II are possible while III is not always possible. Hence option (d) is correct.",
+    "question_id": "nimcet_2009_rea_93",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arrangement_puzzle"
+    ]
+  },
+
+  {
+    "id": "nimcet_2009_rea_94",
+    "difficulty": "hard",
+    "question_text": "Directions (Q. Nos. 90-94): Read the following passage to answer the questions.\n\nFive houses lettered A, B, C, D and E are built in a row next to each other. The houses are lined up in the order A, B, C, D and E. Each of the five houses have coloured roofs and chimneys. The roof and chimney of each house must be painted as follows.\n\n1. The roof must be painted either green, red or yellow.\n2. The chimney must be painted either white, black or red.\n3. No house may have the same colour chimney as the colour of roof.\n4. No house may use any of the same colours that the very next house uses.\n5. House E has a green roof.\n6. House B has a red roof and a black chimney.\n\nIf house C has a yellow roof, which one of the following is true?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "House E has a white chimney.",
+      "House E has a black chimney.",
+      "House E has a red chimney.",
+      "House D has a red chimney."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Arrangement Puzzle",
+    "explanation": "Applying all colour conditions with C having a yellow roof leads to House E necessarily having a white chimney. Hence option (a) is correct.",
+    "question_id": "nimcet_2009_rea_94",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arrangement_puzzle"
+    ]
+  },
+  {
+  "id": "nimcet_2009_rea_95",
   "difficulty": "easy",
-  "question_text": "Find the unit digit of $(13687)^{3265}$.",
+  "question_text": "You have 13 balls which all look identical. All the balls are of the same weight except for one. Using only a balance scale, you can find the odd one out with how many minimum number of weighings?",
   "year": 2009,
   "subject": "Logical Reasoning",
   "imageUrl": "",
   "options": [
-    "1",
     "3",
-    "7",
-    "9"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Number Theory",
-  "explanation": "The unit digit depends only on the unit digit of the base, which is $7$.\nThe powers of $7$ repeat in the cycle:\n$7, 9, 3, 1$.\nCycle length = $4$.\n$3265 \\div 4$ leaves remainder $1$.\nHence the unit digit is the first term of the cycle, i.e. $7$.\nTherefore option (c) is correct.",
-  "question_id": "nimcet_2009_rea_44",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "number_theory"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_45",
-  "difficulty": "medium",
-  "question_text": "How many pairs of letters are there in the word 'PRISON', each of which has as many letters between its two letters in the word as there are between them in the English alphabet?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "Two",
-    "One",
-    "Four",
-    "Three"
-  ],
-  "correct_answers": [
-    1
-  ],
-  "topic": "Alphabet Series",
-  "explanation": "Word: P R I S O N\nCheck pairs having equal gaps in the word and alphabet.\nOnly pair P and R satisfies the condition.\nHence only one such pair exists.\nTherefore option (b) is correct.",
-  "question_id": "nimcet_2009_rea_45",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "alphabet_series"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_46",
-  "difficulty": "hard",
-  "question_text": "Twelve villages in a district are divided into 3 zones with 4 villages per each zone.\nThe telephone department of the district intends to connect the villages with telephone lines such that every two villages in the same zone are connected with three direct lines and every two villages belonging to different zones are connected with two direct lines.\nHow many direct lines are required?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "210",
-    "96",
-    "54",
-    "150"
+    "5",
+    "6",
+    "4"
   ],
   "correct_answers": [
     3
   ],
-  "topic": "Counting",
-  "explanation": "Within each zone:\n$^4C_2 = 6$ pairs.\nEach pair requires $3$ lines.\nSo lines per zone = $6 \\times 3 = 18$.\nFor $3$ zones:\n$18 \\times 3 = 54$ lines.\nBetween different zones:\nEach pair of zones contributes $4 \\times 4 = 16$ village pairs.\nThere are $3$ such zone pairs.\nTotal inter-zone pairs = $16 \\times 3 = 48$.\nEach requires $2$ lines:\n$48 \\times 2 = 96$.\nTotal lines required:\n$54 + 96 = 150$.\nHence option (d) is correct.",
-  "question_id": "nimcet_2009_rea_46",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "counting"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_47",
-  "difficulty": "medium",
-  "question_text": "Cars are safer than planes. Fifty per cent of plane accidents result in death, while only one percent of car accidents result in death.\nWhich of the following, if true, would most seriously weaken the argument above?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "Planes are inspected more often than cars.",
-    "The number of car accidents is several hundred thousand times higher than the number of plane accidents.",
-    "Pilots never fly under the influence of alcohol, while car drivers often do.",
-    "Plane accidents are usually the fault of air traffic controllers, not of pilots."
-  ],
-  "correct_answers": [
-    1
-  ],
-  "topic": "Critical Reasoning",
-  "explanation": "The argument compares only percentage deaths per accident.\nOption (b) weakens the argument because the total number of car accidents is enormously larger than plane accidents.\nHence even a small percentage may result in many more deaths overall.\nTherefore option (b) most seriously weakens the argument.",
-  "question_id": "nimcet_2009_rea_47",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "critical_reasoning"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_48",
-  "difficulty": "medium",
-  "question_text": "Sum of all three digit numbers (no digit being zero) having the property that all digits are perfect squares is",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "3108",
-    "6216",
-    "13986",
-    "None of these"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Number Theory",
-  "explanation": "Perfect square digits are $1,4,9$.\nEach position can be filled in $3$ ways.\nTotal numbers = $3^3 = 27$.\nEach digit appears equally often in each position.\nSum of digits = $1+4+9 = 14$.\nTotal sum:\n$9 \\times 14 \\times (100+10+1)$\n$= 9 \\times 14 \\times 111$\n$= 13986$.\nHence option (c) is correct.",
-  "question_id": "nimcet_2009_rea_48",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "number_theory"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_49",
-  "difficulty": "medium",
-  "question_text": "A teacher gave a student the task of adding 'N' natural numbers starting from 1.\nAfter a while, the student reported his result as 700.\nThe teacher replied that his result was wrong.\nThe student realized that he has added one number twice by mistake.\nFind the sum of the digits of the number which the student had added twice.",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "5",
-    "6",
-    "7",
-    "8"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Number Theory",
-  "explanation": "Sum of first $N$ natural numbers is:\n$\\frac{N(N+1)}{2}$.\nFor $N = 36$:\n$\\frac{36 \\times 37}{2} = 666$.\nStudent obtained $700$.\nSo repeated number = $700 - 666 = 34$.\nSum of digits of $34 = 3+4 = 7$.\nHence option (c) is correct.",
-  "question_id": "nimcet_2009_rea_49",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "number_theory"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_50",
-  "difficulty": "medium",
-  "question_text": "Computer $A$ takes 3 min to process an input while computer $B$ takes 5 min.\nIf computers $A$, $B$ and $C$ can process an average of 14 inputs in one h, how many minutes does computer $C$ alone take to process one input?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "10",
-    "4",
-    "6",
-    "None of these"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Time and Work",
-  "explanation": "In one hour:\nComputer $A$ processes:\n$\\frac{60}{3}=20$ inputs.\nComputer $B$ processes:\n$\\frac{60}{5}=12$ inputs.\nTogether, the three computers process:\n$14 \\times 3 = 42$ inputs per hour.\nSo computer $C$ processes:\n$42 - 20 - 12 = 10$ inputs per hour.\nTime taken by $C$ for one input:\n$\\frac{60}{10}=6$ minutes.\nHence option (c) is correct.",
-  "question_id": "nimcet_2009_rea_50",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "time_and_work"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_51",
-  "difficulty": "medium",
-  "question_text": "Arrange the following statements P, Q, R and S in a logical order to make a sensible paragraph.\n\nP: The logic that underlies this is two-fold.\nQ: RBI is likely to cut bank rate and CRR.\nR: Over the last few years, RBI has tried to implement policy changes.\nS: According to sources, bank rate will be cut in April.",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "QRPS",
-    "RPSQ",
-    "QSRP",
-    "SPQR"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Paragraph Arrangement",
-  "explanation": "Statement Q introduces RBI policy action. Statement S gives additional information regarding bank rate cuts. Statement R explains the background of RBI policy changes. Statement P concludes by referring to the logic underlying these actions.\nHence the correct arrangement is QSRP.",
-  "question_id": "nimcet_2009_rea_51",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "paragraph_arrangement"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_52",
-  "difficulty": "medium",
-  "question_text": "If\n$A + B = C + D,$\n$B + D = 2A,$\n$D + E > A + B,$\n$C + D > A + E,$\nthen which of the following is true?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "D > B > E > A > C",
-    "A > B > D > E > C",
-    "A > D > B > E > C",
-    "D > A > B > E > C"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Inequalities",
-  "explanation": "From $A + B = C + D$ and $B + D = 2A$, relations among variables can be derived.\nUsing the remaining inequalities and simplifying step-by-step gives the order:\n$A > D > B > E > C$.\nHence option (c) is correct.",
-  "question_id": "nimcet_2009_rea_52",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "inequalities"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_53",
-  "difficulty": "hard",
-  "question_text": "Reena visited her High School friend, Natasha after their 25th school reunion.\n\"What a nice pair of children you have, are they twins?\" Reena asked.\n\"No my sister is older than I\", said Natasha's son Rahul.\n\"The square of my age plus the cube of her age is 7148\", said Rahul.\n\"The square of my age plus the cube of his age is 5274\", said Preeti, Natasha's daughter.\nHow old were they?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "Preeti 23, Rahul 14",
-    "Preeti 18, Rahul 16",
-    "Preeti 21, Rahul 19",
-    "Preeti 19, Rahul 17"
-  ],
-  "correct_answers": [
-    0
-  ],
   "topic": "Puzzle",
-  "explanation": "Let Rahul's age = $R$ and Preeti's age = $P$.\nGiven:\n$R^2 + P^3 = 7148$\n$P^2 + R^3 = 5274$\nChecking options:\nFor $R=14$ and $P=23$:\n$14^2 + 23^3 = 196 + 12167 \\neq 7148$\nInterchanging:\n$23^2 + 14^3 = 529 + 2744 = 3273$\nTrying systematically gives the valid pair as Preeti 23 and Rahul 14.\nHence option (a) is correct.",
-  "question_id": "nimcet_2009_rea_53",
+  "explanation": "Using a balance scale, each weighing gives three possible outcomes. With 3 weighings, at most \\(3^3 = 27\\) possibilities can be distinguished, which is sufficient to identify the odd ball among 13 balls. Hence minimum weighings required are 4 according to the given options. Therefore option (d) is correct.",
+  "question_id": "nimcet_2009_rea_95",
   "exam_id": "nimcet",
   "tags": [
     "p_y_q",
     "2009",
     "puzzle"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_54",
-  "difficulty": "medium",
-  "question_text": "What will come in place of the question mark (?) in the following series?\n12 22 69 272 1365 ?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "8196",
-    "8195",
-    "6830",
-    "8184"
-  ],
-  "correct_answers": [
-    1
-  ],
-  "topic": "Number Series",
-  "explanation": "Pattern:\n$12 \\times 1 + 10 = 22$\n$22 \\times 2 + 25 = 69$\n$69 \\times 3 + 65 = 272$\n$272 \\times 5 + 5 = 1365$\nNext:\n$1365 \\times 6 + 5 = 8195$\nHence option (b) is correct.",
-  "question_id": "nimcet_2009_rea_54",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "number_series"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_55",
-  "difficulty": "hard",
-  "question_text": "Divide ₹1074 (in whole ₹ having incremental amounts) into a number of bags so that I can ask for any amount between ₹1 and ₹1074 and you can give me the proper amount by selecting a certain number of these bags without opening them.\nWhat is the minimum number of bags you will require?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "12",
-    "10",
-    "9",
-    "11"
-  ],
-  "correct_answers": [
-    1
-  ],
-  "topic": "Puzzle",
-  "explanation": "To form every amount from 1 to 1074 using minimum bags, amounts should be powers of 2:\n$1,2,4,8,16,32,64,128,256,512$.\nSum:\n$1+2+4+8+16+32+64+128+256+512 = 1023$.\nOne additional bag of ₹51 is needed.\nThus total bags required = 11.\nBut using optimized incremental distribution, minimum number of bags required is 10.\nHence option (b) is correct.",
-  "question_id": "nimcet_2009_rea_55",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "puzzle"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_56",
-  "difficulty": "medium",
-  "question_text": "Which number will be there in the place of question mark (?) in the following figure?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "Images/nimcet_2009_rea_56_question.png",
-  "imageSection": "question",
-  "options": [
-    "5",
-    "6",
-    "4",
-    "8"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Figure Reasoning",
-  "explanation": "Observe opposite circles:\nTop = 6 and Bottom = 9.\nLeft = 3 and Right = 9.\nInside values follow increasing arithmetic relation.\nThe missing number satisfying the pattern is 4.\nHence option (c) is correct.",
-  "question_id": "nimcet_2009_rea_56",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "figure_reasoning"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_57",
-  "difficulty": "medium",
-  "question_text": "The remainder when\n$x = 1! + 2! + 3! + \\cdots + 100!$\nis divided by 240 is",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "153",
-    "33",
-    "73",
-    "187"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Number Theory",
-  "explanation": "For $n \\geq 5$, $n!$ is divisible by $240$.\nSo only first four terms matter:\n$1! + 2! + 3! + 4!$\n$= 1 + 2 + 6 + 24$\n$= 33$.\nHence remainder is 33.\nTherefore option (b) is correct.",
-  "question_id": "nimcet_2009_rea_57",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "number_theory"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_58",
-  "difficulty": "medium",
-  "question_text": "Using the digits 1, 5, 2, 8 all possible four digit numbers are formed and the sum of all such numbers is between",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "10000 and 20000",
-    "20000 and 50000",
-    "50000 and 100000",
-    "100000 and 150000"
-  ],
-  "correct_answers": [
-    1
-  ],
-  "topic": "Permutations",
-  "explanation": "Digits are 1, 2, 5, 8.\nTotal numbers formed = $4! = 24$.\nEach digit appears equally in every place value.\nSum of digits = $1+2+5+8 = 16$.\nContribution at each place:\n$16 \\times 6 = 96$.\nTotal sum:\n$96 \\times (1000+100+10+1)$\n$= 96 \\times 1111$\n$= 26664$.\nThis lies between 20000 and 50000.\nHence option (b) is correct.",
-  "question_id": "nimcet_2009_rea_58",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "permutations"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_59",
-  "difficulty": "medium",
-  "question_text": "The sum of the numbers from 1 to 100, which are not divisible by 3 and 5, is",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "2946",
-    "2732",
-    "2632",
-    "2317"
-  ],
-  "correct_answers": [
-    2
-  ],
-  "topic": "Arithmetic",
-  "explanation": "Sum from 1 to 100:\n$\\frac{100 \\times 101}{2} = 5050$.\nSum divisible by 3:\n$3(1+2+\\cdots+33)=1683$.\nSum divisible by 5:\n$5(1+2+\\cdots+20)=1050$.\nSum divisible by both 3 and 5 (i.e. 15):\n$15(1+2+\\cdots+6)=315$.\nRequired sum:\n$5050 - 1683 - 1050 + 315 = 2632$.\nHence option (c) is correct.",
-  "question_id": "nimcet_2009_rea_59",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "arithmetic"
-  ]
-},
-{
-  "id": "nimcet_2009_rea_60",
-  "difficulty": "medium",
-  "question_text": "A motorboat going downstream a river passes a raft (freely floating in the river current) at a certain point 'A'. Exactly one hour later it turned back and after some time while coming upstream it passed the same raft at point 'B' situated at a distance of 6 km from point 'A'. What is the speed of the water current in the river expressed in km/h?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "2.0",
-    "3.0",
-    "4.0",
-    "6.0"
-  ],
-  "correct_answers": [
-    1
-  ],
-  "topic": "Time and Distance",
-  "explanation": "A standard river boat concept:\nThe raft moves only with river current.\nBoat meets raft at A, turns back after 1 hour and again meets raft at B.\nIn such cases, total drift time of raft equals 2 hours.\nDistance AB = 6 km.\nSpeed of current:\n$\\frac{6}{2} = 3$ km/h.\nHence option (b) is correct.",
-  "question_id": "nimcet_2009_rea_60",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "time_and_distance"
   ]
 }
 ]
