@@ -58,6 +58,7 @@
     "year": 2008,
     "subject": "Logical Reasoning",
     "imageUrl": "Images/nimcet_2008_rea_43_solution.png",
+    "imageSection": "answer",
     "options": [
       "1 inch",
       "$\\sqrt{2}$ inch",
@@ -1160,7 +1161,7 @@
       1
     ],
     "topic": "Blood Relation",
-    "explanation": "K @ L means K is brother of L, so K is male.\nL $ N means L is father of N.\nN ε O means N is sister of O.\nO $ M means O is father of M.\nThus K is male and related to M as nephew.\nHence option (b).",   
+    "explanation": "K @ L means K is brother of L, so K is male.\nL $ N means L is father of N.\nN ε O means N is sister of O.\nO $ M means O is father of M.\nThus K is male and related to M as nephew.\nHence option (b).",
     "question_id": "nimcet_2008_rea_85",
     "exam_id": "nimcet",
     "tags": [

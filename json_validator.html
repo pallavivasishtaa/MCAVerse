@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Simple JSON Validator</title>
+<title>JSON Validator</title>
 
 <script>
 window.MathJax = {
@@ -78,12 +78,13 @@ button:hover{
     line-height:1.6;
 }
 
-#questionImage{
-    max-width:300px;
+.question-image{
+    max-width:350px;
     margin-top:15px;
     margin-bottom:15px;
     border:1px solid #ccc;
-    display:none;
+    border-radius:5px;
+    display:block;
 }
 
 </style>
@@ -105,11 +106,15 @@ button:hover{
 
 <div class="question" id="questionText"></div>
 
+<!-- QUESTION IMAGE -->
+<div id="questionImageBox"></div>
+
 <div id="optionsBox"></div>
 
 <div id="answerBox">
 
-    <img id="questionImage">
+    <!-- ANSWER IMAGE -->
+    <div id="answerImageBox"></div>
 
     <div id="answerText"></div>
 
@@ -155,7 +160,8 @@ document.getElementById("fileInput").addEventListener("change", function(e){
 
             loadQuestion();
 
-        }catch(err){
+        }
+        catch(err){
 
             alert("Invalid JSON");
 
@@ -172,7 +178,7 @@ function loadQuestion(){
     const q = questions[current];
 
     document.getElementById("qno").innerText =
-        "Question " + (current+1) + " of " + questions.length;
+        "Question " + (current + 1) + " of " + questions.length;
 
     document.getElementById("questionText").innerHTML =
         q.question_text || "No question";
@@ -181,9 +187,34 @@ function loadQuestion(){
 
     document.getElementById("answerBox").style.display = "none";
 
-    // HIDE IMAGE
+    // CLEAR OLD CONTENT
 
-    document.getElementById("questionImage").style.display = "none";
+    document.getElementById("questionImageBox").innerHTML = "";
+    document.getElementById("answerImageBox").innerHTML = "";
+
+    // REMOVE OLD HIGHLIGHTS
+
+    document.querySelectorAll(".option").forEach(el=>{
+        el.classList.remove("correct");
+    });
+
+    // SHOW QUESTION IMAGE
+
+    if(
+        q.imageUrl &&
+        q.imageUrl.trim() !== "" &&
+        q.imageSection === "question"
+    ){
+
+        document.getElementById("questionImageBox").innerHTML =
+        `
+        <img
+            src="${q.imageUrl}"
+            class="question-image"
+            onerror="this.style.display='none'"
+        >
+        `;
+    }
 
     // OPTIONS
 
@@ -191,15 +222,19 @@ function loadQuestion(){
 
     let html = "";
 
-    q.options.forEach((opt,index)=>{
+    if(q.options && Array.isArray(q.options)){
 
-        html += `
-        <div class="option" id="opt${index}">
-            <b>${letters[index]}.</b> ${opt}
-        </div>
-        `;
+        q.options.forEach((opt,index)=>{
 
-    });
+            html += `
+            <div class="option" id="opt${index}">
+                <b>${letters[index]}.</b> ${opt}
+            </div>
+            `;
+
+        });
+
+    }
 
     document.getElementById("optionsBox").innerHTML = html;
 
@@ -213,50 +248,60 @@ function showAnswer(){
 
     const letters = ["A","B","C","D","E"];
 
-    // SHOW CORRECT OPTIONS
+    // REMOVE OLD HIGHLIGHTS
 
-    q.correct_answers.forEach(i=>{
-
-        const el = document.getElementById("opt"+i);
-
-        if(el){
-            el.classList.add("correct");
-        }
-
+    document.querySelectorAll(".option").forEach(el=>{
+        el.classList.remove("correct");
     });
 
-    // SHOW IMAGE INSIDE ANSWER SECTION
+    // SHOW CORRECT ANSWERS
 
-    const img = document.getElementById("questionImage");
+    if(q.correct_answers){
 
-    if(q.imageUrl){
+        q.correct_answers.forEach(i=>{
 
-        img.src = q.imageUrl;
+            const el = document.getElementById("opt"+i);
 
-        img.style.display = "block";
+            if(el){
+                el.classList.add("correct");
+            }
 
-        img.onerror = function(){
-
-            img.style.display = "none";
-
-            alert("Image not found:\n" + q.imageUrl);
-
-        };
-
-    }else{
-
-        img.style.display = "none";
+        });
 
     }
 
-    // ANSWER
+    // SHOW ANSWER IMAGE
 
-    let ans = q.correct_answers.map(i=>letters[i]).join(", ");
+    if(
+        q.imageUrl &&
+        q.imageUrl.trim() !== "" &&
+        q.imageSection === "answer"
+    ){
+
+        document.getElementById("answerImageBox").innerHTML =
+        `
+        <img
+            src="${q.imageUrl}"
+            class="question-image"
+            onerror="this.style.display='none'"
+        >
+        `;
+    }
+
+    // ANSWER TEXT
+
+    let ans = "";
+
+    if(q.correct_answers){
+
+        ans = q.correct_answers.map(i=>letters[i]).join(", ");
+
+    }
 
     document.getElementById("answerText").innerHTML =
         "<b>Answer:</b> " + ans +
         "<br><br>" +
-        q.explanation;
+        (q.explanation || "No explanation");
 
     document.getElementById("answerBox").style.display = "block";
 
@@ -266,7 +311,7 @@ function showAnswer(){
 
 function nextQuestion(){
 
-    if(current < questions.length-1){
+    if(current < questions.length - 1){
 
         current++;
 
