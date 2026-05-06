@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Simple JSON Validator</title>
+
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$','$']]
+  }
+};
+</script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+<style>
+
+body{
+    font-family: Arial;
+    background:#f2f2f2;
+    padding:20px;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+h1{
+    text-align:center;
+}
+
+button{
+    padding:10px 20px;
+    margin:10px 5px;
+    cursor:pointer;
+    border:none;
+    border-radius:5px;
+    background:#007bff;
+    color:white;
+}
+
+button:hover{
+    background:#0056b3;
+}
+
+.question{
+    font-size:20px;
+    margin-bottom:20px;
+    line-height:1.5;
+}
+
+.option{
+    border:1px solid #ccc;
+    padding:12px;
+    margin-bottom:10px;
+    border-radius:5px;
+    font-size:18px;
+}
+
+.correct{
+    background:#b7e7b0;
+}
+
+#answerBox{
+    display:none;
+    background:#ecebfa;
+    padding:20px;
+    margin-top:20px;
+    border-radius:5px;
+    font-size:18px;
+    line-height:1.6;
+}
+
+#questionImage{
+    max-width:300px;
+    margin-top:15px;
+    margin-bottom:15px;
+    border:1px solid #ccc;
+    display:none;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>JSON Question Validator</h1>
+
+<input type="file" id="fileInput" accept=".json">
+
+<hr>
+
+<div id="questionBox" style="display:none;">
+
+<h2 id="qno"></h2>
+
+<div class="question" id="questionText"></div>
+
+<div id="optionsBox"></div>
+
+<div id="answerBox">
+
+    <img id="questionImage">
+
+    <div id="answerText"></div>
+
+</div>
+
+<button onclick="prevQuestion()">Previous</button>
+
+<button onclick="showAnswer()">Show Answer</button>
+
+<button onclick="nextQuestion()">Next</button>
+
+</div>
+
+</div>
+
+<script>
+
+let questions = [];
+let current = 0;
+
+document.getElementById("fileInput").addEventListener("change", function(e){
+
+    const file = e.target.files[0];
+
+    if(!file) return;
+
+    const reader = new FileReader();
+
+    reader.onload = function(event){
+
+        try{
+
+            questions = JSON.parse(event.target.result);
+
+            if(!Array.isArray(questions)){
+                alert("JSON should be array");
+                return;
+            }
+
+            current = 0;
+
+            document.getElementById("questionBox").style.display = "block";
+
+            loadQuestion();
+
+        }catch(err){
+
+            alert("Invalid JSON");
+
+        }
+
+    };
+
+    reader.readAsText(file);
+
+});
+
+function loadQuestion(){
+
+    const q = questions[current];
+
+    document.getElementById("qno").innerText =
+        "Question " + (current+1) + " of " + questions.length;
+
+    document.getElementById("questionText").innerHTML =
+        q.question_text || "No question";
+
+    // HIDE ANSWER BOX
+
+    document.getElementById("answerBox").style.display = "none";
+
+    // HIDE IMAGE
+
+    document.getElementById("questionImage").style.display = "none";
+
+    // OPTIONS
+
+    const letters = ["A","B","C","D","E"];
+
+    let html = "";
+
+    q.options.forEach((opt,index)=>{
+
+        html += `
+        <div class="option" id="opt${index}">
+            <b>${letters[index]}.</b> ${opt}
+        </div>
+        `;
+
+    });
+
+    document.getElementById("optionsBox").innerHTML = html;
+
+    MathJax.typesetPromise();
+
+}
+
+function showAnswer(){
+
+    const q = questions[current];
+
+    const letters = ["A","B","C","D","E"];
+
+    // SHOW CORRECT OPTIONS
+
+    q.correct_answers.forEach(i=>{
+
+        const el = document.getElementById("opt"+i);
+
+        if(el){
+            el.classList.add("correct");
+        }
+
+    });
+
+    // SHOW IMAGE INSIDE ANSWER SECTION
+
+    const img = document.getElementById("questionImage");
+
+    if(q.imageUrl){
+
+        img.src = q.imageUrl;
+
+        img.style.display = "block";
+
+        img.onerror = function(){
+
+            img.style.display = "none";
+
+            alert("Image not found:\n" + q.imageUrl);
+
+        };
+
+    }else{
+
+        img.style.display = "none";
+
+    }
+
+    // ANSWER
+
+    let ans = q.correct_answers.map(i=>letters[i]).join(", ");
+
+    document.getElementById("answerText").innerHTML =
+        "<b>Answer:</b> " + ans +
+        "<br><br>" +
+        q.explanation;
+
+    document.getElementById("answerBox").style.display = "block";
+
+    MathJax.typesetPromise();
+
+}
+
+function nextQuestion(){
+
+    if(current < questions.length-1){
+
+        current++;
+
+        loadQuestion();
+
+    }
+
+}
+
+function prevQuestion(){
+
+    if(current > 0){
+
+        current--;
+
+        loadQuestion();
+
+    }
+
+}
+
+</script>
+
+</body>
+</html>

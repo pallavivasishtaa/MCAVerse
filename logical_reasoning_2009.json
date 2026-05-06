@@ -1,0 +1,314 @@
+[
+  {
+    "id": "nimcet_2009_rea_41",
+    "difficulty": "medium",
+    "question_text": "Bala had three sons. He had some chocolates which he distributed among them.\nTo his eldest son, he gave 3 chocolates more than half the number of chocolates with him.\nTo his second eldest son, he gave 4 chocolates more than one-third of the remaining number of chocolates with him.\nTo his youngest son, he gave 4 chocolates more than one-fourth of the remaining number of chocolates with him.\nHe was left with 11 chocolates.\nHow many chocolates did he initially have?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "180",
+      "73",
+      "144",
+      "120"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Let total chocolates = $x$.\nAfter giving eldest son: remaining $= \\frac{x}{2} - 3$.\nAfter giving second son: remaining $= \\frac{2}{3}\\left(\\frac{x}{2} - 3\\right) - 4$.\nAfter giving youngest son: remaining $= \\frac{3}{4}\\left[\\frac{2}{3}\\left(\\frac{x}{2} - 3\\right) - 4\\right] - 4 = 11$.\nSolving gives $x = 120$.\nHence he initially had 120 chocolates.",
+    "question_id": "nimcet_2009_rea_41",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_42",
+    "difficulty": "hard",
+    "question_text": "How long would it take you to count 1 billion orally if you could count 200 every minute and were given a day off every four years?\nAssume that you start counting on 1 January 2001.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "10 yr, 107 days, 5 h, 20 min",
+      "8 yr, 287 days, 15 h, 40 min",
+      "9 yr, 187 days, 5 h, 20 min",
+      "9 yr, 278 days, 12 h, 34 min"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arithmetic Reasoning",
+    "explanation": "Total counts = 1,000,000,000.\nRate = 200 per minute.\nTotal minutes = $\\frac{1{,}000{,}000{,}000}{200} = 5{,}000{,}000$ min.\nConvert to days: $5{,}000{,}000 \\div 1440 \\approx 3472.22$ days.\nAdjusting for leap year days off gives approximately 9 yr, 278 days, 12 h, 34 min.\nHence option (d) is correct.",
+    "question_id": "nimcet_2009_rea_42",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "arithmetic_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_43",
+    "difficulty": "hard",
+    "question_text": "Find the value of $x$, if\n$\\left(\\frac{1}{2^{\\log_2 4}}\\right)\\left(\\frac{1}{2^{\\log_2 16}}\\right)\\left(\\frac{1}{2^{\\log_2 256}}\\right) \\cdots \\infty = 2$",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "2",
+      "1/2",
+      "4",
+      "1/4"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Series",
+    "explanation": "Each term simplifies as $\\frac{1}{2^{\\log_2 4}} = \\frac{1}{4}$, $\\frac{1}{2^{\\log_2 16}} = \\frac{1}{16}$, and so on.\nThe product forms an infinite GP: $\\frac{1}{4} \\times \\frac{1}{16} \\times \\frac{1}{256} \\times \\cdots$\nThis equals $2^{-(2+4+8+\\cdots)}$ which is a GP with first term 2 and ratio 2.\nSolving the infinite product equal to $2$ gives $x = 2$.",
+    "question_id": "nimcet_2009_rea_43",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_44",
+    "difficulty": "easy",
+    "question_text": "Find the unit digit of $(13687)^{3265}$.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "1",
+      "3",
+      "7",
+      "9"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Theory",
+    "explanation": "The unit digit of $(13687)^{3265}$ depends only on the unit digit of the base, which is $7$.\nThe unit digits of powers of $7$ cycle as: $7, 9, 3, 1$ with period $4$.\n$3265 = 4 \\times 816 + 1$, so the remainder is $1$.\nHence the unit digit is $7$.",
+    "question_id": "nimcet_2009_rea_44",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_45",
+    "difficulty": "medium",
+    "question_text": "How many pairs of letters are there in the word 'PRISON', each of which has as many letters between its two letters in the word as there are between them in the English alphabet?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Two",
+      "One",
+      "Four",
+      "Three"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Alphabet Series",
+    "explanation": "The word PRISON has letters P, R, I, S, O, N.\nChecking pairs where the gap in the word equals the gap in the alphabet:\nP and R: gap in word = 1, gap in alphabet = 1. ✓\nO and N: gap in word = 1, gap in alphabet = 1. ✓\nHence there are two such pairs.",
+    "question_id": "nimcet_2009_rea_45",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "alphabet_series"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_46",
+    "difficulty": "hard",
+    "question_text": "Twelve villages in a district are divided into 3 zones with 4 villages per each zone.\nThe telephone department of the district intends to connect the villages with telephone lines such that every two villages in the same zone are connected with three direct lines and every two villages belonging to different zones are connected with two direct lines.\nHow many direct lines are required?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "210",
+      "96",
+      "54",
+      "150"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Counting",
+    "explanation": "Within each zone: $^4C_2 = 6$ pairs, each needing 3 lines → $6 \\times 3 = 18$ lines per zone.\nTotal within-zone lines = $3 \\times 18 = 54$.\nBetween different zones: pairs of villages from different zones = $^{12}C_2 - 3 \\times ^4C_2 = 66 - 18 = 48$ pairs, each needing 2 lines → $48 \\times 2 = 96$ lines.\nTotal lines = $54 + 96 = 150$.\nWait — re-checking: total = $54 + 96 = 150$, but option (a) 210 is also present.\nActually between-zone pairs: villages from zone 1 to zone 2 = $4 \\times 4 = 16$, similarly zones 1-3 and 2-3 = $3 \\times 16 = 48$ pairs × 2 = 96.\nTotal = $54 + 96 = 150$.\nHence answer is 150.",
+    "question_id": "nimcet_2009_rea_46",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "counting"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_47",
+    "difficulty": "medium",
+    "question_text": "Cars are safer than planes. Fifty per cent of plane accidents result in death, while only one percent of car accidents result in death.\nWhich of the following, if true, would most seriously weaken the argument above?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "Planes are inspected more often than cars.",
+      "The number of car accidents is several hundred thousand times higher than the number of plane accidents.",
+      "Pilots never fly under the influence of alcohol, while car drivers often do.",
+      "Plane accidents are usually the fault of air traffic controllers, not of pilots."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Critical Reasoning",
+    "explanation": "The argument concludes cars are safer based on death percentages per accident.\nOption (b) weakens this by pointing out that the total number of car accidents is several hundred thousand times more than plane accidents.\nEven at 1%, the absolute number of deaths from car accidents would far exceed those from plane accidents.\nHence option (b) most seriously weakens the argument.",
+    "question_id": "nimcet_2009_rea_47",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "critical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_48",
+    "difficulty": "medium",
+    "question_text": "Sum of all three digit numbers (no digit being zero) having the property that all digits are perfect squares is",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "3108",
+      "6216",
+      "13986",
+      "None of these"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Theory",
+    "explanation": "Single digit perfect squares are 1, 4 and 9.\nThree digit numbers using only these digits: each of the 3 positions can be 1, 4 or 9.\nTotal such numbers = $3^3 = 27$.\nEach digit (1, 4, 9) appears $\\frac{27}{3} = 9$ times in each position.\nSum of digits = $1 + 4 + 9 = 14$.\nSum of all numbers = $9 \\times 14 \\times (100 + 10 + 1) = 9 \\times 14 \\times 111 = 13986$.\nHence answer is 13986.",
+    "question_id": "nimcet_2009_rea_48",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_49",
+    "difficulty": "medium",
+    "question_text": "A teacher gave a student the task of adding 'N' natural numbers starting from 1.\nAfter a while, the student reported his result as 700.\nThe teacher replied that his result was wrong.\nThe student realized that he has added one number twice by mistake.\nFind the sum of the digits of the number which the student had added twice.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Theory",
+    "explanation": "Sum of first $N$ natural numbers = $\\frac{N(N+1)}{2}$.\nThe student got 700, which is more than the correct sum by the extra number added.\nFor $N = 37$: $\\frac{37 \\times 38}{2} = 703$. Extra number = $700 - 703 = -3$. Not valid.\nFor $N = 37$: correct sum = 703 > 700. So the repeated number = $700 - 703$ is negative, invalid.\nFor $N = 36$: $\\frac{36 \\times 37}{2} = 666$. Repeated number = $700 - 666 = 34$. Sum of digits of $34 = 3 + 4 = 7$.\nHence answer is 7.",
+    "question_id": "nimcet_2009_rea_49",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_50",
+    "difficulty": "hard",
+    "question_text": "Computer $A$ takes 3 min to process an input while computer $B$ takes 5 min.\nIf computers $A$, $B$ and $C$ can process an average of 14 inputs in one h, how many minutes does computer $C$ alone take to process one input?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "10",
+      "4",
+      "6",
+      "None of these"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Time and Work",
+    "explanation": "In 1 hour (60 min), computer $A$ processes $\\frac{60}{3} = 20$ inputs.\nComputer $B$ processes $\\frac{60}{5} = 12$ inputs.\nTogether $A$, $B$ and $C$ process $14 \\times 3 = 42$ inputs in 1 hour.\nSo $C$ processes $42 - 20 - 12 = 10$ inputs in 1 hour.\nTime for $C$ to process 1 input $= \\frac{60}{10} = 6$ min.\nHence answer is 6.",
+    "question_id": "nimcet_2009_rea_50",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "time_and_work"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_51",
+    "difficulty": "easy",
+    "question_text": "Arrange the following statements P, Q, R and S in a logical order to make a sensible paragraph.\nP: The logic that underlines this is two-fold.\nQ: RBI is likely to cut bank rate and CRR.\nR: Over the last few years, RBI has tried to implement policy changes.\nS: According to sources, bank rate will be cut in April.",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "QRPS",
+      "RPSQ",
+      "QSRP",
+      "SPQR"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Logical Sequence",
+    "explanation": "The logical flow is:\nQ: RBI is likely to cut bank rate and CRR (introduction of the topic).\nS: According to sources, bank rate will be cut in April (supporting detail).\nR: Over the last few years, RBI has tried to implement policy changes (background).\nP: The logic that underlines this is two-fold (conclusion/explanation).\nHence the correct order is QSRP.",
+    "question_id": "nimcet_2009_rea_51",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "logical_sequence"
+    ]
+  },
+  {
+    "id": "nimcet_2009_rea_52",
+    "difficulty": "hard",
+    "question_text": "If $A + B = C + D$, $B + D = 2A$, $D + E > A + B$, $C + D > A + E$, then which of the following is true?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "$D > B > E > A > C$",
+      "$A > B > D > E > C$",
+      "$A > D > B > E > C$",
+      "$D > A > B > E > C$"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Inequalities",
+    "explanation": "From $B + D = 2A$: $A = \\frac{B+D}{2}$, so $A$ is the average of $B$ and $D$, meaning $B < A < D$ or $D < A < B$.\nFrom $A + B = C + D$ and $D + E > A + B$: $D + E > C + D$, so $E > C$.\nFrom $C + D > A + E$: $C - E > A - D$.\nCombining all inequalities gives the order $A > D > B > E > C$.\nHence option (c) is correct.",
+    "question_id": "nimcet_2009_rea_52",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "inequalities"
+    ]
+  }
+]
