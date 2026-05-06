@@ -1153,7 +1153,7 @@
   {
     "id": "nimcet_2009_rea_85",
     "difficulty": "hard",
-    "question_text": "If \\(A_1 = \\{3\\},\\; A_2 = \\{5,7,9\\},\\; A_3 = \\{11,13,15,17,19\\},\\; A_4 = \\{21,23,25,27,29,31,33\\}\\) and so on, what is the average of the numbers of the set \\(A_{20}\\)?",
+    "question_text": "If $A_1 = \\{3\\},\\; A_2 = \\{5,7,9\\},\\; A_3 = \\{11,13,15,17,19\\},\\; A_4 = \\{21,23,25,27,29,31,33\\}$ and so on, what is the average of the numbers of the set $A_{20}$?",
     "year": 2009,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -1167,7 +1167,7 @@
       2
     ],
     "topic": "Series",
-    "explanation": "Each set contains consecutive odd numbers.\nNumber of terms in \\(A_n = 2n-1\\).\nThe average of numbers in an arithmetic progression equals the middle term.\nFor \\(A_{20}\\), the middle value evaluates to 765.\nHence option (c) is correct.",
+    "explanation": "Each set contains consecutive odd numbers.\nNumber of terms in $A_n = 2n-1$.\nThe average of numbers in an arithmetic progression equals the middle term.\nFor $A_{20}$, the middle value evaluates to 765.\nHence option (c) is correct.",
     "question_id": "nimcet_2009_rea_85",
     "exam_id": "nimcet",
     "tags": [
@@ -1306,7 +1306,6 @@
       "arrangement_puzzle"
     ]
   },
-
   {
     "id": "nimcet_2009_rea_91",
     "difficulty": "medium",
@@ -1333,7 +1332,6 @@
       "arrangement_puzzle"
     ]
   },
-
   {
     "id": "nimcet_2009_rea_92",
     "difficulty": "medium",
@@ -1360,7 +1358,6 @@
       "arrangement_puzzle"
     ]
   },
-
   {
     "id": "nimcet_2009_rea_93",
     "difficulty": "hard",
@@ -1387,7 +1384,6 @@
       "arrangement_puzzle"
     ]
   },
-
   {
     "id": "nimcet_2009_rea_94",
     "difficulty": "hard",
@@ -1415,29 +1411,29 @@
     ]
   },
   {
-  "id": "nimcet_2009_rea_95",
-  "difficulty": "easy",
-  "question_text": "You have 13 balls which all look identical. All the balls are of the same weight except for one. Using only a balance scale, you can find the odd one out with how many minimum number of weighings?",
-  "year": 2009,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "options": [
-    "3",
-    "5",
-    "6",
-    "4"
-  ],
-  "correct_answers": [
-    3
-  ],
-  "topic": "Puzzle",
-  "explanation": "Using a balance scale, each weighing gives three possible outcomes. With 3 weighings, at most \\(3^3 = 27\\) possibilities can be distinguished, which is sufficient to identify the odd ball among 13 balls. Hence minimum weighings required are 4 according to the given options. Therefore option (d) is correct.",
-  "question_id": "nimcet_2009_rea_95",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2009",
-    "puzzle"
-  ]
-}
+    "id": "nimcet_2009_rea_95",
+    "difficulty": "easy",
+    "question_text": "You have 13 balls which all look identical. All the balls are of the same weight except for one. Using only a balance scale, you can find the odd one out with how many minimum number of weighings?",
+    "year": 2009,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Puzzle",
+    "explanation": "Using a balance scale, each weighing gives three possible outcomes. With 3 weighings, at most \\(3^3 = 27\\) possibilities can be distinguished, which is sufficient to identify the odd ball among 13 balls. Hence minimum weighings required are 4 according to the given options. Therefore option (d) is correct.",
+    "question_id": "nimcet_2009_rea_95",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2009",
+      "puzzle"
+    ]
+  }
 ]
