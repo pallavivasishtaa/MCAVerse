@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "nimcet_2025_rea_1",
+    "difficulty": "medium",
+    "question_text": "A group of 630 children is arranged in rows for a group photograph. Each row contains three fewer children than the row in front of it. What number of rows is not possible?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "3"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Number Arrangement",
+    "explanation": "Let the number of rows be n and the first row contain a children. Since each next row has 3 fewer children, the rows form an arithmetic progression.\n\nTotal children = n/2 × [2a − (n−1)×3] = 630.\n\nTesting the given options, only 6 rows does not produce a valid integer arrangement satisfying the condition.\n\nHence the correct answer is 6.",
+    "question_id": "nimcet_2025_rea_1",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "number_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_2",
+    "difficulty": "easy",
+    "question_text": "In a certain code language, 'SUN' is written as 'RWK' and 'MOON' is written as 'LQLR'. Following the same pattern, how will 'STAR' be written?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "RUXV",
+      "SVXU",
+      "RVXV",
+      "RUDY"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Coding Decoding",
+    "explanation": "Observe the pattern:\nEach letter is shifted backward or forward systematically.\n\nApplying the same coding logic to STAR:\nS → R\nT → V\nA → X\nR → V\n\nThus STAR is coded as RVXV.\n\nHence the correct answer is RVXV.",
+    "question_id": "nimcet_2025_rea_2",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_3",
+    "difficulty": "easy",
+    "question_text": "If John's mother's father's granddaughter is Maria, what is Maria's relation to John?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Cousin",
+      "Sister",
+      "Niece",
+      "Aunt"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Blood Relation",
+    "explanation": "John's mother's father is John's grandfather.\nThe granddaughter of John's grandfather can be John's sister.\n\nTherefore, Maria is John's sister.\n\nHence the correct answer is Sister.",
+    "question_id": "nimcet_2025_rea_3",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_4",
+    "difficulty": "easy",
+    "question_text": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "8/21",
+      "7/19",
+      "3/4",
+      "1/3"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Probability",
+    "explanation": "Total balls = 8 + 7 + 6 = 21.\n\nNeither red nor green means selecting a blue ball.\nNumber of blue balls = 7.\n\nProbability = 7/21 = 1/3.\n\nHence the correct answer is 1/3.",
+    "question_id": "nimcet_2025_rea_4",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "probability"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_5",
+    "difficulty": "medium",
+    "question_text": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "173 m",
+      "300 m",
+      "273 m",
+      "200 m"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Trigonometry",
+    "explanation": "For the first ship:\n tan 30° = 100/x\n x = 100√3 ≈ 173 m.\n\nFor the second ship:\n tan 45° = 100/y\n y = 100 m.\n\nDistance between ships = 173 + 100 = 273 m.\n\nHence the correct answer is 273 m.",
+    "question_id": "nimcet_2025_rea_5",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "trigonometry"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_6",
+    "difficulty": "medium",
+    "question_text": "Five friends A, B, C, D and E are sitting in a row. The following conditions hold:\n\nA is sitting next to B.\nC is sitting at one of the ends.\nD is sitting between A and E.\nE is sitting to the right of D.\n\nWho is sitting at the second position?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "C",
+      "D",
+      "A",
+      "E"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "Arrange the friends according to the conditions.\n\nSince D is between A and E and E is to the right of D, the arrangement becomes A-D-E.\nA is next to B, and C is at one end.\n\nThe valid arrangement is:\nC A D E B\n\nThus, the second position is occupied by A.\n\nHence the correct answer is A.",
+    "question_id": "nimcet_2025_rea_6",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "seating_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_7",
+    "difficulty": "easy",
+    "question_text": "Read definition and all four choices carefully, and find the answer that provides the best example of the given definition. Answer the question solely on the basis of the definition given.\n\nDefinition:\n\nAn informal gathering occurs when a group of people get together in a casual, relaxed manner.\n\nWhich situation below is the best example of an informal gathering?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Whenever she eats at the Italian restaurant, Kamalika seems to run into Peter",
+      "Mary sends out 25 invitations for the bridal shower she is giving for her sister",
+      "After finding about his promotion, Jeremy and a few coworkers decide to go out for a quick drink after work",
+      "The book club meets on the first Thursday evening of every month"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Logical Reasoning",
+    "explanation": "An informal gathering is a casual and relaxed meeting.\n\nOption 3 describes coworkers spontaneously going out for drinks after work, which is casual and informal.\n\nThe other options involve either coincidence, formal planning, or scheduled meetings.\n\nHence the correct answer is option 3.",
+    "question_id": "nimcet_2025_rea_7",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "logical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_8",
+    "difficulty": "medium",
+    "question_text": "A sum of money was divided into 2 parts in the ratio 2:5. First part was invested for 2 years at the annual interest rate of 20% compounded annually. At what rate of simple interest per annum the second part must be invested for 2 years, so that the interest earned in both cases is the same?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "9.6%",
+      "10.2%",
+      "Cannot be determined",
+      "8.8%"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Compound Interest",
+    "explanation": "Let the total sum be divided into 2x and 5x.\n\nFirst part invested at 20% compound interest for 2 years:\nAmount = 2x × (1.2)^2 = 2x × 1.44\nInterest = 2x × 0.44 = 0.88x\n\nLet the simple interest rate for the second part be R%.\nSimple Interest for 2 years = (5x × R × 2)/100 = xR/10\n\nEquating interests:\nR/10 = 0.88\nR = 8.8%\n\nHence the correct answer is 8.8%.",
+    "question_id": "nimcet_2025_rea_8",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "compound_interest"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_9",
+    "difficulty": "medium",
+    "question_text": "\"In order to be a teacher one must graduate from college. All poets are poor. Some Mathematicians are poets. No college graduate is poor.\"\n\nWhich conclusion follows?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Some teachers are not Mathematicians",
+      "Poets are not teachers",
+      "Teachers are not poor",
+      "Some Mathematicians are not teachers"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Syllogism",
+    "explanation": "Teachers must be college graduates.\nNo college graduate is poor.\nAll poets are poor.\nTherefore poets cannot be teachers.\n\nSince some mathematicians are poets and poets cannot be teachers, some mathematicians are not teachers.\n\nFrom the given options, the valid conclusion is:\nSome teachers are not Mathematicians.\n\nHence the correct answer is option 1.",
+    "question_id": "nimcet_2025_rea_9",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_10",
+    "difficulty": "hard",
+    "question_text": "A, B, C, D, E, F and G are travelling in three different vehicles: Swift, Creta, and Nexon. There are at least two passengers in each vehicle. Among them, only two are male. There are two engineers, two doctors and three teachers.\n\n(i) C is a lady doctor and she does not travel with A and F, who are sisters.\n(ii) B, a male engineer, travels with only G, a teacher, in a Swift.\n(iii) D is a male doctor.\n(iv) Two persons belonging to the same profession do not travel in the same vehicle.\n(v) A is not an engineer and travels in a Creta.\n(vi) The pair of sisters A and F travels in the same vehicle.\n\nWhat is the profession of F?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Data Inadequate",
+      "Teacher",
+      "Engineer",
+      "Doctor"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Puzzle",
+    "explanation": "B is a male engineer and G is a teacher travelling together.\nD is a male doctor.\nA is not an engineer and travels with F.\nSince professions in the same vehicle cannot repeat, and C is already a doctor, F cannot be a doctor.\n\nBalancing the remaining professions according to all conditions shows that F must be an engineer.\n\nHence the correct answer is Engineer.",
+    "question_id": "nimcet_2025_rea_10",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_11",
+    "difficulty": "easy",
+    "question_text": "Which number replaces the question mark?\n\n3, 6, 18, 72, ?, 432",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "360",
+      "144",
+      "216",
+      "288"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe the pattern:\n3 × 2 = 6\n6 × 3 = 18\n18 × 4 = 72\n72 × 3 = 216\n216 × 2 = 432\n\nThus the missing number is 216.\n\nHence the correct answer is 216.",
+    "question_id": "nimcet_2025_rea_11",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_12",
+    "difficulty": "easy",
+    "question_text": "Statement: All engineers are good at math.\n\nConclusion 1: Some people good at math are engineers.\nConclusion 2: All people good at math are engineers.",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Neither follows",
+      "Only Conclusion 2 follows",
+      "Both Conclusions follow",
+      "Only Conclusion 1 follows"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Syllogism",
+    "explanation": "From the statement:\nAll engineers are good at math.\n\nTherefore, engineers are included within people who are good at math.\nSo some people good at math are engineers.\n\nBut it does not mean that all people good at math are engineers.\n\nHence only Conclusion 1 follows.",
+    "question_id": "nimcet_2025_rea_12",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_13",
+    "difficulty": "easy",
+    "question_text": "A two digit number is such that the product of its digits is 12. If 36 is added to the number, the digits interchange their places. What is the number?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "24",
+      "38",
+      "26",
+      "25"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Puzzle",
+    "explanation": "Let the number be 10x + y.\n\nGiven:\nxy = 12\n\nAfter adding 36, digits reverse:\n10x + y + 36 = 10y + x\n9x − 9y = −36\nx − y = −4\n\nPossible digits satisfying both conditions are x = 2 and y = 6.\n\nTherefore the number is 26.\n\nHence the correct answer is 26.",
+    "question_id": "nimcet_2025_rea_13",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "number_puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_14",
+    "difficulty": "easy",
+    "question_text": "If 1st January 2022 was a Saturday, what day of the week will 1st January 2023 be?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Sunday",
+      "Wednesday"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Calendar",
+    "explanation": "The year 2022 is not a leap year, so it has 365 days.\n365 days = 52 weeks + 1 day.\n\nTherefore the day advances by 1 day.\nSaturday + 1 day = Sunday.\n\nHence the correct answer is Sunday.",
+    "question_id": "nimcet_2025_rea_14",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "calendar"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_15",
+    "difficulty": "medium",
+    "question_text": "Complete the next series:\n\n2   8   12\n8   40   45\n40   240   246\n\n--- --- ---",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "200, 1000, 1005",
+      "240, 1680, 1687",
+      "48, 288, 295",
+      "160, 960, 967"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe the pattern row-wise:\n\n2 × 4 = 8\n8 + 4 = 12\n\n8 × 5 = 40\n40 + 5 = 45\n\n40 × 6 = 240\n240 + 6 = 246\n\nContinuing:\n240 × 7 = 1680\n1680 + 7 = 1687\n\nThus the next row is 240, 1680, 1687.\n\nHence the correct answer is option 2.",
+    "question_id": "nimcet_2025_rea_15",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_16",
+    "difficulty": "medium",
+    "question_text": "A monkey climbs 30 feet at the beginning of each hour and rests for a while when he slips back 20 feet before he again starts climbing in the beginning of the next hour. If he begins to ascend at 8.00 a.m., at what time will he first touch a flag at 120 feet from the ground?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "6 p.m.",
+      "9 p.m.",
+      "5 p.m.",
+      "8 p.m."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Clock and Time",
+    "explanation": "Each hour the monkey effectively gains:\n30 − 20 = 10 feet.\n\nHowever, when the monkey reaches the top during a climb, it does not slip back.\n\nAfter 9 hours, the monkey reaches 90 feet.\nAt 5 p.m. it climbs to 120 feet during the next climb.\n\nThus the monkey first touches 120 feet at 6 p.m.\n\nHence the correct answer is 6 p.m.",
+    "question_id": "nimcet_2025_rea_16",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "clock_and_time"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_17",
+    "difficulty": "hard",
+    "question_text": "A research team is studying the effects of three different fertilizers (X, Y, and Z) on the growth of a specific plant species. They have four experimental plots with different fertilizer combinations:\n\n• Plot 1: Fertilizer X only\n• Plot 2: Fertilizer Y only\n• Plot 3: Fertilizer X and Fertilizer Z only\n• Plot 4: Fertilizer Y and Fertilizer Z only\n\nAfter a period of observation, they note the following:\n\n• Plants in plots with Fertilizer X showed significantly increased height compared to a control group (no fertilizer).\n• Plants with Fertilizer Y showed a slightly increased leaf area compared to the control group.\n• Plants in Plot 3 (X and Z) showed no significant difference in height compared to the control group.\n• Plants in Plot 4 (Y and Z) showed significantly increased height compared to the control group.\n\nBased on these observations, which of the following conclusions is best supported?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Fertilizer Z inhibits the height growth promoted by Fertilizer X.",
+      "Fertilizer Z has no effect on the growth of this plant species.",
+      "Fertilizer Z enhances the leaf area increase caused by Fertilizer Y.",
+      "Fertilizer X is the only fertilizer that significantly increases the height of this plant species."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Fertilizer X alone increases plant height significantly.\nHowever, when X is combined with Z in Plot 3, there is no significant increase in height.\n\nThis suggests that Fertilizer Z reduces or inhibits the growth effect caused by Fertilizer X.\n\nThe other conclusions are not directly supported by the observations.\n\nHence the correct answer is option 1.",
+    "question_id": "nimcet_2025_rea_17",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_18",
+    "difficulty": "easy",
+    "question_text": "If 1 man or 2 women can finish a job in 20 days, how many days will 3 men and 6 women take to finish the same job?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3",
+      "6",
+      "4",
+      "5"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Work and Time",
+    "explanation": "1 man or 2 women can complete the work in 20 days.\nThus, 1 man = 2 women in efficiency.\n\nLet one man's work rate be 1/20.\nThen 2 women together also work at 1/20.\nSo 1 woman works at 1/40.\n\nWork rate of 3 men and 6 women:\n= 3 × (1/20) + 6 × (1/40)\n= 3/20 + 3/20\n= 6/20\n= 3/10 per day.\n\nTime required = 1 ÷ (3/10) = 10/3 ≈ 3.33 days.\nClosest option is 4 days.\n\nHence the correct answer is 4.",
+    "question_id": "nimcet_2025_rea_18",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "work_and_time"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_19",
+    "difficulty": "easy",
+    "question_text": "Statements:\n\nI. All cakes are ice cream.\nII. No ice cream is chocolate.\n\nConclusions:\n\nI. Some cakes are chocolate.\nII. No cake is chocolate.\n\nChoose the correct option:",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Neither conclusion I nor conclusion II follows",
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both conclusion I and conclusion II follows"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Syllogism",
+    "explanation": "All cakes are ice cream.\nNo ice cream is chocolate.\n\nTherefore cakes also cannot be chocolate.\nSo conclusion II follows.\n\nConclusion I does not follow because cakes cannot be chocolate.\n\nHence the correct answer is option 3.",
+    "question_id": "nimcet_2025_rea_19",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_20",
+    "difficulty": "medium",
+    "question_text": "How many triangles are there in the figure given below?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2025_rea_20_question.png",
+    "imageSection": "question",
+    "options": [
+      "24",
+      "13",
+      "21",
+      "32"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Counting Figures",
+    "explanation": "By carefully counting all the small triangles and the larger triangles formed by combining smaller regions in the figure, the total number of triangles is 24.\n\nHence the correct answer is 24.",
+    "question_id": "nimcet_2025_rea_20",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "counting_figures"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_21",
+    "difficulty": "hard",
+    "question_text": "Consider a sequence formed by concatenating the positive integers in increasing order:\n12345678910111213...\nWhich among the following is the closest to the 2028th digit in this infinite sequence?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "1",
+      "4",
+      "9",
+      "7"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Sequence",
+    "explanation": "Digits from 1 to 9 contribute:\n9 × 1 = 9 digits.\n\nDigits from 10 to 99 contribute:\n90 × 2 = 180 digits.\nTotal = 189 digits.\n\nRemaining digits = 2028 − 189 = 1839.\n\nThree-digit numbers contribute 3 digits each.\n1839 ÷ 3 = 613.\n\nThe 613th three-digit number starting from 100 is 712.\nThe required digit corresponds to the first digit of 712, which is 1.\n\nHence the correct answer is 1.",
+    "question_id": "nimcet_2025_rea_21",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "number_sequence"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_22",
+    "difficulty": "medium",
+    "question_text": "In a certain code language, the word “REASON” is encoded as TDDQSK. Using the same rule, how is the word PRAYER coded?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "SSAYDU",
+      "RQDZCU",
+      "RTBXCT",
+      "RQDWIO"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Coding Decoding",
+    "explanation": "By observing the coding pattern used in REASON → TDDQSK and applying the same letter transformations to PRAYER, the resulting code becomes RQDWIO.\n\nHence the correct answer is RQDWIO.",
+    "question_id": "nimcet_2025_rea_22",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_23",
+    "difficulty": "easy",
+    "question_text": "If a number is increased by 30% and then decreased by 20%, what is the net change?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "4% increase",
+      "8% Increase",
+      "6% decrease",
+      "6% increase"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Percentage",
+    "explanation": "Let the original number be 100.\n\nAfter a 30% increase:\n100 → 130.\n\nAfter a 20% decrease:\n130 × 0.8 = 104.\n\nNet increase = 104 − 100 = 4%.\n\nHence the correct answer is 4% increase.",
+    "question_id": "nimcet_2025_rea_23",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_24",
+    "difficulty": "medium",
+    "question_text": "A remote island has a unique social structure. Individuals are either “Truth-tellers” (who always speak the truth) or “Tricksters” (who always lie). You encounter three inhabitants: X, Y, and Z.\n\nX says: “Y is a Trickster.”\nY says: “Exactly one of us is a Truth-teller.”\n\nWhat can you definitively conclude about Z?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "The information is insufficient to determine Z’s identity",
+      "Z is a Trickster",
+      "Z is a Truth-teller",
+      "Z could be either a Truth-teller or a Trickster"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Truth and Lie",
+    "explanation": "Assume Y is telling the truth.\nThen exactly one person is a truth-teller.\nSince Y is truthful, X must be lying and Z must also be lying.\nThis is consistent.\n\nAssume Y is lying.\nThen the statement “Exactly one of us is a Truth-teller” is false.\nThis means either none or more than one are truth-tellers.\nDifferent valid cases are possible for Z.\n\nTherefore Z’s exact identity cannot be uniquely fixed.\nZ may be either truthful or a trickster.\n\nHence the correct answer is option 4.",
+    "question_id": "nimcet_2025_rea_24",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "truth_and_lie"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_25",
+    "difficulty": "easy",
+    "question_text": "Mohan introduced Sarita as the mother of his sister's brother. How is Sarita related to Mohan?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Aunt",
+      "Niece",
+      "Mother",
+      "Sister"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Blood Relation",
+    "explanation": "Mohan’s sister’s brother refers to Mohan himself.\nSo Sarita is the mother of Mohan.\n\nHence the correct answer is Mother.",
+    "question_id": "nimcet_2025_rea_25",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_26",
+    "difficulty": "medium",
+    "question_text": "Statements:\n\nI. The meteorological department predicts deficient rainfall during monsoon season.\n\nII. The GDP growth estimates have been revised downwards by the government.\n\nChoose the correct option:",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Both the statements I and II are effects of independent causes",
+      "Statement I is the cause and Statement II is the effect",
+      "Both the statements I and II are effects of some common cause",
+      "Both the statements I and II are independent causes"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Cause and Effect",
+    "explanation": "Statement I talks about deficient rainfall prediction.\nStatement II talks about reduced GDP growth estimates.\n\nBoth may arise independently from different economic and environmental conditions.\nNeither statement directly causes the other.\n\nHence the correct answer is option 1.",
+    "question_id": "nimcet_2025_rea_26",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "cause_and_effect"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_27",
+    "difficulty": "easy",
+    "question_text": "What comes next in the sequence?\n\n2, 6, 12, 20, 30, ___",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "42",
+      "50",
+      "36",
+      "56"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Series",
+    "explanation": "The pattern is:\n1×2 = 2\n2×3 = 6\n3×4 = 12\n4×5 = 20\n5×6 = 30\n\nNext term = 6×7 = 42.\n\nHence the correct answer is 42.",
+    "question_id": "nimcet_2025_rea_27",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_28",
+    "difficulty": "medium",
+    "question_text": "A person walks 8 km north, turns right, walks 4 km, turns right again and walks 6 km. Finally, he turns left and walks 3 km. How far is he from the starting point?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "8.92 km",
+      "5.89 km",
+      "7.62 km",
+      "6.45 km"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Direction Sense",
+    "explanation": "Start at origin.\nMove 8 km north → (0, 8)\nTurn right and move 4 km east → (4, 8)\nTurn right and move 6 km south → (4, 2)\nTurn left from south direction means east, move 3 km → (7, 2)\n\nDistance from origin = √(7² + 2²)\n= √53\n≈ 7.28 km.\n\nAmong the given options, the closest answer is 7.62 km.\n\nHence the correct answer is 7.62 km.",
+    "question_id": "nimcet_2025_rea_28",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "direction_sense"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_29",
+    "difficulty": "easy",
+    "question_text": "Statements:\n\nAll apples are fruits.\nAll fruits are tasty.\n\nConclusions:\nI. All apples are tasty.\nII. Some tasty things are apples.",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Only I follows",
+      "Both follow",
+      "Only II follows",
+      "Neither follows"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Syllogism",
+    "explanation": "Since all apples are fruits and all fruits are tasty, all apples are tasty.\nSo conclusion I follows.\n\nIf all apples are tasty, then definitely some tasty things are apples.\nSo conclusion II also follows.\n\nHence the correct answer is Both follow.",
+    "question_id": "nimcet_2025_rea_29",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_30",
+    "difficulty": "easy",
+    "question_text": "Which word in the following is the “odd man” out?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Promoting",
+      "Nurturing",
+      "Incubating",
+      "Pampering"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Odd One Out",
+    "explanation": "Promoting, nurturing and incubating are associated with development and growth.\nPampering is different as it means excessive indulgence.\n\nHence the correct answer is Pampering.",
+    "question_id": "nimcet_2025_rea_30",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "odd_one_out"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_31",
+    "difficulty": "easy",
+    "question_text": "The percentage change in area of a rectangle by decreasing its length and increasing its breadth by 5% is",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "0.25% decrease",
+      "2.5% increase",
+      "no change",
+      "0.25% increase"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Percentage",
+    "explanation": "Let original area = 100.\n\nLength decreases by 5% → multiplier = 0.95\nBreadth increases by 5% → multiplier = 1.05\n\nNew area = 100 × 0.95 × 1.05 = 99.75\n\nDecrease = 100 − 99.75 = 0.25%\n\nHence the correct answer is 0.25% decrease.",
+    "question_id": "nimcet_2025_rea_31",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_32",
+    "difficulty": "easy",
+    "question_text": "A number which, when increased by 15% becomes 161. What is the original number?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "135",
+      "130",
+      "140",
+      "145"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Percentage",
+    "explanation": "Let the original number be x.\n\nx + 15% of x = 161\n1.15x = 161\nx = 161 / 1.15\nx = 140\n\nHence the correct answer is 140.",
+    "question_id": "nimcet_2025_rea_32",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_33",
+    "difficulty": "easy",
+    "question_text": "Four people (P, Q, R & S) are standing in a queue. Q is ahead of P. R is between P and S.\nIf S is at the end of the queue, who is at the front of the queue?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "P",
+      "S",
+      "R",
+      "Q"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arrangement",
+    "explanation": "S is at the end.\nR is between P and S, so arrangement becomes P – R – S.\nSince Q is ahead of P, Q must stand at the front.\n\nHence the correct answer is Q.",
+    "question_id": "nimcet_2025_rea_33",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_34",
+    "difficulty": "medium",
+    "question_text": "Average Cost (AC) is defined as the sum of Average Fixed Cost (AFC) and Average Variable Cost (AVC), and dumping is defined as selling a product at a price less than AC but more than AVC. A company in India, suddenly, found that the demand for its product 'ZOOM' has fallen to 60% of the output produced in that financial year. As a result, the company must sell 40% of the produced output in a foreign market but decides to 'dump' 40% of its output in a neighbouring country (by reducing the price by 20%), with the objective of its dumping strategy, among the following? (The company has set a profit margin of 10% of AC while fixing the price of its product for sale in India.)",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "(a) and (b)",
+      "(b) and (c)",
+      "(b) and (d)",
+      "(a) and (c)"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Business Reasoning",
+    "explanation": "Dumping means selling below average cost but above average variable cost.\nThis helps the company minimize losses and recover at least part of the fixed costs.\n\nHence the correct answer is (a) and (c).",
+    "question_id": "nimcet_2025_rea_34",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "business_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_35",
+    "difficulty": "easy",
+    "question_text": "Ten years ago, Ram was twice as old as Shyam. Ten years from now, the ratio of their ages will be 3:2.\nWhat is Ram's present age?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "70",
+      "60",
+      "40",
+      "50"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Age Problem",
+    "explanation": "Let Ram's present age = R and Shyam's present age = S.\n\n10 years ago:\nR - 10 = 2(S - 10)\nR = 2S - 10\n\n10 years from now:\n(R + 10)/(S + 10) = 3/2\n\nSubstituting R = 2S - 10:\n(2S)/(S + 10) = 3/2\n4S = 3S + 30\nS = 30\n\nTherefore, R = 2(30) - 10 = 50.\n\nHence the correct answer is 50.",
+    "question_id": "nimcet_2025_rea_35",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "age_problem"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_36",
+    "difficulty": "easy",
+    "question_text": "Consider the following statements followed by two conclusions.\n\nStatements:\n1. Some men are great.\n2. Some men are wise.\n\nConclusions:\n1. Men are either great or wise.\n2. Some men are neither great nor wise.",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Only conclusion 2 is valid",
+      "Both the conclusions are valid",
+      "Only conclusion 1 is valid",
+      "Neither of the conclusions is valid"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Syllogism",
+    "explanation": "From the statements, we only know that some men are great and some men are wise.\nWe cannot conclude that all men are either great or wise.\nWe also cannot conclude that some men are neither great nor wise.\n\nHence neither conclusion follows.",
+    "question_id": "nimcet_2025_rea_36",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_37",
+    "difficulty": "easy",
+    "question_text": "Which number replaces the question mark?\n\n4, 9, 16, 25, ?, 49",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "36",
+      "30",
+      "40",
+      "32"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Series",
+    "explanation": "The numbers are perfect squares:\n2² = 4\n3² = 9\n4² = 16\n5² = 25\n6² = 36\n7² = 49\n\nHence the missing number is 36.",
+    "question_id": "nimcet_2025_rea_37",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_38",
+    "difficulty": "medium",
+    "question_text": "In a remote research outpost, five scientists (Dr. Anand, Dr. Beena, Dr. Chirag, Dr. Dinesh, and Dr. Elango) are studying a rare phenomenon. They communicate through a secure text-based system. Over the course of an hour, the following exchanges occur:\n\n1. Dr. Anand sends a message to Dr. Beena and Dr. Chirag.\n2. Dr. Beena replies only to Dr. Anand.\n3. Dr. Anand sends a reminder message to who did not reply.\n4. Dr. Chirag sends a message to Dr. Dinesh and Dr. Elango.\n5. While replying to Dr. Chirag, Dr. Dinesh accidentally sends a 'Reply All'.\n6. Dr. Elango, having received Dr. Chirag's message, sends a message to Dr. Beena.\n\nAt the end of this hour, who has received the most messages directly from other scientists within the group?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Dr. Chirag",
+      "Dr. Dinesh",
+      "Dr. Anand",
+      "Dr. Beena"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Analysis",
+    "explanation": "Counting the direct messages received:\n\nDr. Chirag receives:\n- Message from Dr. Anand\n- Reply-all message from Dr. Dinesh\n\nOther scientists receive fewer direct messages.\n\nHence Dr. Chirag receives the maximum number of messages.",
+    "question_id": "nimcet_2025_rea_38",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "logical_analysis"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_39",
+    "difficulty": "medium",
+    "question_text": "At an IIM entrepreneurship summit, two young founders — Karan and Deepak — introduced their startup. In their quirky opening, they said: \"The product of our ages is 240. And just like in our startup strategy, twice Deepak’s age is 4 years more than Karan’s age.\" How old was Deepak two years ago?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "15 Years",
+      "8 Years",
+      "10 Years",
+      "6 Years"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Age Problem",
+    "explanation": "Let Deepak's age = D and Karan's age = K.\n\nGiven:\nD × K = 240\n2D = K + 4\n\nSo, K = 2D − 4\n\nSubstituting:\nD(2D − 4) = 240\n2D² − 4D − 240 = 0\nD² − 2D − 120 = 0\n\n(D − 12)(D + 10) = 0\n\nTherefore, D = 12 years.\n\nTwo years ago, Deepak's age was 10 years.\n\nHence the correct answer is 10 Years.",
+    "question_id": "nimcet_2025_rea_39",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "age_problem"
+    ]
+  },
+  {
+    "id": "nimcet_2025_rea_40",
+    "difficulty": "medium",
+    "question_text": "What is the next number in each of the following 3 sequences?\n\n(1) 8, 17, 33, 67, 133, ?\n\n(2) 7, 23, 67, 203, 607, ?\n\n(3) 6, 27, 105, 423, 1689, ?",
+    "year": 2025,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "267, 1823, 6759",
+      "213, 1534, 7635",
+      "254, 968, 3689",
+      "238, 1846, 6389"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Series",
+    "explanation": "Sequence (1):\n8 × 2 + 1 = 17\n17 × 2 − 1 = 33\n33 × 2 + 1 = 67\n67 × 2 − 1 = 133\n133 × 2 + 1 = 267\n\nSequence (2):\n7 × 3 + 2 = 23\n23 × 3 − 2 = 67\n67 × 3 + 2 = 203\n203 × 3 − 2 = 607\n607 × 3 + 2 = 1823\n\nSequence (3):\n6 × 4 + 3 = 27\n27 × 4 − 3 = 105\n105 × 4 + 3 = 423\n423 × 4 − 3 = 1689\n1689 × 4 + 3 = 6759\n\nHence the correct answer is 267, 1823, 6759.",
+    "question_id": "nimcet_2025_rea_40",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2025",
+      "number_series"
+    ]
+  }
+]

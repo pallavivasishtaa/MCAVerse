@@ -226,11 +226,37 @@ function loadQuestion(){
 
         q.options.forEach((opt,index)=>{
 
-            html += `
-            <div class="option" id="opt${index}">
-                <b>${letters[index]}.</b> ${opt}
-            </div>
-            `;
+            // IMAGE OPTION
+
+            if(typeof opt === "object" && opt.type === "image"){
+
+                html += `
+                <div class="option" id="opt${index}">
+
+                    <b>${opt.label}.</b>
+
+                    <br><br>
+
+                    <img
+                        src="${opt.value}"
+                        class="question-image"
+                        onerror="this.style.display='none'"
+                    >
+
+                </div>
+                `;
+            }
+
+            // NORMAL TEXT OPTION
+
+            else{
+
+                html += `
+                <div class="option" id="opt${index}">
+                    <b>${letters[index]}.</b> ${opt}
+                </div>
+                `;
+            }
 
         });
 

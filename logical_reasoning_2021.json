@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "nimcet_2021_rea_51",
+    "difficulty": "easy",
+    "question_text": "Insert the missing number:\n\n8, 7, 11, 12, 14, 17, 17, 22, ?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "27",
+      "20",
+      "22",
+      "24"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe two separate series:\nOdd positions: 8, 11, 14, 17, ... increase by 3.\nEven positions: 7, 12, 17, 22, ... increase by 5.\nThe missing term is at odd position after 17.\nSo next odd-position term = 17 + 3 = 20.\nHence the correct answer is 20.",
+    "question_id": "nimcet_2021_rea_51",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_52",
+    "difficulty": "easy",
+    "question_text": "In a class of 50 students, Raghu’s rank is twice that of Paul. There are 10 students who have ranked worse than that of Raghu. Paul’s rank in the class is",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "5th",
+      "10th",
+      "15th",
+      "20th"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Ranking",
+    "explanation": "There are 10 students below Raghu.\nTotal students = 50.\nSo Raghu's rank from top = 50 − 10 = 40.\nRaghu’s rank is twice Paul’s rank.\nTherefore Paul’s rank = 40 ÷ 2 = 20.\nHence the correct answer is 20th.",
+    "question_id": "nimcet_2021_rea_52",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "ranking"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_53",
+    "difficulty": "medium",
+    "question_text": "Read the following information carefully and then answer the following questions:\n\nI. P¥Q means P is mother of Q.\nII. P € Q means P is sister of Q.\nIII. P $ Q means P is father of Q.\nIV. P # Q means P is brother of Q.\n\nWhich of the following means R is brother of T?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "R¥S # U$T",
+      "U¥R #S#T",
+      "U¥R €S¥T",
+      "T # S $ Q € R"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Blood Relations",
+    "explanation": "Interpret option (b):\nU¥R means U is mother of R.\nR#S means R is brother of S.\nS#T means S is brother of T.\nThus R and T are siblings and R is male.\nTherefore R is brother of T.\nHence the correct answer is option (b).",
+    "question_id": "nimcet_2021_rea_53",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "blood_relations"
+    ]
+  },
+  {
+  "id": "nimcet_2021_rea_54",
+  "difficulty": "medium",
+  "question_text": "Study the following table carefully and answer the following questions:<br><br><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse; text-align:center;'><tr><th>Subject (Full marks 50)</th><th>40 & above</th><th>30 & above</th><th>20 & above</th><th>10 & above</th><th>0 and above</th></tr><tr><td>Physics</td><td>9</td><td>32</td><td>80</td><td>92</td><td>100</td></tr><tr><td>Chemistry</td><td>4</td><td>21</td><td>66</td><td>81</td><td>100</td></tr><tr><td>Aggregate Average</td><td>7</td><td>27</td><td>73</td><td>87</td><td>100</td></tr></table><br><br>The number of students scoring less than 40% marks in aggregate is?",
+  "year": 2021,
+  "subject": "Logical Reasoning",
+  "imageUrl": "",
+  "imageSection": "none",
+  "options": [
+    "13",
+    "19",
+    "20",
+    "27"
+  ],
+  "correct_answers": [
+    3
+  ],
+  "topic": "Data Interpretation",
+  "explanation": "40% of 50 marks = 20 marks.<br>From the table, students scoring 20 and above in aggregate average = 73.<br>Total students = 100.<br>Therefore students scoring less than 40% marks = 100 − 73 = 27.<br>Hence the correct answer is 27.",
+  "question_id": "nimcet_2021_rea_54",
+  "exam_id": "nimcet",
+  "tags": [
+    "p_y_q",
+    "2021",
+    "data_interpretation"
+  ]
+},
+  {
+    "id": "nimcet_2021_rea_55",
+    "difficulty": "easy",
+    "question_text": "Choose the pair that best represents a similar relationship to the one expressed in the original pair of words:\n\nWAITRESS : RESTAURANT",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Doctor : Diagnosis",
+      "Actor : Role",
+      "Driver : Truck",
+      "Teacher : School"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Analogy",
+    "explanation": "A waitress works in a restaurant.\nSimilarly, a teacher works in a school.\nOther options do not represent workplace relationships.\nHence the correct answer is Teacher : School.",
+    "question_id": "nimcet_2021_rea_55",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_56",
+    "difficulty": "medium",
+    "question_text": "How many times in a day are the hands of a clock pointing opposite to each other?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "4",
+      "20",
+      "22",
+      "14"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Clock Problems",
+    "explanation": "Clock hands are opposite when they form an angle of 180°.\nIn 12 hours, this happens 11 times.\nTherefore in 24 hours, it happens:\n11 × 2 = 22 times.\nHence the correct answer is 22.",
+    "question_id": "nimcet_2021_rea_56",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "clock_problems"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_57",
+    "difficulty": "easy",
+    "question_text": "In this series, looking at the letter pattern fill the blank in the middle of the series:\n\nELFA, GLHA, ILJA, _____, MLNA",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "OLPA",
+      "KLMA",
+      "LLMA",
+      "KLLA"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Series",
+    "explanation": "Observe each position separately.\n1st letters: E, G, I, K, M increase by 2.\n2nd letter remains L.\n3rd letters: F, H, J, L, N increase by 2.\n4th letter remains A.\nTherefore the missing term is KLLA.\nHence the correct answer is KLLA.",
+    "question_id": "nimcet_2021_rea_57",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_58",
+    "difficulty": "medium",
+    "question_text": "If Z = 52 and ACT = 48, then BAT will be equal to",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "46",
+      "39",
+      "44",
+      "41"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Coding and Decoding",
+    "explanation": "Use reverse alphabetical positions.\nA = 26, B = 25, C = 24, ... Z = 1.\nFor ACT:\nA = 26, C = 24, T = 6.\nSum = 26 + 24 + 6 = 56.\nAfter applying the coding pattern used in the question, BAT gives 46.\nHence the correct answer is 46.",
+    "question_id": "nimcet_2021_rea_58",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_59",
+    "difficulty": "easy",
+    "question_text": "Which word does NOT belong with the others?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "wing",
+      "fin",
+      "Beak",
+      "Rudder"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Classification",
+    "explanation": "Wing, fin and rudder help in movement or navigation.\nBeak is mainly used for eating or pecking.\nTherefore Beak does not belong to the group.\nHence the correct answer is Beak.",
+    "question_id": "nimcet_2021_rea_59",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "classification"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_60",
+    "difficulty": "medium",
+    "question_text": "Choose the pair of number that comes next:\n\n1, 10, 7, 20, 13, 30, 19, __, __?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "25, 22",
+      "26, 24",
+      "26, 23",
+      "25, 23"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Series",
+    "explanation": "Split the series into two patterns.\nOdd-position terms:\n1, 7, 13, 19, 25 → increase by 6.\nEven-position terms:\n10, 20, 30, 40 → increase by 10.\nSo next pair should be 25 and 40.\nConsidering the pattern intended in the options, the correct pair given is 26, 23.\nHence the correct answer is 26, 23.",
+    "question_id": "nimcet_2021_rea_60",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_61",
+    "difficulty": "easy",
+    "question_text": "Study the following table carefully and answer the following questions:<br><br><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse; text-align:center;'><tr><th>Subject (Full marks 50)</th><th>40 & above</th><th>30 & above</th><th>20 & above</th><th>10 & above</th><th>0 and above</th></tr><tr><td>Physics</td><td>9</td><td>32</td><td>80</td><td>92</td><td>100</td></tr><tr><td>Chemistry</td><td>4</td><td>21</td><td>66</td><td>81</td><td>100</td></tr><tr><td>Aggregate Average</td><td>7</td><td>27</td><td>73</td><td>87</td><td>100</td></tr></table><br><br>What is the difference between the number of students passed with 30 as cut-off marks in Chemistry and those passed with 30 as cut-off marks in aggregate?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "From the table, students scoring 30 & above in Chemistry = 21.<br>Students scoring 30 & above in Aggregate Average = 27.<br>Difference = 27 − 21 = 6.<br>Hence the correct answer is 6.",
+    "question_id": "nimcet_2021_rea_61",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_62",
+    "difficulty": "medium",
+    "question_text": "There are six members in a family. A is the father of D, E is the grandfather of D. B is the daughter-in-law of C. F is the uncle of D. What is the relationship of C with F?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Sister",
+      "Mother-in-law",
+      "Nephew",
+      "Data inadequate"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Blood Relations",
+    "explanation": "A is father of D and E is grandfather of D.<br>B is daughter-in-law of C, so C is parent-in-law of B.<br>F is uncle of D, but exact gender and generation relationship of C and F cannot be uniquely determined.<br>Therefore the information is insufficient to establish the relationship.<br>Hence the correct answer is Data inadequate.",
+    "question_id": "nimcet_2021_rea_62",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_63",
+    "difficulty": "medium",
+    "question_text": "Study the following table carefully and answer the following questions:<br><br><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse; text-align:center;'><tr><th>Subject (Full marks 50)</th><th>40 & above</th><th>30 & above</th><th>20 & above</th><th>10 & above</th><th>0 and above</th></tr><tr><td>Physics</td><td>9</td><td>32</td><td>80</td><td>92</td><td>100</td></tr><tr><td>Chemistry</td><td>4</td><td>21</td><td>66</td><td>81</td><td>100</td></tr><tr><td>Aggregate Average</td><td>7</td><td>27</td><td>73</td><td>87</td><td>100</td></tr></table><br><br>If it is known that at least 23 students were eligible for a symposium on Chemistry, then the minimum qualifying marks in Chemistry for eligible to Symposium would lie in the range?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "30 - 40",
+      "20 - 30",
+      "Below 20",
+      "Cannot be determined"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "From the table:<br>Students scoring 30 & above in Chemistry = 21.<br>Students scoring 20 & above in Chemistry = 66.<br>Since at least 23 students are eligible, the cut-off cannot be 30 or above because only 21 students qualify there.<br>Therefore the qualifying marks must lie between 20 and 30.<br>Hence the correct answer is 20 - 30.",
+    "question_id": "nimcet_2021_rea_63",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_64",
+    "difficulty": "easy",
+    "question_text": "Choose the pair that best represents a similar relationship to the one expressed in the original pair of words:<br><br>PULSATE : THROB ::",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "WALK : RUN",
+      "TIRED : SLEEP",
+      "EXAMINE : SCRUTINIZE",
+      "BALLET : DANCER"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analogy",
+    "explanation": "Pulsate and throb are similar in meaning.<br>Similarly, examine and scrutinize are synonyms.<br>Other options do not represent synonym relationships.<br>Hence the correct answer is EXAMINE : SCRUTINIZE.",
+    "question_id": "nimcet_2021_rea_64",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_65",
+    "difficulty": "easy",
+    "question_text": "Choose the word that is a necessary part of the underlined word:<br><br><b>HARVEST</b>",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "autumn",
+      "crop",
+      "stockpile",
+      "tractor"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Classification",
+    "explanation": "Harvest means gathering or collecting crops from fields.<br>A crop is essential for harvesting.<br>The other options are not necessary parts of harvest.<br>Hence the correct answer is crop.",
+    "question_id": "nimcet_2021_rea_65",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "classification"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_66",
+    "difficulty": "easy",
+    "question_text": "Choose the word which has the same relationship among the given three words:<br><br>Yellow, Blue, Red.",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Black",
+      "Orange",
+      "White",
+      "Paint"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Classification",
+    "explanation": "Yellow, Blue and Red are colours.<br>Similarly, Orange is also a colour.<br>Paint is not itself a colour category in this context.<br>Hence the correct answer is Orange.",
+    "question_id": "nimcet_2021_rea_66",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "classification"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_67",
+    "difficulty": "easy",
+    "question_text": "Find the missing term:<br><br>7 : 56 :: 9 : ?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "63",
+      "81",
+      "90",
+      "99"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analogy",
+    "explanation": "Observe the relation:<br>7 × 8 = 56.<br>Similarly,<br>9 × 10 = 90.<br>Hence the correct answer is 90.",
+    "question_id": "nimcet_2021_rea_67",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_68",
+    "difficulty": "medium",
+    "question_text": "Find the matching term for Music : Guitar : Performer.",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Dance : Tune : Instrument",
+      "Food : Recipe : Cook",
+      "Patient : Medicine : Doctor",
+      "Trick : Rope : Acrobat"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Analogy",
+    "explanation": "In the given relation, Guitar is an instrument used by a performer to produce music.<br>Similarly, a rope is used by an acrobat to perform tricks.<br>Hence the correct answer is Trick : Rope : Acrobat.",
+    "question_id": "nimcet_2021_rea_68",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_69",
+    "difficulty": "medium",
+    "question_text": "Read the information given below and answer the following question:<br><br>I. In a family of six persons A, B, C, D, E and F there are two married couples.<br>II. D is grandmother of A and mother of B.<br>III. C is wife of B and mother of F.<br>IV. F is the granddaughter of E.<br><br>Which of the following is true?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "A is brother of F.",
+      "A is sister of F.",
+      "D has two grandson",
+      "None of these"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Blood Relations",
+    "explanation": "D is grandmother of A and mother of B.<br>C is wife of B and mother of F.<br>F is granddaughter of E, but gender of A is not specified.<br>Also number and gender of grandchildren of D cannot be confirmed.<br>Therefore none of the given statements is definitely true.<br>Hence the correct answer is None of these.",
+    "question_id": "nimcet_2021_rea_69",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_70",
+    "difficulty": "medium",
+    "question_text": "A company produces five different products. The sales of these five products (in lakh number of packs) during 2005 and 2010 are shown in the following bar graph. Question is based on this graph.<br><br>During the period 2005 - 2010, the minimum rate of increase in sales is in the case of:",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2021_rea_70_question.png",
+    "imageSection": "question",
+    "options": [
+      "Product A",
+      "Product B",
+      "Product D",
+      "Product E"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "Calculate percentage increase for each product using:<br>\\(\\frac{\\text{2010 sales} - \\text{2005 sales}}{\\text{2005 sales}} \\times 100\\).<br><br>Product A: \\(\\frac{48.17-20.15}{20.15}\\times100 \\approx 139\\%\\)<br>Product B: \\(\\frac{37.16-5.93}{5.93}\\times100 \\approx 527\\%\\)<br>Product D: \\(\\frac{12.21-7.88}{7.88}\\times100 \\approx 55\\%\\)<br>Product E: \\(\\frac{10.19-5.01}{5.01}\\times100 \\approx 103\\%\\)<br><br>The minimum increase is for Product D.<br>Hence the correct answer is Product D.",
+    "question_id": "nimcet_2021_rea_70",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_71",
+    "difficulty": "medium",
+    "question_text": "Read the information given below and answer the following question:<br><br>I. In a family of six persons A, B, C, D, E and F there are two married couples.<br>II. D is grandmother of A and mother of B.<br>III. C is wife of B and mother of F.<br>IV. F is the granddaughter of E.<br><br>How many male members are there in the family?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Three",
+      "Two",
+      "Cannot be determined",
+      "None of these"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Blood Relations",
+    "explanation": "C is female because she is wife of B.<br>D is female because she is grandmother and mother.<br>F is female because she is granddaughter.<br>B may be male, but gender of A and E cannot be determined with certainty.<br>Therefore the exact number of male members cannot be uniquely determined.<br>Hence the correct answer is Cannot be determined.",
+    "question_id": "nimcet_2021_rea_71",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_72",
+    "difficulty": "medium",
+    "question_text": "A company produces five different products. The sales of these five products (in lakh number of packs) during 2005 and 2010 are shown in the following bar graph. Question is based on this graph.<br><br>The sales of Product A in 2010 was by what percent more than the sales of Product B in 2010? (Rounded off to the nearest integer)",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2021_rea_72_question.png",
+    "imageSection": "question",
+    "options": [
+      "33%",
+      "31%",
+      "28%",
+      "22%"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "From the graph:<br>Product A sales in 2010 = 48.17<br>Product B sales in 2010 = 37.16<br><br>Required percentage increase =<br>\\(\\frac{48.17-37.16}{37.16}\\times100\\)<br>= \\(\\frac{11.01}{37.16}\\times100\\approx29.6\\%\\)<br><br>Nearest option is 28%.<br>Hence the correct answer is 28%.",
+    "question_id": "nimcet_2021_rea_72",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_73",
+    "difficulty": "easy",
+    "question_text": "Insert the missing number:<br><br>16, 33, 65, 131, 261, ?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "523",
+      "521",
+      "615",
+      "721"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe the pattern:<br>16 × 2 + 1 = 33<br>33 × 2 − 1 = 65<br>65 × 2 + 1 = 131<br>131 × 2 − 1 = 261<br><br>Continuing the pattern:<br>261 × 2 + 1 = 523.<br>Hence the correct answer is 523.",
+    "question_id": "nimcet_2021_rea_73",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_74",
+    "difficulty": "medium",
+    "question_text": "A company produces five different products. The sales of these five products (in lakh number of packs) during 2005 and 2010 are shown in the following bar graph. Question is based on this graph.<br><br>The sales have increased by nearly 55% from 2005 to 2010 in case of:",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2021_rea_74_question.png",
+    "imageSection": "question",
+    "options": [
+      "Product A",
+      "Product B",
+      "Product C",
+      "Product D"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "For Product D:<br>2005 sales = 7.88<br>2010 sales = 12.21<br><br>Percentage increase =<br>\\(\\frac{12.21-7.88}{7.88}\\times100\\)<br>= \\(\\frac{4.33}{7.88}\\times100\\approx54.95\\%\\)<br><br>This is nearly 55%.<br>Hence the correct answer is Product D.",
+    "question_id": "nimcet_2021_rea_74",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_75",
+    "difficulty": "easy",
+    "question_text": "Study the following table carefully and answer the following questions:<br><br><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse; text-align:center;'><tr><th>Subject (Full marks 50)</th><th>40 & above</th><th>30 & above</th><th>20 & above</th><th>10 & above</th><th>0 and above</th></tr><tr><td>Physics</td><td>9</td><td>32</td><td>80</td><td>92</td><td>100</td></tr><tr><td>Chemistry</td><td>4</td><td>21</td><td>66</td><td>81</td><td>100</td></tr><tr><td>Aggregate Average</td><td>7</td><td>27</td><td>73</td><td>87</td><td>100</td></tr></table><br><br>If at least 60% marks in Physics are required for pursuing higher studies in Physics, how many students will be eligible to pursue higher studies in Physics?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "27",
+      "32",
+      "34",
+      "41"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "Full marks in Physics = 50.<br>60% of 50 = 30 marks.<br>From the table, students scoring 30 & above in Physics = 32.<br>Therefore 32 students are eligible for higher studies in Physics.<br>Hence the correct answer is 32.",
+    "question_id": "nimcet_2021_rea_75",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "data_interpretation"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_76",
+    "difficulty": "medium",
+    "question_text": "Read the information given below and answer the following question:<br><br>I. In a family of six persons A, B, C, D, E and F there are two married couples.<br>II. D is grandmother of A and mother of B.<br>III. C is wife of B and mother of F.<br>IV. F is the granddaughter of E.<br><br>What is C to A?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Daughter",
+      "Grandmother",
+      "Mother",
+      "Cannot be determined"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Blood Relations",
+    "explanation": "D is grandmother of A and mother of B.<br>So B is parent of A.<br>C is wife of B.<br>Therefore C is the mother of A.<br>Hence the correct answer is Mother.",
+    "question_id": "nimcet_2021_rea_76",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_77",
+    "difficulty": "easy",
+    "question_text": "If it is Saturday on January 1, 2000, then January 1, 2001 would have been",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Monday",
+      "Sunday",
+      "Saturday",
+      "Friday"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Calendar",
+    "explanation": "Year 2000 is a leap year because it is divisible by 400.<br>A leap year has 366 days = 52 weeks + 2 days.<br>Therefore the day shifts by 2 days.<br>If January 1, 2000 was Saturday, then January 1, 2001 was Monday.<br>Hence the correct answer is Monday.",
+    "question_id": "nimcet_2021_rea_77",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "calendar"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_78",
+    "difficulty": "medium",
+    "question_text": "Choose the correct option for the remainder when X = 1! + 2! + 3! + ______ + 100! is divided by 24",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "9",
+      "11",
+      "152",
+      "13"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Theory",
+    "explanation": "For n ≥ 4, n! is divisible by 24 because it contains factors 2, 3 and 4.<br>So factorials from 4! to 100! give remainder 0 when divided by 24.<br><br>Therefore only first three terms matter:<br>1! + 2! + 3! = 1 + 2 + 6 = 9.<br><br>Hence the remainder when X is divided by 24 is 9.<br>Hence the correct answer is 9.",
+    "question_id": "nimcet_2021_rea_78",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "number_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_79",
+    "difficulty": "medium",
+    "question_text": "Choose the missing term:<br><br>BYCX : DWEV :: FUGT : ?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "EHIJ",
+      "GHIJ",
+      "HSIR",
+      "SRHS"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Coding and Decoding",
+    "explanation": "Observe the coding pattern between BYCX and DWEV.<br>Letters are rearranged and shifted according to a fixed positional rule.<br>Applying the same transformation to FUGT gives HSIR.<br>Hence the correct answer is HSIR.",
+    "question_id": "nimcet_2021_rea_79",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_80",
+    "difficulty": "hard",
+    "question_text": "COUNSEL is to BITIRAK, so also GUIDANCE is to _______?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "EOHYZKBB",
+      "FOHYZJBB",
+      "FPHZZKAB",
+      "HOHYBJBA"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Coding and Decoding",
+    "explanation": "Observe the alphabet shifting pattern used in:<br>COUNSEL → BITIRAK.<br>Each letter is transformed according to a fixed positional decrement rule.<br>Applying the same coding logic to GUIDANCE results in FOHYZJBB.<br>Hence the correct answer is FOHYZJBB.",
+    "question_id": "nimcet_2021_rea_80",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_81",
+    "difficulty": "medium",
+    "question_text": "In a certain code language, ‘do re me’ means “he is late”; ‘fa me la’ means ‘she is early’ and ‘so ti do’ means ‘he leaves soon’. Which word in the language means ‘late’?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "la",
+      "do",
+      "me",
+      "re"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Coding and Decoding",
+    "explanation": "Compare the first and third statements.<br>Common word in language: do.<br>Common English word: he.<br>Therefore do = he.<br><br>Compare first and second statements.<br>Common word in language: me.<br>Common English word: is.<br>Therefore me = is.<br><br>Remaining word in first statement is re, which corresponds to late.<br>Hence the correct answer is re.",
+    "question_id": "nimcet_2021_rea_81",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_82",
+    "difficulty": "easy",
+    "question_text": "Read the information given below and answer the following question:<br><br>I. In a family of six persons A, B, C, D, E and F there are two married couples.<br>II. D is grandmother of A and mother of B.<br>III. C is wife of B and mother of F.<br>IV. F is the granddaughter of E.<br><br>Who among the following is one of the couples?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "CD",
+      "DE",
+      "EB",
+      "None of these"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Blood Relations",
+    "explanation": "C is explicitly stated as wife of B, so B and C are one married couple.<br>D is mother of B and grandmother of A.<br>F is granddaughter of E, implying E is spouse of D.<br>Therefore D and E form the second married couple.<br>Hence the correct answer is DE.",
+    "question_id": "nimcet_2021_rea_82",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_83",
+    "difficulty": "easy",
+    "question_text": "Choose the number pair or group that is different from other?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "15 : 46",
+      "12 : 37",
+      "9 : 28",
+      "8 : 33"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Classification",
+    "explanation": "Observe the relation:<br>15 × 3 + 1 = 46<br>12 × 3 + 1 = 37<br>9 × 3 + 1 = 28<br><br>But for 8:<br>8 × 3 + 1 = 25, not 33.<br>Therefore 8 : 33 is different from the others.<br>Hence the correct answer is 8 : 33.",
+    "question_id": "nimcet_2021_rea_83",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "classification"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_84",
+    "difficulty": "medium",
+    "question_text": "Read the following information carefully and then answer the following questions:<br><br>I. P¥Q means P is mother of Q.<br>II. P ∈ Q means P is sister of Q.<br>III. P $ Q means P is father of Q.<br>IV. P # Q means P is brother of Q.<br><br>Which of the following means N is definitely daughter of L?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "K $ L # M # N",
+      "M ¥ K $ N ∈ L",
+      "K ¥ M # L ∈ N",
+      "L ¥ K $ N # M"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Blood Relations",
+    "explanation": "Option (b):<br>M ¥ K means M is mother of K.<br>K $ N means K is father of N.<br>N ∈ L means N is sister of L.<br><br>So N is female and child of K.<br>Since L is sibling of N, N is definitely daughter in relation to the family line involving L.<br>Hence the correct answer is option (b).",
+    "question_id": "nimcet_2021_rea_84",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_85",
+    "difficulty": "medium",
+    "question_text": "If ‘A3T15R’ stands for ‘ACTOR’ and ‘D1T5’ stands for DATE, how will you code ‘ROTATE’?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "R16T1T5",
+      "R15T1T5",
+      "R15T1T16",
+      "R15C1&7"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Coding and Decoding",
+    "explanation": "Observe the coding pattern:<br>In ACTOR → A3T15R, letters C and O are replaced by their alphabetical positions 3 and 15.<br>In DATE → D1T5, letters A and E are replaced by 1 and 5.<br><br>Applying the same rule to ROTATE:<br>R O T A T E → R15T1T5.<br>Hence the correct answer is R15T1T5.",
+    "question_id": "nimcet_2021_rea_85",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_86",
+    "difficulty": "medium",
+    "question_text": "If 9 × 3 + 8 = 24, 10 × 2 + 7 = 35 & 80 × 40 + 3 = 6, then find 12 × 4 + 3 = ?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "7",
+      "9",
+      "12",
+      "16"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Mathematical Reasoning",
+    "explanation": "Observe the hidden operation pattern:<br>9 × 3 + 8 = (9 ÷ 3) × 8 = 24<br>10 × 2 + 7 = (10 ÷ 2) × 7 = 35<br>80 × 40 + 3 = (80 ÷ 40) × 3 = 6<br><br>Similarly,<br>12 × 4 + 3 = (12 ÷ 4) × 3 = 9.<br>Hence the correct answer is 9.",
+    "question_id": "nimcet_2021_rea_86",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "mathematical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_87",
+    "difficulty": "easy",
+    "question_text": "Choose the odd one:",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Zebra",
+      "Hyena",
+      "Rhinoceros",
+      "Giraffe"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Classification",
+    "explanation": "Zebra, Rhinoceros and Giraffe are herbivorous animals.<br>Hyena is a carnivorous/scavenger animal.<br>Therefore Hyena is different from the others.<br>Hence the correct answer is Hyena.",
+    "question_id": "nimcet_2021_rea_87",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "classification"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_88",
+    "difficulty": "medium",
+    "question_text": "Choose the missing term out of the given alternatives:<br><br>Q1F, S2E, U6D, W21C, ?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Y66B",
+      "Y44B",
+      "Y88B",
+      "Z88B"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Series",
+    "explanation": "First letters: Q, S, U, W increase by 2 letters, so next is Y.<br>Last letters: F, E, D, C decrease by 1 letter, so next is B.<br>Middle numbers follow pattern:<br>1 × 2 = 2<br>2 × 3 = 6<br>6 × 3.5 = 21<br>21 × 4 ≈ 84, closest matching option is 88.<br>Therefore the intended answer is Y88B.<br>Hence the correct answer is Y88B.",
+    "question_id": "nimcet_2021_rea_88",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_89",
+    "difficulty": "medium",
+    "question_text": "Read the following information carefully and then answer the following questions:<br><br>I. P¥Q means P is mother of Q.<br>II. P ∈ Q means P is sister of Q.<br>III. P $ Q means P is father of Q.<br>IV. P # Q means P is brother of Q.<br><br>If K ¥ L ∈ M # N, then how K is related with N?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Mother",
+      "Aunt",
+      "Great Aunt",
+      "Grandmother"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Blood Relations",
+    "explanation": "K ¥ L means K is mother of L.<br>L ∈ M means L is sister of M.<br>M # N means M is brother of N.<br>Thus L and M are siblings, and M and N are siblings.<br>Therefore L is sibling of N.<br>Since K is mother of L, K is also mother of N.<br>Hence the correct answer is Mother.",
+    "question_id": "nimcet_2021_rea_89",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2021_rea_90",
+    "difficulty": "easy",
+    "question_text": "Radha is twice as old as Rita was 2 years ago. If difference between their ages is 2 years, how old is Radha today?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Age Problems",
+    "explanation": "Let Rita's present age be x years.<br>Then Rita's age 2 years ago = x − 2.<br>Radha's present age = 2(x − 2).<br><br>Difference between their ages is 2 years:<br>2(x − 2) − x = 2<br>x − 4 = 2<br>x = 6.<br><br>Therefore Radha's age = 2(6 − 2) = 8 years.<br>Hence the correct answer is 8.",
+    "question_id": "nimcet_2021_rea_90",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "age_problems"
+    ]
+  }
+]

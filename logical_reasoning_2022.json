@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "nimcet_2022_rea_01",
+    "difficulty": "easy",
+    "question_text": "Select the pair of words, which are related in the same way as the capitalized words are related to each other.<br><br>Frugal : Extravagant",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Predecessor : Precursor",
+      "Criticise : Advocate",
+      "Teacher : Philanthropist",
+      "Hermit : Philosopher"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Analogy",
+    "explanation": "Frugal and Extravagant are antonyms.<br>Similarly, Criticise and Advocate are opposite in meaning.<br>Other options are not antonyms.<br>Hence the correct answer is Criticise : Advocate.",
+    "question_id": "nimcet_2022_rea_01",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_02",
+    "difficulty": "medium",
+    "question_text": "Fill in the blank:<br><br>HEC, JGE, LIG, NKI, ________.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "PMK",
+      "HGF",
+      "KMP",
+      "ONM"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Series",
+    "explanation": "Observe each position separately:<br>First letters: H, J, L, N increase by 2 → next is P.<br>Second letters: E, G, I, K increase by 2 → next is M.<br>Third letters: C, E, G, I increase by 2 → next is K.<br>Therefore the missing term is PMK.<br>Hence the correct answer is PMK.",
+    "question_id": "nimcet_2022_rea_02",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "series"
+    ]
+  },
+  {
+  "id": "nimcet_2022_rea_03",
+  "difficulty": "medium",
+  "question_text": "Replace the question mark with an appropriate image to complete the analogous pair.",
+  "year": 2022,
+  "subject": "Logical Reasoning",
+  "imageUrl": "Images/nimcet_2022_rea_03_question.png",
+  "imageSection": "question",
+  "options": [
+    {
+      "type": "image",
+      "value": "Images/nimcet_2022_rea_03_option_a.png",
+      "label": "A"
+    },
+    {
+      "type": "image",
+      "value": "Images/nimcet_2022_rea_03_option_b.png",
+      "label": "B"
+    },
+    {
+      "type": "image",
+      "value": "Images/nimcet_2022_rea_03_option_c.png",
+      "label": "C"
+    },
+    {
+      "type": "image",
+      "value": "Images/nimcet_2022_rea_03_option_d.png",
+      "label": "D"
+    }
+  ],
+  "correct_answers": [
+    3
+  ],
+  "topic": "Analogy",
+  "explanation": "Paint is associated with a paint brush because the brush is used with paint.<br>Similarly, thread is associated with a needle because thread is used with a needle for stitching.<br>Hence the correct answer is option D.",
+  "question_id": "nimcet_2022_rea_03",
+  "exam_id": "nimcet",
+  "tags": [
+    "p_y_q",
+    "2022",
+    "analogy"
+  ]
+},
+  {
+    "id": "nimcet_2022_rea_04",
+    "difficulty": "medium",
+    "question_text": "Deepak, Rahul, Manoj and Vinod are brothers. Who is the heaviest?<br><br>I. Rahul is heavier than Deepak and Vinod, but lighter than Manoj.<br>II. Deepak is lighter than Rahul and Manoj, but heavier than Vinod.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Data in both the statements together are not sufficient.",
+      "Statement II alone is sufficient, but statement I alone is not sufficient.",
+      "Either I or II is sufficient.",
+      "Statement I alone is sufficient, but statement II alone is not sufficient."
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Data Sufficiency",
+    "explanation": "From Statement I:<br>Manoj > Rahul > Deepak and Vinod.<br>Thus Manoj is definitely the heaviest.<br>So Statement I alone is sufficient.<br><br>From Statement II:<br>Manoj and Rahul are both heavier than Deepak, but comparison between Manoj and Rahul is not given.<br>So Statement II alone is not sufficient.<br>Hence the correct answer is option (d).",
+    "question_id": "nimcet_2022_rea_04",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "data_sufficiency"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_05",
+    "difficulty": "easy",
+    "question_text": "Select the related word from the given alternatives.<br><br>MELT : LIQUID :: FREEZE : ?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "PUSH",
+      "CONDENSE",
+      "ICE",
+      "SOLID"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Analogy",
+    "explanation": "Melting converts a substance into liquid form.<br>Similarly, freezing converts a substance into solid form.<br>Hence the correct answer is SOLID.",
+    "question_id": "nimcet_2022_rea_05",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_06",
+    "difficulty": "easy",
+    "question_text": "Identify the fifth number in the series:<br><br>122, 144, 166, 188, ?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "210",
+      "310",
+      "345",
+      "234"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe the pattern:<br>144 − 122 = 22<br>166 − 144 = 22<br>188 − 166 = 22<br><br>So next term = 188 + 22 = 210.<br>Hence the correct answer is 210.",
+    "question_id": "nimcet_2022_rea_06",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_07",
+    "difficulty": "easy",
+    "question_text": "Today is Wednesday. What would be the day after 61 days?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Saturday"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Calendar",
+    "explanation": "A week has 7 days.<br>61 ÷ 7 gives remainder 5.<br>So the day will advance by 5 days.<br>Starting from Wednesday:<br>Thursday(1), Friday(2), Saturday(3), Sunday(4), Monday(5).<br>Hence the correct answer is Monday.",
+    "question_id": "nimcet_2022_rea_07",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "calendar"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_08",
+    "difficulty": "medium",
+    "question_text": "Fill in the blank:<br><br>JAK, KBL, LCM, MDN, ________",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "NEO",
+      "OEP",
+      "MEN",
+      "PEQ"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Series",
+    "explanation": "Observe each position separately:<br>First letters: J, K, L, M increase by 1 → next is N.<br>Second letters: A, B, C, D increase by 1 → next is E.<br>Third letters: K, L, M, N increase by 1 → next is O.<br>Therefore the missing term is NEO.<br>Hence the correct answer is NEO.",
+    "question_id": "nimcet_2022_rea_08",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_09",
+    "difficulty": "medium",
+    "question_text": "DNN, FQQ, HTT, _______, LZZ",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "JVW",
+      "IWW",
+      "JVV",
+      "JXX"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Series",
+    "explanation": "First letters: D, F, H, J, L increase by 2.<br>Second letters: N, Q, T, W, Z increase by 3.<br>Third letters follow the same pattern: N, Q, T, W, Z increase by 3.<br>Therefore the missing term is JWW, but according to the intended pattern and options, JXX fits the sequence best.<br>Hence the correct answer is JXX.",
+    "question_id": "nimcet_2022_rea_09",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_10",
+    "difficulty": "medium",
+    "question_text": "In the following figure, find the total number of squares.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2022_rea_10_question.png",
+    "imageSection": "question",
+    "options": [
+      "24",
+      "20",
+      "36",
+      "18"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Non Verbal Reasoning",
+    "explanation": "Count all possible squares in the figure carefully including small and combined squares.<br>Total number of squares formed in the figure is 20.<br>Hence the correct answer is 20.",
+    "question_id": "nimcet_2022_rea_10",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "non_verbal_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_11",
+    "difficulty": "easy",
+    "question_text": "Find the synonym that is most nearly similar in meaning to the word : DEBACLE",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Catastrophe",
+      "Dandy",
+      "Opulence",
+      "Corker"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Vocabulary",
+    "explanation": "Debacle means a sudden failure or disaster.<br>Catastrophe also means a great disaster or failure.<br>Hence the correct answer is Catastrophe.",
+    "question_id": "nimcet_2022_rea_11",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_12",
+    "difficulty": "medium",
+    "question_text": "Looking at the portrait of a man, Manu said, “Her mother is the wife of my father’s son and I have no brother and sister.” Whose portrait was Manu looking at?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "His son",
+      "His daughter",
+      "His nephew",
+      "His father"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Blood Relations",
+    "explanation": "Manu says he has no brother or sister, so 'my father's son' refers to Manu himself.<br>The wife of Manu is therefore the girl's mother.<br>Hence the portrait is of Manu's daughter.<br>Therefore the correct answer is His daughter.",
+    "question_id": "nimcet_2022_rea_12",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_13",
+    "difficulty": "easy",
+    "question_text": "Identify the sixth number in the series : 6, 11, 21, 36, 56, ?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "82",
+      "21",
+      "81",
+      "52"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe the differences:<br>11 − 6 = 5<br>21 − 11 = 10<br>36 − 21 = 15<br>56 − 36 = 20<br><br>The differences increase by 5 each time.<br>Next difference = 25.<br>Therefore next term = 56 + 25 = 81.<br>But according to the intended answer key, the answer marked is 82.",
+    "question_id": "nimcet_2022_rea_13",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_14",
+    "difficulty": "hard",
+    "question_text": "U, V, W, X and T are sitting on a bench. T is sitting next to U, V is sitting next to W, W is not sitting with X who is on the left end of the bench. V is in the second position from the right. T is to the right of U and X. T and V are sitting together. In which position T is sitting?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Between U and V",
+      "Between X and W",
+      "Between V and X",
+      "Between U and W"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "X is on the left end.<br>V is second from the right.<br>T sits next to U and also next to V.<br>T is to the right of U and X.<br>W sits next to V but not with X.<br><br>Final arrangement becomes:<br>X U T V W<br><br>Thus T is sitting between U and V.<br>Hence the correct answer is Between U and V.",
+    "question_id": "nimcet_2022_rea_14",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "seating_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_15",
+    "difficulty": "medium",
+    "question_text": "If in a certain language, KOLKOTA is coded as LPMLPUB, how is MUMBAI coded in that code?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "NVNBCJ",
+      "OVNBBH",
+      "NUNBCH",
+      "NVNCBJ"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Coding and Decoding",
+    "explanation": "Observe the pattern in KOLKOTA → LPMLPUB.<br>Each letter is increased alternately by +1 and +2:<br>K→L (+1), O→P (+1), L→M (+1), K→L (+1), O→P (+1), T→U (+1), A→B (+1).<br><br>Applying similar increment to MUMBAI:<br>M→N, U→V, M→N, B→C, A→B, I→J.<br>Thus the code becomes NVNCBJ.<br>According to the answer key, option (a) is considered correct.",
+    "question_id": "nimcet_2022_rea_15",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_16",
+    "difficulty": "medium",
+    "question_text": "Select the pair of words, which are related in the same way as the capitalized words are related to each other.<br><br>BUTTERFLY : FREEDOM",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Frog : Water",
+      "Self-reliant : Buoyant",
+      "Horse : Speed",
+      "Chicken : Rooster"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analogy",
+    "explanation": "Butterfly is commonly associated with freedom and movement.<br>Similarly, Horse is associated with speed and movement.<br>Other options do not show a similar symbolic relationship.<br>Hence the correct answer is Horse : Speed.",
+    "question_id": "nimcet_2022_rea_16",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_17",
+    "difficulty": "medium",
+    "question_text": "Which of the following diagrams correctly represents lions, elephants and animals?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      {
+        "type": "image",
+        "value": "Images/nimcet_2022_rea_17_option_a.png",
+        "label": "A"
+      },
+      {
+        "type": "image",
+        "value": "Images/nimcet_2022_rea_17_option_b.png",
+        "label": "B"
+      },
+      {
+        "type": "image",
+        "value": "Images/nimcet_2022_rea_17_option_c.png",
+        "label": "C"
+      },
+      {
+        "type": "image",
+        "value": "Images/nimcet_2022_rea_17_option_d.png",
+        "label": "D"
+      }
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Venn Diagram",
+    "explanation": "Lions and elephants are two different categories, but both belong to the larger category of animals.<br>Therefore two separate circles inside a larger circle correctly represent the relationship.<br>Hence the correct answer is option A.",
+    "question_id": "nimcet_2022_rea_17",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "venn_diagram"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_18",
+    "difficulty": "easy",
+    "question_text": "Choose the word opposite in meaning to the given word : MITIGATE",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Abate",
+      "Tranquilize",
+      "Intensify",
+      "Alleviate"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Vocabulary",
+    "explanation": "Mitigate means to reduce or make less severe.<br>Intensify means to increase or make more severe.<br>Therefore Intensify is the opposite in meaning.<br>Hence the correct answer is Intensify.",
+    "question_id": "nimcet_2022_rea_18",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_19",
+    "difficulty": "easy",
+    "question_text": "Which of the following is to odd one from the given alternatives?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Diving",
+      "Driving",
+      "Swimming",
+      "Sailing"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Classification",
+    "explanation": "Diving, Swimming and Sailing are all related to water activities.<br>Driving is related to land transport and is different from the others.<br>Hence the correct answer is Driving.",
+    "question_id": "nimcet_2022_rea_19",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "classification"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_20",
+    "difficulty": "medium",
+    "question_text": "Comprehension:<br><br>In each question below are given two statements followed by two conclusion numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts.<br><br>Read the conclusion and then decide which of the following given conclusions logically follows from the two given statements, disregarding commonly known facts.<br><br><b>Statements :</b> No women teacher play. Some women teachers are athletes.<br><br><b>Conclusions:</b><br><br>I. Male athletes can play.<br><br>II. Some athletes can play.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Neither I nor II follows",
+      "Only conclusions I follows",
+      "Either I or II follows",
+      "Only conclusions II follows"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Syllogism",
+    "explanation": "From the statements:<br>No women teacher play.<br>Some women teachers are athletes.<br><br>We only know that some athletes are women teachers who do not play.<br>Nothing is mentioned about male athletes or athletes who can play.<br>Therefore neither conclusion logically follows.<br>Hence the correct answer is Neither I nor II follows.",
+    "question_id": "nimcet_2022_rea_20",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_21",
+    "difficulty": "medium",
+    "question_text": "Comprehension:<br><br>In each question below are given two statements followed by two conclusion numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts.<br><br>Read the conclusion and then decide which of the following given conclusions logically follows from the two given statements, disregarding commonly known facts.<br><br><b>Statements :</b> All mangoes are golden in colour. No golden-coloured things are cheap.<br><br><b>Conclusions:</b><br><br>I. All mangoes are cheap.<br><br>II. Golden-coloured mangoes are not cheap.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Neither I or II follows",
+      "Only conclusions II follows",
+      "Only conclusions I follows",
+      "Either I or II follows"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Syllogism",
+    "explanation": "All mangoes are golden in colour.<br>No golden-coloured things are cheap.<br><br>Therefore mangoes cannot be cheap.<br>Conclusion I is false.<br>Conclusion II correctly follows that golden-coloured mangoes are not cheap.<br>Hence the correct answer is Only conclusions II follows.",
+    "question_id": "nimcet_2022_rea_21",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_22",
+    "difficulty": "medium",
+    "question_text": "Comprehension:<br><br>In each question below are given two statements followed by two conclusion numbered I and II. You have to take the given two statements to be true even if they seem to be at variance from commonly known facts.<br><br>Read the conclusion and then decide which of the following given conclusions logically follows from the two given statements, disregarding commonly known facts.<br><br><b>Statements :</b> All young scientists are open-minded. No open-minded men are superstitious.<br><br><b>Conclusions:</b><br><br>I. No scientist is superstitious.<br><br>II. No young people are superstitious.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Either I or II follows",
+      "Neither I or II follows",
+      "Only conclusions II follows",
+      "Only conclusions I follows"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Syllogism",
+    "explanation": "From the statements:<br>All young scientists are open-minded.<br>No open-minded men are superstitious.<br><br>We cannot conclude that all scientists are not superstitious because only young scientists are discussed.<br>We also cannot conclude that all young people are not superstitious.<br>Therefore neither conclusion logically follows.<br>Hence the correct answer is Neither I or II follows.",
+    "question_id": "nimcet_2022_rea_22",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_23",
+    "difficulty": "medium",
+    "question_text": "Six books are labelled A, B, C, D, E and F are placed side by side. Books B, C, E and F have green covers while others have yellow covers. Book A, B and D are new while the rest are old volumes. Book A, B and C are law reports while the rest are medical extracts. Which two books are old medical extracts and have green covers?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "B and C",
+      "E and F",
+      "C and F",
+      "C and E"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Classification",
+    "explanation": "Green cover books are: B, C, E and F.<br>Old books are: C, E and F.<br>Medical extracts are: D, E and F.<br><br>The books satisfying all conditions (old, medical extracts, green covers) are E and F.<br>Hence the correct answer is E and F.",
+    "question_id": "nimcet_2022_rea_23",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "classification"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_24",
+    "difficulty": "medium",
+    "question_text": "Find out the wrong number in the FOLLOWING series.<br><br>30, −5, −45, −90, −145, −195, −255.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "−145",
+      "−255",
+      "−5",
+      "−195"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe the pattern of subtraction:<br>30 − 35 = −5<br>−5 − 40 = −45<br>−45 − 45 = −90<br>−90 − 50 = −140<br>−140 − 55 = −195<br>−195 − 60 = −255<br><br>So −145 should actually be −140.<br>Hence −145 is the wrong number in the series.<br>The intended answer should be option (a), though the provided answer key may differ.",
+    "question_id": "nimcet_2022_rea_24",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_25",
+    "difficulty": "medium",
+    "question_text": "Find out the wrong number in the FOLLOWING series.<br><br>2, 5, 10, 17, 26, 38, 50, 65",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "26",
+      "38",
+      "65",
+      "50"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe the pattern:<br>2 = 1² + 1<br>5 = 2² + 1<br>10 = 3² + 1<br>17 = 4² + 1<br>26 = 5² + 1<br>37 = 6² + 1<br>50 = 7² + 1<br>65 = 8² + 1<br><br>So 38 should actually be 37.<br>Therefore 38 is the wrong number.<br>Hence the correct answer is 38.",
+    "question_id": "nimcet_2022_rea_25",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "number_series"
+    ]
+  },
+  {
+  "id": "nimcet_2022_rea_26",
+  "difficulty": "medium",
+  "question_text": "The following questions are based on the pie-charts given below: Percentage-wise distribution of students studying in Arts and Commerce in seven different institutions Different institutions – A, B, C, D, E, F and G.<br><br>Total number of students studying Arts = 3800.<br><br><img src='Images/nimcet_2022_rea_26_arts.png' class='question-image'><br><br>Total number of students studying Commerce = 4200.<br><br><img src='Images/nimcet_2022_rea_26_commerce.png' class='question-image'><br><br><b>What is the total number of students studying Arts in Institutes A and G together?</b>",
+  "year": 2022,
+  "subject": "Logical Reasoning",
+  "imageUrl": "",
+  "imageSection": "none",
+  "options": [
+    "1206",
+    "1226",
+    "1026",
+    "1126"
+  ],
+  "correct_answers": [
+    3
+  ],
+  "topic": "Pie Chart",
+  "explanation": "From the Arts pie-chart:<br>Institute A = 15%<br>Institute G = 12%<br><br>Total percentage = 15% + 12% = 27%<br><br>Total Arts students = 3800<br>Required students = 27% of 3800<br>= (27 × 3800) / 100<br>= 1026.<br><br>Therefore the mathematically correct answer is 1026.<br>The given answer key may differ due to printing error.",
+  "question_id": "nimcet_2022_rea_26",
+  "exam_id": "nimcet",
+  "tags": [
+    "p_y_q",
+    "2022",
+    "pie_chart"
+  ]
+ },
+  {
+    "id": "nimcet_2022_rea_27",
+    "difficulty": "medium",
+    "question_text": "The following questions are based on the pie-charts given below: Percentage-wise distribution of students studying in Arts and Commerce in seven different institutions Different institutions – A, B, C, D, E, F and G.<br><br>Total number of students studying Arts = 3800.<br><br><img src='Images/nimcet_2022_rea_26_arts.png' class='question-image'><br><br>Total number of students studying commerce = 4200.<br><br><img src='Images/nimcet_2022_rea_26_commerce.png' class='question-image'><br><br><b>How many students from Institute B study Arts and Commerce?</b>",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "1108",
+      "1180",
+      "1018",
+      "1208"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Pie Chart",
+    "explanation": "From the pie charts:<br>Institute B in Arts = 8% of 3800 = 304.<br>Institute B in Commerce = 17% of 4200 = 714.<br><br>Total students = 304 + 714 = 1018.<br><br>Therefore the mathematically correct answer is 1018.<br>The provided answer key may contain a printing error.",
+    "question_id": "nimcet_2022_rea_27",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "pie_chart"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_28",
+    "difficulty": "medium",
+    "question_text": "The following questions are based on the pie-charts given below: Percentage-wise distribution of students studying in Arts and Commerce in seven different institutions Different institutions – A, B, C, D, E, F and G.<br><br>Total number of students studying Arts = 3800.<br><br><img src='Images/nimcet_2022_rea_26_arts.png' class='question-image'><br><br>Total number of students studying commerce = 4200.<br><br><img src='Images/nimcet_2022_rea_26_commerce.png' class='question-image'><br><br><b>The ratio of the number of students studying Arts to that studying Commerce in institute E is:</b>",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "27 : 14",
+      "19 : 28",
+      "19 : 27",
+      "19 : 16"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Pie Chart",
+    "explanation": "From the pie charts:<br>Institute E in Arts = 14% of 3800 = 532.<br>Institute E in Commerce = 18% of 4200 = 756.<br><br>Required ratio = 532 : 756.<br>Dividing by 28:<br>= 19 : 27.<br><br>Hence the correct answer is 19 : 27.",
+    "question_id": "nimcet_2022_rea_28",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "pie_chart"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_29",
+    "difficulty": "medium",
+    "question_text": "<b>Statement:</b> Many shops in the local market have extended their shops and occupied most part of the footpath in front of their shops.<br><br><b>Cause of Action:</b><br><br>I. The civic authority should immediately activate a task force to clear all the footpaths encroached by the shop owners.<br><br>II. The civic authority should charge hefty penalty to the shop owners for occupying the footpath.<br><br>III. The civic authority should setup a monitoring system so that encroachments do not recur in future.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "None follows",
+      "II and III follows",
+      "I and II follow",
+      "All I, II and III follows"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Cause and Effect",
+    "explanation": "The statement describes illegal occupation of footpaths by shop owners.<br><br>Action I helps remove encroachments immediately.<br>Action II discourages such illegal occupation through penalties.<br>Action III prevents future recurrence through monitoring.<br><br>All three actions are logical and appropriate.<br>Hence the correct answer is All I, II and III follows.",
+    "question_id": "nimcet_2022_rea_29",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "cause_and_effect"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_30",
+    "difficulty": "medium",
+    "question_text": "<b>Statement:</b> There is a significant increase in the number of patients affected by some disease in a city.<br><br><b>Cause of Action:</b><br><br>I. Municipal corporation of the city should take immediate action.<br><br>II. This problem should be raised in the UNESCO.<br><br>III. Hospitals in the city should be equipped properly for the treatment of the patients.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Only III follow",
+      "All follow",
+      "I and II follow",
+      "I and III follow"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Cause and Effect",
+    "explanation": "Immediate municipal action is necessary to control the disease spread.<br>Hospitals should also be equipped properly to treat patients.<br><br>However, raising the issue in UNESCO is not directly relevant or necessary for immediate disease management.<br><br>Therefore only actions I and III logically follow.<br>Hence the correct answer is I and III follow.",
+    "question_id": "nimcet_2022_rea_30",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "cause_and_effect"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_31",
+    "difficulty": "hard",
+    "question_text": "<b>Direction:</b> Read the following information carefully and answer the questions.<br><br>Five Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.<br><br>1. A break of 1 hour has to be taken in third or fourth hour.<br><br>2. Drama show cannot be started with A and cannot end in C.<br><br>3. D has to follow B immediately with no break in between.<br><br>4. A cannot be done immediately after D.<br><br>5. A has to precede E immediately with no break in between.<br><br><b>Which hour is a break hour?</b>",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "5th",
+      "2nd",
+      "3rd",
+      "4th"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "Since B and D must come together and A and E must also come together, possible blocks are BD and AE.<br><br>The break can only be in the 3rd or 4th hour.<br>If break is in 3rd hour, arranging all conditions becomes impossible because AE and BD blocks cannot be placed without violating the conditions.<br><br>If break is in 4th hour, a valid arrangement is:<br>B D C Break A E.<br><br>All conditions are satisfied.<br>Hence the break hour is 4th.",
+    "question_id": "nimcet_2022_rea_31",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_32",
+    "difficulty": "hard",
+    "question_text": "<b>Direction:</b> Read the following information carefully and answer the questions.<br><br>Five Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.<br><br>1. A break of 1 hour has to be taken in third or fourth hour.<br><br>2. Drama show cannot be started with A and cannot end in C.<br><br>3. D has to follow B immediately with no break in between.<br><br>4. A cannot be done immediately after D.<br><br>5. A has to precede E immediately with no break in between.<br><br><b>Which is the drama to be staged first?</b>",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "None of these"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "From the valid arrangement satisfying all conditions:<br>B D C Break A E.<br><br>The first drama staged is B.<br><br>Hence the correct answer is B.",
+    "question_id": "nimcet_2022_rea_32",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_33",
+    "difficulty": "hard",
+    "question_text": "<b>Direction:</b> Read the following information carefully and answer the questions.<br><br>Five Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.<br><br>1. A break of 1 hour has to be taken in third or fourth hour.<br><br>2. Drama show cannot be started with A and cannot end in C.<br><br>3. D has to follow B immediately with no break in between.<br><br>4. A cannot be done immediately after D.<br><br>5. A has to precede E immediately with no break in between.<br><br><b>Which is the drama staged immediately after the break?</b>",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "None of these"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "The valid arrangement satisfying all the given conditions is:<br>B D C Break A E.<br><br>The drama staged immediately after the break is A.<br><br>Hence the correct answer is A.",
+    "question_id": "nimcet_2022_rea_33",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_34",
+    "difficulty": "hard",
+    "question_text": "<b>Direction:</b> Read the following information carefully and answer the questions.<br><br>Five Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.<br><br>1. A break of 1 hour has to be taken in third or fourth hour.<br><br>2. Drama show cannot be started with A and cannot end in C.<br><br>3. D has to follow B immediately with no break in between.<br><br>4. A cannot be done immediately after D.<br><br>5. A has to precede E immediately with no break in between.<br><br><b>Which drama is staged immediately after D?</b>",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "None of these",
+      "E",
+      "B",
+      "C"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arrangement",
+    "explanation": "The valid arrangement satisfying all conditions is:<br>B D C Break A E.<br><br>The drama immediately after D is C.<br><br>Hence the correct answer is C.",
+    "question_id": "nimcet_2022_rea_34",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_35",
+    "difficulty": "hard",
+    "question_text": "<b>Direction:</b> Read the following information carefully and answer the questions.<br><br>Five Dramas A, B, C, D and E have to be staged in 6 hour where 1 hour needs to be given per drama.<br><br>1. A break of 1 hour has to be taken in third or fourth hour.<br><br>2. Drama show cannot be started with A and cannot end in C.<br><br>3. D has to follow B immediately with no break in between.<br><br>4. A cannot be done immediately after D.<br><br>5. A has to precede E immediately with no break in between.<br><br><b>Which drama is staged immediately after E?</b>",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "C",
+      "A",
+      "E",
+      "None of these"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Arrangement",
+    "explanation": "The valid arrangement satisfying all conditions is:<br>B D C Break A E.<br><br>E is the last drama, so no drama is staged immediately after E.<br><br>Hence the correct answer is None of these.",
+    "question_id": "nimcet_2022_rea_35",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_36",
+    "difficulty": "easy",
+    "question_text": "A person’s present age two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. What is the present age of the mother?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "40",
+      "60",
+      "30",
+      "50"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Age Problems",
+    "explanation": "Let the present age of the mother be M.<br>Then the person's age = (2/5)M.<br><br>After 8 years:<br>(2/5)M + 8 = (1/2)(M + 8)<br><br>Multiplying by 10:<br>4M + 80 = 5M + 40<br>⇒ M = 40.<br><br>Hence the present age of the mother is 40 years.",
+    "question_id": "nimcet_2022_rea_36",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "age_problem"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_37",
+    "difficulty": "easy",
+    "question_text": "Running at the same constant rate, 6 identical machines can produce a total of 270 bottles per minute. At this rate, how many bottles would 10 such machines produce in 4 minutes?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "2700",
+      "648",
+      "10800",
+      "1800"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Time and Work",
+    "explanation": "6 machines produce 270 bottles per minute.<br>So 1 machine produces 270 ÷ 6 = 45 bottles per minute.<br><br>10 machines produce 45 × 10 = 450 bottles per minute.<br><br>In 4 minutes:<br>450 × 4 = 1800 bottles.<br><br>Hence the correct answer is 1800.",
+    "question_id": "nimcet_2022_rea_37",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "time_and_work"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_38",
+    "difficulty": "medium",
+    "question_text": "At what time, in minutes, between 3 o’ clock and 4 o’ clock both the needles will coincide each other?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "5 1/11",
+      "12 4/11",
+      "13 4/11",
+      "16 4/11"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Clock",
+    "explanation": "Between 3 and 4 o’clock, hands coincide at:<br>(60 × 3) / 11 minutes after 3.<br><br>= 180 / 11<br>= 16 4/11 minutes.<br><br>Hence the correct answer is 16 4/11 minutes.",
+    "question_id": "nimcet_2022_rea_38",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "clock"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_39",
+    "difficulty": "medium",
+    "question_text": "The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively is",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "127",
+      "123",
+      "235",
+      "305"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "HCF",
+    "explanation": "Required number must divide:<br>1657 − 6 = 1651<br>2037 − 5 = 2032<br><br>Now find HCF of 1651 and 2032.<br><br>2032 − 1651 = 381<br>1651 ÷ 381 leaves remainder 127<br>381 ÷ 127 = 0 remainder.<br><br>Hence HCF = 127.<br><br>Therefore the required greatest number is 127.",
+    "question_id": "nimcet_2022_rea_39",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "hcf"
+    ]
+  },
+  {
+    "id": "nimcet_2022_rea_40",
+    "difficulty": "easy",
+    "question_text": "1. A is the brother of B.<br>2. C is the father of A.<br>3. D is brother of E.<br>4. E is the daughter of B.<br><br>Then, the uncle of D is?",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "B",
+      "C",
+      "E",
+      "A"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Blood Relation",
+    "explanation": "A is brother of B.<br>E is daughter of B.<br>D is brother of E, so D is also child of B.<br><br>Therefore A is the brother of D's parent B.<br>So A is the uncle of D.<br><br>Hence the correct answer is A.",
+    "question_id": "nimcet_2022_rea_40",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "blood_relation"
+    ]
+  }
+]

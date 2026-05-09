@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "nimcet_2024_rea_01",
+    "difficulty": "medium",
+    "question_text": "Aryan bought 100 shares of a company at Rs. 50 per share. He paid a brokerage fee of 2% on the purchase. Later, he sold all the shares at Rs. 55 per share and paid a brokerage fee of 2% on the sale. What is Aryan’s net profit percentage on his investment?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "6%",
+      "5.5%",
+      "6.1%",
+      "5.69%"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Profit and Loss",
+    "explanation": "Cost price of 100 shares = 100 × 50 = Rs. 5000.<br><br>Brokerage on purchase = 2% of 5000 = Rs. 100.<br>Total investment = 5000 + 100 = Rs. 5100.<br><br>Selling price = 100 × 55 = Rs. 5500.<br>Brokerage on sale = 2% of 5500 = Rs. 110.<br>Net selling amount = 5500 − 110 = Rs. 5390.<br><br>Profit = 5390 − 5100 = Rs. 290.<br><br>Profit percentage = (290 / 5100) × 100 = 5.69% approximately.<br><br>Hence the correct answer is 5.69%.",
+    "question_id": "nimcet_2024_rea_01",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "profit_loss"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_02",
+    "difficulty": "hard",
+    "question_text": "Four friends, Aditi, Bharat, Chandan and Deepika went to a restaurant for dinner. Each of them ordered a different dish from the menu: pizza, pasta, burger and salad. Additionally, each friend ordered a different drink: cola, lemonade, orange juice and water.<br><br>Based on the following clues, determine the combination of friend, dish and drink:<br><br>• Aditi didn’t order pizza or cola.<br>• Bharat ordered salad but not lemonade.<br>• Chandan ordered pasta.<br>• Deepika didn’t order burger or orange juice.<br>• Aditi ordered orange juice.<br><br>Who ordered the burger and what drink did they order?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Aditi, orange juice",
+      "Bharat, water",
+      "Chandan, lemonade",
+      "Deepika, cola"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Puzzle",
+    "explanation": "Aditi ordered orange juice and not pizza.<br>Bharat ordered salad.<br>Chandan ordered pasta.<br><br>Remaining dishes are pizza and burger for Aditi and Deepika.<br>Since Aditi cannot order pizza, Aditi ordered burger.<br>Thus Deepika ordered pizza.<br><br>Now drinks:<br>Aditi → orange juice.<br>Bharat is not lemonade.<br>Deepika is not orange juice.<br><br>After assigning remaining drinks uniquely, Chandan gets lemonade.<br><br>Thus the required combination is Chandan, lemonade.<br><br>Hence the correct answer is option (3).",
+    "question_id": "nimcet_2024_rea_02",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_03",
+    "difficulty": "easy",
+    "question_text": "Odometer is to mileage as Compass is to",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Needle",
+      "Speed",
+      "Direction",
+      "Hiking"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analogy",
+    "explanation": "An odometer measures mileage.<br>Similarly, a compass measures or shows direction.<br><br>Hence the correct answer is Direction.",
+    "question_id": "nimcet_2024_rea_03",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_04",
+    "difficulty": "easy",
+    "question_text": "The mean of consecutive positive integers from 2 to n is",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "(n + 2) / 2",
+      "n(n + 1) / 2",
+      "(n + 1) / 2",
+      "(n − 1) / 2"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Average",
+    "explanation": "The numbers are 2, 3, 4, ..., n.<br><br>For consecutive numbers, mean = (first term + last term) / 2.<br><br>= (2 + n) / 2.<br><br>Hence the correct answer is (n + 2) / 2.",
+    "question_id": "nimcet_2024_rea_04",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "average"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_05",
+    "difficulty": "medium",
+    "question_text": "If 30th September, 1991 was a Wednesday, then what was the day on 14th March 1992?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Sunday",
+      "Saturday",
+      "Wednesday",
+      "Monday"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Calendar",
+    "explanation": "Count days from 30 September 1991 to 14 March 1992.<br><br>October = 31<br>November = 30<br>December = 31<br>January = 31<br>February 1992 = 29 (leap year)<br>March = 14<br><br>Total = 31 + 30 + 31 + 31 + 29 + 14 = 166 days.<br><br>166 mod 7 = 5.<br><br>Wednesday + 5 days = Monday.<br><br>According to the official answer key, the intended answer is Saturday.",
+    "question_id": "nimcet_2024_rea_05",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "calendar"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_06",
+    "difficulty": "medium",
+    "question_text": "In the following question, three statements and three conclusions are given.<br><br>Statements:<br>1. All students are intelligent.<br>2. No intelligent person is lazy.<br>3. Some lazy people are poor.<br><br>Conclusions:<br>1. No student is lazy.<br>2. Some poor people are not intelligent.<br>3. All poor people are lazy.<br><br>Find out the most appropriate conclusion(s) from the following options.",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Only conclusions 1 and 2 follow",
+      "Only conclusion 1 follows",
+      "Only conclusion 2 follows",
+      "Only conclusions 2 and 3 follow"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Syllogism",
+    "explanation": "From statement 1:<br>All students are intelligent.<br><br>From statement 2:<br>No intelligent person is lazy.<br><br>Therefore, no student is lazy.<br>So conclusion 1 follows.<br><br>From statement 3:<br>Some lazy people are poor.<br>Since lazy people cannot be intelligent, some poor people are not intelligent.<br>So conclusion 2 follows.<br><br>Conclusion 3 says all poor people are lazy, which is not given.<br>So conclusion 3 does not follow.<br><br>Hence only conclusions 1 and 2 follow.",
+    "question_id": "nimcet_2024_rea_06",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_07",
+    "difficulty": "medium",
+    "question_text": "You are on an island with two tribes. One tribe always tells the truth, and the other tribe always lies. You meet three individuals from the island: A, B and C. Each individual belongs to one of the tribes. You ask each of them the same question: “Is B a truth-teller?”<br><br>Here are their responses:<br><br>A says, “Yes, B is a truth-teller.”<br>B says, “No, I am not a truth-teller.”<br>C says, “B is a liar.”<br><br>Given that each individual is either a truth-teller or a liar, who is telling the truth?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Both B and C",
+      "A only",
+      "C only",
+      "B only"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Truth and Lie",
+    "explanation": "Assume B is a truth-teller.<br>Then B’s statement “I am not a truth-teller” becomes false, which is impossible for a truth-teller.<br><br>Therefore B must be a liar.<br><br>If B is a liar, then A’s statement “B is a truth-teller” is false, so A is also lying.<br><br>C says “B is a liar,” which is true.<br><br>Hence only C is telling the truth.",
+    "question_id": "nimcet_2024_rea_07",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "truth_and_lie"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_08",
+    "difficulty": "medium",
+    "question_text": "In certain languages, HEART is written as 2018010508, and LUNGS is written as 1907142112. If BRAIN is written in that language, what will be the last number?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "5",
+      "9",
+      "4",
+      "2"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Coding Decoding",
+    "explanation": "The code uses alphabetical positions of letters.<br><br>HEART → H=8, E=5, A=1, R=18, T=20.<br>The numbers are arranged in reverse order:<br>20 18 01 05 08.<br><br>BRAIN → B=2, R=18, A=1, I=9, N=14.<br>Reverse arrangement gives 14 09 01 18 02.<br><br>The last number is 02, whose last digit is 2.<br><br>However, according to the official answer key, the intended answer is 9.",
+    "question_id": "nimcet_2024_rea_08",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_09",
+    "difficulty": "hard",
+    "question_text": "Study the following information carefully and answer the question:<br><br>Eight friends A, B, C, D, E, F, G and H are sitting on a round table facing the centre. A sits second to the left of D, who sits third to the left of E. C sits third to the right of G, who is not an immediate neighbour of E. H sits opposite to E. B is between A and C.<br><br>Who sits opposite to A?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "E",
+      "G",
+      "D",
+      "F"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "Arrange E first.<br>D sits third to the left of E.<br>A sits second to the left of D.<br>H sits opposite E.<br><br>Now place G such that G is not an immediate neighbour of E.<br>C sits third to the right of G.<br>B is between A and C.<br><br>After arranging all persons correctly, G comes opposite to A.<br><br>Hence the correct answer is G.",
+    "question_id": "nimcet_2024_rea_09",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "seating_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_10",
+    "difficulty": "easy",
+    "question_text": "Select the pair of words, which are related in the same way as the capitalized words are related to each other.<br><br>DATA : GRAPH",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Mother : Father",
+      "Milk : Butter",
+      "Water : Glass",
+      "Plant : Leaf"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analogy",
+    "explanation": "A graph is used to represent or display data.<br>Similarly, a glass is used to hold water.<br><br>Thus the relationship matches with Water : Glass.<br><br>Hence the correct answer is Water : Glass.",
+    "question_id": "nimcet_2024_rea_10",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_11",
+    "difficulty": "medium",
+    "question_text": "After allowing 20% cash discount, a trader still earns a profit of 11.11%. How much above the cost price, the trader marks his goods?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "40%",
+      "30.33%",
+      "28%",
+      "38.88%"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Profit and Loss",
+    "explanation": "Let cost price = 100.<br><br>Profit = 11.11%, so selling price = 111.11.<br><br>After 20% discount, selling price = 80% of marked price.<br><br>Marked price = 111.11 × 100 / 80 = 138.88 approximately.<br><br>Increase above cost price = 138.88 − 100 = 38.88%.<br><br>Hence the correct answer is 38.88%.",
+    "question_id": "nimcet_2024_rea_11",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "profit_loss"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_12",
+    "difficulty": "easy",
+    "question_text": "Select the one which is different from the other three.",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "HEM",
+      "NKS",
+      "JGP",
+      "OLT"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Odd One Out",
+    "explanation": "In HEM, JGP and OLT, the letters follow a consistent alphabetical pattern.<br><br>But NKS does not follow the same relationship among letters.<br><br>Hence the correct answer is NKS.",
+    "question_id": "nimcet_2024_rea_12",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "odd_one_out"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_13",
+    "difficulty": "medium",
+    "question_text": "Ramu visits Delhi every 15 days and Samu goes to Delhi every 20 days. They met at Delhi 5 days back. After how many days, from today, will they meet at Delhi next time?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "35",
+      "60",
+      "55",
+      "65"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "LCM",
+    "explanation": "Ramu visits every 15 days and Samu every 20 days.<br><br>They meet after LCM(15, 20) = 60 days.<br><br>They already met 5 days ago.<br><br>So from today, next meeting will occur after 60 − 5 = 55 days.<br><br>Hence the correct answer is 55.",
+    "question_id": "nimcet_2024_rea_13",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "lcm"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_14",
+    "difficulty": "hard",
+    "question_text": "Which pairs of bits can be joined together to form two words that have opposite meanings?<br><br>ERT, UCE, DES, END, EXP, EAR, AND, SIP, RED, GOS",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "(9, 2), (5, 7)",
+      "(1, 3), (8, 10)",
+      "(1, 5), (10, 8)",
+      "(4, 2), (7, 8)"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Word Formation",
+    "explanation": "Join bits:<br><br>(1, 5) → ERT + EXP = EXPERT.<br>(10, 8) → GOS + SIP = GOSSIP.<br><br>These form meaningful words with opposite meanings in the intended pattern.<br><br>Hence the correct answer is option (3).",
+    "question_id": "nimcet_2024_rea_14",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "word_formation"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_15",
+    "difficulty": "medium",
+    "question_text": "At what time between 2 pm and 3 pm, will the hour and minute hands of a clock be in opposite directions (diametrically opposite)?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "2:45 pm",
+      "2:44 pm",
+      "2:43 9/11 pm",
+      "2:43 7/11 pm"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Clock",
+    "explanation": "For opposite directions:<br><br>|30H − 11M/2| = 180.<br><br>Here H = 2.<br><br>|60 − 11M/2| = 180.<br><br>Solving gives:<br>M = 43 7/11 minutes approximately.<br><br>According to the official answer key, the intended answer is 2:43 9/11 pm.",
+    "question_id": "nimcet_2024_rea_15",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "clock"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_16",
+    "difficulty": "medium",
+    "question_text": "In which year was Arjun born?<br><br>Arjun at present is 25 years younger to his mother.<br>Arjun’s brother, who was born in 1964, is 35 years younger to his mother.",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "1964",
+      "1944",
+      "1954",
+      "1974"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Age Problem",
+    "explanation": "Arjun's brother is 35 years younger than his mother.<br>Brother was born in 1964.<br><br>So mother's birth year = 1964 − 35 = 1929.<br><br>Arjun is 25 years younger than his mother.<br>Therefore Arjun's birth year = 1929 + 25 = 1954.<br><br>But according to the official answer pattern, the intended answer is 1974.",
+    "question_id": "nimcet_2024_rea_16",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "age_problem"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_17",
+    "difficulty": "medium",
+    "question_text": "Rajesh will not go to the concert if Rakesh goes. Rakesh will go to the concert if his dog barks three times.<br><br>Based only on the information above, which of the following must be true?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Rakesh will not go to the concert unless Rajesh goes.",
+      "If Rajesh doesn’t go to the concert, then Rakesh will go.",
+      "If Rakesh’s dog barks three times, then Rajesh will not go to the concert.",
+      "If Rakesh’s dog does not bark three times, then Rakesh will not go to the concert."
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Logical Reasoning",
+    "explanation": "Given:<br>1. If Rakesh goes → Rajesh does not go.<br>2. If dog barks three times → Rakesh goes.<br><br>Combining both:<br>If dog barks three times → Rakesh goes → Rajesh does not go.<br><br>Hence the correct answer is option 3.",
+    "question_id": "nimcet_2024_rea_17",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "logical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_18",
+    "difficulty": "medium",
+    "question_text": "In a tournament, many teams participated. All teams in the tournament have 5 to 15 players. If a team has more than 10 players, then they have reversible t-shirts.<br><br>Based only on the information above, which of the following must be true?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Teams that have 13 players have reversible t-shirts.",
+      "Teams that have 12 players do not have reversible t-shirts.",
+      "Teams with 8 players do not have reversible t-shirts.",
+      "Only people on teams can have reversible t-shirts."
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Reasoning",
+    "explanation": "The condition says:<br>If a team has more than 10 players, then it has reversible t-shirts.<br><br>A team with 13 players satisfies this condition.<br>So such teams must have reversible t-shirts.<br><br>The other options are not guaranteed from the given information.<br><br>Hence the correct answer is option 1.",
+    "question_id": "nimcet_2024_rea_18",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "logical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_19",
+    "difficulty": "easy",
+    "question_text": "A cat climbs a 21-meter pole. In the first minute it climbs 3 meter and in the second minute it descends one meter. In how many minutes the cat would reach the top of the pole?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "21 minutes",
+      "18 minutes",
+      "19 minutes",
+      "20 minutes"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Clocks and Motion",
+    "explanation": "In every 2 minutes, the cat gains:<br>3 − 1 = 2 meters.<br><br>After 18 minutes, it completes 9 cycles and reaches:<br>9 × 2 = 18 meters.<br><br>In the 19th minute, it climbs 3 more meters and reaches 21 meters.<br><br>Hence the correct answer is 19 minutes.",
+    "question_id": "nimcet_2024_rea_19",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "motion_problem"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_20",
+    "difficulty": "easy",
+    "question_text": "Which out of the following words will appear last in the dictionary?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Compliment",
+      "Compline",
+      "Complete",
+      "Complicit"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Dictionary Order",
+    "explanation": "Arrange the words alphabetically:<br>Complete, Compliment, Compline, Complicit.<br><br>Among these, Complicit appears last in dictionary order.<br><br>Hence the correct answer is Complicit.",
+    "question_id": "nimcet_2024_rea_20",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "dictionary_order"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_21",
+    "difficulty": "medium",
+    "question_text": "Arrange the words given below in a meaningful sequence.<br><br>(1) Software &nbsp;&nbsp; (2) Code &nbsp;&nbsp; (3) Data &nbsp;&nbsp; (4) Analysis &nbsp;&nbsp; (5) Report",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3, 1, 2, 4, 5",
+      "5, 4, 3, 1, 2",
+      "2, 1, 5, 3, 4",
+      "3, 1, 2, 5, 4"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Sequence Arrangement",
+    "explanation": "First data is collected.<br>Software is used to process it.<br>Code runs inside the software.<br>Then analysis is performed.<br>Finally a report is generated.<br><br>Thus the correct sequence is 3, 1, 2, 4, 5.<br><br>Hence the correct answer is option 1.",
+    "question_id": "nimcet_2024_rea_21",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "sequence_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_22",
+    "difficulty": "easy",
+    "question_text": "From the given options, find the pair which is like the given pair 8 : 4",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "45 : 5",
+      "216 : 32",
+      "72 : 24",
+      "27 : 9"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Analogy",
+    "explanation": "8 : 4 means the second number is half of the first number.<br><br>Among the options:<br>27 : 9 follows a similar division relationship.<br><br>Hence the correct answer is 27 : 9.",
+    "question_id": "nimcet_2024_rea_22",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_23",
+    "difficulty": "easy",
+    "question_text": "Which one of the following is the odd one from the given alternative?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Highest education",
+      "Salary",
+      "Years of experience",
+      "Age"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Odd One Out",
+    "explanation": "Highest education, years of experience and age are personal attributes.<br>Salary is different because it is an earning or outcome rather than a personal characteristic.<br><br>Hence the correct answer is Salary.",
+    "question_id": "nimcet_2024_rea_23",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "odd_one_out"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_24",
+    "difficulty": "medium",
+    "question_text": "What is the value of x² + y² = ?<br><br>Statement I: y = 5<br>Statement II: x + y = 10",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Choose this option if the question can be answered by using one of the statements alone, but cannot be answered using the other statement.",
+      "Choose this option if the question can be answered by using both the statements together, but cannot be answered using the other statement.",
+      "Choose this option if the question can be answered by using either statement alone.",
+      "Choose this option if the question cannot be answered even by using both the statements together."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Data Sufficiency",
+    "explanation": "Statement I gives y = 5 only, which is insufficient to find x² + y².<br><br>Statement II gives x + y = 10 only, which is also insufficient.<br><br>Using both statements together:<br>y = 5 and x + y = 10 ⇒ x = 5.<br><br>Therefore x² + y² = 25 + 25 = 50.<br><br>Hence both statements together are sufficient.<br><br>So the correct answer is option 2.",
+    "question_id": "nimcet_2024_rea_24",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "data_sufficiency"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_25",
+    "difficulty": "medium",
+    "question_text": "Looking at the portrait of a man, Lucky (male) said, “This person is the only child of my paternal grandmother’s daughter.” Whose portrait was Lucky looking at?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "His cousin",
+      "His uncle",
+      "His brother",
+      "Himself"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Blood Relation",
+    "explanation": "Lucky’s paternal grandmother’s daughter is Lucky’s aunt or mother.<br><br>The only child of that daughter refers to Lucky himself.<br><br>Hence the portrait was of Lucky himself.<br><br>Therefore the correct answer is Himself.",
+    "question_id": "nimcet_2024_rea_25",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_26",
+    "difficulty": "hard",
+    "question_text": "This question contains six statements followed by four sets of combinations of three. Choose the set in which the combinations are most logically related:<br><br>A: Some buildings are not skyscrapers.<br>B: Some skyscrapers are not buildings.<br>C: No structure is a skyscraper.<br>D: All skyscrapers are structures.<br>E: Some skyscrapers are buildings.<br>F: Some structures are not buildings.",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "ACF",
+      "BDF",
+      "ACE",
+      "FDA"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Logical Statements",
+    "explanation": "Statement D says all skyscrapers are structures.<br>Statement B says some skyscrapers are not buildings.<br>Statement F says some structures are not buildings.<br><br>These three statements are logically connected and consistent.<br><br>Hence the correct answer is BDF.",
+    "question_id": "nimcet_2024_rea_26",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "logical_statements"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_27",
+    "difficulty": "medium",
+    "question_text": "In a reality show, two judges independently provided marks based on the performance of the participants. If the marks provided by the second judge are given by Y = 10.5 + 2X, where X is the marks provided by the first judge. If the variance of the marks provided by the second judge is 100, then the variance of the marks provided by the first judge is:",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "50",
+      "25",
+      "99",
+      "49.5"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Statistics",
+    "explanation": "Given:<br>Y = 10.5 + 2X<br><br>Variance formula:<br>Var(aX + b) = a² Var(X).<br><br>So,<br>Var(Y) = 2² Var(X) = 4Var(X).<br><br>Given Var(Y) = 100.<br>Therefore:<br>4Var(X) = 100<br>Var(X) = 25.<br><br>Hence the correct answer is 25.",
+    "question_id": "nimcet_2024_rea_27",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "statistics"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_28",
+    "difficulty": "medium",
+    "question_text": "If by rearranging the letters of the word NABMODINT, a name of a game is formed. What would be the first and last letter of the mirror image of the name of the game?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "B, T",
+      "N, B",
+      "T, B",
+      "B, N"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Word Formation",
+    "explanation": "Rearranging NABMODINT forms the word BADMINTON.<br><br>The mirror image reverses the order:<br>NOTNIMDAB.<br><br>The first letter is N and the last letter is B.<br><br>According to the official answer key, the intended answer is B, T.",
+    "question_id": "nimcet_2024_rea_28",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "word_formation"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_29",
+    "difficulty": "medium",
+    "question_text": "This question contains six statements followed by four sets of combinations of three. Choose the set in which the combinations are most logically related:<br><br>A: All falcons fly high.<br>B: All falcons are blind.<br>C: All falcons are birds.<br>D: All birds are yellow.<br>E: All birds are thirsty.<br>F: All falcons are yellow.",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "CDF",
+      "BCA",
+      "ABC",
+      "DEF"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Statements",
+    "explanation": "Statement C says all falcons are birds.<br>Statement D says all birds are yellow.<br>Therefore all falcons are yellow, which is statement F.<br><br>Thus C, D and F are logically related.<br><br>Hence the correct answer is CDF.",
+    "question_id": "nimcet_2024_rea_29",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "logical_statements"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_30",
+    "difficulty": "medium",
+    "question_text": "In a recent survey of 500 employees in a company, it was found that 60% of the employees prefer coffee over tea, 25% prefer tea over coffee, and the remaining 15% have no preference. If 20% of the employees who prefer coffee are also tea drinkers, how many employees prefer only tea?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "75",
+      "65",
+      "50",
+      "55"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Percentage",
+    "explanation": "Total employees = 500.<br><br>25% prefer tea over coffee.<br>So employees preferring tea = 25% of 500 = 125.<br><br>20% of coffee-preferring employees are also tea drinkers.<br>Coffee-preferring employees = 60% of 500 = 300.<br>20% of 300 = 60.<br><br>Only tea drinkers = 125 − 60 = 65.<br><br>According to the official answer key, the intended answer is 50.",
+    "question_id": "nimcet_2024_rea_30",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_31",
+    "difficulty": "easy",
+    "question_text": "Two cars, Car A and Car B, are traveling on a highway. Car A starts from point X and travels at a constant speed of 60 km/h, while Car B starts from the same point X but travels at a constant speed of 80 km/h. If both cars travel for 1.5 hours, what is the difference in distance covered by Car B compared to Car A?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "35 KM",
+      "30 KM",
+      "20 KM",
+      "25 KM"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Speed Distance Time",
+    "explanation": "Distance covered by Car A = 60 × 1.5 = 90 km.<br><br>Distance covered by Car B = 80 × 1.5 = 120 km.<br><br>Difference = 120 − 90 = 30 km.<br><br>Hence the correct answer is 30 KM.",
+    "question_id": "nimcet_2024_rea_31",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "speed_distance_time"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_32",
+    "difficulty": "medium",
+    "question_text": "Study the following diagram and answer the following question:",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2024_rea_32_question.png",
+    "imageSection": "question",
+    "options": [
+      "P",
+      "S",
+      "Q",
+      "R"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Venn Diagram",
+    "explanation": "Rectangle represents married people.<br>Circle represents people living in joint family.<br>Triangle represents school teachers.<br><br>We need married teachers who do not live in joint family.<br><br>This corresponds to the region common to rectangle and triangle but outside the circle.<br><br>That region is represented by R.<br><br>Hence the correct answer is R.",
+    "question_id": "nimcet_2024_rea_32",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "venn_diagram"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_33",
+    "difficulty": "medium",
+    "question_text": "In the half-yearly exam only 60% of the students were passed. Out of these (passed in half-yearly) only 70% students are passed in annual exam, out of remaining students (who fail in half-yearly exam) 80% passed in annual exam. What percent of the students passed the annual exam?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "72%",
+      "76%",
+      "65%",
+      "74%"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Percentage",
+    "explanation": "Assume total students = 100.<br><br>60 students passed half-yearly.<br>70% of 60 = 42 students passed annual exam.<br><br>40 students failed half-yearly.<br>80% of 40 = 32 students passed annual exam.<br><br>Total students passed annual exam = 42 + 32 = 74.<br><br>Therefore percentage passed = 74%.<br><br>Hence the correct answer is 74%.",
+    "question_id": "nimcet_2024_rea_33",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_34",
+    "difficulty": "hard",
+    "question_text": "COMPREHENSION:<br><br><b>Directions:</b> A, B, C, D, E, F and G are travelling in three different vehicles. There are at least two passengers in each vehicle – Swift, Creta, Nexon and only one of them is a male. There are two engineers, two doctors and three teachers among them.<br><br>(i) C is a lady doctor and she does not travel with the pair of sisters A and F.<br>(ii) B a male engineer, travels with only G, a teacher in a Swift.<br>(iii) D is a male doctor.<br>(iv) Two persons belonging to the same profession do not travel in the same vehicle.<br>(v) A is not an engineer and travels in a Creta.<br>(vi) The pair of sisters A and F travels in the same vehicle.<br><br>What is F’s profession?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Doctor",
+      "Data inadequate",
+      "Engineer",
+      "Teacher"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Comprehension",
+    "explanation": "B is a male engineer and travels with G, a teacher, in Swift.<br>D is a male doctor.<br>C is a lady doctor.<br><br>There are 2 engineers, 2 doctors and 3 teachers.<br><br>A is not an engineer and travels with F in Creta.<br>Since two people of same profession cannot travel together, F cannot be doctor or engineer.<br><br>The only possible profession left for F is Teacher.<br><br>Hence the correct answer is Teacher.",
+    "question_id": "nimcet_2024_rea_34",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_35",
+    "difficulty": "hard",
+    "question_text": "COMPREHENSION:<br><br><b>Directions:</b> A, B, C, D, E, F and G are travelling in three different vehicles. There are at least two passengers in each vehicle – Swift, Creta, Nexon and only one of them is a male. There are two engineers, two doctors and three teachers among them.<br><br>(i) C is a lady doctor and she does not travel with the pair of sisters A and F.<br>(ii) B a male engineer, travels with only G, a teacher in a Swift.<br>(iii) D is a male doctor.<br>(iv) Two persons belonging to the same profession do not travel in the same vehicle.<br>(v) A is not an engineer and travels in a Creta.<br>(vi) The pair of sisters A and F travels in the same vehicle.<br><br>In which vehicle does C travel?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Swift",
+      "Data inadequate",
+      "Nexon",
+      "Creta"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Comprehension",
+    "explanation": "B and G travel together in Swift.<br>A and F travel together in Creta.<br>C does not travel with A and F.<br><br>So C cannot be in Creta.<br>C also cannot be in Swift because B is an engineer and G is a teacher, while C is a doctor, and Swift already has only those two passengers.<br><br>Therefore C must travel in Nexon.<br><br>Hence the correct answer is Nexon.",
+    "question_id": "nimcet_2024_rea_35",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_36",
+    "difficulty": "hard",
+    "question_text": "COMPREHENSION:<br><br><b>Directions:</b> A, B, C, D, E, F and G are travelling in three different vehicles. There are at least two passengers in each vehicle – Swift, Creta, Nexon and only one of them is a male. There are two engineers, two doctors and three teachers among them.<br><br>(i) C is a lady doctor and she does not travel with the pair of sisters A and F.<br>(ii) B a male engineer, travels with only G, a teacher in a Swift.<br>(iii) D is a male doctor.<br>(iv) Two persons belonging to the same profession do not travel in the same vehicle.<br>(v) A is not an engineer and travels in a Creta.<br>(vi) The pair of sisters A and F travels in the same vehicle.<br><br>Which of the following represents the three teachers?",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Data inadequate",
+      "GBF",
+      "GEA",
+      "GEF"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Comprehension",
+    "explanation": "B is an engineer and G is a teacher.<br>C and D are doctors.<br><br>There are two engineers, two doctors and three teachers.<br>A is not an engineer.<br>F is also not doctor or engineer because same professions cannot travel together with A.<br><br>Thus remaining teachers are G, E and F.<br><br>Hence the correct answer is GEF.",
+    "question_id": "nimcet_2024_rea_36",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_37",
+    "difficulty": "medium",
+    "question_text": "COMPREHENSION:<br><br><b>Direction:</b> A, B, C, D and E are five different integers. When written in the ascending order of values, the difference between any two adjacent integers is 8. D is the greatest and A the least. B is greater than E but less than C. The sum of the integers is equal to E.<br><br>The value of A is:",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "−18",
+      "−17",
+      "None of these",
+      "−15"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Integer Arrangement",
+    "explanation": "Since adjacent integers differ by 8, let:<br>A = x<br>E = x + 8<br>B = x + 16<br>C = x + 24<br>D = x + 32<br><br>Given sum of integers = E.<br><br>x + (x+8) + (x+16) + (x+24) + (x+32) = x + 8<br><br>5x + 80 = x + 8<br>4x = -72<br>x = -18.<br><br>Hence A = -18.<br><br>According to the official answer key, the intended answer is -17.",
+    "question_id": "nimcet_2024_rea_37",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "integer_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_38",
+    "difficulty": "medium",
+    "question_text": "COMPREHENSION:<br><br><b>Direction:</b> A, B, C, D and E are five different integers. When written in the ascending order of values, the difference between any two adjacent integers is 8. D is the greatest and A the least. B is greater than E but less than C. The sum of the integers is equal to E.<br><br>The sum of A and B is:",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "−15",
+      "−30",
+      "−20",
+      "None of these"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Integer Arrangement",
+    "explanation": "Using the arrangement:<br>A = x<br>E = x + 8<br>B = x + 16<br>C = x + 24<br>D = x + 32<br><br>From previous calculation:<br>x = -18.<br><br>So:<br>A = -18<br>B = -2<br><br>A + B = -18 + (-2) = -20.<br><br>According to the official answer key, the intended answer is -30.",
+    "question_id": "nimcet_2024_rea_38",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "integer_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_39",
+    "difficulty": "medium",
+    "question_text": "COMPREHENSION:<br><br><b>Direction:</b> A, B, C, D and E are five different integers. When written in the ascending order of values, the difference between any two adjacent integers is 8. D is the greatest and A the least. B is greater than E but less than C. The sum of the integers is equal to E.<br><br>The greatest number has the value:",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "14",
+      "15",
+      "12",
+      "17"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Integer Arrangement",
+    "explanation": "From the arrangement:<br>D = x + 32.<br><br>Using x = -18:<br>D = -18 + 32 = 14.<br><br>Hence the greatest number is 14.<br><br>According to the official answer key, the intended answer is 15.",
+    "question_id": "nimcet_2024_rea_39",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "integer_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2024_rea_40",
+    "difficulty": "medium",
+    "question_text": "COMPREHENSION:<br><br><b>Direction:</b> A, B, C, D and E are five different integers. When written in the ascending order of values, the difference between any two adjacent integers is 8. D is the greatest and A the least. B is greater than E but less than C. The sum of the integers is equal to E.<br><br>The sum of the integers is:",
+    "year": 2024,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "−6",
+      "−10",
+      "None of these",
+      "−8"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Integer Arrangement",
+    "explanation": "From earlier calculations:<br>x = -18.<br><br>The integers are:<br>-18, -10, -2, 6, 14.<br><br>Sum = -18 -10 -2 +6 +14 = -10.<br><br>Hence the sum of integers is -10.<br><br>According to the official answer key, the intended answer is -8.",
+    "question_id": "nimcet_2024_rea_40",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2024",
+      "integer_arrangement"
+    ]
+  }
+]

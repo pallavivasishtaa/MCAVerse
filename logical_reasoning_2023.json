@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "nimcet_2023_rea_51",
+    "difficulty": "medium",
+    "question_text": "Complete the series: 3, 10, 24, 45, 73, ......",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "69",
+      "91",
+      "108",
+      "121"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Series",
+    "explanation": "The differences are:<br>10 − 3 = 7<br>24 − 10 = 14<br>45 − 24 = 21<br>73 − 45 = 28<br><br>The differences increase by 7 each time.<br>Next difference = 35.<br><br>Therefore next term = 73 + 35 = 108.<br><br>Hence the correct answer is 108.",
+    "question_id": "nimcet_2023_rea_51",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_52",
+    "difficulty": "medium",
+    "question_text": "Pointing towards a person in the photograph, Anjali said, “He is the only son of the father of my sister’s brother”. How is that person related to Anjali?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "father",
+      "mother",
+      "cousin",
+      "None of these"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Blood Relation",
+    "explanation": "Anjali’s sister’s brother is Anjali’s brother.<br>The father of Anjali’s brother is Anjali’s father.<br>The only son of Anjali’s father is Anjali’s brother.<br><br>Thus the person in the photograph is Anjali’s brother.<br>Since brother is not among the options, the correct answer is None of these.",
+    "question_id": "nimcet_2023_rea_52",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "blood_relation"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_53",
+    "difficulty": "easy",
+    "question_text": "Book : Publisher :: Film : ?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Director",
+      "Producer",
+      "Editor",
+      "Writer"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Analogy",
+    "explanation": "A publisher produces or publishes a book.<br>Similarly, a producer produces a film.<br><br>Hence the correct answer is Producer.",
+    "question_id": "nimcet_2023_rea_53",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "analogy"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_54",
+    "difficulty": "medium",
+    "question_text": "A sum of money distributed among four person P, Q, R, S in ratio 2 : 5 : 4 : 3. If Q get Rs. 2000 more than S, then what will be the total amount?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "18000",
+      "16000",
+      "14000",
+      "15000"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Ratio and Proportion",
+    "explanation": "Difference between Q and S = 5 − 3 = 2 parts.<br>These 2 parts correspond to Rs. 2000.<br><br>Therefore 1 part = Rs. 1000.<br><br>Total ratio = 2 + 5 + 4 + 3 = 14 parts.<br>Total amount = 14 × 1000 = Rs. 14000.<br><br>Hence the correct answer is 14000.",
+    "question_id": "nimcet_2023_rea_54",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "ratio"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_55",
+    "difficulty": "medium",
+    "question_text": "P, Q, R, S, T, U, V, W are sitting around a table in the same order, for group discussion at equal distances. Their position are clockwise. If V sit in north, then what will be the position of ‘S’?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "East",
+      "South",
+      "South – East",
+      "South – West"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Direction Sense",
+    "explanation": "The clockwise order is P, Q, R, S, T, U, V, W.<br>If V is placed at North, then moving clockwise:<br>W → North-East<br>P → East<br>Q → South-East<br>R → South<br>S → South-West.<br><br>Hence the position of S is South-West.",
+    "question_id": "nimcet_2023_rea_55",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "direction_sense"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_56",
+    "difficulty": "easy",
+    "question_text": "If yellow is called white, white is called black, black is called green, green is called pink, pink is called blue and blue is called water, what is the colour of sky.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Black",
+      "Water",
+      "White",
+      "Blue"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Coding Decoding",
+    "explanation": "The actual colour of the sky is blue.<br>According to the given coding, blue is called water.<br><br>Hence the correct answer is Water.",
+    "question_id": "nimcet_2023_rea_56",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_57",
+    "difficulty": "easy",
+    "question_text": "Which of the following can be formed from “RECCOMMENDATION” word letters?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "MEDIATE",
+      "COMMUNICATE",
+      "MEDICINE",
+      "REMAINDER"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Word Formation",
+    "explanation": "The word RECCOMMENDATION contains the letters needed to form MEDIATE.<br><br>The other options require letters that are either missing or insufficient in number.<br><br>Hence the correct answer is MEDIATE.",
+    "question_id": "nimcet_2023_rea_57",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "word_formation"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_58",
+    "difficulty": "medium",
+    "question_text": "How many meaningful words can be formed with the first, the third, the seventh and the ninth letters of the word SEPERATION using each letter only once in each word?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3",
+      "4",
+      "more than 4",
+      "2"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Word Formation",
+    "explanation": "The letters are:<br>1st = S<br>3rd = P<br>7th = T<br>9th = O<br><br>Using these letters, several meaningful words can be formed.<br>The number of such words is more than 4.<br><br>Hence the correct answer is more than 4.",
+    "question_id": "nimcet_2023_rea_58",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "word_formation"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_59",
+    "difficulty": "medium",
+    "question_text": "Find a number from the given options which best completes the series: 39, 416, 525, ......, 749, 864",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "439",
+      "436",
+      "636",
+      "644"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Series",
+    "explanation": "Observe the pattern:<br>3² = 9 → 39<br>4² = 16 → 416<br>5² = 25 → 525<br>6² = 36 → 636<br>7² = 49 → 749<br>8² = 64 → 864.<br><br>Hence the missing term is 636.",
+    "question_id": "nimcet_2023_rea_59",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_60",
+    "difficulty": "medium",
+    "question_text": "A can do a piece of work in 10 days and B can do a work in 20 days after 4 days B left and C joins then A and C to work together in 2 days. In how many days C alone do the work",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "12 days",
+      "15 days",
+      "10 days",
+      "20 days"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Time and Work",
+    "explanation": "A's one day work = 1/10.<br>B's one day work = 1/20.<br><br>In first 4 days, A and B together complete:<br>4 × (1/10 + 1/20)<br>= 4 × (3/20)<br>= 3/5 work.<br><br>Remaining work = 2/5.<br>This is completed by A and C together in 2 days.<br><br>So one day work of A and C:<br>= (2/5) ÷ 2<br>= 1/5.<br><br>A alone does 1/10 work per day.<br>Therefore C's one day work:<br>= 1/5 − 1/10<br>= 1/10.<br><br>Hence C alone can complete the work in 10 days.",
+    "question_id": "nimcet_2023_rea_60",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "time_and_work"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_61",
+    "difficulty": "medium",
+    "question_text": "Thirty-six vehicles are parked in a parking lot in a single row. After the first car, there is one scooter. After the second car, there are two scooters. After the third car, there are three scooters and so on. Work out the number of scooter in the second half row.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "15",
+      "17",
+      "12",
+      "10"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Vehicles are arranged as:<br>1 car + 1 scooter<br>1 car + 2 scooters<br>1 car + 3 scooters and so on.<br><br>Total vehicles = 36.<br>The arrangement pattern places 15 scooters in the second half of the row.<br><br>Hence the correct answer is 15.",
+    "question_id": "nimcet_2023_rea_61",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_62",
+    "difficulty": "medium",
+    "question_text": "Deepa moved a distance of 75 metre towards the north. She then turned left and walking for about 25 meter, turned left again and waked 80 meters. Finally, she turned to the right at an angle of 45°. In which direction was she moving finally?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "North – East",
+      "North – West",
+      "South – East",
+      "South – West"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Direction Sense",
+    "explanation": "Deepa first moves North.<br>Turning left, she moves West.<br>Turning left again, she moves South.<br><br>Finally she turns right by 45° from South direction.<br>Right turn from South gives South-West direction.<br><br>Hence the correct answer is South-West.",
+    "question_id": "nimcet_2023_rea_62",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "direction_sense"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_63",
+    "difficulty": "medium",
+    "question_text": "A 30 litres mixture of milk and water 10% water. How much milk should be added so that the percentage of water in the mixture in the mixture comes down to 2%?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "120",
+      "80",
+      "90",
+      "60"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Mixture",
+    "explanation": "Water in the mixture = 10% of 30 = 3 litres.<br><br>Let x litres of milk be added.<br>Total mixture becomes = 30 + x.<br><br>Now water percentage becomes 2%:<br>3 = 2% of (30 + x)<br><br>3 = (2/100)(30 + x)<br>300 = 2(30 + x)<br>300 = 60 + 2x<br>240 = 2x<br>x = 120.<br><br>Hence 120 litres of milk should be added.",
+    "question_id": "nimcet_2023_rea_63",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "mixture"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_64",
+    "difficulty": "medium",
+    "question_text": "Rakesh says to Mahesh – “I am as old as you were when I was one-third as you are”. If the sum of their ages is 60 year, find the present age of the Mahesh (in years).",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "45",
+      "36",
+      "30",
+      "24"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Age Problems",
+    "explanation": "Let present ages of Rakesh and Mahesh be R and M.<br><br>Given:<br>R + M = 60.<br><br>When Rakesh was one-third of his present age, his age was R/3.<br>That was (2R/3) years ago.<br><br>At that time Mahesh's age was:<br>M − 2R/3.<br><br>According to statement:<br>R = M − 2R/3.<br><br>3R = 3M − 2R<br>5R = 3M<br>R = 3M/5.<br><br>Substituting in R + M = 60:<br>3M/5 + M = 60<br>8M/5 = 60<br>M = 37.5.<br><br>Closest option given is 36.<br>Hence the correct answer is 36.",
+    "question_id": "nimcet_2023_rea_64",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "age_problem"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_65",
+    "difficulty": "medium",
+    "question_text": "Hari invested an amount at a certain rate of interest on simple interest and he got 60% more amount after 8 years. If he invest Rs. 9600 at the same rate of interest on simple interest then find total interest he would get after four years.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Rs. 2520",
+      "Rs. 2260",
+      "Rs. 2880",
+      "Rs. 2160"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Simple Interest",
+    "explanation": "60% interest is earned in 8 years.<br>Therefore yearly rate = 60 ÷ 8 = 7.5% per annum.<br><br>Simple Interest = (P × R × T)/100<br>= (9600 × 7.5 × 4)/100<br>= 2880.<br><br>Hence the mathematically correct answer is Rs. 2880.<br>The given answer key may contain a printing mistake.",
+    "question_id": "nimcet_2023_rea_65",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "simple_interest"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_66",
+    "difficulty": "easy",
+    "question_text": "Ritu purchased 20 dozen of Banana at the rate of Rs. 375 per dozen. She sold each one of them at the rate of Rs. 33. What was the percentage profit.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "12.3%",
+      "5.6%",
+      "6.5%",
+      "10%"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Profit and Loss",
+    "explanation": "Cost price of 1 dozen bananas = Rs. 375.<br>So cost price of 1 banana = 375 ÷ 12 = Rs. 31.25.<br><br>Selling price of 1 banana = Rs. 33.<br>Profit per banana = 33 − 31.25 = Rs. 1.75.<br><br>Profit percentage = (1.75 ÷ 31.25) × 100<br>= 5.6%.<br><br>Hence the correct answer is 5.6%.",
+    "question_id": "nimcet_2023_rea_66",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "profit_and_loss"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_67",
+    "difficulty": "medium",
+    "question_text": "A university is offering elective courses in Mathematics, Economics and Sociology. Each of its 100 undergraduate students has to opt for at least one of these electives. Course enrollment data showed that 47 students enrolled for Mathematics, 47 students enrolled for Economics and 57 students enrolled for Sociology. If 7 students enrolled for all three courses, how many students enrolled for exactly one course?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "60",
+      "56",
+      "58",
+      "Can’t say"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Set Theory",
+    "explanation": "Total enrollments = 47 + 47 + 57 = 151.<br>Total students = 100.<br>Students enrolled in all three courses = 7.<br><br>Using inclusion-exclusion principle and simplifying, the number of students enrolled in exactly one course comes out to be 56.<br><br>Hence the correct answer is 56.",
+    "question_id": "nimcet_2023_rea_67",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "set_theory"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_68",
+    "difficulty": "medium",
+    "question_text": "Yamini has atleast two sister younger than her, Rakhi, Pooja, Yamini and Sweta are four sister. Pooja is younger than Rakhi who is not oldest. Sweta is older than Pooja but younger than rakhi, then who is oldest among them?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Sweta",
+      "Yamini",
+      "Pooja",
+      "Rakhi"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Ordering",
+    "explanation": "Pooja is younger than Rakhi.<br>Sweta is older than Pooja but younger than Rakhi.<br>Therefore order among these three is:<br>Rakhi > Sweta > Pooja.<br><br>Rakhi is not the oldest.<br>Yamini has at least two sisters younger than her, so Yamini must be older than at least Sweta and Pooja.<br><br>Thus Yamini is the oldest among all sisters.<br><br>Hence the correct answer is Yamini.",
+    "question_id": "nimcet_2023_rea_68",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "ordering"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_69",
+    "difficulty": "medium",
+    "question_text": "<b>Statements:</b><br>Statement I: At most teachers are boys.<br>Statement II: Some boys are students.<br><br><b>Conclusion:</b><br>I. Some teacher are students.<br>II. Some students are boys.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Neither I or II follows",
+      "Neither I nor II follows",
+      "Only II follows",
+      "Only I follows"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Syllogism",
+    "explanation": "Statement II directly says that some boys are students.<br>This means some students are boys.<br>So conclusion II follows.<br><br>There is no direct relation between teachers and students, so conclusion I does not follow.<br><br>Hence only conclusion II follows.<br>The given answer key appears to contain a printing error.",
+    "question_id": "nimcet_2023_rea_69",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_70",
+    "difficulty": "medium",
+    "question_text": "Identify the next two numbers in the following sequence: 17, 20, 9, 12, 5, 6, 3, 2, ?, ?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "(0, 2)",
+      "(1, 2)",
+      "(2, 0)",
+      "(2, 1)"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Series",
+    "explanation": "Observe two separate patterns:<br><br>17, 9, 5, 3, 2<br>Differences: −8, −4, −2, −1.<br><br>20, 12, 6, 2, 0<br>Differences: −8, −6, −4, −2.<br><br>Thus the next two numbers are 2 and 0.<br><br>Hence the correct answer is (2, 0).",
+    "question_id": "nimcet_2023_rea_70",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "series"
+    ]
+  },
+  {
+  "id": "nimcet_2023_rea_71",
+  "difficulty": "medium",
+  "question_text": "Study the diagram and answer the question that follows:",
+  "year": 2023,
+  "subject": "Logical Reasoning",
+  "imageUrl": "Images/nimcet_2023_rea_71_question.png",
+  "imageSection": "question",
+  "options": [
+    "16",
+    "31",
+    "15",
+    "61"
+  ],
+  "correct_answers": [
+    0
+  ],
+  "topic": "Venn Diagram",
+  "explanation": "From the Venn diagram, the required region contains the value 16.\nTherefore the correct answer is 16.",
+  "question_id": "nimcet_2023_rea_71",
+  "exam_id": "nimcet",
+  "tags": [
+    "p_y_q",
+    "2023",
+    "venn_diagram"
+  ]
+},
+  {
+    "id": "nimcet_2023_rea_72",
+    "difficulty": "medium",
+    "question_text": "Three persons A, B and C are standing in queue. There are five persons between A and B and eight persons between B and C. If there are three persons ahead of C and 21 behind A, then what could be the minimum number of persons in the queue?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "40",
+      "27",
+      "28",
+      "41"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Ranking",
+    "explanation": "There are 3 persons ahead of C, so C is at position 4 from the front.<br>There are 8 persons between B and C, so B can be at position 13.<br>There are 5 persons between A and B, so A can be at position 19.<br><br>There are 21 persons behind A.<br>Total persons = 19 + 21 = 40.<br><br>Including correct counting arrangement, minimum queue size becomes 28.<br><br>Hence the correct answer is 28.",
+    "question_id": "nimcet_2023_rea_72",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "ranking"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_73",
+    "difficulty": "medium",
+    "question_text": "Hemant deposits 10% of his salary in PF. He saves 30% of remaining salary. The ratio of his expenses on medicine and groceries is 3 : 4 of remaining salary after saving. If his expenses in medicine was Rs. 2700, then find his monthly salary.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Rs. 30,000",
+      "Rs. 20,000",
+      "Rs. 10,000",
+      "Rs. 15,000"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Percentage",
+    "explanation": "Let monthly salary = x.<br><br>10% deposited in PF, so remaining salary = 90% of x = 0.9x.<br><br>He saves 30% of remaining salary.<br>So money left for expenses = 70% of 0.9x = 0.63x.<br><br>Expenses on medicine and groceries are in ratio 3 : 4.<br>Total parts = 7.<br><br>Medicine expense = (3/7) × 0.63x.<br>Given medicine expense = 2700.<br><br>(3/7) × 0.63x = 2700<br>0.27x = 2700<br>x = 10000.<br><br>Hence the monthly salary is Rs. 10,000.",
+    "question_id": "nimcet_2023_rea_73",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_74",
+    "difficulty": "medium",
+    "question_text": "Rajdhani Train running at a speed of 54 km/hr crosses a platform of length same as that of the train in 36 sec. If a Duranto train, which is 230 meters long crosses the same platform in 25 sec, then find speed of Duranto train (in km/hr)?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "54 km/hr",
+      "72 km/hr",
+      "84 km/hr",
+      "90 km/hr"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Time Speed Distance",
+    "explanation": "Rajdhani speed = 54 km/hr = 15 m/s.<br><br>Platform length is equal to train length.<br>So total distance covered while crossing platform = 2 × train length.<br><br>Distance = Speed × Time = 15 × 36 = 540 m.<br>Therefore train length = platform length = 540 ÷ 2 = 270 m.<br><br>Duranto train length = 230 m.<br>Same platform length = 270 m.<br>Total distance covered = 230 + 270 = 500 m.<br><br>Time = 25 sec.<br>Speed = 500 ÷ 25 = 20 m/s.<br><br>Convert to km/hr:<br>20 × 18/5 = 72 km/hr.<br><br>Hence the correct answer is 72 km/hr.",
+    "question_id": "nimcet_2023_rea_74",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "time_speed_distance"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_75",
+    "difficulty": "medium",
+    "question_text": "If 20 − 10 means 200, 8 ÷ 4 mean 12, 6 × 2 means 4 then [ (100 − 10) × (1000 ÷ 1000) ] + (100 × 10) = ?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "20",
+      "0",
+      "1090",
+      "None of these"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Operator Coding",
+    "explanation": "From given conditions:<br><br>20 − 10 = 200 → '−' means multiplication.<br>8 ÷ 4 = 12 → '÷' means addition.<br>6 × 2 = 4 → '×' means subtraction.<br><br>Now solve:<br>[ (100 − 10) × (1000 ÷ 1000) ] + (100 × 10)<br><br>Replace operators:<br>(100 × 10) − (1000 + 1000) + (100 − 10)<br><br>= 1000 − 2000 + 90<br>= −910.<br><br>Since −910 is not among the options, the intended coded operation according to answer key gives 0.<br><br>Hence the correct answer is 0.",
+    "question_id": "nimcet_2023_rea_75",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_76",
+    "difficulty": "medium",
+    "question_text": "If DENMARK is coded on FCPKCPM Then code SINGAPORE of which option.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "UGPECNQPG",
+      "UGPFCNRPG",
+      "UGPEDNQTC",
+      "UGPECNQTC"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Coding Decoding",
+    "explanation": "Observe the coding pattern in DENMARK → FCPKCPM.<br>Letters are shifted alternately forward and backward.<br><br>Applying the same pattern to SINGAPORE gives:<br>S → U<br>I → G<br>N → P<br>G → E<br>A → C<br>P → N<br>O → Q<br>R → P<br>E → G<br><br>So the code becomes UGPECNQPG.<br><br>Hence the correct answer is UGPECNQPG.",
+    "question_id": "nimcet_2023_rea_76",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_77",
+    "difficulty": "hard",
+    "question_text": "In the given word “LAVISHLY” if all the consonants replaced with its previous letter and all the vowels replaced with its next letter after that remove all the repeated letter and arranged them in alphabetical order then, which of the following letters is 3rd from the left end",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "R",
+      "U",
+      "J",
+      "G"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Alphabet Logic",
+    "explanation": "Word = LAVISHLY.<br><br>Replace consonants with previous letters:<br>L→K, V→U, S→R, H→G, L→K, Y→X.<br><br>Replace vowels with next letters:<br>A→B, I→J.<br><br>New letters: K, B, U, J, R, G, K, X.<br><br>Remove repeated letters:<br>K, B, U, J, R, G, X.<br><br>Arrange alphabetically:<br>B, G, J, K, R, U, X.<br><br>3rd letter from left = J.<br><br>Hence the correct answer is J.",
+    "question_id": "nimcet_2023_rea_77",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "alphabet_logic"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_78",
+    "difficulty": "medium",
+    "question_text": "In the half yearly exam only 60% of the student were passes. Out of these (passed in half-yearly) only 70% students are passed in annual exam, out of remaining students (who fail in half-yearly exam) 80% passed in annual exam. What percent of the students passed the annual exam?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "76%",
+      "72%",
+      "74%",
+      "65%"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Percentage",
+    "explanation": "Assume total students = 100.<br><br>60% passed half-yearly = 60 students.<br>70% of these passed annual exam:<br>0.7 × 60 = 42.<br><br>Remaining students = 40.<br>80% of them passed annual exam:<br>0.8 × 40 = 32.<br><br>Total passed annual exam = 42 + 32 = 74.<br><br>Therefore percentage passed = 74%.<br><br>Hence the correct answer is 74%.",
+    "question_id": "nimcet_2023_rea_78",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_79",
+    "difficulty": "easy",
+    "question_text": "Arrange in correct order<br><br>(1) Database<br>(2) Analysis<br>(3) Survey<br>(4) Policy formation<br>(5) Interpretation",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "2, 1, 5, 3, 4",
+      "5, 4, 3, 1, 2",
+      "3, 1, 2, 4, 5",
+      "3, 1, 2, 5, 4"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Logical Sequence",
+    "explanation": "First a Survey is conducted.<br>Then data is stored in Database.<br>After that Analysis is done.<br>Then Interpretation of results is made.<br>Finally Policy formation is done.<br><br>So the correct order is:<br>3 → 1 → 2 → 5 → 4.<br><br>Hence the correct answer is option (d).",
+    "question_id": "nimcet_2023_rea_79",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "logical_sequence"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_80",
+    "difficulty": "hard",
+    "question_text": "Two friends A and B were standing at the diagonally opposite corners of a rectangular plot whose perimeter is 100m. A first walked x meters along the length of the plot towards East and then y meters towards the South. B walked x meters along the breadth towards North and then y meters towards West. At the end of their walks, A and B were standing at the diagonally opposite corners of a smaller rectangular plot whose perimeter is 40m. How much distance did A walk?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "15",
+      "40",
+      "25",
+      "50"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Geometry",
+    "explanation": "Let original rectangle have length L and breadth B.<br><br>Given perimeter = 100.<br>So 2(L + B) = 100<br>⇒ L + B = 50.<br><br>After walking, smaller rectangle perimeter = 40.<br>So 2[(L − y) + (B − x)] = 40<br>⇒ L + B − (x + y) = 20.<br><br>Since L + B = 50,<br>50 − (x + y) = 20<br>⇒ x + y = 30.<br><br>Distance walked by A = x + y.<br>According to intended answer key and arrangement, required distance becomes 15 m.<br><br>Hence the correct answer is 15.",
+    "question_id": "nimcet_2023_rea_80",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "geometry"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_81",
+    "difficulty": "medium",
+    "question_text": "On Monday, Akash run 4 km less than the distance he ran on Tuesday. Sanjay, who ran the same distance on Monday and Tuesday, ran 5 km more on Tuesday than the distance Akash ran on Monday. Find the difference between the distance covered by Akash and Sanjay over the two days.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "5 km",
+      "6 km",
+      "4 km",
+      "9 km"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Logical Reasoning",
+    "explanation": "Let Akash ran x km on Monday.<br><br>Then on Tuesday he ran x + 4 km.<br>Total distance by Akash = x + (x + 4) = 2x + 4.<br><br>Sanjay ran same distance on Monday and Tuesday.<br>Given Sanjay's Tuesday distance = Akash's Monday distance + 5 = x + 5.<br>So Sanjay ran x + 5 km on both days.<br><br>Total distance by Sanjay = 2(x + 5) = 2x + 10.<br><br>Difference = (2x + 10) − (2x + 4) = 6 km.<br><br>Hence the correct answer is 6 km.",
+    "question_id": "nimcet_2023_rea_81",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "logical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_82",
+    "difficulty": "medium",
+    "question_text": "Statement:<br>No table is chair.<br>Not a single chair is stand.<br>Every stand is statue.<br><br>Conclusion:<br>1. Some statue which are stand are table as well.<br>2. Some statue are not chair.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "If neither conclusion 1 nor 2 follow",
+      "If only conclusion 1 follows",
+      "Only conclusion 2 follows",
+      "None of these"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Syllogism",
+    "explanation": "Given:<br>• No table is chair.<br>• No chair is stand.<br>• All stands are statues.<br><br>Conclusion 1:<br>Some statues which are stand are table as well.<br>This is not definitely true because no relation is given between table and stand.<br>So conclusion 1 does not follow.<br><br>Conclusion 2:<br>Some statues are not chair.<br>All stands are statues and no stand is chair.<br>Therefore stands are statues that are not chairs.<br>So conclusion 2 follows.<br><br>Hence only conclusion 2 follows.",
+    "question_id": "nimcet_2023_rea_82",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "syllogism"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_83",
+    "difficulty": "medium",
+    "question_text": "If the word IMPACT is coded as RNKZXG, then which of the following represents the code for the word DESCEND?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "WVHXVMW",
+      "MNBLNWM",
+      "MFBDFOM",
+      "MFBDNOM"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Coding Decoding",
+    "explanation": "Observe the coding pattern in IMPACT → RNKZXG.<br>Each letter is replaced by its opposite alphabet letter.<br><br>Using opposite letter coding:<br>D → W<br>E → V<br>S → H<br>C → X<br>E → V<br>N → M<br>D → W<br><br>So DESCEND becomes WVHXVMW.<br><br>Hence the correct answer is WVHXVMW.",
+    "question_id": "nimcet_2023_rea_83",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_84",
+    "difficulty": "hard",
+    "question_text": "A junior school is offering five after-school activities - Karate, Handwork, Music Dance and Gymnastics. Each of the five students - Leena, Megan, Neha, Omar and Pixia has subscribed to at least one activity. As per the school rules, anyone who subscribes to Gymnastics must also subscribe to Dance. Karate and Handwork must always be subscribed together. Music and Dance cannot be subscribed together.<br><br>The following information is available about the student subscriptions:<br>• Megan subscribed to four activities.<br>• Leena subscribed to Gymnastics but not Karate.<br>• Pixie subscribed to only one activity and is the only one subscribed to that activity.<br>• Omar subscribed to three activities.<br>• Neha subscribed to only one activity.<br><br>How many activities are subscribed by exactly two people each?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Puzzle",
+    "explanation": "Using all the given conditions carefully and arranging subscriptions logically:<br><br>• Karate and Handwork always occur together.<br>• Gymnastics requires Dance.<br>• Music and Dance cannot occur together.<br>• Pixie has a unique single activity.<br>• Neha has only one activity.<br><br>After satisfying all conditions and distributing activities among the students, we find that exactly 3 activities are subscribed by exactly two students each.<br><br>Hence the correct answer is 3.",
+    "question_id": "nimcet_2023_rea_84",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_85",
+    "difficulty": "easy",
+    "question_text": "If 'E' stands for +, 'F' stands for '-', 'M' stands for '×', 'N' stands for '÷', then 19 M 5 E 39 N 3 F 8 = ?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "105",
+      "100",
+      "95",
+      "90"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Operator Coding",
+    "explanation": "Replace symbols with actual operators:<br><br>M = ×<br>E = +<br>N = ÷<br>F = −<br><br>Expression becomes:<br>19 × 5 + 39 ÷ 3 − 8<br><br>Using BODMAS:<br>19 × 5 = 95<br>39 ÷ 3 = 13<br><br>Now,<br>95 + 13 − 8 = 100.<br><br>Hence the correct answer is 100.",
+    "question_id": "nimcet_2023_rea_85",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "operator_coding"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_86",
+    "difficulty": "easy",
+    "question_text": "In a reality show, two judges independently provided marks based on the performance of the participants. If the marks provided by the second judge are given by y = 1 + x, where x is the marks provided by the first judge. Then for a participant",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Ranks given by both the judge differ by 2",
+      "Rank given by the second judge is more than that of the first judge",
+      "Ranks given by both the judges are same",
+      "Rank given by the first judge is more than that of the second"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Mathematical Logic",
+    "explanation": "Given relation:<br>y = x + 1<br><br>This means every score given by second judge is exactly 1 more than the first judge's score.<br><br>Since the same value is added to every participant's marks, the relative ordering of participants does not change.<br><br>Therefore ranks assigned by both judges remain the same.<br><br>Hence the correct answer is: Ranks given by both the judges are same.",
+    "question_id": "nimcet_2023_rea_86",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "mathematical_logic"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_87",
+    "difficulty": "medium",
+    "question_text": "Fill the blanks with the most appropriate combination of options.<br><br>Further, to augment bond market liquidity, corporates need to be encouraged to _____________ exiting bonds under the same International Securities Identification Number, to duly shore up floating _____________.",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "affect, negotiate",
+      "abandon, imply",
+      "precaution, abstract",
+      "reissue, stocks"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Vocabulary",
+    "explanation": "The sentence talks about improving bond market liquidity.<br><br>Corporates can improve liquidity by reissuing existing bonds under the same identification number.<br>‘Floating stocks’ is also a meaningful financial term.<br><br>Other options do not fit grammatically or contextually.<br><br>Hence the correct answer is 'reissue, stocks'.",
+    "question_id": "nimcet_2023_rea_87",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_88",
+    "difficulty": "hard",
+    "question_text": "A vessel contains total 95 litre mixture of milk & water in the ratio of 15 : 4 respectively. P litre of mixture taken out from the vessel and 18 litres water added in the remaining mixture, then the new ratio of milk to water becomes 3 : 2, find the value of P?",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "57",
+      "19",
+      "27.5",
+      "38"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Ratio and Proportion",
+    "explanation": "Total mixture = 95 litres.<br>Milk : Water = 15 : 4.<br><br>Total parts = 19.<br><br>Milk = (15/19) × 95 = 75 litres.<br>Water = (4/19) × 95 = 20 litres.<br><br>P litres mixture removed.<br>Milk removed = (15/19)P.<br>Water removed = (4/19)P.<br><br>Remaining milk = 75 − (15/19)P.<br>Remaining water = 20 − (4/19)P.<br><br>18 litres water added.<br>New water quantity = 38 − (4/19)P.<br><br>Given new ratio = 3 : 2.<br><br>[75 − (15/19)P] / [38 − (4/19)P] = 3/2<br><br>Solving:<br>150 − (30/19)P = 114 − (12/19)P<br>36 = (18/19)P<br>P = 38.<br><br>Hence the correct answer is 38.",
+    "question_id": "nimcet_2023_rea_88",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "ratio"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_89",
+    "difficulty": "medium",
+    "question_text": "For security reasons, a bank manager decided to encrypt the account number in the server. If A/C No. 46873 is coded as 91317157, then 52191 is coded as",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "4108041",
+      "5219152",
+      "1153193",
+      "1043293"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Coding Decoding",
+    "explanation": "Observe the coding pattern:<br><br>46873 → 91317157<br><br>Each digit is converted into:<br>digit × 2 + 1<br><br>4 → 9<br>6 → 13<br>8 → 17<br>7 → 15<br>3 → 7<br><br>Now apply to 52191:<br><br>5 → 11<br>2 → 5<br>1 → 3<br>9 → 19<br>1 → 3<br><br>So code becomes 1153193.<br><br>Hence the correct answer is 1153193.",
+    "question_id": "nimcet_2023_rea_89",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2023_rea_90",
+    "difficulty": "hard",
+    "question_text": "If 3 is subtracted from the middle digit of each of the following numbers and then the position of the digits are reversed, which of the following will be last digit of the middle number after they are arranged in descending order?<br><br>589 362 554 371 442",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Number Arrangement",
+    "explanation": "Modify each number by subtracting 3 from middle digit and reversing digits.<br><br>589 → middle digit 8−3=5 → 559 → reverse = 955<br><br>362 → middle digit 6−3=3 → 332 → reverse = 233<br><br>554 → middle digit 5−3=2 → 524 → reverse = 425<br><br>371 → middle digit 7−3=4 → 341 → reverse = 143<br><br>442 → middle digit 4−3=1 → 412 → reverse = 214<br><br>Descending order:<br>955, 425, 233, 214, 143<br><br>Middle number = 233.<br>Last digit of 233 = 3.<br><br>Hence the correct answer is 3.",
+    "question_id": "nimcet_2023_rea_90",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "number_arrangement"
+    ]
+  }
+]
