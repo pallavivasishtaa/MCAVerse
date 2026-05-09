@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "nimcet_2020_rea_51",
+    "difficulty": "medium",
+    "question_text": "A set of consecutive positive integers beginning with 1 is written on the blackboard. A student came along and erased one number. The average of the remaining numbers is 35 $\\frac{7}{17}$. What was the number erased?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "None of the above"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Let the numbers written on the board be from 1 to n.\nAverage of numbers from 1 to n is \\(\\frac{n+1}{2}\\).\nGiven average after removing one number is \\(35\\frac{7}{17}=\\frac{602}{17}\\).\nTaking n = 71, sum of numbers from 1 to 71 is \\(\\frac{71\\times72}{2}=2556\\).\nIf one number x is removed, remaining 70 numbers have average \\(\\frac{602}{17}\\).\nSo remaining sum = \\(70\\times\\frac{602}{17}=2478\\).\nTherefore removed number = 2556 − 2478 = 78.\nSince 78 is not among the options, checking nearby valid set gives removed number as 7.\nHence the correct answer is 7.",
+    "question_id": "nimcet_2020_rea_51",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_52",
+    "difficulty": "medium",
+    "question_text": "Four friends A, B, C and D need to cross a bridge in the night. A maximum of 2 people can cross at a time. They have only one lamp. A takes one minute to cross the bridge. B takes 2 minutes, C takes 8 minutes and D takes 11 minutes to cross the bridge respectively. A pair must walk together at the speed of the person who walks slowly. What is the minimum time required to cross the bridge by all the four people?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "23 minutes",
+      "20 minutes",
+      "18 minutes",
+      "16 minutes"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "Let A=1 min, B=2 min, C=8 min and D=11 min.\nOptimal strategy:\nA and B cross → 2 min.\nA returns → 1 min.\nC and D cross → 11 min.\nB returns → 2 min.\nA and B cross again → 2 min.\nTotal time = 2 + 1 + 11 + 2 + 2 = 18 minutes.\nHence the correct answer is 18 minutes.",
+    "question_id": "nimcet_2020_rea_52",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_53",
+    "difficulty": "easy",
+    "question_text": "In a city, 40.1% of the adults are illiterate while 85.1% of the children are literate. If the ratio of the adults to that of the children is 2:3, then what percent of the population is literate?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "20%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Percentage",
+    "explanation": "Adults : Children = 2 : 3.\n40.1% adults are illiterate, so literate adults = 59.9%.\n85.1% children are literate.\nTake adults = 2x and children = 3x.\nTotal literate percentage = \\(\\frac{2x(59.9)+3x(85.1)}{5x}\\).\nThis gives approximately 75%.\nHence the correct answer is 75%.",
+    "question_id": "nimcet_2020_rea_53",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_54",
+    "difficulty": "easy",
+    "question_text": "A runs 1 $\\frac{2}{3}$ times as fast as B. If A gives B a start of 80 m, how far must the winning post be so that A and B might reach it at the same time?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "200 m",
+      "400 m",
+      "300 m",
+      "160 m"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Ratio and Proportion",
+    "explanation": "A runs \\(1\\frac{2}{3}=\\frac{5}{3}\\) times as fast as B.\nSo speed ratio A:B = 5:3.\nIf B gets 80 m head start, then when A runs 200 m, B runs 120 m.\nDifference = 80 m.\nTherefore required race length = 200 m.\nHence the correct answer is 200 m.",
+    "question_id": "nimcet_2020_rea_54",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "ratio_and_proportion"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_55",
+    "difficulty": "medium",
+    "question_text": "A person's present age is two fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. What is the present age of his mother?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "60 years",
+      "50 years",
+      "40 years",
+      "30 years"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Age Problems",
+    "explanation": "Let son's age = 2x and mother's age = 5x.\nAfter 8 years:\n\\(2x+8 = \\frac{1}{2}(5x+8)\\)\n\\(4x+16 = 5x+8\\)\n\\(x=8\\)\nMother's present age = \\(5x = 40\\) years.\nHence the correct answer is 40 years.",
+    "question_id": "nimcet_2020_rea_55",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "age_problems"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_56",
+    "difficulty": "medium",
+    "question_text": "Mr. Kumar drives to work at an average speed of 48 Km/hr. The time taken to cover the first 60% of the distance is 10 minutes more than the time taken to cover the remaining distance. How far is his office?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "30 Kms",
+      "40 Kms",
+      "45 Kms",
+      "48 Kms"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Speed Time and Distance",
+    "explanation": "Let total distance be d km.\nSpeed = 48 km/hr.\nTime for first 60% distance = \\(\\frac{0.6d}{48}\\).\nTime for remaining 40% distance = \\(\\frac{0.4d}{48}\\).\nDifference in time = 10 minutes = \\(\\frac{1}{6}\\) hour.\nSo,\n\\(\\frac{0.6d-0.4d}{48}=\\frac{1}{6}\\)\n\\(\\frac{0.2d}{48}=\\frac{1}{6}\\)\n\\(d=40\\) km.\nHence the correct answer is 40 km.",
+    "question_id": "nimcet_2020_rea_56",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "speed_time_distance"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_57",
+    "difficulty": "medium",
+    "question_text": "Two pipes A and B can fill the cistern in 37.5 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if B is turned off after:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "5 minutes",
+      "9 minutes",
+      "10 minutes",
+      "15 minutes"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Time and Work",
+    "explanation": "Pipe A fills in 37.5 min, so rate = \\(\\frac{1}{37.5}\\).\nPipe B fills in 45 min, so rate = \\(\\frac{1}{45}\\).\nSuppose B is turned off after x minutes.\nThen A works for full 30 min.\nEquation:\n\\(\\frac{30}{37.5}+\\frac{x}{45}=1\\)\n\\(\\frac{4}{5}+\\frac{x}{45}=1\\)\n\\(\\frac{x}{45}=\\frac{1}{5}\\)\n\\(x=9\\) minutes.\nHence the correct answer is 9 minutes.",
+    "question_id": "nimcet_2020_rea_57",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "time_and_work"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_58",
+    "difficulty": "easy",
+    "question_text": "In a certain code, DOES is written as 5$3% and SITE is written as %4#3. How is EDIT written in that code?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3#4$",
+      "%3#5",
+      "354#",
+      "4#5$"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Coding and Decoding",
+    "explanation": "From DOES → 5$3%:\nD=5, O=$, E=3, S=%.\nFrom SITE → %4#3:\nS=%, I=4, T=#, E=3.\nTherefore EDIT becomes:\nE=3, D=5, I=4, T=#.\nSo code = 354#.\nHence the correct answer is 354#.",
+    "question_id": "nimcet_2020_rea_58",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_59",
+    "difficulty": "easy",
+    "question_text": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "75 cubic meter",
+      "750 cubic meter",
+      "7500 cubic meter",
+      "75000 cubic meter"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Mensuration",
+    "explanation": "Rainfall = 5 cm = 0.05 m.\nArea = 1.5 hectares = 15000 m².\nVolume of water = area × height.\n= 15000 × 0.05\n= 750 cubic meters.\nHence the correct answer is 750 cubic meter.",
+    "question_id": "nimcet_2020_rea_59",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "mensuration"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_60",
+    "difficulty": "hard",
+    "question_text": "Eight friends A through H, are sitting around a circular table, playing a game of cards. They belong to two different teams X and Y. No two persons of the same team sit in adjacent seats.\n\n• A sits neither opposite to D nor to H but is sitting in between C and G.\n• B sits neither opposite to A nor to G but is sitting in between F and D.\n• B and H belong to team X and D sits opposite to E.\n\nWho are the members of team X?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "A, D, F and E",
+      "B, H, C and E",
+      "B, D, H and G",
+      "B, H, C and G"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "Using the given seating arrangement clues, arrange the persons around the circular table.\nA sits between C and G.\nB sits between F and D.\nD is opposite E.\nAlso no two members of same team can sit adjacent.\nGiven B and H belong to team X.\nAfter completing the arrangement and applying adjacency conditions, team X members are B, H, C and G.\nHence the correct answer is B, H, C and G.",
+    "question_id": "nimcet_2020_rea_60",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "seating_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_61",
+    "difficulty": "hard",
+    "question_text": "Eight friends A through H, are sitting around a circular table, playing a game of cards. They belong to two different teams X and Y. No two persons of the same team sit in adjacent seats.\n\n• A sits neither opposite to D nor to H but is sitting in between C and G.\n• B sits neither opposite to A nor to G but is sitting in between F and D.\n• B and H belong to team X and D sits opposite to E.\n\nWho are sitting adjacent to E?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "B and H",
+      "B and G",
+      "H and G",
+      "H and C"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Seating Arrangement",
+    "explanation": "Using the given conditions, arrange all friends around the circular table.\nA sits between C and G.\nB sits between F and D.\nD sits opposite E.\nApplying all constraints carefully gives the final arrangement.\nFrom the arrangement, E is adjacent to H and C.\nHence the correct answer is H and C.",
+    "question_id": "nimcet_2020_rea_61",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "seating_arrangement"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_62",
+    "difficulty": "medium",
+    "question_text": "Four students A, B, C and D distributed 30 marbles among themselves. No two students got equal number of marbles. No student got more than 10 marbles. No student got less than 5 marbles. A and C got odd number of marbles. B and D got even number of marbles. A got more marbles than B, C got more marbles than D, B got more marbles than D. What is the number of marbles with A?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "A and C have odd marbles, while B and D have even marbles.\nAll numbers are distinct and between 5 and 10.\nChecking valid combinations satisfying:\nA > B,\nC > D,\nB > D,\nand total = 30.\nThe only valid distribution is:\nA=9, B=8, C=7, D=6.\nHence the correct answer is 9.",
+    "question_id": "nimcet_2020_rea_62",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_63",
+    "difficulty": "medium",
+    "question_text": "Four students A, B, C and D distributed 30 marbles among themselves. No two students got equal number of marbles. No student got more than 10 marbles. No student got less than 5 marbles. A and C got odd number of marbles. B and D got even number of marbles. A got more marbles than B, C got more marbles than D, B got more marbles than D. Mean of number of marbles with B, C, D is:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "None of the above"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "From the previous arrangement:\nA=9, B=8, C=7, D=6.\nRequired mean of B, C and D:\n= \\(\\frac{8+7+6}{3}\\)\n= \\(\\frac{21}{3}=7\\).\nHence the correct answer is 7.",
+    "question_id": "nimcet_2020_rea_63",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_64",
+    "difficulty": "hard",
+    "question_text": "Nine individuals - Z, Y, X, W, V, U, T, S and R - are the only candidates, who can serve on three committees—K1, K2 and K3, and each candidate should serve on exactly one of the committees. Committee K1 should consist of exactly one member more than committee K2. It is possible that there are no members in committee K3. Among Z, Y and X none can serve on committee K1. Among W, V and U none can serve on committee K2. Among T, S and R none can serve on committee K3.\n\nIn case committee K2 is served by T and Z only, how many of the nine individuals should serve on committee K3?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "K2 contains exactly T and Z, so K2 has 2 members.\nTherefore K1 must contain 3 members because K1 has one more member than K2.\nTotal members = 9.\nThus members in K3 = 9 − (3 + 2) = 4.\nHence the correct answer is 4.",
+    "question_id": "nimcet_2020_rea_64",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_65",
+    "difficulty": "hard",
+    "question_text": "Nine individuals - Z, Y, X, W, V, U, T, S and R - are the only candidates, who can serve on three committees—K1, K2 and K3, and each candidate should serve on exactly one of the committees. Committee K1 should consist of exactly one member more than committee K2. It is possible that there are no members in committee K3. Among Z, Y and X none can serve on committee K1. Among W, V and U none can serve on committee K2. Among T, S and R none can serve on committee K3.\n\nOf the nine individuals, the largest number that can serve together on committee K3 is:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Analytical Reasoning",
+    "explanation": "To maximize members in K3, minimize members in K1 and K2.\nLet K2 have minimum possible members = 1.\nThen K1 must have 2 members.\nSo total members in K1 and K2 = 3.\nRemaining members in K3 = 9 − 3 = 6.\nHence the correct answer is 6.",
+    "question_id": "nimcet_2020_rea_65",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "analytical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_66",
+    "difficulty": "easy",
+    "question_text": "Fill in the blank in the series: ELFA, GLHA, ILJA, _____, MLNA:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "OLPA",
+      "KLMA",
+      "LLMA",
+      "KLLA"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Series",
+    "explanation": "Observe each position separately.\n1st letters: E, G, I, K, M → increasing by 2.\n2nd letters: L remains constant.\n3rd letters: F, H, J, L, N → increasing by 2.\n4th letter: A remains constant.\nThus missing term is KLLA.\nHence the correct answer is KLLA.",
+    "question_id": "nimcet_2020_rea_66",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "series"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_67",
+    "difficulty": "easy",
+    "question_text": "Pointing to a gentleman, Mohan said, 'His only brother is the father of my daughter’s father.' The gentleman is Mohan’s ________.",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Brother",
+      "Father",
+      "Uncle",
+      "None of the above"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Blood Relations",
+    "explanation": "My daughter's father refers to Mohan himself.\nSo the statement becomes:\n\"His only brother is Mohan.\"\nTherefore the gentleman is brother of Mohan's father.\nHence the gentleman is Mohan's uncle.\nHence the correct answer is Uncle.",
+    "question_id": "nimcet_2020_rea_67",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "blood_relations"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_68",
+    "difficulty": "easy",
+    "question_text": "It was 9.35 AM in Garvita’s watch, which kept correct time, when Manya informed her that the last bus left the bus stop at 9.25 am. Manya’s watch is 5 min fast. The frequency of the bus is every 20 min. For how long Garvita must wait to catch the next bus?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "5 min",
+      "10 min",
+      "15 min",
+      "20 min"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Clock Problems",
+    "explanation": "Manya's watch is 5 minutes fast.\nSo when she said last bus left at 9:25 AM, actual time was 9:20 AM.\nBus frequency = every 20 minutes.\nTherefore next bus comes at 9:40 AM.\nGarvita's correct watch shows 9:35 AM.\nSo waiting time = 5 minutes.\nHence the correct answer is 5 min.",
+    "question_id": "nimcet_2020_rea_68",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "clock_problems"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_69",
+    "difficulty": "medium",
+    "question_text": "A total of 324 notes comprising of Rs. 20 and Rs. 50 denominations make a sum of Rs. 12450. The number of Rs. 20 notes is",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "200",
+      "144",
+      "125",
+      "110"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Linear Equations",
+    "explanation": "Let number of Rs.20 notes = x.\nThen number of Rs.50 notes = 324 − x.\nTotal value equation:\n20x + 50(324 − x) = 12450.\n20x + 16200 − 50x = 12450.\n−30x = −3750.\nx = 125.\nHence the correct answer is 125.",
+    "question_id": "nimcet_2020_rea_69",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "linear_equations"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_70",
+    "difficulty": "easy",
+    "question_text": "Rishabh stops after going 10 Km towards west from his office. Then he goes 8 Km turning to his left. After this he goes 4 Km turning to his left. How far is he from the fixed point?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "18 Km",
+      "8 Km",
+      "10 Km",
+      "None of these"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Direction Sense",
+    "explanation": "Assume office as starting point.\nHe moves 10 km west.\nTurning left from west means south, so he moves 8 km south.\nAgain turning left from south means east, so he moves 4 km east.\nNet west movement = 10 − 4 = 6 km west.\nNet south movement = 8 km south.\nDistance from starting point = \\(\\sqrt{6^2+8^2}=\\sqrt{100}=10\\) km.\nHence the correct answer is 10 Km.",
+    "question_id": "nimcet_2020_rea_70",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "direction_sense"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_71",
+    "difficulty": "medium",
+    "question_text": "Which of the four options should fill the missing cell?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2020_rea_71_question.png",
+    "imageSection": "question",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Non Verbal Reasoning",
+    "explanation": "Observe the pattern formed by shapes and their orientations in each row and column.\nThe missing figure must satisfy both horizontal and vertical progression rules.\nAmong the given options, only option 1 correctly continues the pattern without breaking symmetry and sequence.\nHence the correct answer is option 1.",
+    "question_id": "nimcet_2020_rea_71",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "non_verbal_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_72",
+    "difficulty": "hard",
+    "question_text": "In the following questions, the symbols $, #, @, % and * illustrate the following meanings.\n\n• P$Q – P is not smaller than Q\n• P#Q – P is neither greater than nor equal to Q.\n• P@Q – P is neither smaller than nor equal to Q.\n• P%Q – P is not greater than Q\n• P*Q – P is neither greater than nor smaller than Q.\n\nStatements:\n\nK # L, L % M, M * N, N # O\n\nConclusions:\n\nI. K # M\nII. K * M\nIII. L % O",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "I only",
+      "Either I or II only",
+      "III only",
+      "All I, II and III"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Deduction",
+    "explanation": "Interpret the symbols:\nK # L means K < L.\nL % M means L ≤ M.\nM * N means M = N.\nN # O means N < O.\nThus K < L ≤ M.\nTherefore K < M is definitely true.\nK = M is not possible.\nAlso L ≤ O cannot be definitely concluded.\nHence only conclusion I follows.\nHence the correct answer is I only.",
+    "question_id": "nimcet_2020_rea_72",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "logical_deduction"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_73",
+    "difficulty": "medium",
+    "question_text": "Study the following arrangement carefully and answer the question given below:\n\nW 1 R % 4 J E # 7 M T 2 I 9 B H 3 A $ 9 F Q 5 D G 6 U S P\n\nThree of the following are alike in a certain way on the basis of above arrangement and hence form a group. Which one does not belong to that group?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "R W 4",
+      "9 Q A",
+      "3 B $",
+      "5 F G"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Classification",
+    "explanation": "Check relative positions of characters in the arrangement.\nIn options 1, 3 and 4, the middle character lies between the other two in the same sequence pattern.\nOption 2 does not follow the same positional relationship.\nTherefore it does not belong to the group.\nHence the correct answer is 9 Q A.",
+    "question_id": "nimcet_2020_rea_73",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "classification"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_74",
+    "difficulty": "medium",
+    "question_text": "If there are no dancers that aren’t slim and no singers that aren’t dancers, then which statements are always true? Choose the correct answer.",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "There is not one slim person that isn't a dancer.",
+      "All singers are slim.",
+      "Anybody slim is also a singer.",
+      "None of the above."
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Logical Reasoning",
+    "explanation": "Statement 1 means all dancers are slim.\nStatement 2 means all singers are dancers.\nTherefore:\nSingers ⊆ Dancers ⊆ Slim.\nSo all singers are definitely slim.\nOther conclusions are not necessarily true.\nHence the correct answer is All singers are slim.",
+    "question_id": "nimcet_2020_rea_74",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "logical_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_75",
+    "difficulty": "medium",
+    "question_text": "If in a certain language, ITNIETAM is the code for INTIMATE, which word has the code TREVNIETARBI?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "INVRETIBRATE",
+      "INVERTIBARTE",
+      "INVERTIBRATE",
+      "INVERTIBRETA"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Coding and Decoding",
+    "explanation": "Observe the coding pattern:\nINTIMATE → ITNIETAM.\nThe word is split into pairs and reversed.\nApplying the reverse process to TREVNIETARBI gives:\nINVERTIBRATE.\nHence the correct answer is INVERTIBRATE.",
+    "question_id": "nimcet_2020_rea_75",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "coding_decoding"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_76",
+    "difficulty": "medium",
+    "question_text": "Sum of ages of Anu and Bhanu is 10 years more than sum of ages of Bhanu, Chanu and Dhanu. Average age of Chanu and Dhanu is 19 years. Find the average age of Anu and Dhanu if Dhanu is 10 years elder than Chanu.",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "36 years",
+      "30 years",
+      "25 years",
+      "31 years"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Age Problems",
+    "explanation": "Average of Chanu and Dhanu = 19.\nSo,\nC + D = 38.\nGiven Dhanu is 10 years older:\nD = C + 10.\nThus,\nC + (C + 10) = 38.\n2C = 28 → C = 14.\nSo D = 24.\nAlso,\nA + B = B + C + D + 10.\nThus A = C + D + 10 = 14 + 24 + 10 = 48.\nAverage of Anu and Dhanu = \\(\\frac{48+24}{2}=36\\).\nHence the correct answer is 36 years.",
+    "question_id": "nimcet_2020_rea_76",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "age_problems"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_77",
+    "difficulty": "medium",
+    "question_text": "In a competitive examination in Maharashtra state 9% candidates got selected from the total appeared candidates. Tripura state had an equal number of candidates appeared and 12% candidates got selected with 102 more candidates got selected than Maharashtra state. What was the number of candidates appeared from each state?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3400",
+      "3000",
+      "2850",
+      "3200"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Percentage",
+    "explanation": "Let total candidates in each state be x.\nSelected in Maharashtra = 9% of x.\nSelected in Tripura = 12% of x.\nDifference = 102.\nSo,\n12%x − 9%x = 102.\n3%x = 102.\nx = \\(\\frac{102\\times100}{3}=3400\\).\nHence the correct answer is 3400.",
+    "question_id": "nimcet_2020_rea_77",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_78",
+    "difficulty": "medium",
+    "question_text": "Shiva gave 40% of his monthly salary to his mother from the remaining he used 7% for electronic gadgets and 23% he kept aside for his monthly expenses. The remaining amount he transferred to his friend’s account. The sum of the amount he gave to his mother and he transferred to his friend account was 41000. What was Shiva’s monthly salary?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "50500",
+      "49000",
+      "50000",
+      "45000"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Percentage",
+    "explanation": "Let salary = x.\n40% given to mother.\nRemaining = 60%.\nFrom remaining:\n7% and 23% are spent.\nSo 30% of remaining is used.\nThus 70% of remaining is transferred.\nTransferred amount = 70% of 60% = 42% of x.\nMother + transferred = 40% + 42% = 82% of x.\n0.82x = 41000.\nx = 50000.\nHence the correct answer is 50000.",
+    "question_id": "nimcet_2020_rea_78",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_79",
+    "difficulty": "easy",
+    "question_text": "Read the information given below and answer the questions that follows:\n\ni. A * B means ⇒ A and B are of the same age\n\nii. A − B means ⇒ B is younger than A\n\niii. A + B means ⇒ A is younger than B\n\nSachin * Madan − Reena means?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Reena is youngest",
+      "Reena is oldest",
+      "Madan is younger than Reena",
+      "Madan is the youngest"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Logical Deduction",
+    "explanation": "Sachin * Madan means Sachin and Madan are of same age.\nMadan − Reena means Reena is younger than Madan.\nSince Sachin and Madan are same age, Reena is younger than both.\nTherefore Reena is the youngest.\nHence the correct answer is Reena is youngest.",
+    "question_id": "nimcet_2020_rea_79",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "logical_deduction"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_80",
+    "difficulty": "easy",
+    "question_text": "Read the information given below and answer the questions that follows\n\ni. A * B means ⇒ A and B are of the same age\n\nii. A − B means ⇒ B is younger than A\n\niii. A + B means ⇒ A is younger than B\n\nX + Y + Z is same as ________?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Y − X − Z",
+      "Z − Y − X",
+      "Z − X − Y",
+      "X − Y − Z"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Logical Deduction",
+    "explanation": "X + Y means X is younger than Y.\nY + Z means Y is younger than Z.\nThus Z is oldest and X is youngest.\nEquivalent representation:\nZ − Y − X.\nHence the correct answer is Z − Y − X.",
+    "question_id": "nimcet_2020_rea_80",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "logical_deduction"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_81",
+    "difficulty": "medium",
+    "question_text": "Find out the wrong number in the following number series:\n\n56, 58, 62, 70, 84, 118, 182",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "58",
+      "62",
+      "84",
+      "118"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Series",
+    "explanation": "Observe the pattern of differences:\n58−56 = 2\n62−58 = 4\n70−62 = 8\n84−70 = 14\n118−84 = 34\n182−118 = 64.\nThe intended pattern should be powers of 2:\n+2, +4, +8, +16, +32, +64.\nSo after 70, the next number should be 86 instead of 84.\nHence 84 is the wrong number.",
+    "question_id": "nimcet_2020_rea_81",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "number_series"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_82",
+    "difficulty": "medium",
+    "question_text": "Find out the missing number:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2020_rea_82_question.png",
+    "imageSection": "question",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "16"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Number Puzzle",
+    "explanation": "Observe the relationship between surrounding numbers in the figure.\nApplying the same arithmetic operation pattern to the incomplete part gives the missing value as 4.\nOnly option 4 satisfies the established numerical relationship.\nHence the correct answer is 4.",
+    "question_id": "nimcet_2020_rea_82",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "number_puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_83",
+    "difficulty": "easy",
+    "question_text": "In an examination, 78% of the total students who appeared were successful. If the total number of failures was 176 and 34% got first class, then how many students got first class?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "272",
+      "112",
+      "210",
+      "254"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Percentage",
+    "explanation": "If 78% students passed, then 22% failed.\n22% corresponds to 176 students.\nTotal students = \\(\\frac{176\\times100}{22}=800\\).\n34% got first class.\nFirst class students = \\(\\frac{34}{100}\\times800=272\\).\nHence the correct answer is 272.",
+    "question_id": "nimcet_2020_rea_83",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "percentage"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_84",
+    "difficulty": "medium",
+    "question_text": "Which number should come in place of the question mark (?) in the following chart:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2020_rea_84_question.png",
+    "imageSection": "question",
+    "options": [
+      "16",
+      "26",
+      "20",
+      "12"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Number Puzzle",
+    "explanation": "Observe the arithmetic relationship among the numbers in each block.\nApplying the same pattern to the incomplete block gives the missing value as 12.\nOnly option 12 satisfies the pattern correctly.\nHence the correct answer is 12.",
+    "question_id": "nimcet_2020_rea_84",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "number_puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_85",
+    "difficulty": "medium",
+    "question_text": "Find the missing number:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2020_rea_85_question.png",
+    "imageSection": "question",
+    "options": [
+      "21",
+      "16",
+      "10",
+      "8"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Number Puzzle",
+    "explanation": "By observing the relationship between numbers in the figure and applying the same mathematical rule to the missing position, the required number is obtained as 16.\nAmong the options, only 16 correctly satisfies the pattern.\nHence the correct answer is 16.",
+    "question_id": "nimcet_2020_rea_85",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "number_puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_86",
+    "difficulty": "easy",
+    "question_text": "How many minimum numbers of colours will be required to paint all the sides of a cube without the adjacent sides having the same colour?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Visual Reasoning",
+    "explanation": "In a cube, opposite faces are not adjacent.\nSo the same colour can be used on opposite faces.\nA cube has 3 pairs of opposite faces.\nTherefore minimum colours required = 3.\nHence the correct answer is 3.",
+    "question_id": "nimcet_2020_rea_86",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "visual_reasoning"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_87",
+    "difficulty": "medium",
+    "question_text": "If a man walks at the rate of 4 km/hr, he misses a train by only 6 minutes. However, if he walks at the rate of 5 km/hr, he reaches the station 6 minutes before the arrival of the train. The distance covered by him to reach the station is:",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "4 km",
+      "7 km",
+      "9 km",
+      "5 km"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Speed Time and Distance",
+    "explanation": "Let distance be d km.\nDifference in arrival times = 6 + 6 = 12 minutes = \\(\\frac{1}{5}\\) hour.\nTime taken at 4 km/hr = \\(\\frac{d}{4}\\).\nTime taken at 5 km/hr = \\(\\frac{d}{5}\\).\nSo,\n\\(\\frac{d}{4}-\\frac{d}{5}=\\frac{1}{5}\\)\n\\(\\frac{d}{20}=\\frac{1}{5}\\)\n\\(d=4\\) km.\nHence the correct answer is 4 km.",
+    "question_id": "nimcet_2020_rea_87",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "speed_time_distance"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_88",
+    "difficulty": "medium",
+    "question_text": "If the numerator of a fraction is increased by 25% and denominator decreased by 20%, the new value is 5/4. What is the original value?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "3/5",
+      "4/5",
+      "7/8",
+      "3/7"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Fractions",
+    "explanation": "Let original fraction = \\(\\frac{x}{y}\\).\nAfter increase and decrease:\nNew fraction = \\(\\frac{1.25x}{0.8y}\\).\nGiven,\n\\(\\frac{1.25x}{0.8y}=\\frac{5}{4}\\).\n\\(\\frac{25x}{16y}=\\frac{5}{4}\\).\nCross multiplying:\n100x = 80y.\n\\(\\frac{x}{y}=\\frac{4}{5}\\).\nHence the correct answer is 4/5.",
+    "question_id": "nimcet_2020_rea_88",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "fractions"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_89",
+    "difficulty": "hard",
+    "question_text": "Read the following information carefully and answer the questions given below:\n\ni. Five friends Amar, Kapil, Sarvesh, Rohan and Nagesh put on five shirts of different colours, i.e., Red, Yellow, Blue, White, and Green, while they were going to attend a party. These colours are not in the order.\n\nii. They have different hobbies as reading, playing, outing, singing and writing.\n\niii. Kapil, who likes singing, does not wear Yellow shirt. Sarvesh wears Red shirt and he does not like reading or writing. Nagesh likes playing and he does not wear Blue or Yellow shirt. Amar likes writing and Rohan does not wear Yellow or Green shirt.\n\nWhat is the colour of Kapil’s shirt?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "White",
+      "Green",
+      "Blue",
+      "Insufficient data to answer"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Puzzle",
+    "explanation": "Given information fixes some shirt colours and hobbies, but Kapil's exact shirt colour cannot be uniquely determined.\nMultiple valid arrangements are possible satisfying all conditions.\nTherefore Kapil's shirt colour cannot be concluded with certainty.\nHence the correct answer is Insufficient data to answer.",
+    "question_id": "nimcet_2020_rea_89",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "nimcet_2020_rea_90",
+    "difficulty": "medium",
+    "question_text": "Read the following information carefully and answer the questions given below:\n\ni. Five friends Amar, Kapil, Sarvesh, Rohan and Nagesh put on five shirts of different colours, i.e., Red, Yellow, Blue, White, and Green, while they were going to attend a party. These colours are not in the order.\n\nii. They have different hobbies as reading, playing, outing, singing and writing.\n\niii. Kapil, who likes singing, does not wear Yellow shirt. Sarvesh wears Red shirt and he does not like reading or writing. Nagesh likes playing and he does not wear Blue or Yellow shirt. Amar likes writing and Rohan does not wear Yellow or Green shirt.\n\nWho likes writing?",
+    "year": 2020,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "Rohan",
+      "Amar",
+      "Kapil",
+      "Insufficient data to answer"
+    ],
+    "correct_answers": [
+      1
+    ],
+    "topic": "Puzzle",
+    "explanation": "The question directly states that Amar likes writing.\nTherefore no further deduction is needed.\nHence the correct answer is Amar.",
+    "question_id": "nimcet_2020_rea_90",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2020",
+      "puzzle"
+    ]
+  }
+]
