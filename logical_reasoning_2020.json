@@ -17,7 +17,7 @@
       0
     ],
     "topic": "Analytical Reasoning",
-    "explanation": "Let the numbers written on the board be from 1 to n.\nAverage of numbers from 1 to n is \\(\\frac{n+1}{2}\\).\nGiven average after removing one number is \\(35\\frac{7}{17}=\\frac{602}{17}\\).\nTaking n = 71, sum of numbers from 1 to 71 is \\(\\frac{71\\times72}{2}=2556\\).\nIf one number x is removed, remaining 70 numbers have average \\(\\frac{602}{17}\\).\nSo remaining sum = \\(70\\times\\frac{602}{17}=2478\\).\nTherefore removed number = 2556 − 2478 = 78.\nSince 78 is not among the options, checking nearby valid set gives removed number as 7.\nHence the correct answer is 7.",
+    "explanation": "Let the numbers written on the board be from 1 to n.\nAverage of numbers from 1 to n is $\\frac{n+1}{2}$.\nGiven average after removing one number is $35\\frac{7}{17}=\\frac{602}{17}$.\nTaking n = 71, sum of numbers from 1 to 71 is $\\frac{71\\times72}{2}=2556$.\nIf one number x is removed, remaining 70 numbers have average $\\frac{602}{17}$.\nSo remaining sum = $70\\times\\frac{602}{17}=2478$.\nTherefore removed number = 2556 − 2478 = 78.\nSince 78 is not among the options, checking nearby valid set gives removed number as 7.\nHence the correct answer is 7.",
     "question_id": "nimcet_2020_rea_51",
     "exam_id": "nimcet",
     "tags": [
@@ -71,7 +71,7 @@
       3
     ],
     "topic": "Percentage",
-    "explanation": "Adults : Children = 2 : 3.\n40.1% adults are illiterate, so literate adults = 59.9%.\n85.1% children are literate.\nTake adults = 2x and children = 3x.\nTotal literate percentage = \\(\\frac{2x(59.9)+3x(85.1)}{5x}\\).\nThis gives approximately 75%.\nHence the correct answer is 75%.",
+    "explanation": "Adults : Children = 2 : 3.\n40.1% adults are illiterate, so literate adults = 59.9%.\n85.1% children are literate.\nTake adults = 2x and children = 3x.\nTotal literate percentage = $\\frac{2x(59.9)+3x(85.1)}{5x}$.\nThis gives approximately 75%.\nHence the correct answer is 75%.",
     "question_id": "nimcet_2020_rea_53",
     "exam_id": "nimcet",
     "tags": [
@@ -98,7 +98,7 @@
       0
     ],
     "topic": "Ratio and Proportion",
-    "explanation": "A runs \\(1\\frac{2}{3}=\\frac{5}{3}\\) times as fast as B.\nSo speed ratio A:B = 5:3.\nIf B gets 80 m head start, then when A runs 200 m, B runs 120 m.\nDifference = 80 m.\nTherefore required race length = 200 m.\nHence the correct answer is 200 m.",
+    "explanation": "A runs $1\\frac{2}{3}=\\frac{5}{3}$ times as fast as B.\nSo speed ratio A:B = 5:3.\nIf B gets 80 m head start, then when A runs 200 m, B runs 120 m.\nDifference = 80 m.\nTherefore required race length = 200 m.\nHence the correct answer is 200 m.",
     "question_id": "nimcet_2020_rea_54",
     "exam_id": "nimcet",
     "tags": [
@@ -125,7 +125,7 @@
       2
     ],
     "topic": "Age Problems",
-    "explanation": "Let son's age = 2x and mother's age = 5x.\nAfter 8 years:\n\\(2x+8 = \\frac{1}{2}(5x+8)\\)\n\\(4x+16 = 5x+8\\)\n\\(x=8\\)\nMother's present age = \\(5x = 40\\) years.\nHence the correct answer is 40 years.",
+    "explanation": "Let son's age = 2x and mother's age = 5x.\nAfter 8 years:\n$2x+8 = \\frac{1}{2}(5x+8)$\n$4x+16 = 5x+8$\n$x=8$\nMother's present age = $5x = 40$ years.\nHence the correct answer is 40 years.",
     "question_id": "nimcet_2020_rea_55",
     "exam_id": "nimcet",
     "tags": [
@@ -152,7 +152,7 @@
       1
     ],
     "topic": "Speed Time and Distance",
-    "explanation": "Let total distance be d km.\nSpeed = 48 km/hr.\nTime for first 60% distance = \\(\\frac{0.6d}{48}\\).\nTime for remaining 40% distance = \\(\\frac{0.4d}{48}\\).\nDifference in time = 10 minutes = \\(\\frac{1}{6}\\) hour.\nSo,\n\\(\\frac{0.6d-0.4d}{48}=\\frac{1}{6}\\)\n\\(\\frac{0.2d}{48}=\\frac{1}{6}\\)\n\\(d=40\\) km.\nHence the correct answer is 40 km.",
+    "explanation": "Let total distance be d km.\nSpeed = 48 km/hr.\nTime for first 60% distance = $\\frac{0.6d}{48}$.\nTime for remaining 40% distance = $\\frac{0.4d}{48}$.\nDifference in time = 10 minutes = $\\frac{1}{6}$ hour.\nSo,\n$\\frac{0.6d-0.4d}{48}=\\frac{1}{6}$\n$\\frac{0.2d}{48}=\\frac{1}{6}$\n$d=40$ km.\nHence the correct answer is 40 km.",
     "question_id": "nimcet_2020_rea_56",
     "exam_id": "nimcet",
     "tags": [
@@ -179,7 +179,7 @@
       1
     ],
     "topic": "Time and Work",
-    "explanation": "Pipe A fills in 37.5 min, so rate = \\(\\frac{1}{37.5}\\).\nPipe B fills in 45 min, so rate = \\(\\frac{1}{45}\\).\nSuppose B is turned off after x minutes.\nThen A works for full 30 min.\nEquation:\n\\(\\frac{30}{37.5}+\\frac{x}{45}=1\\)\n\\(\\frac{4}{5}+\\frac{x}{45}=1\\)\n\\(\\frac{x}{45}=\\frac{1}{5}\\)\n\\(x=9\\) minutes.\nHence the correct answer is 9 minutes.",
+    "explanation": "Pipe A fills in 37.5 min, so rate = $\\frac{1}{37.5}\\).\nPipe B fills in 45 min, so rate = $\\frac{1}{45}\\).\nSuppose B is turned off after x minutes.\nThen A works for full 30 min.\nEquation:\n$\\frac{30}{37.5}+\\frac{x}{45}=1$\n$\\frac{4}{5}+\\frac{x}{45}=1$\n$\\frac{x}{45}=\\frac{1}{5}$\n$\\(x=9\\) minutes.\nHence the correct answer is 9 minutes.",
     "question_id": "nimcet_2020_rea_57",
     "exam_id": "nimcet",
     "tags": [
@@ -341,7 +341,7 @@
       1
     ],
     "topic": "Analytical Reasoning",
-    "explanation": "From the previous arrangement:\nA=9, B=8, C=7, D=6.\nRequired mean of B, C and D:\n= \\(\\frac{8+7+6}{3}\\)\n= \\(\\frac{21}{3}=7\\).\nHence the correct answer is 7.",
+    "explanation": "From the previous arrangement:\nA=9, B=8, C=7, D=6.\nRequired mean of B, C and D:\n= $\\frac{8+7+6}{3}$\n= $\\frac{21}{3}=7$.\nHence the correct answer is 7.",
     "question_id": "nimcet_2020_rea_63",
     "exam_id": "nimcet",
     "tags": [
@@ -449,7 +449,7 @@
       2
     ],
     "topic": "Blood Relations",
-    "explanation": "My daughter's father refers to Mohan himself.\nSo the statement becomes:\n\"His only brother is Mohan.\"\nTherefore the gentleman is brother of Mohan's father.\nHence the gentleman is Mohan's uncle.\nHence the correct answer is Uncle.",
+    "explanation": "My daughter's father means Mohan himself. So the statement becomes: His only brother is Mohan. This means Mohan is the brother of the gentleman. Therefore, the gentleman is the brother of Mohan's father. Hence, the gentleman is Mohan's uncle.",
     "question_id": "nimcet_2020_rea_67",
     "exam_id": "nimcet",
     "tags": [
@@ -530,7 +530,7 @@
       2
     ],
     "topic": "Direction Sense",
-    "explanation": "Assume office as starting point.\nHe moves 10 km west.\nTurning left from west means south, so he moves 8 km south.\nAgain turning left from south means east, so he moves 4 km east.\nNet west movement = 10 − 4 = 6 km west.\nNet south movement = 8 km south.\nDistance from starting point = \\(\\sqrt{6^2+8^2}=\\sqrt{100}=10\\) km.\nHence the correct answer is 10 Km.",
+    "explanation": "Assume office as starting point.\nHe moves 10 km west.\nTurning left from west means south, so he moves 8 km south.\nAgain turning left from south means east, so he moves 4 km east.\nNet west movement = 10 − 4 = 6 km west.\nNet south movement = 8 km south.\nDistance from starting point = $\\sqrt{6^2+8^2}=\\sqrt{100}=10$ km.\nHence the correct answer is 10 Km.",
     "question_id": "nimcet_2020_rea_70",
     "exam_id": "nimcet",
     "tags": [
@@ -692,7 +692,7 @@
       0
     ],
     "topic": "Age Problems",
-    "explanation": "Average of Chanu and Dhanu = 19.\nSo,\nC + D = 38.\nGiven Dhanu is 10 years older:\nD = C + 10.\nThus,\nC + (C + 10) = 38.\n2C = 28 → C = 14.\nSo D = 24.\nAlso,\nA + B = B + C + D + 10.\nThus A = C + D + 10 = 14 + 24 + 10 = 48.\nAverage of Anu and Dhanu = \\(\\frac{48+24}{2}=36\\).\nHence the correct answer is 36 years.",
+    "explanation": "Average of Chanu and Dhanu = 19.\nSo,\nC + D = 38.\nGiven Dhanu is 10 years older:\nD = C + 10.\nThus,\nC + (C + 10) = 38.\n2C = 28 → C = 14.\nSo D = 24.\nAlso,\nA + B = B + C + D + 10.\nThus A = C + D + 10 = 14 + 24 + 10 = 48.\nAverage of Anu and Dhanu = $\\frac{48+24}{2}=36$.\nHence the correct answer is 36 years.",
     "question_id": "nimcet_2020_rea_76",
     "exam_id": "nimcet",
     "tags": [
@@ -719,7 +719,7 @@
       0
     ],
     "topic": "Percentage",
-    "explanation": "Let total candidates in each state be x.\nSelected in Maharashtra = 9% of x.\nSelected in Tripura = 12% of x.\nDifference = 102.\nSo,\n12%x − 9%x = 102.\n3%x = 102.\nx = \\(\\frac{102\\times100}{3}=3400\\).\nHence the correct answer is 3400.",
+    "explanation": "Let total candidates in each state be x.\nSelected in Maharashtra = 9% of x.\nSelected in Tripura = 12% of x.\nDifference = 102.\nSo,\n12%x − 9%x = 102.\n3%x = 102.\nx = $\\frac{102 \\times 100}{3}=3400$.\nHence the correct answer is 3400.",
     "question_id": "nimcet_2020_rea_77",
     "exam_id": "nimcet",
     "tags": [
@@ -854,7 +854,7 @@
       2
     ],
     "topic": "Number Puzzle",
-    "explanation": "Observe the relationship between surrounding numbers in the figure.\nApplying the same arithmetic operation pattern to the incomplete part gives the missing value as 4.\nOnly option 4 satisfies the established numerical relationship.\nHence the correct answer is 4.",
+    "explanation": "Applying the same arithmetic operation pattern to the incomplete part gives the missing value as 4. Hence, the correct answer is 4.",
     "question_id": "nimcet_2020_rea_82",
     "exam_id": "nimcet",
     "tags": [
@@ -881,7 +881,7 @@
       0
     ],
     "topic": "Percentage",
-    "explanation": "If 78% students passed, then 22% failed.\n22% corresponds to 176 students.\nTotal students = \\(\\frac{176\\times100}{22}=800\\).\n34% got first class.\nFirst class students = \\(\\frac{34}{100}\\times800=272\\).\nHence the correct answer is 272.",
+    "explanation": "If 78% students passed, then 22% failed.\n22% corresponds to 176 students.\nTotal students = $\\frac{176 \\times 100}{22}=800$.\n34% got first class.\nFirst class students = $\\frac{34}{100} \\times 800=272$.\nHence the correct answer is 272.",
     "question_id": "nimcet_2020_rea_83",
     "exam_id": "nimcet",
     "tags": [
@@ -908,7 +908,7 @@
       3
     ],
     "topic": "Number Puzzle",
-    "explanation": "Observe the arithmetic relationship among the numbers in each block.\nApplying the same pattern to the incomplete block gives the missing value as 12.\nOnly option 12 satisfies the pattern correctly.\nHence the correct answer is 12.",
+    "explanation": "Applying the same pattern to the incomplete block gives the missing value as 12. Hence, the correct answer is 12.",
     "question_id": "nimcet_2020_rea_84",
     "exam_id": "nimcet",
     "tags": [
@@ -989,7 +989,7 @@
       0
     ],
     "topic": "Speed Time and Distance",
-    "explanation": "Let distance be d km.\nDifference in arrival times = 6 + 6 = 12 minutes = \\(\\frac{1}{5}\\) hour.\nTime taken at 4 km/hr = \\(\\frac{d}{4}\\).\nTime taken at 5 km/hr = \\(\\frac{d}{5}\\).\nSo,\n\\(\\frac{d}{4}-\\frac{d}{5}=\\frac{1}{5}\\)\n\\(\\frac{d}{20}=\\frac{1}{5}\\)\n\\(d=4\\) km.\nHence the correct answer is 4 km.",
+    "explanation": "Let distance be d km.\nDifference in arrival times = 6 + 6 = 12 minutes = $\\frac{1}{5}\\) hour.\nTime taken at 4 km/hr = $\\frac{d}{4}$.\nTime taken at 5 km/hr = $\\frac{d}{5}$.\nSo,\n$\\frac{d}{4}-\\frac{d}{5}=\\frac{1}{5}$\n$\\frac{d}{20}=\\frac{1}{5}$\n$d=4$ km.\nHence the correct answer is 4 km.",
     "question_id": "nimcet_2020_rea_87",
     "exam_id": "nimcet",
     "tags": [
@@ -1016,7 +1016,7 @@
       1
     ],
     "topic": "Fractions",
-    "explanation": "Let original fraction = \\(\\frac{x}{y}\\).\nAfter increase and decrease:\nNew fraction = \\(\\frac{1.25x}{0.8y}\\).\nGiven,\n\\(\\frac{1.25x}{0.8y}=\\frac{5}{4}\\).\n\\(\\frac{25x}{16y}=\\frac{5}{4}\\).\nCross multiplying:\n100x = 80y.\n\\(\\frac{x}{y}=\\frac{4}{5}\\).\nHence the correct answer is 4/5.",
+    "explanation": "Let original fraction = $\\frac{x}{y}\\).\nAfter increase and decrease:\nNew fraction = $\\frac{1.25x}{0.8y}\\).\nGiven,\n$\\frac{1.25x}{0.8y}=\\frac{5}{4}\\).\n$\\frac{25x}{16y}=\\frac{5}{4}\\).\nCross multiplying:\n100x = 80y.\n$\\frac{x}{y}=\\frac{4}{5}\\).\nHence the correct answer is 4/5.",
     "question_id": "nimcet_2020_rea_88",
     "exam_id": "nimcet",
     "tags": [
