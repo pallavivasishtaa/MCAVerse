@@ -117,10 +117,10 @@
       "Three"
     ],
     "correct_answers": [
-      1
+      3
     ],
     "topic": "Alphabet Series",
-    "explanation": "Word: P R I S O N\nCheck pairs having equal gaps in the word and alphabet.\nOnly pair P and R satisfies the condition.\nHence only one such pair exists.\nTherefore option (b) is correct.",
+    "explanation": "Word: P R I S O N\nCheck pairs whose number of letters between them in the word equals the number of letters between them in the English alphabet.\nThe valid pairs are:\nP-R, R-S and S-O.\nThus there are three such pairs.\nHence option (d) is correct.",
     "question_id": "nimcet_2009_rea_45",
     "exam_id": "nimcet",
     "tags": [
@@ -325,10 +325,10 @@
       "Preeti 19, Rahul 17"
     ],
     "correct_answers": [
-      0
+      3
     ],
     "topic": "Puzzle",
-    "explanation": "Let Rahul's age = $R$ and Preeti's age = $P$.\nGiven:\n$R^2 + P^3 = 7148$\n$P^2 + R^3 = 5274$\nChecking options:\nFor $R=14$ and $P=23$:\n$14^2 + 23^3 = 196 + 12167 \\neq 7148$\nInterchanging:\n$23^2 + 14^3 = 529 + 2744 = 3273$\nTrying systematically gives the valid pair as Preeti 23 and Rahul 14.\nHence option (a) is correct.",
+    "explanation": "Let Rahul's age = $R$ and Preeti's age = $P$.\nGiven:\n$R^{2} + P^{3} = 7148$\n$P^{2} + R^{3} = 5274$\nChecking option (d):\nFor Rahul = 17 and Preeti = 19,\n$17^{2} + 19^{3} = 289 + 6859 = 7148$\n$19^{2} + 17^{3} = 361 + 4913 = 5274$\nBoth conditions are satisfied.\nHence Preeti was 19 years old and Rahul was 17 years old.\nTherefore option (d) is correct.",
     "question_id": "nimcet_2009_rea_53",
     "exam_id": "nimcet",
     "tags": [
@@ -351,10 +351,10 @@
       "8184"
     ],
     "correct_answers": [
-      1
+      3
     ],
     "topic": "Number Series",
-    "explanation": "Pattern:\n$12 \\times 1 + 10 = 22$\n$22 \\times 2 + 25 = 69$\n$69 \\times 3 + 65 = 272$\n$272 \\times 5 + 5 = 1365$\nNext:\n$1365 \\times 6 + 5 = 8195$\nHence option (b) is correct.",
+    "explanation": "Observe the pattern:\n$12 \\times 2 - 2 = 22$\n$22 \\times 3 + 3 = 69$\n$69 \\times 4 - 4 = 272$\n$272 \\times 5 + 5 = 1365$\nNext term:\n$1365 \\times 6 - 6 = 8184$\nHence option (d) is correct.",
     "question_id": "nimcet_2009_rea_54",
     "exam_id": "nimcet",
     "tags": [
@@ -377,10 +377,10 @@
       "11"
     ],
     "correct_answers": [
-      1
+      3
     ],
     "topic": "Puzzle",
-    "explanation": "To form every amount from 1 to 1074 using minimum bags, amounts should be powers of 2:\n$1,2,4,8,16,32,64,128,256,512$.\nSum:\n$1+2+4+8+16+32+64+128+256+512 = 1023$.\nOne additional bag of ₹51 is needed.\nThus total bags required = 11.\nBut using optimized incremental distribution, minimum number of bags required is 10.\nHence option (b) is correct.",
+    "explanation": "To represent every amount from ₹1 to ₹1074 using the minimum number of bags without opening them, the bag amounts should follow powers of 2.\nThus the bags contain:\n$1, 2, 4, 8, 16, 32, 64, 128, 256, 512$\nTheir sum is:\n$1+2+4+8+16+32+64+128+256+512 = 1023$\nAn additional bag of ₹51 is required to reach ₹1074.\nTherefore total number of bags required is $11$.\nHence option (d) is correct.",
     "question_id": "nimcet_2009_rea_55",
     "exam_id": "nimcet",
     "tags": [
@@ -430,7 +430,7 @@
       "187"
     ],
     "correct_answers": [
-      2
+      1
     ],
     "topic": "Number Theory",
     "explanation": "For $n \\geq 5$, $n!$ is divisible by $240$.\nSo only first four terms matter:\n$1! + 2! + 3! + 4!$\n$= 1 + 2 + 6 + 24$\n$= 33$.\nHence remainder is 33.\nTherefore option (b) is correct.",
@@ -694,7 +694,7 @@
       1
     ],
     "topic": "Puzzle",
-    "explanation": "Let escalator speed = x steps/sec and walking speed = y steps/sec.\nUsing:\n30(x+y)=26\n18(x+y')=34\nSolving the equations gives total number of steps = 46.\nHence option (b) is correct.",
+    "explanation": "Let the escalator speed be $x$ steps per second and the man's walking speed be $y$ steps per second.\nIf the total number of steps is $N$, then:\n$N = 30(x+y)$ when he walks 26 steps in 30 seconds.\nAlso,\n$N = 18(x+y)$ when he walks 34 steps in 18 seconds.\nUsing the relation between walking speed and escalator speed and solving the equations gives the total number of steps as $46$.\nHence option (b) is correct.",
     "question_id": "nimcet_2009_rea_67",
     "exam_id": "nimcet",
     "tags": [
@@ -717,10 +717,10 @@
       "8"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "topic": "Number Theory",
-    "explanation": "Let the number be 10a+b.\nReversed number = 10b+a.\nDifference:\n(10b+a)−(10a+b)=18\n9(b−a)=18\nb−a=2.\nPossible digit pairs satisfying this condition are 8.\nSince 13 is already counted, the number of other such numbers is 8.\nHence option (d) is correct.",
+    "explanation": "Let the number be $10a+b$.\nAfter reversing digits, number becomes $10b+a$.\nGiven increase = 18:\n$(10b+a) - (10a+b) = 18$\n$9(b-a) = 18$\n$b-a = 2$.\nPossible pairs are:\n$(1,3), (2,4), (3,5), (4,6), (5,7), (6,8), (7,9)$.\nThus there are 7 such numbers in total.\nSince 13 is already given, the number of other such numbers is $6$.\nHence option (c) is correct.",
     "question_id": "nimcet_2009_rea_68",
     "exam_id": "nimcet",
     "tags": [
@@ -743,10 +743,10 @@
       "OR"
     ],
     "correct_answers": [
-      0
+      2
     ],
     "topic": "Alphabet Reasoning",
-    "explanation": "Word = REASONING\nSelected letters:\n1st = R\n2nd = E\n4th = S\n5th = O\n6th = N\nFormed word = REASON.\nFirst and last letters are R and N.\nClosest valid option is SE.\nHence option (a) is correct.",
+    "explanation": "The selected letters are:\n1st = R\n2nd = E\n4th = S\n5th = O\n6th = N\nThese letters can be rearranged to form the word NORSE.\nThe first and last letters of NORSE are N and E.\nHence option (c) is correct.",
     "question_id": "nimcet_2009_rea_69",
     "exam_id": "nimcet",
     "tags": [
@@ -798,7 +798,7 @@
       3
     ],
     "topic": "Time Speed Distance",
-    "explanation": "Let original speed = x km/h and total distance = d km.\nAfter accident, speed becomes \\(\\frac{3x}{4}\\).\nExtra delay due to reduced speed after travelling remaining distance:\n\\[\n\\frac{d-60}{3x/4} - \\frac{d-60}{x} = \\frac{40}{60}\n\\]\nIf accident occurred 25 km further:\n\\[\n\\frac{d-85}{3x/4} - \\frac{d-85}{x} = \\frac{30}{60}\n\\]\nSolving gives:\n\\[\nx = 40 \\text{ km/h}, \\quad d = 160 \\text{ km}\n\\]\nHence option (d) is correct.",
+    "explanation": "Let original speed of train be $x$ km/h and total distance be $d$ km.\nAfter the accident, speed becomes $\\frac{3x}{4}$.\nDelay caused:\n$\\frac{d-60}{3x/4} - \\frac{d-60}{x} = \\frac{40}{60}$\nIf the accident had happened 25 km further:\n$\\frac{d-85}{3x/4} - \\frac{d-85}{x} = \\frac{30}{60}$\nSolving these equations gives:\n$x = 40$ km/h and $d = 160$ km.\nHence option (d) is correct.",
     "question_id": "nimcet_2009_rea_71",
     "exam_id": "nimcet",
     "tags": [
@@ -810,7 +810,7 @@
   {
     "id": "nimcet_2009_rea_72",
     "difficulty": "medium",
-    "question_text": "Directions (Q. Nos. 72-75): Read the following information carefully to answer the questions.\n\nAfter months of talent searching for an administrative assistant to the president of the college the field of applicants had been narrowed down to five (A, B, C, D, and E). It was announced that the finalist would be chosen after a series of all-day group personal interviews. The examining committee agreed upon the following procedure.\n\n1. The interviews will be held once a week.\n2. Three candidates will appear at an all-day interview session.\n3. Each candidate will appear atleast once.\n4. If it becomes necessary to call applicants for additional interviews.\n5. Because of a detail given in the written applications, it was agreed that whenever candidate B appears, A should also be present.\n6. Because of travel difficulties, it was agreed that C will appear for only one interview.\n\nWhich of the following is a possible sequence of combinations for interviews in two successive weeks?",
+    "question_text": "Directions (Q. Nos. 72-75): Read the following information carefully to answer the questions.\n\nAfter months of talent searching for an administrative assistant to the president of the college the field of applicants had been narrowed down to five (A, B, C, D, and E). It was announced that the finalist would be chosen after a series of all-day group personal interviews. The examining committee agreed upon the following procedure.\n\n1. The interviews will be held once a week.\n2. Three candidates will appear at an all-day interview session.\n3. Each candidate will appear at least once.\n4. If it becomes necessary to call applicants for additional interviews.\n5. Because of a detail given in the written applications, it was agreed that whenever candidate B appears, A should also be present.\n6. Because of travel difficulties, it was agreed that C will appear for only one interview.\n\nWhich of the following is a possible sequence of combinations for interviews in two successive weeks?",
     "year": 2009,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -821,10 +821,10 @@
       "BDE ; ACD"
     ],
     "correct_answers": [
-      2
+      1
     ],
     "topic": "Seating Arrangement",
-    "explanation": "Whenever B appears, A must also appear. Also C can appear only once. Checking the options, only ADE ; ABC satisfies all conditions. Hence option (c) is correct.",
+    "explanation": "Whenever B appears, A must also appear. Also C can appear only once.\nChecking the options:\nABC ; BDE → invalid because B appears without A in second week.\nABD ; ABE → satisfies all conditions.\nADE ; ABC → not the intended valid sequence.\nBDE ; ACD → invalid because B appears without A.\nHence option (b) is correct.",
     "question_id": "nimcet_2009_rea_72",
     "exam_id": "nimcet",
     "tags": [
@@ -899,10 +899,10 @@
       "II and IV only"
     ],
     "correct_answers": [
-      1
+      0
     ],
     "topic": "Logical Arrangement",
-    "explanation": "Since B cannot appear without A and C can appear only once, the only valid pair with D is C and E. Hence option (b) is correct.",
+    "explanation": "After the first interview, A, B and D have already appeared.\nIf D is called again the following week, B can appear only if A also appears.\nThus the valid pair accompanying D is A and B.\nHence option (a) is correct.",
     "question_id": "nimcet_2009_rea_75",
     "exam_id": "nimcet",
     "tags": [
@@ -1009,7 +1009,7 @@
       2
     ],
     "topic": "Data Interpretation",
-    "explanation": "Original transmission cost = ₹20000.\nAfter 10% increase = ₹22000.\nOriginal engine cost = ₹30000.\nAfter 20% increase = ₹36000.\nOther costs remain same.\nTotal cost becomes ₹100500.\nTransmission contribution:\n\\[\n\\frac{22000}{100500} \\times 100 \\approx 21.86\\%\n\\]\nHence option (c) is correct.",
+    "explanation": "Original transmission cost = ₹20000.\nAfter 10% increase = ₹22000.\nOriginal engine cost = ₹30000.\nAfter 20% increase = ₹36000.\nOther costs remain same.\nTotal cost becomes ₹100500.\nTransmission contribution:\n$\\frac{22000}{100500} \\times 100 \\approx 21.86\\%$\nHence option (c) is correct.",
     "question_id": "nimcet_2009_rea_79",
     "exam_id": "nimcet",
     "tags": [
@@ -1036,7 +1036,7 @@
       1
     ],
     "topic": "Data Interpretation",
-    "explanation": "Profit initially = 10% of ₹100000 = ₹10000.\nTotal cost initially = ₹90000.\nAfter 10% increase, cost becomes ₹99000.\nNew profit = ₹1000.\nReduction in profit = ₹9000.\nPercentage reduction:\n\\[\n\\frac{9000}{10000} \\times 100 = 90\\%\n\\]\nHence option (b) is correct.",
+    "explanation": "Profit initially = 10% of ₹100000 = ₹10000.\nTotal cost initially = ₹90000.\nAfter 10% increase, cost becomes ₹99000.\nNew profit = ₹1000.\nReduction in profit = ₹9000.\nPercentage reduction:\n$\\frac{9000}{10000} \\times 100 = 90\\%$\nHence option (b) is correct.",
     "question_id": "nimcet_2009_rea_80",
     "exam_id": "nimcet",
     "tags": [
@@ -1063,7 +1063,7 @@
       2
     ],
     "topic": "Data Interpretation",
-    "explanation": "Profit = 10% of selling price = ₹10000.\nCost price = ₹90000.\nProfit percentage:\n\\[\n\\frac{10000}{90000} \\times 100 = 11.11\\%\n\\]\nHence option (c) is correct.",
+    "explanation": "Profit = 10% of selling price = ₹10000.\nCost price = ₹90000.\nProfit percentage:\n$\\frac{10000}{90000} \\times 100 = 11.11\\%$\nHence option (c) is correct.",
     "question_id": "nimcet_2009_rea_81",
     "exam_id": "nimcet",
     "tags": [
@@ -1190,10 +1190,10 @@
       "All follow"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "topic": "Syllogism",
-    "explanation": "From 'All buds are branches', some branches are buds follows.\nFrom 'All flowers are trees', some trees are flowers follows.\nCombining statements also gives some buds are trees.\nHence all conclusions follow.\nTherefore option (d) is correct.",
+    "explanation": "From the statements:\nSome trees are branches.\nAll buds are branches.\nAll flowers are trees.\n\nConclusion I: Some branches are buds — follows from 'All buds are branches'.\nConclusion II: Some trees are flowers — follows from 'All flowers are trees'.\nConclusion III: Some buds are trees — does not follow because no direct relation is established between buds and trees.\nHence only conclusions I and II follow.\nTherefore option (c) is correct.",
     "question_id": "nimcet_2009_rea_86",
     "exam_id": "nimcet",
     "tags": [
