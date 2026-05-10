@@ -54,48 +54,48 @@
     ]
   },
   {
-  "id": "nimcet_2022_rea_03",
-  "difficulty": "medium",
-  "question_text": "Replace the question mark with an appropriate image to complete the analogous pair.",
-  "year": 2022,
-  "subject": "Logical Reasoning",
-  "imageUrl": "Images/nimcet_2022_rea_03_question.png",
-  "imageSection": "question",
-  "options": [
-    {
-      "type": "image",
-      "value": "Images/nimcet_2022_rea_03_option_a.png",
-      "label": "A"
-    },
-    {
-      "type": "image",
-      "value": "Images/nimcet_2022_rea_03_option_b.png",
-      "label": "B"
-    },
-    {
-      "type": "image",
-      "value": "Images/nimcet_2022_rea_03_option_c.png",
-      "label": "C"
-    },
-    {
-      "type": "image",
-      "value": "Images/nimcet_2022_rea_03_option_d.png",
-      "label": "D"
-    }
-  ],
-  "correct_answers": [
-    3
-  ],
-  "topic": "Analogy",
-  "explanation": "Paint is associated with a paint brush because the brush is used with paint.<br>Similarly, thread is associated with a needle because thread is used with a needle for stitching.<br>Hence the correct answer is option D.",
-  "question_id": "nimcet_2022_rea_03",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2022",
-    "analogy"
-  ]
-},
+    "id": "nimcet_2022_rea_03",
+    "difficulty": "medium",
+    "question_text": "Replace the question mark with an appropriate image to complete the analogous pair.",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2022_rea_03_question.png",
+    "imageSection": "question",
+    "options": [
+      {
+        "type": "image",
+        "value": "Images/nimcet_2022_rea_03_option_a.png",
+        "label": "A"
+      },
+      {
+        "type": "image",
+        "value": "Images/nimcet_2022_rea_03_option_b.png",
+        "label": "B"
+      },
+      {
+        "type": "image",
+        "value": "Images/nimcet_2022_rea_03_option_c.png",
+        "label": "C"
+      },
+      {
+        "type": "image",
+        "value": "Images/nimcet_2022_rea_03_option_d.png",
+        "label": "D"
+      }
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Analogy",
+    "explanation": "Paint is associated with a paint brush because the brush is used with paint.<br>Similarly, thread is associated with a needle because thread is used with a needle for stitching.<br>Hence the correct answer is option D.",
+    "question_id": "nimcet_2022_rea_03",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "analogy"
+    ]
+  },
   {
     "id": "nimcet_2022_rea_04",
     "difficulty": "medium",
@@ -240,16 +240,16 @@
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "JVW",
+      "JWW",
       "IWW",
       "JVV",
       "JXX"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "topic": "Series",
-    "explanation": "First letters: D, F, H, J, L increase by 2.<br>Second letters: N, Q, T, W, Z increase by 3.<br>Third letters follow the same pattern: N, Q, T, W, Z increase by 3.<br>Therefore the missing term is JWW, but according to the intended pattern and options, JXX fits the sequence best.<br>Hence the correct answer is JXX.",
+    "explanation": "First letters: D, F, H, J, L increase by 2.<br>Second letters: N, Q, T, W, Z increase by 3.<br>Third letters follow the same pattern: N, Q, T, W, Z increase by 3.<br>Therefore the missing term is JWW.<br>Hence the correct answer is JWW.",
     "question_id": "nimcet_2022_rea_09",
     "exam_id": "nimcet",
     "tags": [
@@ -354,10 +354,10 @@
       "52"
     ],
     "correct_answers": [
-      0
+      2
     ],
     "topic": "Number Series",
-    "explanation": "Observe the differences:<br>11 − 6 = 5<br>21 − 11 = 10<br>36 − 21 = 15<br>56 − 36 = 20<br><br>The differences increase by 5 each time.<br>Next difference = 25.<br>Therefore next term = 56 + 25 = 81.<br>But according to the intended answer key, the answer marked is 82.",
+    "explanation": "Observe the differences:\n11 − 6 = 5\n21 − 11 = 10\n36 − 21 = 15\n56 − 36 = 20\n\nThe differences increase by 5 each time.\nNext difference = 25.\nTherefore next term = 56 + 25 = 81.\nHence the correct answer is 81.",
     "question_id": "nimcet_2022_rea_13",
     "exam_id": "nimcet",
     "tags": [
@@ -408,10 +408,10 @@
       "NVNCBJ"
     ],
     "correct_answers": [
-      0
+      3
     ],
     "topic": "Coding and Decoding",
-    "explanation": "Observe the pattern in KOLKOTA → LPMLPUB.<br>Each letter is increased alternately by +1 and +2:<br>K→L (+1), O→P (+1), L→M (+1), K→L (+1), O→P (+1), T→U (+1), A→B (+1).<br><br>Applying similar increment to MUMBAI:<br>M→N, U→V, M→N, B→C, A→B, I→J.<br>Thus the code becomes NVNCBJ.<br>According to the answer key, option (a) is considered correct.",
+    "explanation": "Observe the coding pattern:\nEach letter is increased by 1 alphabetically.\nKOLKOTA → LPMLPUB\nK→L, O→P, L→M, K→L, O→P, T→U, A→B.\n\nApplying the same rule to MUMBAI:\nM→N, U→V, M→N, B→C, A→B, I→J.\nThus the code becomes NVNCBJ.\nHence the correct answer is NVNCBJ.",
     "question_id": "nimcet_2022_rea_15",
     "exam_id": "nimcet",
     "tags": [
@@ -667,10 +667,10 @@
       "−195"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "topic": "Number Series",
-    "explanation": "Observe the pattern of subtraction:<br>30 − 35 = −5<br>−5 − 40 = −45<br>−45 − 45 = −90<br>−90 − 50 = −140<br>−140 − 55 = −195<br>−195 − 60 = −255<br><br>So −145 should actually be −140.<br>Hence −145 is the wrong number in the series.<br>The intended answer should be option (a), though the provided answer key may differ.",
+    "explanation": "Observe the pattern of subtraction:<br>30 − 35 = −5<br>−5 − 40 = −45<br>−45 − 45 = −90<br>−90 − 50 = −140<br>−140 − 55 = −195<br>−195 − 60 = −255<br><br>So −145 should actually be −140.<br>Hence −145 is the wrong number in the series.<br>The answer should be option (a).",
     "question_id": "nimcet_2022_rea_24",
     "exam_id": "nimcet",
     "tags": [
@@ -707,32 +707,32 @@
     ]
   },
   {
-  "id": "nimcet_2022_rea_26",
-  "difficulty": "medium",
-  "question_text": "The following questions are based on the pie-charts given below: Percentage-wise distribution of students studying in Arts and Commerce in seven different institutions Different institutions – A, B, C, D, E, F and G.<br><br>Total number of students studying Arts = 3800.<br><br><img src='Images/nimcet_2022_rea_26_arts.png' class='question-image'><br><br>Total number of students studying Commerce = 4200.<br><br><img src='Images/nimcet_2022_rea_26_commerce.png' class='question-image'><br><br><b>What is the total number of students studying Arts in Institutes A and G together?</b>",
-  "year": 2022,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "imageSection": "none",
-  "options": [
-    "1206",
-    "1226",
-    "1026",
-    "1126"
-  ],
-  "correct_answers": [
-    3
-  ],
-  "topic": "Pie Chart",
-  "explanation": "From the Arts pie-chart:<br>Institute A = 15%<br>Institute G = 12%<br><br>Total percentage = 15% + 12% = 27%<br><br>Total Arts students = 3800<br>Required students = 27% of 3800<br>= (27 × 3800) / 100<br>= 1026.<br><br>Therefore the mathematically correct answer is 1026.<br>The given answer key may differ due to printing error.",
-  "question_id": "nimcet_2022_rea_26",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2022",
-    "pie_chart"
-  ]
- },
+    "id": "nimcet_2022_rea_26",
+    "difficulty": "medium",
+    "question_text": "The following questions are based on the pie-charts given below: Percentage-wise distribution of students studying in Arts and Commerce in seven different institutions Different institutions – A, B, C, D, E, F and G.<br><br>Total number of students studying Arts = 3800.<br><br><img src='Images/nimcet_2022_rea_26_arts.png' class='question-image'><br><br>Total number of students studying Commerce = 4200.<br><br><img src='Images/nimcet_2022_rea_26_commerce.png' class='question-image'><br><br><b>What is the total number of students studying Arts in Institutes A and G together?</b>",
+    "year": 2022,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "1206",
+      "1226",
+      "1026",
+      "1126"
+    ],
+    "correct_answers": [
+      2
+    ],
+    "topic": "Pie Chart",
+    "explanation": "From the Arts pie-chart:<br>Institute A = 15%<br>Institute G = 12%<br><br>Total percentage = 15% + 12% = 27%<br><br>Total Arts students = 3800<br>Required students = 27% of 3800<br>= (27 × 3800) / 100<br>= 1026.<br><br>Therefore the correct answer is 1026.",
+    "question_id": "nimcet_2022_rea_26",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2022",
+      "pie_chart"
+    ]
+  },
   {
     "id": "nimcet_2022_rea_27",
     "difficulty": "medium",
@@ -748,10 +748,10 @@
       "1208"
     ],
     "correct_answers": [
-      0
+      2
     ],
     "topic": "Pie Chart",
-    "explanation": "From the pie charts:<br>Institute B in Arts = 8% of 3800 = 304.<br>Institute B in Commerce = 17% of 4200 = 714.<br><br>Total students = 304 + 714 = 1018.<br><br>Therefore the mathematically correct answer is 1018.<br>The provided answer key may contain a printing error.",
+    "explanation": "From the pie charts:<br>Institute B in Arts = 8% of 3800 = 304.<br>Institute B in Commerce = 17% of 4200 = 714.<br><br>Total students = 304 + 714 = 1018.<br><br>Therefore the correct answer is 1018.",
     "question_id": "nimcet_2022_rea_27",
     "exam_id": "nimcet",
     "tags": [
