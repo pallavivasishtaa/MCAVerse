@@ -17,7 +17,7 @@
       1
     ],
     "topic": "Number Series",
-    "explanation": "Observe two separate series:\nOdd positions: 8, 11, 14, 17, ... increase by 3.\nEven positions: 7, 12, 17, 22, ... increase by 5.\nThe missing term is at odd position after 17.\nSo next odd-position term = 17 + 3 = 20.\nHence the correct answer is 20.",
+    "explanation": "Observe two interleaved series:\nOdd positions: 8, 11, 14, 17 increase by 3.\nEven positions: 7, 12, 17, 22 increase by 5.\nThe missing term is in the even-position series.\nSo the next term is 22 + 5 = 27.\nHowever, according to the official answer key, the answer is option (b) i.e. 20.",
     "question_id": "nimcet_2021_rea_51",
     "exam_id": "nimcet",
     "tags": [
@@ -81,32 +81,32 @@
     ]
   },
   {
-  "id": "nimcet_2021_rea_54",
-  "difficulty": "medium",
-  "question_text": "Study the following table carefully and answer the following questions:<br><br><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse; text-align:center;'><tr><th>Subject (Full marks 50)</th><th>40 & above</th><th>30 & above</th><th>20 & above</th><th>10 & above</th><th>0 and above</th></tr><tr><td>Physics</td><td>9</td><td>32</td><td>80</td><td>92</td><td>100</td></tr><tr><td>Chemistry</td><td>4</td><td>21</td><td>66</td><td>81</td><td>100</td></tr><tr><td>Aggregate Average</td><td>7</td><td>27</td><td>73</td><td>87</td><td>100</td></tr></table><br><br>The number of students scoring less than 40% marks in aggregate is?",
-  "year": 2021,
-  "subject": "Logical Reasoning",
-  "imageUrl": "",
-  "imageSection": "none",
-  "options": [
-    "13",
-    "19",
-    "20",
-    "27"
-  ],
-  "correct_answers": [
-    3
-  ],
-  "topic": "Data Interpretation",
-  "explanation": "40% of 50 marks = 20 marks.<br>From the table, students scoring 20 and above in aggregate average = 73.<br>Total students = 100.<br>Therefore students scoring less than 40% marks = 100 − 73 = 27.<br>Hence the correct answer is 27.",
-  "question_id": "nimcet_2021_rea_54",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2021",
-    "data_interpretation"
-  ]
-},
+    "id": "nimcet_2021_rea_54",
+    "difficulty": "medium",
+    "question_text": "Study the following table carefully and answer the following questions:<br><br><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse; text-align:center;'><tr><th>Subject (Full marks 50)</th><th>40 & above</th><th>30 & above</th><th>20 & above</th><th>10 & above</th><th>0 and above</th></tr><tr><td>Physics</td><td>9</td><td>32</td><td>80</td><td>92</td><td>100</td></tr><tr><td>Chemistry</td><td>4</td><td>21</td><td>66</td><td>81</td><td>100</td></tr><tr><td>Aggregate Average</td><td>7</td><td>27</td><td>73</td><td>87</td><td>100</td></tr></table><br><br>The number of students scoring less than 40% marks in aggregate is?",
+    "year": 2021,
+    "subject": "Logical Reasoning",
+    "imageUrl": "",
+    "imageSection": "none",
+    "options": [
+      "13",
+      "19",
+      "20",
+      "27"
+    ],
+    "correct_answers": [
+      3
+    ],
+    "topic": "Data Interpretation",
+    "explanation": "40% of 50 marks = 20 marks.<br>From the table, students scoring 20 and above in aggregate average = 73.<br>Total students = 100.<br>Therefore students scoring less than 40% marks = 100 − 73 = 27.<br>Hence the correct answer is 27.",
+    "question_id": "nimcet_2021_rea_54",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2021",
+      "data_interpretation"
+    ]
+  },
   {
     "id": "nimcet_2021_rea_55",
     "difficulty": "easy",
@@ -179,7 +179,7 @@
       3
     ],
     "topic": "Series",
-    "explanation": "Observe each position separately.\n1st letters: E, G, I, K, M increase by 2.\n2nd letter remains L.\n3rd letters: F, H, J, L, N increase by 2.\n4th letter remains A.\nTherefore the missing term is KLLA.\nHence the correct answer is KLLA.",
+    "explanation": "Observe the pattern separately in each position:\n1st letters: E, G, I, K, M increase by 2.\n2nd letter remains L.\n3rd letters follow F, H, J, L, N.\n4th letter remains A.\nThus the missing term is KLLA.\nHence option (d) is correct.",
     "question_id": "nimcet_2021_rea_57",
     "exam_id": "nimcet",
     "tags": [
@@ -260,7 +260,7 @@
       2
     ],
     "topic": "Number Series",
-    "explanation": "Split into two interleaved series.\nOdd-position terms: 1, 7, 13, 19, ... increase by 6.\nNext odd-position term = $19 + 6 = 25$.\nEven-position terms: 10, 20, 30, ... increase by 10.\nNext even-position term = $30 + 10 = 40$.\nHowever as per the official answer key, the correct pair is 26, 23.\nHence the correct answer is 26, 23.",
+    "explanation": "Split the series into two interleaved sequences:\nOdd positions: 1, 7, 13, 19, 25 increase by 6.\nEven positions: 10, 20, 30, 40 increase by 10.\nThus the next two terms should logically be 40 and 25.\nNone of the options match this pattern exactly.\nHowever, according to the official answer key, the correct answer is option (c), i.e. 26, 23.",
     "question_id": "nimcet_2021_rea_60",
     "exam_id": "nimcet",
     "tags": [
@@ -422,7 +422,7 @@
       1
     ],
     "topic": "Classification",
-    "explanation": "Yellow, Blue and Red are all colours.\nAmong the options, Orange is also a colour.\nBlack and White are achromatic and not in the same category as the given colours.\nPaint is a material, not a colour.\nHence the correct answer is Orange.",
+    "explanation": "Yellow, Blue and Red are colours.\nAmong the options, Orange is also a colour.\nPaint is not a colour itself.\nHence the correct answer is Orange.",
     "question_id": "nimcet_2021_rea_66",
     "exam_id": "nimcet",
     "tags": [
@@ -449,7 +449,7 @@
       2
     ],
     "topic": "Analogy",
-    "explanation": "Observe the relation:<br>7 × 8 = 56.<br>Similarly,<br>9 × 10 = 90.<br>Hence the correct answer is 90.",
+    "explanation": "Observe the relation:\n$7^2 + 7 = 49 + 7 = 56$.\nSimilarly,\n$9^2 + 9 = 81 + 9 = 90$.\nHence the correct answer is 90.",
     "question_id": "nimcet_2021_rea_67",
     "exam_id": "nimcet",
     "tags": [
@@ -584,7 +584,7 @@
       2
     ],
     "topic": "Data Interpretation",
-    "explanation": "From the graph:\nProduct A sales in 2010 = 48.17\nProduct B sales in 2010 = 37.16\n\nRequired percentage =\n$\\frac{48.17 - 37.16}{37.16} \\times 100$\n$= \\frac{11.01}{37.16} \\times 100 \\approx 29.6\\%$\n\nNearest option is 28%.\nHence the correct answer is 28%.",
+    "explanation": "From the graph:\nProduct A sales in 2010 = 48.17\nProduct B sales in 2010 = 37.16\n\nRequired percentage increase:\n$\\frac{48.17 - 37.16}{37.16} \\times 100$\n$= \\frac{11.01}{37.16} \\times 100 \\approx 29.6\\%$\nThe nearest integer is 30%.\nHowever, according to the official answer key, the answer is option (c), i.e. 28%.",
     "question_id": "nimcet_2021_rea_72",
     "exam_id": "nimcet",
     "tags": [
@@ -638,7 +638,7 @@
       3
     ],
     "topic": "Data Interpretation",
-    "explanation": "For Product D:\n2005 sales = 7.88\n2010 sales = 12.21\n\nPercentage increase =\n$\\frac{12.21 - 7.88}{7.88} \\times 100$\n$= \\frac{4.33}{7.88} \\times 100 \\approx 54.95\\%$\n\nThis is nearly 55%.\nHence the correct answer is Product D.",
+    "explanation": "For Product D:\n2005 sales = 7.88\n2010 sales = 12.21\n\nPercentage increase:\n$\\frac{12.21 - 7.88}{7.88} \\times 100$\n$= \\frac{4.33}{7.88} \\times 100 \\approx 54.95\\%$\nThis is nearly 55%.\nHence the correct answer is Product D.",
     "question_id": "nimcet_2021_rea_74",
     "exam_id": "nimcet",
     "tags": [
@@ -908,7 +908,7 @@
       1
     ],
     "topic": "Blood Relations",
-    "explanation": "Option (b): M ¥ K means M is mother of K.\nK $ N means K is father of N.\nN ∈ L means N is sister of L, which confirms N is female.\nThus N is a female child of K, making N definitely a daughter.\nAs per the official answer key, option (b) is correct.\nHence the correct answer is option (b).",
+    "explanation": "Option (b):\nM ¥ K means M is mother of K.\nK $ N means K is father of N.\nN ∈ L means N is sister of L, so N is female.\nThus N is definitely female.\nAccording to the official answer key, option (b) is taken as the correct answer.\nHence the correct answer is option (b).",
     "question_id": "nimcet_2021_rea_84",
     "exam_id": "nimcet",
     "tags": [
@@ -971,7 +971,7 @@
       "mathematical_reasoning"
     ]
   },
- {
+  {
     "id": "nimcet_2021_rea_87",
     "difficulty": "easy",
     "question_text": "Choose the odd one:",
@@ -1016,7 +1016,7 @@
       2
     ],
     "topic": "Series",
-    "explanation": "First letters: Q, S, U, W, Y — increase by 2 each time.\nLast letters: F, E, D, C, B — decrease by 1 each time.\nMiddle numbers: 1, 2, 6, 21, 88.\nPattern: $1 \\times 2 = 2$, $2 \\times 3 = 6$, $6 \\times 3 + 3 = 21$, $21 \\times 4 + 4 = 88$.\nTherefore the missing term is Y88B.\nHence the correct answer is Y88B.",
+    "explanation": "First letters: Q, S, U, W, Y increase by 2 alphabetically.\nLast letters: F, E, D, C, B decrease by 1 alphabetically.\nThe middle numbers follow the sequence 1, 2, 6, 21, 88.\nThus the missing term is Y88B.\nHence the correct answer is Y88B.",
     "question_id": "nimcet_2021_rea_88",
     "exam_id": "nimcet",
     "tags": [

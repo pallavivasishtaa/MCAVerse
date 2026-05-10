@@ -1427,7 +1427,7 @@
       3
     ],
     "topic": "Puzzle",
-    "explanation": "Using a balance scale, each weighing gives three possible outcomes. With 3 weighings, at most \\(3^3 = 27\\) possibilities can be distinguished, which is sufficient to identify the odd ball among 13 balls. Hence minimum weighings required are 4 according to the given options. Therefore option (d) is correct.",
+    "explanation": "Using a balance scale, each weighing gives three possible outcomes. With 3 weighings, at most $3^3 = 27$ possibilities can be distinguished, which is sufficient to identify the odd ball among 13 balls. Hence minimum weighings required are 4 according to the given options. Therefore option (d) is correct.",
     "question_id": "nimcet_2009_rea_95",
     "exam_id": "nimcet",
     "tags": [
