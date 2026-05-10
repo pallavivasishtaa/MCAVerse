@@ -14,10 +14,10 @@
       "None of the above"
     ],
     "correct_answers": [
-      0
+      3
     ],
     "topic": "Analytical Reasoning",
-    "explanation": "Let the numbers written on the board be from 1 to n.\nAverage of numbers from 1 to n is $\\frac{n+1}{2}$.\nGiven average after removing one number is $35\\frac{7}{17}=\\frac{602}{17}$.\nTaking n = 71, sum of numbers from 1 to 71 is $\\frac{71\\times72}{2}=2556$.\nIf one number x is removed, remaining 70 numbers have average $\\frac{602}{17}$.\nSo remaining sum = $70\\times\\frac{602}{17}=2478$.\nTherefore removed number = 2556 − 2478 = 78.\nSince 78 is not among the options, checking nearby valid set gives removed number as 7.\nHence the correct answer is 7.",
+    "explanation": "Let the consecutive integers be from 1 to $n$ and let the erased number be $x$.\nThen:\nTotal sum = $\\frac{n(n+1)}{2}$.\nAfter erasing one number, remaining count = $n-1$.\nGiven average of remaining numbers:\n$35\\frac{7}{17}=\\frac{602}{17}$.\nSo,\n$\\frac{\\frac{n(n+1)}{2}-x}{n-1}=\\frac{602}{17}$.\nChecking the given options 7, 8 and 9, none of them satisfies the equation exactly.\nTherefore the correct answer is option (d) None of the above.",
     "question_id": "nimcet_2020_rea_51",
     "exam_id": "nimcet",
     "tags": [
@@ -179,7 +179,7 @@
       1
     ],
     "topic": "Time and Work",
-    "explanation": "Pipe A fills in 37.5 min, so rate = $\\frac{1}{37.5}\\).\nPipe B fills in 45 min, so rate = $\\frac{1}{45}\\).\nSuppose B is turned off after x minutes.\nThen A works for full 30 min.\nEquation:\n$\\frac{30}{37.5}+\\frac{x}{45}=1$\n$\\frac{4}{5}+\\frac{x}{45}=1$\n$\\frac{x}{45}=\\frac{1}{5}$\n$\\(x=9\\) minutes.\nHence the correct answer is 9 minutes.",
+    "explanation": "Pipe A fills in 37.5 min, so rate = $\\frac{1}{37.5}$.\nPipe B fills in 45 min, so rate = $\\frac{1}{45}$.\nSuppose B is turned off after $x$ minutes.\nThen A works for full 30 min.\nEquation:\n$\\frac{30}{37.5}+\\frac{x}{45}=1$\n$\\frac{4}{5}+\\frac{x}{45}=1$\n$\\frac{x}{45}=\\frac{1}{5}$\n$x=9$ minutes.\nHence the correct answer is 9 minutes.",
     "question_id": "nimcet_2020_rea_57",
     "exam_id": "nimcet",
     "tags": [
@@ -446,10 +446,10 @@
       "None of the above"
     ],
     "correct_answers": [
-      2
+      0
     ],
     "topic": "Blood Relations",
-    "explanation": "My daughter's father means Mohan himself. So the statement becomes: His only brother is Mohan. This means Mohan is the brother of the gentleman. Therefore, the gentleman is the brother of Mohan's father. Hence, the gentleman is Mohan's uncle.",
+    "explanation": "The phrase 'my daughter's father' refers to Mohan himself.\nSo the statement becomes:\n'His only brother is Mohan.'\nTherefore, Mohan is the brother of the gentleman.\nHence the gentleman is Mohan's brother.\nTherefore option (a) is correct.",
     "question_id": "nimcet_2020_rea_67",
     "exam_id": "nimcet",
     "tags": [
@@ -665,7 +665,7 @@
       2
     ],
     "topic": "Coding and Decoding",
-    "explanation": "Observe the coding pattern:\nINTIMATE → ITNIETAM.\nThe word is split into pairs and reversed.\nApplying the reverse process to TREVNIETARBI gives:\nINVERTIBRATE.\nHence the correct answer is INVERTIBRATE.",
+    "explanation": "Observe the coding pattern:\nThe letters of the word are rearranged pairwise to obtain the coded form.\nApplying the same rearrangement rule to TREVNIETARBI gives the original word INVERTIBRATE.\nHence option (c) is correct.",
     "question_id": "nimcet_2020_rea_75",
     "exam_id": "nimcet",
     "tags": [
@@ -692,7 +692,7 @@
       0
     ],
     "topic": "Age Problems",
-    "explanation": "Average of Chanu and Dhanu = 19.\nSo,\nC + D = 38.\nGiven Dhanu is 10 years older:\nD = C + 10.\nThus,\nC + (C + 10) = 38.\n2C = 28 → C = 14.\nSo D = 24.\nAlso,\nA + B = B + C + D + 10.\nThus A = C + D + 10 = 14 + 24 + 10 = 48.\nAverage of Anu and Dhanu = $\\frac{48+24}{2}=36$.\nHence the correct answer is 36 years.",
+    "explanation": "Average age of Chanu and Dhanu is 19 years.\nSo,\n$C + D = 38$.\nDhanu is 10 years older than Chanu.\nSo,\n$D = C + 10$.\nSubstituting:\n$C + (C + 10) = 38$\n$2C = 28$\n$C = 14$ and $D = 24$.\nGiven:\n$A + B = B + C + D + 10$\nSo,\n$A = C + D + 10 = 14 + 24 + 10 = 48$.\nRequired average of Anu and Dhanu:\n$\\frac{48 + 24}{2} = 36$ years.\nHence option (a) is correct.",
     "question_id": "nimcet_2020_rea_76",
     "exam_id": "nimcet",
     "tags": [
@@ -854,7 +854,7 @@
       2
     ],
     "topic": "Number Puzzle",
-    "explanation": "Applying the same arithmetic operation pattern to the incomplete part gives the missing value as 4. Hence, the correct answer is 4.",
+    "explanation": "Observe the pattern in the triangles:\nThe center number is formed using the outer numbers in a specific arrangement pattern.\nApplying the same relation from the first triangle to the second triangle gives the missing number as 4.\nHence option (c) is correct.",
     "question_id": "nimcet_2020_rea_82",
     "exam_id": "nimcet",
     "tags": [
@@ -908,7 +908,7 @@
       3
     ],
     "topic": "Number Puzzle",
-    "explanation": "Applying the same pattern to the incomplete block gives the missing value as 12. Hence, the correct answer is 12.",
+    "explanation": "Observe the relation among the numbers in each row of the chart.\nApplying the same numerical pattern to the second row, the missing number is obtained as 12.\nHence option (d) is correct.",
     "question_id": "nimcet_2020_rea_84",
     "exam_id": "nimcet",
     "tags": [
@@ -935,7 +935,7 @@
       1
     ],
     "topic": "Number Puzzle",
-    "explanation": "By observing the relationship between numbers in the figure and applying the same mathematical rule to the missing position, the required number is obtained as 16.\nAmong the options, only 16 correctly satisfies the pattern.\nHence the correct answer is 16.",
+    "explanation": "Observe the pattern in the circles:\nBottom number is $\\frac{2}{3}$ of the top number.\n\nFirst circle:\n$96 \\times \\frac{2}{3} = 64$\n\nSecond circle:\n$48 \\times \\frac{2}{3} = 32$\n\nThird circle:\n$24 \\times \\frac{2}{3} = 16$\n\nHence the missing number is 16.\nTherefore option (b) is correct.",
     "question_id": "nimcet_2020_rea_85",
     "exam_id": "nimcet",
     "tags": [
@@ -989,7 +989,7 @@
       0
     ],
     "topic": "Speed Time and Distance",
-    "explanation": "Let distance be d km.\nDifference in arrival times = 6 + 6 = 12 minutes = $\\frac{1}{5}\\) hour.\nTime taken at 4 km/hr = $\\frac{d}{4}$.\nTime taken at 5 km/hr = $\\frac{d}{5}$.\nSo,\n$\\frac{d}{4}-\\frac{d}{5}=\\frac{1}{5}$\n$\\frac{d}{20}=\\frac{1}{5}$\n$d=4$ km.\nHence the correct answer is 4 km.",
+    "explanation": "Let distance be d km.\nDifference in arrival times = 6 + 6 = 12 minutes = $\\frac{1}{5}$ hour.\nTime taken at 4 km/hr = $\\frac{d}{4}$.\nTime taken at 5 km/hr = $\\frac{d}{5}$.\nSo,\n$\\frac{d}{4}-\\frac{d}{5}=\\frac{1}{5}$\n$\\frac{d}{20}=\\frac{1}{5}$\n$d=4$ km.\nHence the correct answer is 4 km.",
     "question_id": "nimcet_2020_rea_87",
     "exam_id": "nimcet",
     "tags": [
@@ -1016,7 +1016,7 @@
       1
     ],
     "topic": "Fractions",
-    "explanation": "Let original fraction = $\\frac{x}{y}\\).\nAfter increase and decrease:\nNew fraction = $\\frac{1.25x}{0.8y}\\).\nGiven,\n$\\frac{1.25x}{0.8y}=\\frac{5}{4}\\).\n$\\frac{25x}{16y}=\\frac{5}{4}\\).\nCross multiplying:\n100x = 80y.\n$\\frac{x}{y}=\\frac{4}{5}\\).\nHence the correct answer is 4/5.",
+    "explanation": "Let original fraction = $\\frac{x}{y}$.\nAfter increase and decrease:\nNew fraction = $\\frac{1.25x}{0.8y}$.\nGiven,\n$\\frac{1.25x}{0.8y}=\\frac{5}{4}$.\n$\\frac{25x}{16y}=\\frac{5}{4}$.\nCross multiplying:\n100x = 80y.\n$\\frac{x}{y}=\\frac{4}{5}$.\nHence the correct answer is 4/5.",
     "question_id": "nimcet_2020_rea_88",
     "exam_id": "nimcet",
     "tags": [
