@@ -83,7 +83,7 @@
   {
     "id": "nimcet_2023_rea_54",
     "difficulty": "medium",
-    "question_text": "A sum of money distributed among four person P, Q, R, S in ratio 2 : 5 : 4 : 3. If Q get Rs. 2000 more than S, then what will be the total amount?",
+    "question_text": "A sum of money distributed among four persons P, Q, R, S in ratio 2 : 5 : 4 : 3. If Q gets Rs. 2000 more than S, then what will be the total amount?",
     "year": 2023,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -164,7 +164,7 @@
   {
     "id": "nimcet_2023_rea_57",
     "difficulty": "easy",
-    "question_text": "Which of the following can be formed from “RECCOMMENDATION” word letters?",
+    "question_text": "Which of the following can be formed from “RECOMMENDATION” word letters?",
     "year": 2023,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -179,7 +179,7 @@
       0
     ],
     "topic": "Word Formation",
-    "explanation": "The word RECCOMMENDATION contains the letters needed to form MEDIATE.<br><br>The other options require letters that are either missing or insufficient in number.<br><br>Hence the correct answer is MEDIATE.",
+    "explanation": "The word RECOMMENDATION contains the letters needed to form MEDIATE.<br><br>The other options require letters that are either missing or insufficient in number.<br><br>Hence the correct answer is MEDIATE.",
     "question_id": "nimcet_2023_rea_57",
     "exam_id": "nimcet",
     "tags": [
@@ -206,7 +206,7 @@
       2
     ],
     "topic": "Word Formation",
-    "explanation": "The letters are:<br>1st = S<br>3rd = P<br>7th = T<br>9th = O<br><br>Using these letters, several meaningful words can be formed.<br>The number of such words is more than 4.<br><br>Hence the correct answer is more than 4.",
+    "explanation": "Take the word SEPERATION and number the letters:\n1 2 3 4 5 6 7 8 9 10\nS E P E R A T I O N\n\n1st = S\n3rd = P\n7th = T\n9th = O\n\nSo the letters are S, P, T and O.\n\nMeaningful words that can be formed are:\nSTOP, SPOT, POST, POTS, TOPS and OPTS.\n\nThus more than 4 meaningful words can be formed.\n\nHence the correct answer is more than 4.",
     "question_id": "nimcet_2023_rea_58",
     "exam_id": "nimcet",
     "tags": [
@@ -260,7 +260,7 @@
       2
     ],
     "topic": "Time and Work",
-    "explanation": "A's one day work = 1/10.<br>B's one day work = 1/20.<br><br>In first 4 days, A and B together complete:<br>4 × (1/10 + 1/20)<br>= 4 × (3/20)<br>= 3/5 work.<br><br>Remaining work = 2/5.<br>This is completed by A and C together in 2 days.<br><br>So one day work of A and C:<br>= (2/5) ÷ 2<br>= 1/5.<br><br>A alone does 1/10 work per day.<br>Therefore C's one day work:<br>= 1/5 − 1/10<br>= 1/10.<br><br>Hence C alone can complete the work in 10 days.",
+    "explanation": "A's one day work = $\\frac{1}{10}$.\nB's one day work = $\\frac{1}{20}$.\n\nIn first 4 days, A and B together complete:\n$4 \\times \\left(\\frac{1}{10} + \\frac{1}{20}\\right)$\n$= 4 \\times \\frac{3}{20}$\n$= \\frac{3}{5}$ work.\n\nRemaining work = $\\frac{2}{5}$.\nThis is completed by A and C together in 2 days.\n\nSo one day work of A and C:\n$= \\frac{2/5}{2}$\n$= \\frac{1}{5}$.\n\nA alone does $\\frac{1}{10}$ work per day.\nTherefore C's one day work:\n$= \\frac{1}{5} - \\frac{1}{10}$\n$= \\frac{1}{10}$.\n\nHence C alone can complete the work in 10 days.",
     "question_id": "nimcet_2023_rea_60",
     "exam_id": "nimcet",
     "tags": [
@@ -287,7 +287,7 @@
       0
     ],
     "topic": "Analytical Reasoning",
-    "explanation": "Vehicles are arranged as:<br>1 car + 1 scooter<br>1 car + 2 scooters<br>1 car + 3 scooters and so on.<br><br>Total vehicles = 36.<br>The arrangement pattern places 15 scooters in the second half of the row.<br><br>Hence the correct answer is 15.",
+    "explanation": "Vehicles are arranged as:\n\nC S\nC S S\nC S S S\nC S S S S\nC S S S S S\nC S S S S S S\nC S S S S S S S\n\nThese groups contain:\n2 + 3 + 4 + 5 + 6 + 7 + 8 = 35 vehicles.\n\nSo one more vehicle is added to make total 36 vehicles.\n\nNow write positions:\n1:C\n2:S\n3:C\n4:S\n5:S\n6:C\n7:S\n8:S\n9:S\n10:C\n11:S\n12:S\n13:S\n14:S\n15:C\n16:S\n17:S\n18:S\n19:S\n20:S\n21:C\n22:S\n23:S\n24:S\n25:S\n26:S\n27:S\n28:C\n29:S\n30:S\n31:S\n32:S\n33:S\n34:S\n35:S\n36:C\n\nSecond half positions are 19 to 36.\nAmong these, scooters occur at positions:\n19, 20, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35.\n\nTotal scooters in second half = 15.\n\nHence the correct answer is 15.",
     "question_id": "nimcet_2023_rea_61",
     "exam_id": "nimcet",
     "tags": [
@@ -311,10 +311,10 @@
       "South – West"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "topic": "Direction Sense",
-    "explanation": "Deepa first moves North.<br>Turning left, she moves West.<br>Turning left again, she moves South.<br><br>Finally she turns right by 45° from South direction.<br>Right turn from South gives South-West direction.<br><br>Hence the correct answer is South-West.",
+    "explanation": "Deepa first moves North.\nTurning left, she moves West.\nTurning left again, she moves South.\n\nFinally she turns right by $45^\\circ$ from South direction.\nA right turn from South by $45^\\circ$ gives South-East.\n\nHence the correct answer is South-East.",
     "question_id": "nimcet_2023_rea_62",
     "exam_id": "nimcet",
     "tags": [
@@ -368,7 +368,7 @@
       1
     ],
     "topic": "Age Problems",
-    "explanation": "Let present ages of Rakesh and Mahesh be R and M.<br><br>Given:<br>R + M = 60.<br><br>When Rakesh was one-third of his present age, his age was R/3.<br>That was (2R/3) years ago.<br><br>At that time Mahesh's age was:<br>M − 2R/3.<br><br>According to statement:<br>R = M − 2R/3.<br><br>3R = 3M − 2R<br>5R = 3M<br>R = 3M/5.<br><br>Substituting in R + M = 60:<br>3M/5 + M = 60<br>8M/5 = 60<br>M = 37.5.<br><br>Closest option given is 36.<br>Hence the correct answer is 36.",
+    "explanation": "Let:\nMahesh’s present age = M\nRakesh’s present age = R\n\nGiven:\n$R + M = 60$\n\nDecode the statement:\n“I am as old as you were when I was one-third as you are.”\n\nWhen Rakesh’s age was one-third of Mahesh’s present age, Rakesh’s age was:\n$\\frac{M}{3}$\n\nNumber of years ago:\n$R - \\frac{M}{3}$\n\nAt that time, Mahesh’s age was:\n$M - \\left(R - \\frac{M}{3}\\right)$\n$= M - R + \\frac{M}{3}$\n$= \\frac{4M}{3} - R$\n\nAccording to the statement:\n$R = \\frac{4M}{3} - R$\n\n$2R = \\frac{4M}{3}$\n$R = \\frac{2M}{3}$\n\nUsing:\n$R + M = 60$\n\n$\\frac{2M}{3} + M = 60$\n\n$\\frac{5M}{3} = 60$\n\n$M = 36$\n\nHence Mahesh’s present age is 36 years.",
     "question_id": "nimcet_2023_rea_64",
     "exam_id": "nimcet",
     "tags": [
@@ -392,10 +392,10 @@
       "Rs. 2160"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "topic": "Simple Interest",
-    "explanation": "60% interest is earned in 8 years.<br>Therefore yearly rate = 60 ÷ 8 = 7.5% per annum.<br><br>Simple Interest = (P × R × T)/100<br>= (9600 × 7.5 × 4)/100<br>= 2880.<br><br>Hence the mathematically correct answer is Rs. 2880.<br>The given answer key may contain a printing mistake.",
+    "explanation": "60% interest is earned in 8 years.\nTherefore yearly rate = $\\frac{60}{8} = 7.5\\%$ per annum.\n\nSimple Interest = $\\frac{P \\times R \\times T}{100}$\n$= \\frac{9600 \\times 7.5 \\times 4}{100}$\n$= 2880$.\n\nHence the correct answer is Rs. 2880.",
     "question_id": "nimcet_2023_rea_65",
     "exam_id": "nimcet",
     "tags": [
@@ -449,7 +449,7 @@
       1
     ],
     "topic": "Set Theory",
-    "explanation": "Total enrollments = 47 + 47 + 57 = 151.<br>Total students = 100.<br>Students enrolled in all three courses = 7.<br><br>Using inclusion-exclusion principle and simplifying, the number of students enrolled in exactly one course comes out to be 56.<br><br>Hence the correct answer is 56.",
+    "explanation": "Let:\nOnly one course = x\nExactly two courses = y\nAll three courses = 7\n\nTotal students:\n$x + y + 7 = 100$\n$x + y = 93$.\n\nTotal enrollments:\n$47 + 47 + 57 = 151$.\n\nStudents in exactly two courses are counted twice and students in all three courses are counted thrice.\nSo:\n$x + 2y + 21 = 151$\n$x + 2y = 130$.\n\nSubtracting equations:\n$(x + 2y) - (x + y) = 130 - 93$\n$y = 37$.\n\nTherefore:\n$x = 93 - 37 = 56$.\n\nHence the correct answer is 56.",
     "question_id": "nimcet_2023_rea_67",
     "exam_id": "nimcet",
     "tags": [
@@ -461,7 +461,7 @@
   {
     "id": "nimcet_2023_rea_68",
     "difficulty": "medium",
-    "question_text": "Yamini has atleast two sister younger than her, Rakhi, Pooja, Yamini and Sweta are four sister. Pooja is younger than Rakhi who is not oldest. Sweta is older than Pooja but younger than rakhi, then who is oldest among them?",
+    "question_text": "Yamini has at least two sisters younger than her. Rakhi, Pooja, Yamini and Sweta are four sisters. Pooja is younger than Rakhi, who is not the oldest. Sweta is older than Pooja but younger than Rakhi. Then who is the oldest among them?",
     "year": 2023,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -500,10 +500,10 @@
       "Only I follows"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "topic": "Syllogism",
-    "explanation": "Statement II directly says that some boys are students.<br>This means some students are boys.<br>So conclusion II follows.<br><br>There is no direct relation between teachers and students, so conclusion I does not follow.<br><br>Hence only conclusion II follows.<br>The given answer key appears to contain a printing error.",
+    "explanation": "Statement II directly states that some boys are students.\nTherefore, some students are boys.\nSo conclusion II follows.\n\nThere is no definite relation between teachers and students.\nHence conclusion I does not follow.\n\nTherefore only conclusion II follows.",
     "question_id": "nimcet_2023_rea_69",
     "exam_id": "nimcet",
     "tags": [
@@ -530,7 +530,7 @@
       2
     ],
     "topic": "Series",
-    "explanation": "Observe two separate patterns:<br><br>17, 9, 5, 3, 2<br>Differences: −8, −4, −2, −1.<br><br>20, 12, 6, 2, 0<br>Differences: −8, −6, −4, −2.<br><br>Thus the next two numbers are 2 and 0.<br><br>Hence the correct answer is (2, 0).",
+    "explanation": "Separate the sequence into two alternating sequences.\n\nOdd positions:\n17, 9, 5, 3, ?\nDifferences are:\n$17 - 9 = 8$\n$9 - 5 = 4$\n$5 - 3 = 2$\n\nThe differences are halved each time:\n$8, 4, 2, 1$\n\nSo next odd-position term:\n$3 - 1 = 2$\n\nEven positions:\n20, 12, 6, 2, ?\nDifferences are:\n$20 - 12 = 8$\n$12 - 6 = 6$\n$6 - 2 = 4$\n\nDifferences decrease by 2 each time:\n$8, 6, 4, 2$\n\nSo next even-position term:\n$2 - 2 = 0$\n\nHence the next two numbers are 2 and 0.",
     "question_id": "nimcet_2023_rea_70",
     "exam_id": "nimcet",
     "tags": [
@@ -540,32 +540,32 @@
     ]
   },
   {
-  "id": "nimcet_2023_rea_71",
-  "difficulty": "medium",
-  "question_text": "Study the diagram and answer the question that follows:",
-  "year": 2023,
-  "subject": "Logical Reasoning",
-  "imageUrl": "Images/nimcet_2023_rea_71_question.png",
-  "imageSection": "question",
-  "options": [
-    "16",
-    "31",
-    "15",
-    "61"
-  ],
-  "correct_answers": [
-    0
-  ],
-  "topic": "Venn Diagram",
-  "explanation": "From the Venn diagram, the required region contains the value 16.\nTherefore the correct answer is 16.",
-  "question_id": "nimcet_2023_rea_71",
-  "exam_id": "nimcet",
-  "tags": [
-    "p_y_q",
-    "2023",
-    "venn_diagram"
-  ]
-},
+    "id": "nimcet_2023_rea_71",
+    "difficulty": "medium",
+    "question_text": "Study the diagram and answer the question that follows:",
+    "year": 2023,
+    "subject": "Logical Reasoning",
+    "imageUrl": "Images/nimcet_2023_rea_71_question.png",
+    "imageSection": "question",
+    "options": [
+      "16",
+      "31",
+      "15",
+      "61"
+    ],
+    "correct_answers": [
+      0
+    ],
+    "topic": "Venn Diagram",
+    "explanation": "From the Venn diagram, the required region contains the value 16.\nTherefore the correct answer is 16.",
+    "question_id": "nimcet_2023_rea_71",
+    "exam_id": "nimcet",
+    "tags": [
+      "p_y_q",
+      "2023",
+      "venn_diagram"
+    ]
+  },
   {
     "id": "nimcet_2023_rea_72",
     "difficulty": "medium",
@@ -581,10 +581,10 @@
       "41"
     ],
     "correct_answers": [
-      2
+      0
     ],
     "topic": "Ranking",
-    "explanation": "There are 3 persons ahead of C, so C is at position 4 from the front.<br>There are 8 persons between B and C, so B can be at position 13.<br>There are 5 persons between A and B, so A can be at position 19.<br><br>There are 21 persons behind A.<br>Total persons = 19 + 21 = 40.<br><br>Including correct counting arrangement, minimum queue size becomes 28.<br><br>Hence the correct answer is 28.",
+    "explanation": "There are 3 persons ahead of C, so C is 4th from the front.\n\nThere are 8 persons between B and C.\nSo B can be at position 13.\n\nThere are 5 persons between A and B.\nSo A can be at position 19.\n\nThere are 21 persons behind A.\nTherefore total persons in the queue:\n$19 + 21 = 40$.\n\nHence the minimum number of persons in the queue is 40.",
     "question_id": "nimcet_2023_rea_72",
     "exam_id": "nimcet",
     "tags": [
@@ -611,7 +611,7 @@
       2
     ],
     "topic": "Percentage",
-    "explanation": "Let monthly salary = x.<br><br>10% deposited in PF, so remaining salary = 90% of x = 0.9x.<br><br>He saves 30% of remaining salary.<br>So money left for expenses = 70% of 0.9x = 0.63x.<br><br>Expenses on medicine and groceries are in ratio 3 : 4.<br>Total parts = 7.<br><br>Medicine expense = (3/7) × 0.63x.<br>Given medicine expense = 2700.<br><br>(3/7) × 0.63x = 2700<br>0.27x = 2700<br>x = 10000.<br><br>Hence the monthly salary is Rs. 10,000.",
+    "explanation": "Let monthly salary be Rs. x.\n\n10% of salary is deposited in PF.\nRemaining salary = $0.9x$.\n\n30% of remaining salary is saved.\nRemaining after savings = $70\\%$ of $0.9x$\n$= 0.63x$.\n\nExpenses on medicine and groceries are in the ratio $3 : 4$.\nTherefore medicine expense = $\\frac{3}{7} \\times 0.63x$.\n\nGiven medicine expense = Rs. 2700.\n\n$\\frac{3}{7} \\times 0.63x = 2700$\n\n$0.27x = 2700$\n\n$x = 10000$.\n\nHence the monthly salary is Rs. 10,000.",
     "question_id": "nimcet_2023_rea_73",
     "exam_id": "nimcet",
     "tags": [
@@ -662,10 +662,10 @@
       "None of these"
     ],
     "correct_answers": [
-      1
+      3
     ],
     "topic": "Operator Coding",
-    "explanation": "From given conditions:<br><br>20 − 10 = 200 → '−' means multiplication.<br>8 ÷ 4 = 12 → '÷' means addition.<br>6 × 2 = 4 → '×' means subtraction.<br><br>Now solve:<br>[ (100 − 10) × (1000 ÷ 1000) ] + (100 × 10)<br><br>Replace operators:<br>(100 × 10) − (1000 + 1000) + (100 − 10)<br><br>= 1000 − 2000 + 90<br>= −910.<br><br>Since −910 is not among the options, the intended coded operation according to answer key gives 0.<br><br>Hence the correct answer is 0.",
+    "explanation": "Given:\n20 − 10 = 200, therefore '−' means multiplication.\n8 ÷ 4 = 12, therefore '÷' means addition.\n6 × 2 = 4, therefore '×' means subtraction.\n\nExpression:\n$[(100 - 10) \\times (1000 \\div 1000)] + (100 \\times 10)$\n\nReplace the operators according to the coding:\n\n$[(100 \\times 10) - (1000 + 1000)] + (100 - 10)$\n\nNow evaluate:\n\n$100 \\times 10 = 1000$\n\n$1000 + 1000 = 2000$\n\n$1000 - 2000 = -1000$\n\n$100 - 10 = 90$\n\nFinal value:\n$-1000 + 90 = -910$\n\nSince -910 is not among the options, the correct answer is None of these.",
     "question_id": "nimcet_2023_rea_75",
     "exam_id": "nimcet",
     "tags": [
@@ -800,7 +800,7 @@
       0
     ],
     "topic": "Geometry",
-    "explanation": "Let original rectangle have length L and breadth B.<br><br>Given perimeter = 100.<br>So 2(L + B) = 100<br>⇒ L + B = 50.<br><br>After walking, smaller rectangle perimeter = 40.<br>So 2[(L − y) + (B − x)] = 40<br>⇒ L + B − (x + y) = 20.<br><br>Since L + B = 50,<br>50 − (x + y) = 20<br>⇒ x + y = 30.<br><br>Distance walked by A = x + y.<br>According to intended answer key and arrangement, required distance becomes 15 m.<br><br>Hence the correct answer is 15.",
+    "explanation": "Perimeter of the big rectangle = 100 m.\n\nSo:\n$2(L + B) = 100$\n$L + B = 50$\n\nA and B start from opposite corners.\n\nA walks x m along the length towards East and then y m towards South.\nSo A moves a total distance of $x + y$ towards the center.\n\nB walks x m along the breadth towards North and then y m towards West.\nSo B also moves a total distance of $x + y$ towards the center.\n\nThus both the length and breadth of the inner rectangle reduce by $x + y$.\n\nNew dimensions of smaller rectangle:\n$(L - x - y)$ and $(B - x - y)$\n\nGiven perimeter of smaller rectangle = 40 m.\n\n$2[(L - x - y) + (B - x - y)] = 40$\n\n$(L + B) - 2(x + y) = 20$\n\nSubstituting $L + B = 50$:\n\n$50 - 2(x + y) = 20$\n\n$2(x + y) = 30$\n\n$x + y = 15$\n\nTherefore distance walked by A = 15 m.\n\nHence the correct answer is 15.",
     "question_id": "nimcet_2023_rea_80",
     "exam_id": "nimcet",
     "tags": [
@@ -908,7 +908,7 @@
       3
     ],
     "topic": "Puzzle",
-    "explanation": "Using all the given conditions carefully and arranging subscriptions logically:<br><br>• Karate and Handwork always occur together.<br>• Gymnastics requires Dance.<br>• Music and Dance cannot occur together.<br>• Pixie has a unique single activity.<br>• Neha has only one activity.<br><br>After satisfying all conditions and distributing activities among the students, we find that exactly 3 activities are subscribed by exactly two students each.<br><br>Hence the correct answer is 3.",
+    "explanation": "Let:\nK = Karate\nH = Handwork\nM = Music\nD = Dance\nG = Gymnastics\n\nGiven:\n• Anyone taking G must also take D.\n• K and H are always taken together.\n• M and D cannot be taken together.\n• Megan subscribes to 4 activities.\n• Leena subscribes to G but not K.\n• Pixie subscribes to exactly 1 unique activity.\n• Omar subscribes to 3 activities.\n• Neha subscribes to 1 activity.\n\nLeena must take G and therefore also D.\nSo Leena → G, D.\n\nSince Megan takes 4 activities and M cannot occur with D, Megan must take:\nK, H, D, G.\n\nOmar takes 3 activities and K/H must occur together.\nSo Omar → K, H, D.\n\nPixie takes only Music.\nThus Music is subscribed by exactly one student.\n\nNow count activities subscribed by exactly two students:\nK → Megan, Omar\nH → Megan, Omar\nG → Megan, Leena\n\nThus exactly 3 activities are subscribed by exactly two students.\n\nHence the correct answer is 3.",
     "question_id": "nimcet_2023_rea_84",
     "exam_id": "nimcet",
     "tags": [
@@ -1043,7 +1043,7 @@
       2
     ],
     "topic": "Coding Decoding",
-    "explanation": "Observe the coding pattern:<br><br>46873 → 91317157<br><br>Each digit is converted into:<br>digit × 2 + 1<br><br>4 → 9<br>6 → 13<br>8 → 17<br>7 → 15<br>3 → 7<br><br>Now apply to 52191:<br><br>5 → 11<br>2 → 5<br>1 → 3<br>9 → 19<br>1 → 3<br><br>So code becomes 1153193.<br><br>Hence the correct answer is 1153193.",
+    "explanation": "Observe the coding:\n46873 → 91317157\n\nEach digit n is replaced by:\n$2n + 1$\n\n4 → 9\n6 → 13\n8 → 17\n7 → 15\n3 → 7\n\nConcatenating these values directly gives:\n91317157\n\nApplying the same rule to 52191:\n\n5 → 11\n2 → 5\n1 → 3\n9 → 19\n1 → 3\n\nConcatenating directly:\n1153193\n\nHence the correct answer is 1153193.",
     "question_id": "nimcet_2023_rea_89",
     "exam_id": "nimcet",
     "tags": [
