@@ -191,7 +191,7 @@
   {
     "id": "nimcet_2023_rea_58",
     "difficulty": "medium",
-    "question_text": "How many meaningful words can be formed with the first, the third, the seventh and the ninth letters of the word SEPERATION using each letter only once in each word?",
+    "question_text": "How many meaningful words can be formed with the first, the third, the seventh and the ninth letters of the word SEPARATION using each letter only once in each word?",
     "year": 2023,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -206,7 +206,7 @@
       2
     ],
     "topic": "Word Formation",
-    "explanation": "Take the word SEPERATION and number the letters:\n1 2 3 4 5 6 7 8 9 10\nS E P E R A T I O N\n\n1st = S\n3rd = P\n7th = T\n9th = O\n\nSo the letters are S, P, T and O.\n\nMeaningful words that can be formed are:\nSTOP, SPOT, POST, POTS, TOPS and OPTS.\n\nThus more than 4 meaningful words can be formed.\n\nHence the correct answer is more than 4.",
+    "explanation": "Take the word SEPARATION and number the letters:\n1 2 3 4 5 6 7 8 9 10\nS E P A R A T I O N\n\n1st = S\n3rd = P\n7th = T\n9th = O\n\nSo the letters are S, P, T and O.\n\nMeaningful words that can be formed are:\nSTOP, SPOT, POST, POTS, TOPS and OPTS.\n\nThus more than 4 meaningful words can be formed.\n\nHence the correct answer is more than 4.",
     "question_id": "nimcet_2023_rea_58",
     "exam_id": "nimcet",
     "tags": [
@@ -299,7 +299,7 @@
   {
     "id": "nimcet_2023_rea_62",
     "difficulty": "medium",
-    "question_text": "Deepa moved a distance of 75 metre towards the north. She then turned left and walking for about 25 meter, turned left again and waked 80 meters. Finally, she turned to the right at an angle of 45°. In which direction was she moving finally?",
+    "question_text": "Deepa moved a distance of 75 metre towards the north. She then turned left and walked for about 25 meters, turned left again and walked 80 meters. Finally, she turned to the right at an angle of 45°. In which direction was she moving finally?",
     "year": 2023,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -311,10 +311,10 @@
       "South – West"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "topic": "Direction Sense",
-    "explanation": "Deepa first moves North.\nTurning left, she moves West.\nTurning left again, she moves South.\n\nFinally she turns right by $45^\\circ$ from South direction.\nA right turn from South by $45^\\circ$ gives South-East.\n\nHence the correct answer is South-East.",
+    "explanation": "Deepa first moves North.\nTurning left, she moves West.\nTurning left again, she moves South.\n\nFacing South, a right turn of $45^\\circ$ points towards South-West.\n\nHence the correct answer is South-West.",
     "question_id": "nimcet_2023_rea_62",
     "exam_id": "nimcet",
     "tags": [
@@ -422,7 +422,7 @@
       1
     ],
     "topic": "Profit and Loss",
-    "explanation": "Cost price of 1 dozen bananas = Rs. 375.<br>So cost price of 1 banana = 375 ÷ 12 = Rs. 31.25.<br><br>Selling price of 1 banana = Rs. 33.<br>Profit per banana = 33 − 31.25 = Rs. 1.75.<br><br>Profit percentage = (1.75 ÷ 31.25) × 100<br>= 5.6%.<br><br>Hence the correct answer is 5.6%.",
+    "explanation": "Cost price of 1 dozen bananas = Rs. 375.<br>So cost price of 1 banana = 375 ÷ 12 = Rs. 31.25.<br><br>Selling price of 1 banana = Rs. 33.<br>Profit per banana = 33 − 31.25 = Rs. 1.75.<br><br>Profit percentage = (1.75 ÷ 31.25) × 100<br>= 5.6% approximately.<br><br>Hence the correct answer is 5.6%.",
     "question_id": "nimcet_2023_rea_66",
     "exam_id": "nimcet",
     "tags": [
@@ -488,7 +488,7 @@
   {
     "id": "nimcet_2023_rea_69",
     "difficulty": "medium",
-    "question_text": "<b>Statements:</b><br>Statement I: At most teachers are boys.<br>Statement II: Some boys are students.<br><br><b>Conclusion:</b><br>I. Some teacher are students.<br>II. Some students are boys.",
+    "question_text": "<b>Statements:</b><br>Statement I: At most teachers are boys.<br>Statement II: Some boys are students.<br><br><b>Conclusion:</b><br>I. Some teachers are students.<br>II. Some students are boys.",
     "year": 2023,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -530,7 +530,7 @@
       2
     ],
     "topic": "Series",
-    "explanation": "Separate the sequence into two alternating sequences.\n\nOdd positions:\n17, 9, 5, 3, ?\nDifferences are:\n$17 - 9 = 8$\n$9 - 5 = 4$\n$5 - 3 = 2$\n\nThe differences are halved each time:\n$8, 4, 2, 1$\n\nSo next odd-position term:\n$3 - 1 = 2$\n\nEven positions:\n20, 12, 6, 2, ?\nDifferences are:\n$20 - 12 = 8$\n$12 - 6 = 6$\n$6 - 2 = 4$\n\nDifferences decrease by 2 each time:\n$8, 6, 4, 2$\n\nSo next even-position term:\n$2 - 2 = 0$\n\nHence the next two numbers are 2 and 0.",
+    "explanation": "Separate the sequence into two alternating sequences.\n\nOdd positions:\n17, 9, 5, 3, ?\nDifferences are:\n$17 - 9 = 8$\n$9 - 5 = 4$\n$5 - 3 = 2$\n\nThe differences are halved each time:\n$8, 4, 2, 1$\n\nSo next odd-position term:\n$3 - 1 = 2$\n\nEven positions:\n20, 12, 6, 2, ?\nDifferences are:\n$20 - 12 = 8$\n$12 - 6 = 6$\n$6 - 2 = 4$\n\nDifferences decrease by 2 each time:\n$8, 6, 4, 2$\n\nSo next even-position term:\n$2 - 2 = 0$\n\nHence the next two numbers are $(2, 0)$.",
     "question_id": "nimcet_2023_rea_70",
     "exam_id": "nimcet",
     "tags": [
@@ -581,10 +581,10 @@
       "41"
     ],
     "correct_answers": [
-      0
+      2
     ],
     "topic": "Ranking",
-    "explanation": "There are 3 persons ahead of C, so C is 4th from the front.\n\nThere are 8 persons between B and C.\nSo B can be at position 13.\n\nThere are 5 persons between A and B.\nSo A can be at position 19.\n\nThere are 21 persons behind A.\nTherefore total persons in the queue:\n$19 + 21 = 40$.\n\nHence the minimum number of persons in the queue is 40.",
+    "explanation": "There are 3 persons ahead of C, so C is at position 4.\n\nThere are 8 persons between B and C.\nFor minimum total, place B ahead of C is not possible (B would be before position 1).\nSo B is behind C: B is at position 4 + 8 + 1 = 13.\n\nThere are 5 persons between A and B.\nFor minimum total, place A ahead of B: A is at position 13 − 5 − 1 = 7.\n\nThere are 21 persons behind A.\nTotal persons in the queue = 7 + 21 = 28.\n\nHence the minimum number of persons in the queue is 28.",
     "question_id": "nimcet_2023_rea_72",
     "exam_id": "nimcet",
     "tags": [
@@ -893,7 +893,7 @@
   {
     "id": "nimcet_2023_rea_84",
     "difficulty": "hard",
-    "question_text": "A junior school is offering five after-school activities - Karate, Handwork, Music Dance and Gymnastics. Each of the five students - Leena, Megan, Neha, Omar and Pixia has subscribed to at least one activity. As per the school rules, anyone who subscribes to Gymnastics must also subscribe to Dance. Karate and Handwork must always be subscribed together. Music and Dance cannot be subscribed together.<br><br>The following information is available about the student subscriptions:<br>• Megan subscribed to four activities.<br>• Leena subscribed to Gymnastics but not Karate.<br>• Pixie subscribed to only one activity and is the only one subscribed to that activity.<br>• Omar subscribed to three activities.<br>• Neha subscribed to only one activity.<br><br>How many activities are subscribed by exactly two people each?",
+    "question_text": "A junior school is offering five after-school activities - Karate, Handwork, Music Dance and Gymnastics. Each of the five students - Leena, Megan, Neha, Omar and Pixie has subscribed to at least one activity. As per the school rules, anyone who subscribes to Gymnastics must also subscribe to Dance. Karate and Handwork must always be subscribed together. Music and Dance cannot be subscribed together.<br><br>The following information is available about the student subscriptions:<br>• Megan subscribed to four activities.<br>• Leena subscribed to Gymnastics but not Karate.<br>• Pixie subscribed to only one activity and is the only one subscribed to that activity.<br>• Omar subscribed to three activities.<br>• Neha subscribed to only one activity.<br><br>How many activities are subscribed by exactly two people each?",
     "year": 2023,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -1043,7 +1043,7 @@
       2
     ],
     "topic": "Coding Decoding",
-    "explanation": "Observe the coding:\n46873 → 91317157\n\nEach digit n is replaced by:\n$2n + 1$\n\n4 → 9\n6 → 13\n8 → 17\n7 → 15\n3 → 7\n\nConcatenating these values directly gives:\n91317157\n\nApplying the same rule to 52191:\n\n5 → 11\n2 → 5\n1 → 3\n9 → 19\n1 → 3\n\nConcatenating directly:\n1153193\n\nHence the correct answer is 1153193.",
+    "explanation": "Observe the coding:\n46873 → 91317157\n\nEach digit n is replaced by $2n + 1$ and the resulting values are concatenated directly.\n\n4 → 9\n6 → 13\n8 → 17\n7 → 15\n3 → 7\n\nThus:\n9 | 13 | 17 | 15 | 7 → 91317157\n\nApplying the same rule to 52191:\n\n5 → 11\n2 → 5\n1 → 3\n9 → 19\n1 → 3\n\nThus:\n11 | 5 | 3 | 19 | 3 → 1153193\n\nHence the correct answer is 1153193.",
     "question_id": "nimcet_2023_rea_89",
     "exam_id": "nimcet",
     "tags": [
@@ -1070,7 +1070,7 @@
       0
     ],
     "topic": "Number Arrangement",
-    "explanation": "Modify each number by subtracting 3 from middle digit and reversing digits.<br><br>589 → middle digit 8−3=5 → 559 → reverse = 955<br><br>362 → middle digit 6−3=3 → 332 → reverse = 233<br><br>554 → middle digit 5−3=2 → 524 → reverse = 425<br><br>371 → middle digit 7−3=4 → 341 → reverse = 143<br><br>442 → middle digit 4−3=1 → 412 → reverse = 214<br><br>Descending order:<br>955, 425, 233, 214, 143<br><br>Middle number = 233.<br>Last digit of 233 = 3.<br><br>Hence the correct answer is 3.",
+    "explanation": "Modify each number by subtracting 3 from the middle digit while keeping the first and last digits unchanged, then reverse the digits.<br><br>589 → middle digit 8−3=5 → 559 → reverse = 955<br><br>362 → middle digit 6−3=3 → 332 → reverse = 233<br><br>554 → middle digit 5−3=2 → 524 → reverse = 425<br><br>371 → middle digit 7−3=4 → 341 → reverse = 143<br><br>442 → middle digit 4−3=1 → 412 → reverse = 214<br><br>Descending order:<br>955, 425, 233, 214, 143<br><br>Middle number = 233.<br>Last digit of 233 = 3.<br><br>Hence the correct answer is 3.",
     "question_id": "nimcet_2023_rea_90",
     "exam_id": "nimcet",
     "tags": [

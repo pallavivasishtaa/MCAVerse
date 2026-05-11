@@ -41,10 +41,10 @@
       "Deepika, cola"
     ],
     "correct_answers": [
-      2
+      0
     ],
     "topic": "Puzzle",
-    "explanation": "Aditi ordered orange juice and not pizza.<br>Bharat ordered salad.<br>Chandan ordered pasta.<br><br>Remaining dishes are pizza and burger for Aditi and Deepika.<br>Since Aditi cannot order pizza, Aditi ordered burger.<br>Thus Deepika ordered pizza.<br><br>Now drinks:<br>Aditi → orange juice.<br>Bharat is not lemonade.<br>Deepika is not orange juice.<br><br>After assigning remaining drinks uniquely, Chandan gets lemonade.<br><br>Thus the required combination is Chandan, lemonade.<br><br>Hence the correct answer is option (3).",
+    "explanation": "Chandan ordered pasta. Bharat ordered a salad. The remaining dishes for Aditi and Deepika are pizza and a burger. Aditi didn't order pizza, so she ordered a burger. Aditi ordered orange juice. Hence, the correct answer is Aditi, orange juice.",
     "question_id": "nimcet_2024_rea_02",
     "exam_id": "nimcet",
     "tags": [
@@ -122,10 +122,10 @@
       "Monday"
     ],
     "correct_answers": [
-      1
+      3
     ],
     "topic": "Calendar",
-    "explanation": "Count days from 30 September 1991 to 14 March 1992.<br><br>October = 31<br>November = 30<br>December = 31<br>January = 31<br>February 1992 = 29 (leap year)<br>March = 14<br><br>Total = 31 + 30 + 31 + 31 + 29 + 14 = 166 days.<br><br>166 mod 7 = 5.<br><br>Wednesday + 5 days = Monday.<br><br>According to the official answer key, the intended answer is Saturday.",
+    "explanation": "Count days from 30 September 1991 to 14 March 1992. October = 31, November = 30, December = 31, January = 31, February 1992 = 29 (leap year), March 1-14 = 14. Total = 31 + 30 + 31 + 31 + 29 + 14 = 166 days. 166 mod 7 = 5. Wednesday + 5 days = Monday. Hence, the correct answer is Monday.",
     "question_id": "nimcet_2024_rea_05",
     "exam_id": "nimcet",
     "tags": [
@@ -203,10 +203,10 @@
       "2"
     ],
     "correct_answers": [
-      1
+      3
     ],
     "topic": "Coding Decoding",
-    "explanation": "The code uses alphabetical positions of letters.<br><br>HEART → H=8, E=5, A=1, R=18, T=20.<br>The numbers are arranged in reverse order:<br>20 18 01 05 08.<br><br>BRAIN → B=2, R=18, A=1, I=9, N=14.<br>Reverse arrangement gives 14 09 01 18 02.<br><br>The last number is 02, whose last digit is 2.<br><br>However, according to the official answer key, the intended answer is 9.",
+    "explanation": "The code represents 2-digit alphabetical positions of letters written in reverse order.<br><br>HEART → H=08, E=05, A=01, R=18, T=20 → reversed: 20 18 01 05 08 = 2018010508.<br><br>LUNGS → L=12, U=21, N=14, G=07, S=19 → reversed: 19 07 14 21 12 = 1907142112.<br><br>BRAIN → B=02, R=18, A=01, I=09, N=14 → reversed: 14 09 01 18 02.<br><br>The last number is 02. Hence, the correct answer is 2.",
     "question_id": "nimcet_2024_rea_08",
     "exam_id": "nimcet",
     "tags": [
@@ -230,10 +230,10 @@
       "F"
     ],
     "correct_answers": [
-      1
+      3
     ],
     "topic": "Seating Arrangement",
-    "explanation": "Arrange E first.<br>D sits third to the left of E.<br>A sits second to the left of D.<br>H sits opposite E.<br><br>Now place G such that G is not an immediate neighbour of E.<br>C sits third to the right of G.<br>B is between A and C.<br><br>After arranging all persons correctly, G comes opposite to A.<br><br>Hence the correct answer is G.",
+    "explanation": "Arrange the 8 seats of the round table as positions 1–8.<br><br>Place E at position 1.<br>D is third to the left of E → D = position 6.<br>A is second to the left of D → A = position 4.<br>H sits opposite E → H = position 5.<br><br>Remaining positions: 2, 3, 7, 8 for B, C, F, G.<br>G is not an immediate neighbour of E, so G cannot be at positions 2 or 8.<br>If G = 3, then C becomes 6 which is already occupied. So G = 7 and C = 2.<br>B is between A and C, so B = 3.<br>F occupies the remaining position 8.<br><br>A is at position 4 and the opposite position is 8, occupied by F.<br><br>Hence the correct answer is F.",
     "question_id": "nimcet_2024_rea_09",
     "exam_id": "nimcet",
     "tags": [
@@ -257,10 +257,10 @@
       "Plant : Leaf"
     ],
     "correct_answers": [
-      2
+      1
     ],
     "topic": "Analogy",
-    "explanation": "A graph is used to represent or display data.<br>Similarly, a glass is used to hold water.<br><br>Thus the relationship matches with Water : Glass.<br><br>Hence the correct answer is Water : Glass.",
+    "explanation": "DATA : GRAPH means data is transformed or represented as a graph.<br><br>Similarly, milk is processed to produce butter.<br><br>Water : Glass represents containment, not transformation.<br><br>Hence the correct answer is Milk : Butter.",
     "question_id": "nimcet_2024_rea_10",
     "exam_id": "nimcet",
     "tags": [
@@ -311,10 +311,10 @@
       "OLT"
     ],
     "correct_answers": [
-      1
+      2
     ],
     "topic": "Odd One Out",
-    "explanation": "In HEM, JGP and OLT, the letters follow a consistent alphabetical pattern.<br><br>But NKS does not follow the same relationship among letters.<br><br>Hence the correct answer is NKS.",
+    "explanation": "Check alphabetical position differences:<br><br>HEM → H(8), E(5), M(13) → differences: −3, +8<br>NKS → N(14), K(11), S(19) → differences: −3, +8<br>OLT → O(15), L(12), T(20) → differences: −3, +8<br><br>JGP → J(10), G(7), P(16) → differences: −3, +9<br><br>JGP does not follow the same pattern as the other three.<br><br>Hence the correct answer is JGP.",
     "question_id": "nimcet_2024_rea_12",
     "exam_id": "nimcet",
     "tags": [
@@ -365,10 +365,10 @@
       "(4, 2), (7, 8)"
     ],
     "correct_answers": [
-      2
+      0
     ],
     "topic": "Word Formation",
-    "explanation": "Join bits:<br><br>(1, 5) → ERT + EXP = EXPERT.<br>(10, 8) → GOS + SIP = GOSSIP.<br><br>These form meaningful words with opposite meanings in the intended pattern.<br><br>Hence the correct answer is option (3).",
+    "explanation": "The bits are numbered as:<br>ERT(1), UCE(2), DES(3), END(4), EXP(5), EAR(6), AND(7), SIP(8), RED(9), GOS(10).<br><br>(9, 2) → RED + UCE = REDUCE<br>(5, 7) → EXP + AND = EXPAND<br><br>REDUCE and EXPAND are opposite in meaning.<br><br>Hence the correct answer is (9, 2), (5, 7).",
     "question_id": "nimcet_2024_rea_14",
     "exam_id": "nimcet",
     "tags": [
@@ -392,10 +392,10 @@
       "2:43 7/11 pm"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "topic": "Clock",
-    "explanation": "For opposite directions:<br><br>|30H − 11M/2| = 180.<br><br>Here H = 2.<br><br>|60 − 11M/2| = 180.<br><br>Solving gives:<br>M = 43 7/11 minutes approximately.<br><br>According to the official answer key, the intended answer is 2:43 9/11 pm.",
+    "explanation": "For the hour and minute hands to be in opposite directions between 2 pm and 3 pm:<br><br>$|30H - \\frac{11M}{2}| = 180$<br><br>Here $H = 2$.<br><br>$|60 - \\frac{11M}{2}| = 180$<br><br>Taking the valid case:<br>$\\frac{11M}{2} - 60 = 180$<br>$\\frac{11M}{2} = 240$<br>$M = \\frac{480}{11} = 43\\frac{7}{11}$ minutes.<br><br>Therefore, the required time is $2:43\\frac{7}{11}$ pm.<br><br>Hence the correct answer is option (4).",
     "question_id": "nimcet_2024_rea_15",
     "exam_id": "nimcet",
     "tags": [
@@ -419,10 +419,10 @@
       "1974"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "topic": "Age Problem",
-    "explanation": "Arjun's brother is 35 years younger than his mother.<br>Brother was born in 1964.<br><br>So mother's birth year = 1964 − 35 = 1929.<br><br>Arjun is 25 years younger than his mother.<br>Therefore Arjun's birth year = 1929 + 25 = 1954.<br><br>But according to the official answer pattern, the intended answer is 1974.",
+    "explanation": "Arjun’s brother was born in 1964 and is 35 years younger than his mother.<br><br>So the mother’s birth year is:<br>1964 − 35 = 1929.<br><br>Arjun is 25 years younger than his mother.<br><br>Therefore Arjun’s birth year is:<br>1929 + 25 = 1954.<br><br>Hence the correct answer is 1954.",
     "question_id": "nimcet_2024_rea_16",
     "exam_id": "nimcet",
     "tags": [
@@ -527,10 +527,10 @@
       "Complicit"
     ],
     "correct_answers": [
-      3
+      1
     ],
     "topic": "Dictionary Order",
-    "explanation": "Arrange the words alphabetically:<br>Complete, Compliment, Compline, Complicit.<br><br>Among these, Complicit appears last in dictionary order.<br><br>Hence the correct answer is Complicit.",
+    "explanation": "Compare the words alphabetically after the common prefix COMPL:<br><br>Complete<br>Complicit<br>Compliment<br>Compline<br><br>Compline appears last in dictionary order.<br><br>Hence the correct answer is Compline.",
     "question_id": "nimcet_2024_rea_20",
     "exam_id": "nimcet",
     "tags": [
@@ -557,7 +557,7 @@
       0
     ],
     "topic": "Sequence Arrangement",
-    "explanation": "First data is collected.<br>Software is used to process it.<br>Code runs inside the software.<br>Then analysis is performed.<br>Finally a report is generated.<br><br>Thus the correct sequence is 3, 1, 2, 4, 5.<br><br>Hence the correct answer is option 1.",
+    "explanation": "First data is collected.<br>Then software and code are used for processing the data.<br>After processing, analysis is performed.<br>Finally a report is generated.<br><br>Thus the intended sequence is 3, 1, 2, 4, 5.<br><br>Hence the correct answer is option 1.",
     "question_id": "nimcet_2024_rea_21",
     "exam_id": "nimcet",
     "tags": [
@@ -584,7 +584,7 @@
       3
     ],
     "topic": "Analogy",
-    "explanation": "8 : 4 means the second number is half of the first number.<br><br>Among the options:<br>27 : 9 follows a similar division relationship.<br><br>Hence the correct answer is 27 : 9.",
+    "explanation": "In 8 : 4, the second number is obtained by dividing the first number by 2.<br><br>Checking the options:<br>45 : 5 → divide by 9<br>216 : 32 → not divide by 2<br>72 : 24 → divide by 3<br>27 : 9 → divide by 3<br><br>No option exactly follows the same relation.<br><br>Among the given choices, 27 : 9 is the closest matching numerical relation.<br><br>Hence the correct answer is 27 : 9.",
     "question_id": "nimcet_2024_rea_22",
     "exam_id": "nimcet",
     "tags": [
@@ -608,10 +608,10 @@
       "Age"
     ],
     "correct_answers": [
-      1
+      0
     ],
     "topic": "Odd One Out",
-    "explanation": "Highest education, years of experience and age are personal attributes.<br>Salary is different because it is an earning or outcome rather than a personal characteristic.<br><br>Hence the correct answer is Salary.",
+    "explanation": "Salary, years of experience and age are measurable numerical quantities.<br><br>Highest education is a qualitative or categorical attribute.<br><br>Hence the correct answer is Highest education.",
     "question_id": "nimcet_2024_rea_23",
     "exam_id": "nimcet",
     "tags": [
@@ -623,7 +623,7 @@
   {
     "id": "nimcet_2024_rea_24",
     "difficulty": "medium",
-    "question_text": "What is the value of x² + y² = ?<br><br>Statement I: y = 5<br>Statement II: x + y = 10",
+    "question_text": "What is the value of x² + y² = ?<br><br>Statement I: xy = 5<br>Statement II: x + y = 10",
     "year": 2024,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -638,7 +638,7 @@
       1
     ],
     "topic": "Data Sufficiency",
-    "explanation": "Statement I gives y = 5 only, which is insufficient to find x² + y².<br><br>Statement II gives x + y = 10 only, which is also insufficient.<br><br>Using both statements together:<br>y = 5 and x + y = 10 ⇒ x = 5.<br><br>Therefore x² + y² = 25 + 25 = 50.<br><br>Hence both statements together are sufficient.<br><br>So the correct answer is option 2.",
+    "explanation": "We need to find x² + y².<br><br>Statement I alone: xy = 5. Insufficient.<br>Statement II alone: x + y = 10. Insufficient.<br><br>Using both together:<br>x² + y² = (x + y)² − 2xy<br>= 10² − 2(5)<br>= 100 − 10<br>= 90.<br><br>Both statements together are sufficient, but neither alone is sufficient.<br><br>Hence the correct answer is option 2.",
     "question_id": "nimcet_2024_rea_24",
     "exam_id": "nimcet",
     "tags": [
@@ -662,10 +662,10 @@
       "Himself"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "topic": "Blood Relation",
-    "explanation": "Lucky’s paternal grandmother’s daughter is Lucky’s aunt or mother.<br><br>The only child of that daughter refers to Lucky himself.<br><br>Hence the portrait was of Lucky himself.<br><br>Therefore the correct answer is Himself.",
+    "explanation": "Lucky’s paternal grandmother’s daughter refers to Lucky’s aunt.<br><br>The only child of Lucky’s aunt is Lucky’s cousin.<br><br>Hence the portrait was of Lucky’s cousin.",
     "question_id": "nimcet_2024_rea_25",
     "exam_id": "nimcet",
     "tags": [
@@ -743,10 +743,10 @@
       "B, N"
     ],
     "correct_answers": [
-      0
+      1
     ],
     "topic": "Word Formation",
-    "explanation": "Rearranging NABMODINT forms the word BADMINTON.<br><br>The mirror image reverses the order:<br>NOTNIMDAB.<br><br>The first letter is N and the last letter is B.<br><br>According to the official answer key, the intended answer is B, T.",
+    "explanation": "Rearranging NABMODINT gives BADMINTON.<br><br>The mirror image reverses the order of letters:<br>BADMINTON → NOTNIMDAB.<br><br>The first letter is N and the last letter is B.<br><br>Hence the correct answer is N, B.",
     "question_id": "nimcet_2024_rea_28",
     "exam_id": "nimcet",
     "tags": [
@@ -797,10 +797,10 @@
       "55"
     ],
     "correct_answers": [
-      2
+      1
     ],
     "topic": "Percentage",
-    "explanation": "Total employees = 500.<br><br>25% prefer tea over coffee.<br>So employees preferring tea = 25% of 500 = 125.<br><br>20% of coffee-preferring employees are also tea drinkers.<br>Coffee-preferring employees = 60% of 500 = 300.<br>20% of 300 = 60.<br><br>Only tea drinkers = 125 − 60 = 65.<br><br>According to the official answer key, the intended answer is 50.",
+    "explanation": "Total employees = 500.<br><br>Tea drinkers = 25% of 500 = 125.<br>Coffee drinkers = 60% of 500 = 300.<br><br>20% of coffee drinkers are also tea drinkers:<br>20% of 300 = 60.<br><br>Employees preferring only tea = 125 − 60 = 65.<br><br>Hence the correct answer is 65.",
     "question_id": "nimcet_2024_rea_30",
     "exam_id": "nimcet",
     "tags": [
@@ -905,10 +905,10 @@
       "Teacher"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "topic": "Comprehension",
-    "explanation": "B is a male engineer and travels with G, a teacher, in Swift.<br>D is a male doctor.<br>C is a lady doctor.<br><br>There are 2 engineers, 2 doctors and 3 teachers.<br><br>A is not an engineer and travels with F in Creta.<br>Since two people of same profession cannot travel together, F cannot be doctor or engineer.<br><br>The only possible profession left for F is Teacher.<br><br>Hence the correct answer is Teacher.",
+    "explanation": "B is an engineer and G is a teacher travelling in Swift.<br>C and D are doctors.<br><br>There are 2 engineers, 2 doctors and 3 teachers.<br>A is not an engineer and travels with F in Creta.<br><br>The remaining professions for A, E and F are one engineer and two teachers.<br>Since A is not an engineer, A must be a teacher.<br>Two people of the same profession cannot travel together, so F cannot be a teacher.<br><br>Therefore F must be an engineer.<br><br>Hence the correct answer is Engineer.",
     "question_id": "nimcet_2024_rea_34",
     "exam_id": "nimcet",
     "tags": [
@@ -959,10 +959,10 @@
       "GEF"
     ],
     "correct_answers": [
-      3
+      2
     ],
     "topic": "Comprehension",
-    "explanation": "B is an engineer and G is a teacher.<br>C and D are doctors.<br><br>There are two engineers, two doctors and three teachers.<br>A is not an engineer.<br>F is also not doctor or engineer because same professions cannot travel together with A.<br><br>Thus remaining teachers are G, E and F.<br><br>Hence the correct answer is GEF.",
+    "explanation": "B is an engineer and G is a teacher.<br>C and D are doctors.<br>From Q34, F is an engineer.<br><br>Thus the remaining teachers are G, A and E.<br><br>Hence the correct answer is GEA.",
     "question_id": "nimcet_2024_rea_36",
     "exam_id": "nimcet",
     "tags": [
@@ -986,10 +986,10 @@
       "−15"
     ],
     "correct_answers": [
-      1
+      0
     ],
     "topic": "Integer Arrangement",
-    "explanation": "Since adjacent integers differ by 8, let:<br>A = x<br>E = x + 8<br>B = x + 16<br>C = x + 24<br>D = x + 32<br><br>Given sum of integers = E.<br><br>x + (x+8) + (x+16) + (x+24) + (x+32) = x + 8<br><br>5x + 80 = x + 8<br>4x = -72<br>x = -18.<br><br>Hence A = -18.<br><br>According to the official answer key, the intended answer is -17.",
+    "explanation": "Since adjacent integers differ by 8, let:<br>A = x<br>E = x + 8<br>B = x + 16<br>C = x + 24<br>D = x + 32<br><br>Given sum of integers = E.<br><br>x + (x + 8) + (x + 16) + (x + 24) + (x + 32) = x + 8<br><br>5x + 80 = x + 8<br>4x = -72<br>x = -18.<br><br>Therefore, A = -18.<br><br>Hence the correct answer is option 1.",
     "question_id": "nimcet_2024_rea_37",
     "exam_id": "nimcet",
     "tags": [
@@ -1013,10 +1013,10 @@
       "None of these"
     ],
     "correct_answers": [
-      1
+      2
     ],
     "topic": "Integer Arrangement",
-    "explanation": "Using the arrangement:<br>A = x<br>E = x + 8<br>B = x + 16<br>C = x + 24<br>D = x + 32<br><br>From previous calculation:<br>x = -18.<br><br>So:<br>A = -18<br>B = -2<br><br>A + B = -18 + (-2) = -20.<br><br>According to the official answer key, the intended answer is -30.",
+    "explanation": "Using the arrangement:<br>A = x<br>E = x + 8<br>B = x + 16<br>C = x + 24<br>D = x + 32<br><br>From previous calculation:<br>x = -18.<br><br>So:<br>A = -18<br>B = -2<br><br>A + B = -18 + (-2) = -20.<br><br>Hence the correct answer is -20.",
     "question_id": "nimcet_2024_rea_38",
     "exam_id": "nimcet",
     "tags": [
@@ -1040,10 +1040,10 @@
       "17"
     ],
     "correct_answers": [
-      1
+      0
     ],
     "topic": "Integer Arrangement",
-    "explanation": "From the arrangement:<br>D = x + 32.<br><br>Using x = -18:<br>D = -18 + 32 = 14.<br><br>Hence the greatest number is 14.<br><br>According to the official answer key, the intended answer is 15.",
+    "explanation": "From the arrangement:<br>D = x + 32.<br><br>Using x = -18:<br>D = -18 + 32 = 14.<br><br>Hence the greatest number is 14.",
     "question_id": "nimcet_2024_rea_39",
     "exam_id": "nimcet",
     "tags": [
@@ -1067,10 +1067,10 @@
       "−8"
     ],
     "correct_answers": [
-      3
+      1
     ],
     "topic": "Integer Arrangement",
-    "explanation": "From earlier calculations:<br>x = -18.<br><br>The integers are:<br>-18, -10, -2, 6, 14.<br><br>Sum = -18 -10 -2 +6 +14 = -10.<br><br>Hence the sum of integers is -10.<br><br>According to the official answer key, the intended answer is -8.",
+    "explanation": "From earlier calculations:<br>x = -18.<br><br>The integers are:<br>-18, -10, -2, 6, 14.<br><br>Sum = -18 -10 -2 + 6 + 14 = -10.<br><br>Hence the sum of integers is -10.",
     "question_id": "nimcet_2024_rea_40",
     "exam_id": "nimcet",
     "tags": [

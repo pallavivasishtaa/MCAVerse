@@ -44,7 +44,7 @@
       2
     ],
     "topic": "Coding Decoding",
-    "explanation": "Observe the pattern:\nEach letter is shifted backward or forward systematically.\n\nApplying the same coding logic to STAR:\nS → R\nT → V\nA → X\nR → V\n\nThus STAR is coded as RVXV.\n\nHence the correct answer is RVXV.",
+    "explanation": "From the given examples:\nSUN → RWK\nMOON → LQLR\n\nA direct positional shifting pattern is applied to individual letters.\nApplying the same transformations to STAR gives:\nS → R\nT → V\nA → X\nR → V\n\nThus STAR is coded as RVXV.\n\nHence the correct answer is RVXV.",
     "question_id": "nimcet_2025_rea_2",
     "exam_id": "nimcet",
     "tags": [
@@ -125,7 +125,7 @@
       2
     ],
     "topic": "Trigonometry",
-    "explanation": "For the first ship:\n tan 30° = 100/x\n x = 100√3 ≈ 173 m.\n\nFor the second ship:\n tan 45° = 100/y\n y = 100 m.\n\nDistance between ships = 173 + 100 = 273 m.\n\nHence the correct answer is 273 m.",
+    "explanation": "For the first ship:\n$\\tan 30^\\circ = \\frac{100}{x}$\n$x = 100\\sqrt{3} \\approx 173$ m.\n\nFor the second ship:\n$\\tan 45^\\circ = \\frac{100}{y}$\n$y = 100$ m.\n\nDistance between ships:\n$173 + 100 = 273$ m.\n\nHence the correct answer is 273 m.",
     "question_id": "nimcet_2025_rea_5",
     "exam_id": "nimcet",
     "tags": [
@@ -152,7 +152,7 @@
       2
     ],
     "topic": "Seating Arrangement",
-    "explanation": "Arrange the friends according to the conditions.\n\nSince D is between A and E and E is to the right of D, the arrangement becomes A-D-E.\nA is next to B, and C is at one end.\n\nThe valid arrangement is:\nC A D E B\n\nThus, the second position is occupied by A.\n\nHence the correct answer is A.",
+    "explanation": "Since D is between A and E and E is to the right of D, the order must be A-D-E.\nA is sitting next to B, so B must sit next to A.\nC is at one of the ends.\n\nThe valid arrangement is:\nC B A D E\n\nThus, the second position is occupied by B.\n\nHowever, since B is not among the answer options, the question/options appear inconsistent.",
     "question_id": "nimcet_2025_rea_6",
     "exam_id": "nimcet",
     "tags": [
@@ -230,10 +230,10 @@
       "Some Mathematicians are not teachers"
     ],
     "correct_answers": [
-      0
+      3
     ],
     "topic": "Syllogism",
-    "explanation": "Teachers must be college graduates.\nNo college graduate is poor.\nAll poets are poor.\nTherefore poets cannot be teachers.\n\nSince some mathematicians are poets and poets cannot be teachers, some mathematicians are not teachers.\n\nFrom the given options, the valid conclusion is:\nSome teachers are not Mathematicians.\n\nHence the correct answer is option 1.",
+    "explanation": "Teachers must be college graduates. No college graduate is poor. All poets are poor. Therefore, poets cannot be teachers.\n\nSince some mathematicians are poets, and poets cannot be teachers, it follows that some mathematicians are not teachers.\n\nHence the correct answer is option 4.",
     "question_id": "nimcet_2025_rea_9",
     "exam_id": "nimcet",
     "tags": [
@@ -260,7 +260,7 @@
       2
     ],
     "topic": "Puzzle",
-    "explanation": "B is a male engineer and G is a teacher travelling together.\nD is a male doctor.\nA is not an engineer and travels with F.\nSince professions in the same vehicle cannot repeat, and C is already a doctor, F cannot be a doctor.\n\nBalancing the remaining professions according to all conditions shows that F must be an engineer.\n\nHence the correct answer is Engineer.",
+    "explanation": "B is a male engineer and travels only with G, a teacher, in Swift.\nD is a male doctor.\nC is a lady doctor and cannot travel with A and F.\nA and F travel together in the same vehicle, and A is not an engineer.\n\nSince the two doctors are already C and D, F cannot be a doctor.\nSince G is already a teacher in Swift, assigning F as teacher causes profession repetition constraints in vehicle arrangements.\n\nThus F must be an engineer.\n\nHence the correct answer is Engineer.",
     "question_id": "nimcet_2025_rea_10",
     "exam_id": "nimcet",
     "tags": [
@@ -422,7 +422,7 @@
       0
     ],
     "topic": "Clock and Time",
-    "explanation": "Each hour the monkey effectively gains:\n30 − 20 = 10 feet.\n\nHowever, when the monkey reaches the top during a climb, it does not slip back.\n\nAfter 9 hours, the monkey reaches 90 feet.\nAt 5 p.m. it climbs to 120 feet during the next climb.\n\nThus the monkey first touches 120 feet at 6 p.m.\n\nHence the correct answer is 6 p.m.",
+    "explanation": "The monkey climbs 30 feet every hour and slips back 20 feet before the next climb.\n\nThus, after each complete hour, the net gain is 10 feet.\n\nAfter 8 complete hours (by 4 p.m.), the monkey reaches 80 feet.\nAt 5 p.m., it climbs to 110 feet and slips back to 90 feet.\nAt 6 p.m., it climbs from 90 feet to 120 feet and touches the flag before slipping.\n\nHence the monkey first touches 120 feet at 6 p.m.",
     "question_id": "nimcet_2025_rea_16",
     "exam_id": "nimcet",
     "tags": [
@@ -476,7 +476,7 @@
       2
     ],
     "topic": "Work and Time",
-    "explanation": "1 man or 2 women can complete the work in 20 days.\nThus, 1 man = 2 women in efficiency.\n\nLet one man's work rate be 1/20.\nThen 2 women together also work at 1/20.\nSo 1 woman works at 1/40.\n\nWork rate of 3 men and 6 women:\n= 3 × (1/20) + 6 × (1/40)\n= 3/20 + 3/20\n= 6/20\n= 3/10 per day.\n\nTime required = 1 ÷ (3/10) = 10/3 ≈ 3.33 days.\nClosest option is 4 days.\n\nHence the correct answer is 4.",
+    "explanation": "1 man can complete the work in 20 days.\nSo 1 man's work rate = $\\frac{1}{20}$.\n\nSince 2 women can also complete the work in 20 days:\n2 women = 1 man.\nThus 1 woman’s work rate = $\\frac{1}{40}$.\n\nCombined work rate of 3 men and 6 women:\n$3 \\times \\frac{1}{20} + 6 \\times \\frac{1}{40}$\n$= \\frac{3}{20} + \\frac{3}{20}$\n$= \\frac{3}{10}$\n\nRequired time:\n$\\frac{1}{3/10} = \\frac{10}{3}$ days.\n\nThus the exact answer is $\\frac{10}{3}$ days, but no exact option is available in the question.",
     "question_id": "nimcet_2025_rea_18",
     "exam_id": "nimcet",
     "tags": [
@@ -553,11 +553,9 @@
       "9",
       "7"
     ],
-    "correct_answers": [
-      0
-    ],
+    "correct_answers": [],
     "topic": "Number Sequence",
-    "explanation": "Digits from 1 to 9 contribute:\n9 × 1 = 9 digits.\n\nDigits from 10 to 99 contribute:\n90 × 2 = 180 digits.\nTotal = 189 digits.\n\nRemaining digits = 2028 − 189 = 1839.\n\nThree-digit numbers contribute 3 digits each.\n1839 ÷ 3 = 613.\n\nThe 613th three-digit number starting from 100 is 712.\nThe required digit corresponds to the first digit of 712, which is 1.\n\nHence the correct answer is 1.",
+    "explanation": "Digits from 1 to 9 contribute:\n$9 \\times 1 = 9$ digits.\n\nDigits from 10 to 99 contribute:\n$90 \\times 2 = 180$ digits.\n\nTotal digits till 99:\n$9 + 180 = 189$.\n\nRemaining digits:\n$2028 - 189 = 1839$.\n\nEach three-digit number contributes 3 digits.\n$1839 \\div 3 = 613$.\n\nSo the 2028th digit is the last digit of the 613th three-digit number.\n\nThe 613th three-digit number starting from 100 is:\n$100 + 612 = 712$.\n\nThe last digit of 712 is 2.\n\nTherefore, the correct digit is 2, but this value is not present among the options.",
     "question_id": "nimcet_2025_rea_21",
     "exam_id": "nimcet",
     "tags": [
@@ -584,7 +582,7 @@
       3
     ],
     "topic": "Coding Decoding",
-    "explanation": "By observing the coding pattern used in REASON → TDDQSK and applying the same letter transformations to PRAYER, the resulting code becomes RQDWIO.\n\nHence the correct answer is RQDWIO.",
+    "explanation": "Observe the pattern in REASON → TDDQSK:\n\nR → T (+2)\nE → D (-1)\nA → D (+3)\nS → Q (-2)\nO → S (+4)\nN → K (-3)\n\nThe shifts alternate as +2, -1, +3, -2, +4, -3.\n\nApplying the same rule to PRAYER:\nP → R (+2)\nR → Q (-1)\nA → D (+3)\nY → W (-2)\nE → I (+4)\nR → O (-3)\n\nThus PRAYER is coded as RQDWIO.\n\nHence the correct answer is RQDWIO.",
     "question_id": "nimcet_2025_rea_22",
     "exam_id": "nimcet",
     "tags": [
@@ -638,7 +636,7 @@
       3
     ],
     "topic": "Truth and Lie",
-    "explanation": "Assume Y is telling the truth.\nThen exactly one person is a truth-teller.\nSince Y is truthful, X must be lying and Z must also be lying.\nThis is consistent.\n\nAssume Y is lying.\nThen the statement “Exactly one of us is a Truth-teller” is false.\nThis means either none or more than one are truth-tellers.\nDifferent valid cases are possible for Z.\n\nTherefore Z’s exact identity cannot be uniquely fixed.\nZ may be either truthful or a trickster.\n\nHence the correct answer is option 4.",
+    "explanation": "Assume Y is telling the truth.\nThen exactly one person is a truth-teller.\nSince Y is truthful, X must be lying and Z must also be lying.\nThis is consistent.\n\nAssume Y is lying.\nThen the statement “Exactly one of us is a Truth-teller” is false.\nThis allows multiple possibilities for Z.\n\nThus Z cannot be uniquely determined and may be either a Truth-teller or a Trickster.\n\nHence the correct answer is option 4.",
     "question_id": "nimcet_2025_rea_24",
     "exam_id": "nimcet",
     "tags": [
@@ -746,7 +744,7 @@
       2
     ],
     "topic": "Direction Sense",
-    "explanation": "Start at origin.\nMove 8 km north → (0, 8)\nTurn right and move 4 km east → (4, 8)\nTurn right and move 6 km south → (4, 2)\nTurn left from south direction means east, move 3 km → (7, 2)\n\nDistance from origin = √(7² + 2²)\n= √53\n≈ 7.28 km.\n\nAmong the given options, the closest answer is 7.62 km.\n\nHence the correct answer is 7.62 km.",
+    "explanation": "Start at origin.\nMove 8 km north → $(0, 8)$\nTurn right and move 4 km east → $(4, 8)$\nTurn right and move 6 km south → $(4, 2)$\nTurn left from south direction means east, move 3 km → $(7, 2)$\n\nDistance from origin:\n$\\sqrt{7^2 + 2^2} = \\sqrt{53} \\approx 7.28$ km.\n\nThus the exact distance is approximately 7.28 km, but no exact option is available.",
     "question_id": "nimcet_2025_rea_28",
     "exam_id": "nimcet",
     "tags": [
@@ -1016,7 +1014,7 @@
       0
     ],
     "topic": "Logical Analysis",
-    "explanation": "Counting the direct messages received:\n\nDr. Chirag receives:\n- Message from Dr. Anand\n- Reply-all message from Dr. Dinesh\n\nOther scientists receive fewer direct messages.\n\nHence Dr. Chirag receives the maximum number of messages.",
+    "explanation": "Count the direct messages received by each scientist.\n\n1. Dr. Anand sends a message to Dr. Beena and Dr. Chirag.\n2. Dr. Beena replies only to Dr. Anand.\n3. Dr. Anand sends a reminder to Dr. Chirag.\n4. Dr. Chirag sends a message to Dr. Dinesh and Dr. Elango.\n5. Dr. Dinesh replies-all to Dr. Chirag's message, so the reply goes to Dr. Chirag and Dr. Elango.\n6. Dr. Elango sends a message to Dr. Beena.\n\nNow count received messages:\n\nDr. Anand:\n- From Dr. Beena\nTotal = 1\n\nDr. Beena:\n- From Dr. Anand\n- From Dr. Elango\nTotal = 2\n\nDr. Chirag:\n- From Dr. Anand\n- Reminder from Dr. Anand\n- Reply-all from Dr. Dinesh\nTotal = 3\n\nDr. Dinesh:\n- From Dr. Chirag\nTotal = 1\n\nDr. Elango:\n- From Dr. Chirag\n- Reply-all from Dr. Dinesh\nTotal = 2\n\nTherefore, Dr. Chirag receives the maximum number of messages.\n\nHence the correct answer is Dr. Chirag.",
     "question_id": "nimcet_2025_rea_38",
     "exam_id": "nimcet",
     "tags": [
