@@ -377,10 +377,10 @@
       "11"
     ],
     "correct_answers": [
-      0
+      3
     ],
     "topic": "Puzzle",
-    "explanation": "To make every amount from ₹1 to ₹1074 using unopened bags, the optimal bag values must follow powers of 2.<br><br>Using bags containing:<br>$1, 2, 4, 8, 16, 32, 64, 128, 256, 512$<br>their sum is:<br>$1023$.<br><br>One additional bag of ₹51 is needed to reach ₹1074.<br><br>Total bags = 11.<br><br>However, with ₹51 added, not every value between ₹1024$ and ₹1074$ can be formed uniquely using the previous bags.<br><br>Therefore one more bag is necessary.<br><br>Minimum bags required = 12.<br><br>Hence option (a) is correct.",
+    "explanation": "This uses the binary (powers of 2) representation method to cover any amount with minimum bags.\n\nBags with powers of 2: ₹1, ₹2, ₹4, ₹8, ₹16, ₹32, ₹64, ₹128, ₹256, ₹512 → these 10 bags cover any amount from ₹1 to ₹1023.\n\nRemaining amount = 1074 - 1023 = ₹51, so the 11th bag = ₹51.\n\nFinal bags: ₹1, ₹2, ₹4, ₹8, ₹16, ₹32, ₹64, ₹128, ₹256, ₹512, ₹51.\n\nAny amount from ₹1–₹1023 is covered by the first 10 bags, and any amount from ₹52–₹1074 is covered by the ₹51 bag combined with the first 10 bags.\n\nMinimum number of bags required = 11.",
     "question_id": "nimcet_2009_rea_55",
     "exam_id": "nimcet",
     "tags": [
@@ -583,13 +583,13 @@
       "NIIDA",
       "IINDA",
       "INDIA",
-      "NIDAI"
+      "NIDIA"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "topic": "Permutation and Combination",
-    "explanation": "Arranging all permutations of INDIA in dictionary order and counting systematically gives the 58th word as INDIA. Hence option (c) is correct.",
+"explanation": "Letters of INDIA sorted alphabetically: A, D, I, I, N. Total unique permutations = 5!/2! = 60.\n\nStarting with A: 4!/2! = 12 words (1–12)\nStarting with D: 4!/2! = 12 words (13–24)\nStarting with I: 4!/1! = 24 words (25–48)\nStarting with N: 4!/2! = 12 words (49–60)\n\n58th word starts with N. Remaining letters: A, D, I, I.\n\nNA__: 3!/2! = 3 words (49–51)\nND__: 3!/2! = 3 words (52–54)\nNI__: 3!/1! = 6 words (55–60)\n\n58th word starts with NI. Remaining letters: A, D, I.\n\nNIA_: 2! = 2 words (55–56)\nNID_: 2! = 2 words (57–58)\n\n57th = NIDAI, 58th = NIDIA.\n\nFinal Answer: NIDIA.",
     "question_id": "nimcet_2009_rea_63",
     "exam_id": "nimcet",
     "tags": [
