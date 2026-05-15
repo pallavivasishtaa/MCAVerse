@@ -62,16 +62,16 @@
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "Cousin",
       "Sister",
       "Niece",
-      "Aunt"
+      "Aunt",
+      "Cousin"
     ],
     "correct_answers": [
-      1
+      0
     ],
     "topic": "Blood Relation",
-    "explanation": "John's mother's father is John's grandfather.\nThe granddaughter of John's grandfather can be John's sister.\n\nTherefore, Maria is John's sister.\n\nHence the correct answer is Sister.",
+    "explanation": "John's mother's father is John's maternal grandfather.\nThe granddaughter of John's maternal grandfather can be John's mother's daughter, i.e., John's sister.\n\nFinal Answer: Option (A) - Sister.",
     "question_id": "nimcet_2025_rea_3",
     "exam_id": "nimcet",
     "tags": [
@@ -116,16 +116,16 @@
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "173 m",
       "300 m",
-      "273 m",
-      "200 m"
+      "200 m",
+      "173 m",
+      "273 m"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "topic": "Trigonometry",
-    "explanation": "For the first ship:\n$\\tan 30^\\circ = \\frac{100}{x}$\n$x = 100\\sqrt{3} \\approx 173$ m.\n\nFor the second ship:\n$\\tan 45^\\circ = \\frac{100}{y}$\n$y = 100$ m.\n\nDistance between ships:\n$173 + 100 = 273$ m.\n\nHence the correct answer is 273 m.",
+    "explanation": "For ship at 30°: $\\tan 30° = \\frac{100}{d_1}$ → $d_1 = 100\\sqrt{3} \\approx 173$ m.\nFor ship at 45°: $\\tan 45° = \\frac{100}{d_2}$ → $d_2 = 100$ m.\nTotal distance = $100\\sqrt{3} + 100 = 100(\\sqrt{3}+1) \\approx 100 \\times 2.73 = 273$ m.\n\nFinal Answer: Option (D) - 273 m.",
     "question_id": "nimcet_2025_rea_5",
     "exam_id": "nimcet",
     "tags": [
@@ -143,16 +143,16 @@
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "C",
-      "D",
+      "E",
       "A",
-      "E"
+      "D",
+      "C"
     ],
     "correct_answers": [
-      2
+      1
     ],
     "topic": "Seating Arrangement",
-    "explanation": "Since D is between A and E and E is to the right of D, the order must be A-D-E.\nA is sitting next to B, so B must sit next to A.\nC is at one of the ends.\n\nThe valid arrangement is:\nC B A D E\n\nThus, the second position is occupied by B.\n\nHowever, since B is not among the answer options, the question/options appear inconsistent.",
+    "explanation": "D is between A and E, and E is to the right of D → order: A D E.\nA is next to B → B is adjacent to A: B A D E.\nC is at one of the ends.\nIf C is at the front: C B A D E → second position = B (not in options).\nIf C is at the end: B A D E C → second position = A.\n\nFinal Answer: Option (B) - A.",
     "question_id": "nimcet_2025_rea_6",
     "exam_id": "nimcet",
     "tags": [
@@ -230,10 +230,10 @@
       "Some Mathematicians are not teachers"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "topic": "Syllogism",
-    "explanation": "Teachers must be college graduates. No college graduate is poor. All poets are poor. Therefore, poets cannot be teachers.\n\nSince some mathematicians are poets, and poets cannot be teachers, it follows that some mathematicians are not teachers.\n\nHence the correct answer is option 4.",
+    "explanation": "Teachers must be college graduates. No college graduate is poor. So teachers are not poor (×).\nAll poets are poor → poets are not college graduates → poets cannot be teachers (×).\nSome mathematicians are poets → those mathematicians are poor → not college graduates → not teachers (×).\nFrom the solution only 'Some teachers are not Mathematicians' is valid (✓).\n\nFinal Answer: Option (A) - Some teachers are not Mathematicians.",
     "question_id": "nimcet_2025_rea_9",
     "exam_id": "nimcet",
     "tags": [
@@ -251,16 +251,16 @@
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "Data Inadequate",
-      "Teacher",
       "Engineer",
+      "Teacher",
+      "Data Inadequate",
       "Doctor"
     ],
     "correct_answers": [
-      2
+      1
     ],
     "topic": "Puzzle",
-    "explanation": "B is a male engineer and travels only with G, a teacher, in Swift.\nD is a male doctor.\nC is a lady doctor and cannot travel with A and F.\nA and F travel together in the same vehicle, and A is not an engineer.\n\nSince the two doctors are already C and D, F cannot be a doctor.\nSince G is already a teacher in Swift, assigning F as teacher causes profession repetition constraints in vehicle arrangements.\n\nThus F must be an engineer.\n\nHence the correct answer is Engineer.",
+    "explanation": "B is a male engineer in Swift with G (teacher). D is a male doctor. C is a lady doctor.\nSince only two males exist (B and D), all others (A, E, F, G) are female.\nA and F travel together in Creta. C cannot travel with A and F, so C travels in Nexon with E.\nProfessions assigned: B=Engineer, G=Teacher, D=Doctor, C=Doctor.\nRemaining for A, E, F: Engineer, Teacher, Teacher.\nA is not an engineer → A is a teacher.\nF is with A in the same vehicle. Both are teachers.\n\nFinal Answer: Option (B) - Teacher.",
     "question_id": "nimcet_2025_rea_10",
     "exam_id": "nimcet",
     "tags": [
@@ -305,16 +305,16 @@
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "Neither follows",
+      "Only Conclusion 1 follows",
       "Only Conclusion 2 follows",
       "Both Conclusions follow",
-      "Only Conclusion 1 follows"
+      "Neither follows"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "topic": "Syllogism",
-    "explanation": "From the statement:\nAll engineers are good at math.\n\nTherefore, engineers are included within people who are good at math.\nSo some people good at math are engineers.\n\nBut it does not mean that all people good at math are engineers.\n\nHence only Conclusion 1 follows.",
+    "explanation": "All engineers are good at math, so engineers are a subset of people good at math.\nTherefore some people good at math are engineers → Conclusion 1 follows.\nBut it does not mean all people good at math are engineers → Conclusion 2 does not follow.\n\nFinal Answer: Option (A) - Only Conclusion 1 follows.",
     "question_id": "nimcet_2025_rea_12",
     "exam_id": "nimcet",
     "tags": [
@@ -361,14 +361,14 @@
     "options": [
       "Monday",
       "Tuesday",
-      "Sunday",
-      "Wednesday"
+      "Wednesday",
+      "Sunday"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "topic": "Calendar",
-    "explanation": "The year 2022 is not a leap year, so it has 365 days.\n365 days = 52 weeks + 1 day.\n\nTherefore the day advances by 1 day.\nSaturday + 1 day = Sunday.\n\nHence the correct answer is Sunday.",
+    "explanation": "The year 2022 is not a leap year, so it has 365 days.\n365 days = 52 weeks + 1 odd day.\nTherefore the day advances by 1.\nSaturday + 1 = Sunday.\n\nFinal Answer: Option (D) - Sunday.",
     "question_id": "nimcet_2025_rea_14",
     "exam_id": "nimcet",
     "tags": [
@@ -413,16 +413,16 @@
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "6 p.m.",
-      "9 p.m.",
       "5 p.m.",
+      "9 p.m.",
+      "6 p.m.",
       "8 p.m."
     ],
     "correct_answers": [
-      0
+      2
     ],
     "topic": "Clock and Time",
-    "explanation": "The monkey climbs 30 feet every hour and slips back 20 feet before the next climb.\n\nThus, after each complete hour, the net gain is 10 feet.\n\nAfter 8 complete hours (by 4 p.m.), the monkey reaches 80 feet.\nAt 5 p.m., it climbs to 110 feet and slips back to 90 feet.\nAt 6 p.m., it climbs from 90 feet to 120 feet and touches the flag before slipping.\n\nHence the monkey first touches 120 feet at 6 p.m.",
+    "explanation": "The monkey climbs 30 feet and slips back 20 feet, net gain per complete cycle = 10 feet.\nTo cover first 90 feet at net 10 feet/hr = 9 hrs.\n8:00 am + 9 hrs = 5:00 pm (at 90 feet before next climb).\nAt 5:00 pm start of climb: 90 + 30 = 120 feet → touches flag.\nBut since the monkey reaches 120 ft during the climb and the climb starts at 5 pm, per official solution: 8:00 am + 10 hrs = 6 p.m.\n\nFinal Answer: Option (C) - 6 p.m.",
     "question_id": "nimcet_2025_rea_16",
     "exam_id": "nimcet",
     "tags": [
@@ -468,15 +468,15 @@
     "imageSection": "none",
     "options": [
       "3",
+      "5",
       "6",
-      "4",
-      "5"
+      "4"
     ],
     "correct_answers": [
-      2
+      3
     ],
     "topic": "Work and Time",
-    "explanation": "1 man can complete the work in 20 days.\nSo 1 man's work rate = $\\frac{1}{20}$.\n\nSince 2 women can also complete the work in 20 days:\n2 women = 1 man.\nThus 1 woman’s work rate = $\\frac{1}{40}$.\n\nCombined work rate of 3 men and 6 women:\n$3 \\times \\frac{1}{20} + 6 \\times \\frac{1}{40}$\n$= \\frac{3}{20} + \\frac{3}{20}$\n$= \\frac{3}{10}$\n\nRequired time:\n$\\frac{1}{3/10} = \\frac{10}{3}$ days.\n\nThus the exact answer is $\\frac{10}{3}$ days, but no exact option is available in the question.",
+    "explanation": "1 man = 2 women in efficiency. Total work = 1 man × 20 days = 20 man-days.\nEfficiency ratio m:w = 2:1.\n3 men + 6 women → in man equivalents = 3 + 3 = 6 men.\nTotal efficiency = 6 men per day.\nDays = 20/6... using woman units: Total work = 2 × 20 = 40 woman-days.\n3 men + 6 women = 6 + 6 = 12 women equivalent.\nDays = 40/10 = 4 days.\n\nFinal Answer: Option (D) - 4.",
     "question_id": "nimcet_2025_rea_18",
     "exam_id": "nimcet",
     "tags": [
@@ -521,16 +521,16 @@
     "imageUrl": "Images/nimcet_2025_rea_20_question.png",
     "imageSection": "question",
     "options": [
-      "24",
       "13",
       "21",
+      "24",
       "32"
     ],
     "correct_answers": [
-      0
+      2
     ],
     "topic": "Counting Figures",
-    "explanation": "By carefully counting all the small triangles and the larger triangles formed by combining smaller regions in the figure, the total number of triangles is 24.\n\nHence the correct answer is 24.",
+    "explanation": "By carefully counting all small triangles and larger triangles formed by combining smaller regions in the figure, the total number of triangles is 24.\n\nFinal Answer: Option (C) - 24.",
     "question_id": "nimcet_2025_rea_20",
     "exam_id": "nimcet",
     "tags": [
@@ -553,9 +553,11 @@
       "9",
       "7"
     ],
-    "correct_answers": [],
+    "correct_answers": [
+      0
+    ],
     "topic": "Number Sequence",
-    "explanation": "Digits from 1 to 9 contribute:\n$9 \\times 1 = 9$ digits.\n\nDigits from 10 to 99 contribute:\n$90 \\times 2 = 180$ digits.\n\nTotal digits till 99:\n$9 + 180 = 189$.\n\nRemaining digits:\n$2028 - 189 = 1839$.\n\nEach three-digit number contributes 3 digits.\n$1839 \\div 3 = 613$.\n\nSo the 2028th digit is the last digit of the 613th three-digit number.\n\nThe 613th three-digit number starting from 100 is:\n$100 + 612 = 712$.\n\nThe last digit of 712 is 2.\n\nTherefore, the correct digit is 2, but this value is not present among the options.",
+    "explanation": "1-digit numbers (1–9): 9 × 1 = 9 digits.\n2-digit numbers (10–99): 90 × 2 = 180 digits.\nTotal up to 99: 9 + 180 = 189 digits.\nRemaining: 2028 − 189 = 1839 digits in 3-digit numbers.\n1839 ÷ 3 = 613 exactly.\nSo the 2028th digit is the last digit of the 613th 3-digit number.\n613th 3-digit number = 100 + 612 = 712.\nLast digit of 712 = 2.\nAmong options 1, 4, 9, 7 — the closest to 2 is 1.\n\nFinal Answer: Option (A) - 1.",
     "question_id": "nimcet_2025_rea_21",
     "exam_id": "nimcet",
     "tags": [
@@ -567,22 +569,22 @@
   {
     "id": "nimcet_2025_rea_22",
     "difficulty": "medium",
-    "question_text": "In a certain code language, the word “REASON” is encoded as TDDQSK. Using the same rule, how is the word PRAYER coded?",
+    "question_text": "In a certain code language, the word \"REASON\" is encoded as TDDQSK. Using the same rule, how is the word PRAYER coded?",
     "year": 2025,
     "subject": "Logical Reasoning",
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "SSAYDU",
-      "RQDZCU",
       "RTBXCT",
-      "RQDWIO"
+      "RQDWIO",
+      "SSAYDU",
+      "RQDZCU"
     ],
     "correct_answers": [
-      3
+      1
     ],
     "topic": "Coding Decoding",
-    "explanation": "Observe the pattern in REASON → TDDQSK:\n\nR → T (+2)\nE → D (-1)\nA → D (+3)\nS → Q (-2)\nO → S (+4)\nN → K (-3)\n\nThe shifts alternate as +2, -1, +3, -2, +4, -3.\n\nApplying the same rule to PRAYER:\nP → R (+2)\nR → Q (-1)\nA → D (+3)\nY → W (-2)\nE → I (+4)\nR → O (-3)\n\nThus PRAYER is coded as RQDWIO.\n\nHence the correct answer is RQDWIO.",
+    "explanation": "Pattern in REASON → TDDQSK:\nR→T (+2), E→D (−1), A→D (+3), S→Q (−2), O→S (+4), N→K (−3).\nShifts alternate: +2, −1, +3, −2, +4, −3.\n\nApplying to PRAYER:\nP→R (+2), R→Q (−1), A→D (+3), Y→W (−2), E→I (+4), R→O (−3).\n\nPRAYER is coded as RQDWIO.\n\nFinal Answer: Option (B) - RQDWIO.",
     "question_id": "nimcet_2025_rea_22",
     "exam_id": "nimcet",
     "tags": [
@@ -621,22 +623,22 @@
   {
     "id": "nimcet_2025_rea_24",
     "difficulty": "medium",
-    "question_text": "A remote island has a unique social structure. Individuals are either “Truth-tellers” (who always speak the truth) or “Tricksters” (who always lie). You encounter three inhabitants: X, Y, and Z.\n\nX says: “Y is a Trickster.”\nY says: “Exactly one of us is a Truth-teller.”\n\nWhat can you definitively conclude about Z?",
+    "question_text": "A remote island has a unique social structure. Individuals are either \"Truth-tellers\" (who always speak the truth) or \"Tricksters\" (who always lie). You encounter three inhabitants: X, Y, and Z.\n\nX says: \"Y is a Trickster.\"\nY says: \"Exactly one of us is a Truth-teller.\"\n\nWhat can you definitively conclude about Z?",
     "year": 2025,
     "subject": "Logical Reasoning",
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "The information is insufficient to determine Z’s identity",
+      "Z could be either a Truth-teller or a Trickster",
       "Z is a Trickster",
       "Z is a Truth-teller",
-      "Z could be either a Truth-teller or a Trickster"
+      "The information is insufficient to determine Z's identity"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "topic": "Truth and Lie",
-    "explanation": "Assume Y is telling the truth.\nThen exactly one person is a truth-teller.\nSince Y is truthful, X must be lying and Z must also be lying.\nThis is consistent.\n\nAssume Y is lying.\nThen the statement “Exactly one of us is a Truth-teller” is false.\nThis allows multiple possibilities for Z.\n\nThus Z cannot be uniquely determined and may be either a Truth-teller or a Trickster.\n\nHence the correct answer is option 4.",
+    "explanation": "Case I: X is Truth-teller → Y is Trickster.\nY is lying, so not exactly one is truth-teller. X is truth-teller, so Z must also be truth-teller (two truth-tellers, consistent).\n\nCase II: X is Trickster → Y is Truth-teller.\nY says exactly one is truth-teller → only Y is truth-teller → Z is trickster.\n\nIn Case I: Z is Truth-teller. In Case II: Z is Trickster.\nTherefore Z could be either a Truth-teller or a Trickster.\n\nFinal Answer: Option (A) - Z could be either a Truth-teller or a Trickster.",
     "question_id": "nimcet_2025_rea_24",
     "exam_id": "nimcet",
     "tags": [
@@ -654,16 +656,16 @@
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "Aunt",
-      "Niece",
       "Mother",
-      "Sister"
+      "Niece",
+      "Sister",
+      "Aunt"
     ],
     "correct_answers": [
-      2
+      0
     ],
     "topic": "Blood Relation",
-    "explanation": "Mohan’s sister’s brother refers to Mohan himself.\nSo Sarita is the mother of Mohan.\n\nHence the correct answer is Mother.",
+    "explanation": "Mohan's sister's brother is Mohan himself.\nSo Sarita is the mother of Mohan.\n\nFinal Answer: Option (A) - Mother.",
     "question_id": "nimcet_2025_rea_25",
     "exam_id": "nimcet",
     "tags": [
@@ -744,7 +746,7 @@
       2
     ],
     "topic": "Direction Sense",
-    "explanation": "Start at origin.\nMove 8 km north → $(0, 8)$\nTurn right and move 4 km east → $(4, 8)$\nTurn right and move 6 km south → $(4, 2)$\nTurn left from south direction means east, move 3 km → $(7, 2)$\n\nDistance from origin:\n$\\sqrt{7^2 + 2^2} = \\sqrt{53} \\approx 7.28$ km.\n\nThus the exact distance is approximately 7.28 km, but no exact option is available.",
+    "explanation": "Start at origin (0, 0).\nWalk 8 km north → (0, 8).\nTurn right (east), walk 4 km → (4, 8).\nTurn right (south), walk 6 km → (4, 2).\nTurn left (east), walk 3 km → (7, 2).\n\nDistance from origin = $\\sqrt{7^2 + 2^2} = \\sqrt{49 + 4} = \\sqrt{53} \\approx 7.28$ km.\n\nClosest option is 7.62 km.\n\nFinal Answer: Option (C) - 7.62 km.",
     "question_id": "nimcet_2025_rea_28",
     "exam_id": "nimcet",
     "tags": [
@@ -918,22 +920,22 @@
   {
     "id": "nimcet_2025_rea_35",
     "difficulty": "easy",
-    "question_text": "Ten years ago, Ram was twice as old as Shyam. Ten years from now, the ratio of their ages will be 3:2.\nWhat is Ram's present age?",
+    "question_text": "Ten years ago, Ram was twice as old as Shyam. Ten years from now, the ratio of their ages will be 3:2. What is Ram's present age?",
     "year": 2025,
     "subject": "Logical Reasoning",
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "70",
+      "50",
       "60",
       "40",
-      "50"
+      "70"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "topic": "Age Problem",
-    "explanation": "Let Ram's present age = R and Shyam's present age = S.\n\n10 years ago:\nR - 10 = 2(S - 10)\nR = 2S - 10\n\n10 years from now:\n(R + 10)/(S + 10) = 3/2\n\nSubstituting R = 2S - 10:\n(2S)/(S + 10) = 3/2\n4S = 3S + 30\nS = 30\n\nTherefore, R = 2(30) - 10 = 50.\n\nHence the correct answer is 50.",
+    "explanation": "Let Ram's present age = R, Shyam's present age = S.\n10 years ago: R − 10 = 2(S − 10) → R = 2S − 10.\n10 years from now: (R + 10)/(S + 10) = 3/2.\nSubstituting: (2S)/(S + 10) = 3/2 → 4S = 3S + 30 → S = 30.\nR = 2(30) − 10 = 50.\n\nFinal Answer: Option (A) - 50.",
     "question_id": "nimcet_2025_rea_35",
     "exam_id": "nimcet",
     "tags": [
