@@ -1,0 +1,23 @@
+{
+  "name": "mcaverse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallavivasishtaa/MCAVerse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallavivasishtaa/MCAVerse/issues"
+  },
+  "homepage": "https://github.com/pallavivasishtaa/MCAVerse#readme",
+  "description": "",
+  "dependencies": {
+    "katex": "^0.16.45"
+  }
+}
