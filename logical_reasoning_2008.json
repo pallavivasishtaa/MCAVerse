@@ -1205,7 +1205,7 @@
       1
     ],
     "topic": "Blood Relation",
-    "explanation": "For K to be nephew of M, K must be male and the son of a sibling of M.\n\nAnalysing option (B): K @ L & N ε O & M\n\n- K @ L means K is brother of L (K is male).\n- L & N means L is father of N.\n- N ε O means N is sister of O.\n- O & M means O is father of M.\n\nChain: K is sibling of L. L is parent of N and O. O is parent of M. So K is a sibling of L who is the grandparent of M, making K a grand-uncle of M.\n\nAnalysing option (D): M @ N & L @ K & O\n\n- M @ N means M is brother of N (M is male; M and N are siblings).\n- N & L means N is father of L.\n- L @ K means L is brother of K (L and K are siblings).\n- K & O means K is father of O.\n\nHere K is a child of N (since L and K are siblings and N is father of L). M is a sibling of N. So K is a child of M's sibling N, making K a nephew of M. Option (D) logically fits the definition.\n\nNote: The official answer key marks option (B). Based on the definitions given, option (D) is the logically correct answer. This appears to be an error in the original paper.\n\nFinal Answer per official key: Option (B).",
+    "explanation": "For K to be nephew of M, K must be male and the son of a sibling of M.\n\nAnalysing option (D): M @ N & L @ K & O\n\n- M @ N means M is brother of N (M and N are siblings).\n- N & L means N is father of L.\n- L @ K means L is brother of K (L and K are siblings, so N is father of K too; K is male).\n- K & O means K is father of O.\n\nSince N is father of both L and K, and M is brother of N, K is the son of M's sibling N. Therefore K is the nephew of M.\n\nFinal Answer: Option (D).",
     "question_id": "nimcet_2008_rea_85",
     "exam_id": "nimcet",
     "tags": [
