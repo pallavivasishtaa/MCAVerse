@@ -1,0 +1,1082 @@
+[
+    {
+        "id": "nimcet_2016_lr_1",
+        "difficulty": "medium",
+        "question_text": "Question 1 and 2 are based on the following:\nA boy is asked to put in a basket one orange when ordered '1', take out one mango when ordered '2', put in one mango when ordered '3' and take out one mango and one orange when ordered '4'. A sequence of orders is given as 12332142314223314112334.\n\nHow many total fruits will be in the basket at the end of the above sequence?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "9",
+            "8",
+            "11",
+            "10"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "Counting operations gives oranges = 6 − 4 = 2 and mangoes = 7 − 5 − 4 = -2. A negative number of mangoes is impossible, which means the sequence requires removing mangoes even when none may exist. Therefore the problem is logically inconsistent and no valid final fruit count can be determined from the given information.",
+        "question_id": "nimcet_2016_lr_1",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_2",
+        "difficulty": "medium",
+        "question_text": "Question 1 and 2 are based on the following:\nA boy is asked to put in a basket one orange when ordered '1', take out one mango when ordered '2', put in one mango when ordered '3' and take out one mango and one orange when ordered '4'. A sequence of orders is given as 12332142314223314112334.\n\nHow many oranges will be in the basket at the end of the above sequence?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "1",
+            "4",
+            "3",
+            "2"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "Order '1' adds one orange and order '4' removes one orange.\nIn the sequence, '1' occurs 6 times and '4' occurs 4 times.\nTherefore oranges remaining = 6 − 4 = 2.",
+        "question_id": "nimcet_2016_lr_2",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_3",
+        "difficulty": "hard",
+        "question_text": "Question 3 to 6 are based on the following:\nEight friends J, K, L, M, N, O, P and Q live on eight different floors of a building but not necessarily in same order. The lowermost floor is numbered one, the above that numbered two and so on until the top most floor is numbered eight.\n• J lives on floor numbered six.\n• Only one person lives between Q and L.\n• Only one person lives between O and P.\n• O lives above P.\n• K lives on an even numbered floor but not on the floor numbered two.\n• Q does not live on the lower most floor.\n• N lives on one of the floor above Q.\n\nIf P and L interchange their places, who will be between P and M?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "O",
+            "L",
+            "J",
+            "None of these"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Seating Arrangement",
+        "explanation": "Using the arrangement 1-P, 2-M, 3-O, 4-Q, 5-L, 6-J, 7-N, 8-K, after interchanging P and L, P moves to floor 5 and M remains on floor 2. Both O and Q lie between them, so no single person is between P and M. Hence the correct answer is 'None of these'.",
+        "question_id": "nimcet_2016_lr_3",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "seating-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_4",
+        "difficulty": "hard",
+        "question_text": "Question 3 to 6 are based on the following:\nEight friends J, K, L, M, N, O, P and Q live on eight different floors of a building but not necessarily in the same order. The lowermost floor is numbered one, the above that numbered two and so on until the topmost floor is numbered eight.\n• J lives on floor numbered six.\n• Only one person lives between Q and L.\n• Only one person lives between O and P.\n• O lives above P.\n• K lives on an even numbered floor but not on floor numbered two.\n• Q does not live on the lowermost floor.\n• N lives on one of the floors above Q.\n\nWhich of the following is true about M?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "K lives immediately above M.",
+            "Only two people live between M and Q.",
+            "M lives on an odd numbered floor.",
+            "M lives on the lowermost floor."
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Seating Arrangement",
+        "explanation": "Using the arrangement 1-P, 2-M, 3-O, 4-Q, 5-L, 6-J, 7-N, 8-K, there are exactly two people between M and Q. Hence the correct statement is 'Only two people live between M and Q.'",
+        "question_id": "nimcet_2016_lr_4",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "seating-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_5",
+        "difficulty": "hard",
+        "question_text": "Question 3 to 6 are based on the following:\nEight friends J, K, L, M, N, O, P and Q live on eight different floors of a building but not necessarily in same order. The lowermost floor is numbered one, the above that numbered two and so on until the top most floor is numbered eight.\n• J lives on floor numbered six.\n• Only one person lives between Q and L.\n• Only one person lives between O and P.\n• O lives above P.\n• K lives on an even numbered floor but not on the floor numbered two.\n• Q does not live on the lower most floor.\n• N lives on one of the floor above Q.\nWho amongst the following lives on the floor numbered eight?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "P",
+            "O",
+            "K",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Seating Arrangement",
+        "explanation": "From the arrangement satisfying all conditions: 1-P, 2-M, 3-O, 4-Q, 5-L, 6-J, 7-N, 8-K. Therefore K lives on floor numbered 8.",
+        "question_id": "nimcet_2016_lr_5",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "seating-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_6",
+        "difficulty": "hard",
+        "question_text": "Question 3 to 6 are based on the following:\nEight friends J, K, L, M, N, O, P and Q live on eight different floors of a building but not necessarily in the same order. The lowermost floor is numbered one, the above that numbered two and so on until the topmost floor is numbered eight.\n• J lives on floor numbered six.\n• Only one person lives between Q and L.\n• Only one person lives between O and P.\n• O lives above P.\n• K lives on an even numbered floor but not on floor numbered two.\n• Q does not live on the lowermost floor.\n• N lives on one of the floors above Q.\n\nThree of the following four are alike in a certain way based on the given arrangement and thus form a group. Which of the following does not belong to the group?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "PL",
+            "MQ",
+            "LN",
+            "OM"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Seating Arrangement",
+        "explanation": "Using the arrangement 1-P, 2-M, 3-O, 4-Q, 5-L, 6-J, 7-N, 8-K:\nMQ, LN and OM each have exactly one person between them.\nPL has three people between them.\nHence PL does not belong to the group.",
+        "question_id": "nimcet_2016_lr_6",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "seating-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_7",
+        "difficulty": "hard",
+        "question_text": "Question from 7 to 9 are based on the following:\nA team must be selected from the ten probable players A, B, C, D, E, F, G, H, I and J. Of these A, C, E and J are forwards, B, G and H are point guards and D, F and I are defenders.\n• The team must have at least one forward, one point guard and one defender.\n• If the team includes J, it must also include F.\n• The team must include E or B, but not both.\n• If the team includes G, it must also include F.\n• The team must include exactly one among C, G and I.\n• C and F cannot be members of the same team.\n• D and H cannot be members of the same team.\n• The team must include both A and D or neither of them.\n• There is no restriction on the number of members in the team.\n\nWhat would be the size of the largest possible team?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "To maximize the team size, select I from {C, G, I}, excluding C and G. Choose E, excluding B. Include A and D together. Since D is included, H cannot be selected. Include F and J because J requires F. The resulting valid team is {A, D, E, F, I, J}. No additional player can be added without violating at least one condition. Hence the maximum possible team size is 6.",
+        "question_id": "nimcet_2016_lr_7",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_8",
+        "difficulty": "hard",
+        "question_text": "Question from 7 to 9 are based on the following:\nA team must be selected from the ten probable players A, B, C, D, E, F, G, H, I and J. Of these A, C, E and J are forwards, B, G and H are point guards and D, F and I are defenders.\n• The team must have at least one forward, one point guard and one defender.\n• If the team includes J, it must also include F.\n• The team must include E or B, but not both.\n• If the team includes G, it must also include F.\n• The team must include exactly one among C, G and I.\n• C and F cannot be members of the same team.\n• D and H cannot be members of the same team.\n• The team must include both A and D or neither of them.\n• There is no restriction on the number of members in the team.\n\nWhich of the following cannot be included in a team of size 6?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "A",
+            "H",
+            "J",
+            "E"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "Valid teams of size 6 can be formed containing A, J and E. However, the given conditions are insufficient to conclusively prove whether H can or cannot belong to a valid team of size 6 under all possible constructions. Therefore no option can be uniquely identified as impossible. Hence the question is ambiguous.",
+        "question_id": "nimcet_2016_lr_8",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_9",
+        "difficulty": "hard",
+        "question_text": "Question from 7 to 9 are based on the following:\nA team must be selected from the ten probable players A, B, C, D, E, F, G, H, I and J. Of these A, C, E and J are forwards, B, G and H are point guards and D, F and I are defenders.\n• The team must have at least one forward, one point guard and one defender.\n• If the team includes J, it must also include F.\n• The team must include E or B, but not both.\n• If the team includes G, it must also include F.\n• The team must include exactly one among C, G and I.\n• C and F cannot be members of the same team.\n• D and H cannot be members of the same team.\n• The team must include both A and D or neither of them.\n• There is no restriction on the number of members in the team.\n\nWhat could be the maximum size of the team that includes G?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "more than 6"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "If G is included, then F must also be included. Since exactly one among C, G and I must be selected, C and I are excluded. Choose B instead of E. Include A and D together, which excludes H. Since F is already included, J can also be included. A valid team is {A, B, D, F, G, J}. Hence the maximum possible team size is 6.",
+        "question_id": "nimcet_2016_lr_9",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_10",
+        "difficulty": "easy",
+        "question_text": "A family has several children. Each boy in this family has as many sisters as brothers but each girls has twice as many brothers as sister. How many brothers and sisters are there?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "1 and 2",
+            "3 and 4",
+            "6 and 3",
+            "4 and 3"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "Let the number of boys be b and girls be g.\nFor each boy: g = b - 1.\nFor each girl: b = 2(g - 1).\nSubstituting g = b - 1 into the second equation:\nb = 2(b - 2)\n=> b = 4 and g = 3.\nThus there are 4 brothers and 3 sisters.",
+        "question_id": "nimcet_2016_lr_10",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_11",
+        "difficulty": "medium",
+        "question_text": "In a certain code language 134 means 'good and tasty' 478 means 'see good picture' and 729 means 'picture are faint'. Which of the following numerical numbers stand for see ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "2",
+            "7",
+            "8",
+            "1"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Coding-Decoding",
+        "explanation": "The common word between '478' and '729' is 'picture', so the common digit 7 represents 'picture'. In '478', the remaining words are 'see' and 'good'. Since 'good' appears in '134' and '478', digit 4 represents 'good'. Therefore digit 8 represents 'see'.",
+        "question_id": "nimcet_2016_lr_11",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "coding-decoding"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_12",
+        "difficulty": "medium",
+        "question_text": "If the English word EXAMINATION is coded as 56149512965, then word GOVERNMENT can be coded as;",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "7655955552",
+            "7644954452",
+            "7645954552",
+            "7644956552"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Coding-Decoding",
+        "explanation": "Each letter is replaced by the sum of digits of its alphabetical position.\nE=5, X=24→6, A=1, M=13→4, I=9, N=14→5, T=20→2, O=15→6.\nThus GOVERNMENT becomes:\nG=7, O=6, V=22→4, E=5, R=18→9, N=5, M=4, E=5, N=5, T=2\n=> 7645954552.",
+        "question_id": "nimcet_2016_lr_12",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "coding-decoding"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_13",
+        "difficulty": "medium",
+        "question_text": "Fact1 : Most stuffed toys are stuffed with beans.\nFact2 : There are stuffed bears and stuffed tigers.\nFact3 : Some chairs are stuffed with beans.\nIf the above statement are fact, which of the following statements, must also be fact ?\n1. Only children's chairs are stuffed with beans.\n2. All stuffed tigers are stuffed with beans.\n3. Stuffed monkeys are not stuffed with beans.",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "1 is fact",
+            "Only 2 is fact",
+            "Both 2 and 3 are facts",
+            "None of the statements 1, 2, 3 are true"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Syllogism",
+        "explanation": "None of the three conclusions necessarily follows from the given facts. 'Most stuffed toys' does not imply all stuffed tigers use beans. No information is given about children's chairs or stuffed monkeys. Therefore none of the statements must be true.",
+        "question_id": "nimcet_2016_lr_13",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "syllogism"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_14",
+        "difficulty": "medium",
+        "question_text": "If all the 6's are replaced by 9's, then the algebraic sum of all the numbers from 1 to 100 (both inclusive) varies by;",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "333",
+            "300",
+            "279",
+            "330"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Number System",
+        "explanation": "Each occurrence of digit 6 replaced by 9 increases the number by 3. From 1 to 100, digit 6 appears 20 times: 10 times in the units place and 10 times in the tens place. Therefore the total increase is 20 × 3 = 60. No option matches the correct answer.",
+        "question_id": "nimcet_2016_lr_14",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "number-system"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_15",
+        "difficulty": "easy",
+        "question_text": "405 sweets were distributed equally among a group of children such that the number of sweet received by each child is one fifth of the number of children in the group. The number of children in the group is;",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "45",
+            "9",
+            "21",
+            "15"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Arithmetic",
+        "explanation": "Let the number of children be n.\nEach child receives n/5 sweets.\nTotal sweets = n × n/5 = 405.\nSo n² = 2025.\nHence n = 45.",
+        "question_id": "nimcet_2016_lr_15",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "arithmetic"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_16",
+        "difficulty": "medium",
+        "question_text": "The number of common terms in the two sequence 17, 21, 25, ..... 817 and 16, 21, 26, ..... 851 is;",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "28",
+            "39",
+            "40",
+            "87"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Sequence and Series",
+        "explanation": "First sequence: 17, 21, 25, ... is an AP with common difference 4. Second sequence: 16, 21, 26, ... is an AP with common difference 5. Common terms satisfy 17 + 4m = 16 + 5n, so 1 + 4m = 5n. Hence common terms form the sequence 21, 41, 61, ... with common difference 20. Number of common terms from 21 to 801 is ((801 − 21) / 20) + 1 = 40.",
+        "question_id": "nimcet_2016_lr_16",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "sequence-and-series"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_17",
+        "difficulty": "easy",
+        "question_text": "Unscramble the letter in the following words and find the odd one.\n(a) ONGEAR\n(b) NOONI\n(c) ALPEP\n(d) AUVAG",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "ORANGE",
+            "ONION",
+            "APPLE",
+            "GUAVA"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Classification",
+        "explanation": "ONGEAR = ORANGE, ALPEP = APPLE and AUVAG = GUAVA are fruits. NOONI = ONION is a vegetable. Hence ONION is the odd one out.",
+        "question_id": "nimcet_2016_lr_17",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "classification"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_18",
+        "difficulty": "medium",
+        "question_text": "A bus starts from depot filled to seating capacity. It stops at point A where 1/6th of the passengers alight and 10 board the bus. At point B, 1/5th of the passengers alight and 3 boards the bus. At point C which is the last stop, all the 55 passengers alight. The capacity of the bus is;",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "96",
+            "99",
+            "66",
+            "90"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Arithmetic",
+        "explanation": "Let the seating capacity be x. After stop A, passengers = 5x/6 + 10. After stop B, passengers = (4/5)(5x/6 + 10) + 3 = 2x/3 + 11. Since 55 passengers alight at the final stop, 2x/3 + 11 = 55. Hence x = 66.",
+        "question_id": "nimcet_2016_lr_18",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "arithmetic"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_19",
+        "difficulty": "medium",
+        "question_text": "Kha-kha is an obscure island which is inhabited by two types of people, the 'Yes' type and the 'No' type. Native of type 'Yes' ask only questions the right answer to which is 'Yes' while those of type 'No' ask only questions the right answer to which is 'No'. For example the 'Yes' type will ask questions like 'is 2 plus 2 equal to 4?' While the 'No' type will ask question like 'is 2 plus 2 equal to 5 ?' The following question is based on your visit to the island Kha-kha.\nKevin and Kumar are brothers from the island, Kumar asks you, Is at least one of us is of type 'No'? You conclude that;",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Kevin is 'No' Kumar is 'Yes'",
+            "Both are 'Yes'",
+            "Kevin is 'Yes' Kumar is 'No'",
+            "Both are 'No'"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Logical Deduction",
+        "explanation": "Kumar asks: 'Is at least one of us of type No?' If Kumar were a 'Yes' type, the statement must be true, so at least one is 'No'. Since Kumar himself is 'Yes', Kevin must be 'No'. If Kumar were 'No' type, then the statement asked must have answer 'No', implying neither is 'No', which contradicts Kumar being 'No'. Therefore Kumar is 'Yes' and Kevin is 'No'.",
+        "question_id": "nimcet_2016_lr_19",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "logical-deduction"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_20",
+        "difficulty": "medium",
+        "question_text": "Raman was born on March 5, 1970 Lakshman was born 25 days before Raman. The year when they took birth, the Republic Day fell on Monday. What is the day of birth of Lakshman.",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Sunday",
+            "Monday",
+            "Wednesday",
+            "Saturday"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Calendar",
+        "explanation": "Republic Day on 26 January 1970 was Monday. Lakshman was born 25 days before 5 March 1970, i.e. on 8 February 1970. Since 8 February is 13 days after 26 January, the day of birth was Sunday.",
+        "question_id": "nimcet_2016_lr_20",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "calendar"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_21",
+        "difficulty": "medium",
+        "question_text": "P, Q, R and S are four logical statements such that if P is true, then Q is true, then R is true, and if S is true, then at least one of Q and R is false. The following is true",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "if S is false, then both Q and R true",
+            "if at least one of Q and R is true, then S is false",
+            "if P is true, then S is false",
+            "if Q is true, then S is true"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Logical Deduction",
+        "explanation": "Given: P → Q, Q → R, and S → (Q or R is false). If P is true, then Q and R are both true. Since S implies at least one of Q or R is false, S cannot be true when both Q and R are true. Hence if P is true, then S is false.",
+        "question_id": "nimcet_2016_lr_21",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "logical-deduction"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_22",
+        "difficulty": "hard",
+        "question_text": "A, B, C, D, E, F and G are members of a family consisting of four adults, three children, three males and four female. Out of the children F and G are girls. A and D are brothers and A is a doctor, E is an engineer married to one of the brothers and has two children. B is married to D and G is their child. Who is C ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "E's daughter",
+            "A's son",
+            "C's brother",
+            "F's father"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Blood Relations",
+        "explanation": "F and G are girls and children. E is married to one of the brothers and has two children. Since B is married to D and G is their child, E must be married to A. Thus E's two children are C and F. Since there are only three males and A, D and E are already adults, C must be male. Therefore C is A's son.",
+        "question_id": "nimcet_2016_lr_22",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "blood-relations"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_23",
+        "difficulty": "medium",
+        "question_text": "A clock is set right at 5 a.m. The clock loses 16 minutes in 24 hours. What will be the correct time when the clock indicates 1:00 p.m. on the 3rd day?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "11 pm",
+            "10:45 pm",
+            "11:15 pm",
+            "12 pm"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Clock",
+        "explanation": "The clock loses 16 minutes every 24 hours. Therefore 1424 minutes shown by the clock correspond to 1440 real minutes.\nFrom 5 a.m. on day 1 to 1 p.m. on day 3, the faulty clock shows 56 hours.\nActual elapsed time = 56 × (1440 / 1424) ≈ 56 hours 38 minutes.\nAdding 56 hours 38 minutes to 5 a.m. gives approximately 1:38 p.m. on the 3rd day.\nSince no option matches the correct result, the question is flawed.",
+        "question_id": "nimcet_2016_lr_23",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "clock"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_24",
+        "difficulty": "easy",
+        "question_text": "The day after the day after tomorrow is four days after Monday. What day is it today ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Calendar",
+        "explanation": "Four days after Monday is Friday. The day after the day after tomorrow means today + 3 days. So today + 3 = Friday. Therefore today is Tuesday.",
+        "question_id": "nimcet_2016_lr_24",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "calendar"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_25",
+        "difficulty": "hard",
+        "question_text": "Question from 25 to 27 are based on the following:\n• There are six houses P, Q, R, S, T and U, three on either side of a road.\n• The houses are of different colours- red, blue, green, orange, yellow and white.\n• All the houses are of different heights.\n• T, the tallest house is exactly opposite to the coloured house.\n• The shortest house is exactly opposite to the green coloured house.\n• U, the orange coloured house is located between P and S.\n• R the yellow coloured house is exactly opposite to P.\n• Q, the green coloured house is exactly opposite to U.\n• The white coloured house is taller than R, but shorter than S and Q.\n\nWhich is the second largest house ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Q",
+            "R",
+            "S",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "The given conditions do not uniquely determine the complete height arrangement of the houses. Therefore the second largest house cannot be determined uniquely.",
+        "question_id": "nimcet_2016_lr_25",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_26",
+        "difficulty": "hard",
+        "question_text": "Question from 25 to 27 are based on the following:\n• There are six houses P, Q, R, S, T and U, three on either side of a road.\n• The houses are of different colours- red, blue, green, orange, yellow and white.\n• All the houses are of different heights.\n• T, the tallest house is exactly opposite to the coloured house.\n• The shortest house is exactly opposite to the green coloured house.\n• U, the orange coloured house is located between P and S.\n• R the yellow coloured house is exactly opposite to P.\n• Q, the green coloured house is exactly opposite to U.\n• The white coloured house is taller than R, but shorter than S and Q.\n\nWhich is the second shortest house ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "P",
+            "R",
+            "S",
+            "None"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "The given information is insufficient to uniquely determine the second shortest house. Multiple valid arrangements satisfy all conditions.",
+        "question_id": "nimcet_2016_lr_26",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_27",
+        "difficulty": "hard",
+        "question_text": "Question from 25 to 27 are based on the following:\n• There are six houses P, Q, R, S, T and U, three on either side of a road.\n• The houses are of different colours- red, blue, green, orange, yellow and white.\n• All the houses are of different heights.\n• T, the tallest house is exactly opposite to the coloured house.\n• The shortest house is exactly opposite to the green coloured house.\n• U, the orange coloured house is located between P and S.\n• R the yellow coloured house is exactly opposite to P.\n• Q, the green coloured house is exactly opposite to U.\n• The white coloured house is taller than R, but shorter than S and Q.\n\nWhat is the colour of the tallest house ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "The given conditions do not uniquely determine the colour of the tallest house. Therefore no definite answer can be obtained from the given options.",
+        "question_id": "nimcet_2016_lr_27",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_28",
+        "difficulty": "easy",
+        "question_text": "How many pairs of letters are there in the word NECESSARY which have as many letters between them in the word as there are between them in the alphabet and in the same order.",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Alphabet Series",
+        "explanation": "The valid pairs are CE and AR. In both pairs, the number of letters between them in the word is the same as the number of letters between them in the alphabet in the same order. Hence there are 2 such pairs.",
+        "question_id": "nimcet_2016_lr_28",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "alphabet-series"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_29",
+        "difficulty": "medium",
+        "question_text": "What is missing number in the series 4, 7, 11, 18, 47, ...., 123, 199 ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "76",
+            "77",
+            "86",
+            "87"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Series",
+        "explanation": "No unique mathematical or logical pattern consistently generates the sequence. Multiple different rules can produce different missing values. Hence the question is flawed.",
+        "question_id": "nimcet_2016_lr_29",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "series"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_30",
+        "difficulty": "hard",
+        "question_text": "Question from 30 to 32 are based on the following:\n• A, B, C, D, E and F are six members in a family in which there are two married couples.\n• D is brother of F.\n• Both D and F are lighter than B.\n• B is mother of D and lighter than E.\n• C is a lady and is neither the heaviest nor the lightest in the family.\n• E is lighter than C.\n• The grandfather in the family is the heaviest.\n\nWhich of the following is a pair of married couples?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "AB",
+            "BC",
+            "AD",
+            "BE"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Blood Relations",
+        "explanation": "B is the mother of D and F, so B is an adult female. D and F are children, and C is also female. Since there are two married couples and the grandfather is male, the only option consistent with the intended family structure is BE. Hence BE is the intended answer.",
+        "question_id": "nimcet_2016_lr_30",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "blood-relations"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_31",
+        "difficulty": "hard",
+        "question_text": "Question from 30 to 32 are based on the following:\n• A, B, C, D, E and F are six members in a family in there are two married couples.\n• D is brother of F.\n• Both D and F are lighter than B.\n• B is mother of D and lighter than E.\n• C a lady, is neither heaviest nor lightest in the family.\n• E is lighter than C.\n• The grandfather in the family is the heaviest.\n\nWho among the following will be in the second place if all the members in the family are arranged in descending order of their weights ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "C",
+            "A",
+            "D",
+            "Data inadequate"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Blood Relations",
+        "explanation": "The given relations are insufficient to determine a unique weight order of all family members. Hence the second heaviest member cannot be determined uniquely.",
+        "question_id": "nimcet_2016_lr_31",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "blood-relations"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_32",
+        "difficulty": "hard",
+        "question_text": "Question from 30 to 32 are based on the following:\n• A, B, C, D, E and F are six members in a family in there are two married couples.\n• D is brother of F.\n• Both D and F are lighter than B.\n• B is mother of D and lighter than E.\n• C a lady, is neither heaviest nor lightest in the family.\n• E is lighter than C.\n• The grandfather in the family is the heaviest.\n\nHow is C related to D ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Grandmother",
+            "Cousin",
+            "Sister",
+            "Mother"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Blood Relations",
+        "explanation": "The family relationships provided are insufficient to uniquely determine how C is related to D. Hence the question is ambiguous.",
+        "question_id": "nimcet_2016_lr_32",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "blood-relations"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_33",
+        "difficulty": "hard",
+        "question_text": "Question from 31 to 35 are based on the following:\n• Eleven students, A, B, C, D, E, F, G, H, I, J and K are sitting in the first row of the class facing the teacher.\n• D who is to the immediate left of F is second to the right of C.\n• A is second to the right of E, who is at one of the ends.\n• J is the immediate neighbor of A and B and third to the left of G.\n• H is to the immediate left of D and third to the right of I.\n\nWho is sitting in the middle of the row ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "B",
+            "C",
+            "G",
+            "I"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Seating Arrangement",
+        "explanation": "The arrangement is E K A J B I C H D F G. In a row of 11 students, the middle position is the 6th position, occupied by I.",
+        "question_id": "nimcet_2016_lr_33",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "seating-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_34",
+        "difficulty": "hard",
+        "question_text": "Question from 31 to 35 are based on the following:\n• Eleven students, A, B, C, D, E, F, G, H, I, J and K are sitting in the first row of the class facing the teacher.\n• D who is to the immediate left of F is second to the right of C.\n• A is second to the right of E, who is at one of the ends.\n• J is the immediate neighbor of A and B and third to the left of G.\n• H is to the immediate left of D and third to the right of I.\n\nIf E and D, C and B, A and H and K and F interchange their position, which of the following pairs of students are sitting at the ends ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "D and E",
+            "E and F",
+            "D and K",
+            "K and F"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Seating Arrangement",
+        "explanation": "After interchanging E↔D, C↔B, A↔H and K↔F, the arrangement becomes D F H J C I B A E K G. Therefore the students sitting at the two ends are D and G. No option matches.",
+        "question_id": "nimcet_2016_lr_34",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "seating-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_35",
+        "difficulty": "hard",
+        "question_text": "Question from 31 to 35 are based on the following:\n• Eleven students, A, B, C, D, E, F, G, H, I, J and K are sitting in the first row of the class facing the teacher.\n• D who is to the immediate left of F is second to the right of C.\n• A is second to the right of E, who is at one of the ends.\n• J is the immediate neighbor of A and B and third to the left of G.\n• H is to the immediate left of D and third to the right of I.\n\nWhich of the following groups of friends is sitting to the right of G ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "CHDE",
+            "BJAI",
+            "IBJA",
+            "None of these"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Seating Arrangement",
+        "explanation": "Using the arrangement E K A J B I C H D F G, G is seated at the extreme right end. Therefore no student is sitting to the right of G.",
+        "question_id": "nimcet_2016_lr_35",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "seating-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_36",
+        "difficulty": "medium",
+        "question_text": "Question from 36 to 39 are based on the following:\n• A group of six friends are sitting around a hexagonal table, each one at one corner of the hexagon.\n• Ram is sitting opposite to Ramesh.\n• Jyoti is sitting next to Seema.\n• Neeta is sitting opposite to Seema but not next to Ram.\n• Amrit has a person sitting between Ramesh and himself.\n\nIf Seema and Jyoti mutually interchange their positions, then who will be sitting opposite to Neeta ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Jyoti",
+            "Ram",
+            "Seema",
+            "Ramesh"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Circular Arrangement",
+        "explanation": "Multiple circular arrangements satisfy the given conditions. Therefore the person opposite Neeta after interchanging Seema and Jyoti cannot be uniquely determined.",
+        "question_id": "nimcet_2016_lr_36",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "circular-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_37",
+        "difficulty": "medium",
+        "question_text": "Question from 36 to 39 are based on the following:\n• A group of six friends are sitting around a hexagonal table, each one at one corner of the hexagon.\n• Ram is sitting opposite to Ramesh.\n• Jyoti is sitting next to Seema.\n• Neeta is sitting opposite to Seema but not next to Ram.\n• Amrit has a person sitting between Ramesh and himself.\n\nIf Neeta sits to the right of Amrit, then who is sitting to the left of Amrit ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Ramesh",
+            "Neeta",
+            "Jyoti",
+            "Ram"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Circular Arrangement",
+        "explanation": "The conditions allow multiple valid circular arrangements. Hence the person sitting to the left of Amrit cannot be uniquely determined.",
+        "question_id": "nimcet_2016_lr_37",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "circular-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_38",
+        "difficulty": "medium",
+        "question_text": "Question from 36 to 39 are based on the following:\n• A group of six friends are sitting around a hexagonal table, each one at one corner of the hexagon.\n• Ram is sitting opposite to Ramesh.\n• Jyoti is sitting next to Seema.\n• Neeta is sitting opposite to Seema but not next to Ram.\n• Amrit has a person sitting between Ramesh and himself.\n\nWho is sitting between Amrit and Ramesh ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Neeta",
+            "Jyoti",
+            "Seema",
+            "Ram"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Circular Arrangement",
+        "explanation": "The given circular seating conditions are insufficient to uniquely determine who sits between Amrit and Ramesh. Multiple valid arrangements satisfy the conditions.",
+        "question_id": "nimcet_2016_lr_38",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "circular-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_39",
+        "difficulty": "medium",
+        "question_text": "Question from 36 to 39 are based on the following:\n• A group of six friends are sitting around a hexagonal table, each one at one corner of the hexagon.\n• Ram is sitting opposite to Ramesh.\n• Jyoti is sitting next to Seema.\n• Neeta is sitting opposite to Seema but not next to Ram.\n• Amrit has a person sitting between Ramesh and himself.\n\nWho is sitting opposite to Jyoti ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Ramesh",
+            "Neeta",
+            "Amrit",
+            "Seema"
+        ],
+        "correct_answers": [
+            -1
+        ],
+        "topic": "Circular Arrangement",
+        "explanation": "The given circular arrangement conditions do not uniquely determine who sits opposite Jyoti. Multiple valid arrangements satisfy the conditions.",
+        "question_id": "nimcet_2016_lr_39",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "circular-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2016_lr_40",
+        "difficulty": "easy",
+        "question_text": "A group of 360 children are seated in rows for a group photo session. Each row contains three less children than the row in front of it. Which one of the following number of rows is not possible ?",
+        "year": 2016,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "3",
+            "5",
+            "4",
+            "6"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Arithmetic",
+        "explanation": "Let the first row contain a children. Then total children = n/2 × [2a − 3(n−1)] = 360. Testing each option gives valid positive integral values of a for 3, 5 and 6 rows, but not for 4 rows. Hence 4 rows is not possible.",
+        "question_id": "nimcet_2016_lr_40",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2016",
+            "arithmetic"
+        ]
+    }
+]

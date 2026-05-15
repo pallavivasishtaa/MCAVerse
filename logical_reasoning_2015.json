@@ -1,0 +1,1082 @@
+[
+    {
+        "id": "nimcet_2015_lr_51",
+        "difficulty": "medium",
+        "question_text": "How many 3-digit numbers divisible by 5 can be formed using the digits 2, 3, 5, 6, 7 and 9 without repetition?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "216",
+            "20",
+            "120",
+            "24"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Counting and Combinatorics",
+        "explanation": "For a number to be divisible by 5, its last digit must be 5. Fix 5 in the units place. The remaining two places can be filled using any two of the remaining five digits without repetition. Number of ways = 5 × 4 = 20.",
+        "question_id": "nimcet_2015_lr_51",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "counting-and-combinatorics"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_52",
+        "difficulty": "hard",
+        "question_text": "Using only 2, 5, 10, 25 and 50 paise coins, what is the smallest number of coins required to pay exactly 78 paise, 69 paise and Rs. 1.01 to three different persons?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "19",
+            "20",
+            "17",
+            "18"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "Minimum coins required:\n78 paise = 50 + 10 + 10 + 2 + 2 + 2 + 2 = 7 coins\n69 paise = 50 + 10 + 5 + 2 + 2 = 5 coins\n101 paise = 50 + 25 + 10 + 10 + 2 + 2 + 2 = 7 coins\nTotal coins = 7 + 5 + 7 = 19.",
+        "question_id": "nimcet_2015_lr_52",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_53",
+        "difficulty": "medium",
+        "question_text": "Which of the following two patterns will fit in the blanks of the series ZA5, Y4B, XC6, W3D, ............., ............. ?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "VE7 and U2E",
+            "V2E and U7F",
+            "VE7 and U2F",
+            "VF7 and U2E"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Series",
+        "explanation": "The first letters decrease alphabetically: Z, Y, X, W, V, U. The second letters increase alphabetically: A, B, C, D, E, F. The numbers follow the pattern 5, 4, 6, 3, 7, 2. Also, the position of the number alternates between the end and the middle of the term. Hence the next two terms are VE7 and U2F.",
+        "question_id": "nimcet_2015_lr_53",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "series"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_54",
+        "difficulty": "medium",
+        "question_text": "Which of the following numbers comes next in the two-digit decimal number sequence 61, 52, 63, 94, .......... ?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "65",
+            "64",
+            "56",
+            "46"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Series",
+        "explanation": "Reverse the numbers:\n61 → 16 = 4²\n52 → 25 = 5²\n63 → 36 = 6²\n94 → 49 = 7²\nNext reversed number should be 64 = 8². Reversing 64 gives 46.",
+        "question_id": "nimcet_2015_lr_54",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "series"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_55",
+        "difficulty": "medium",
+        "question_text": "Three ladies X, Y and Z marry three men A, B and C. X is married to A, Y is not married to an engineer. Z is not married to a doctor, C is not a doctor and A is a lawyer. Then which of the following statements is correct?\n(a) X is married to a doctor\n(b) Y is married to C, who is a doctor\n(c) Z is married to B, who is an engineer\n(d) None of these",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "X is married to a doctor",
+            "Y is married to C, who is a doctor",
+            "Z is married to B, who is an engineer",
+            "None of these"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "X is married to A, and A is a lawyer. Since C is not a doctor and the three professions are lawyer, doctor and engineer, B must be the doctor and C the engineer. Y is not married to an engineer, so Y cannot be married to C. Therefore Y is married to B and Z is married to C. Hence statements (a), (b) and (c) are false. Therefore the correct answer is 'None of these'.",
+        "question_id": "nimcet_2015_lr_55",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_56",
+        "difficulty": "easy",
+        "question_text": "Which letter would be 3rd to the right of the 7th letter from the left in the English alphabet?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Alphabet Series",
+        "explanation": "The 7th letter from the left in the English alphabet is G. The 3rd letter to the right of G is J.",
+        "question_id": "nimcet_2015_lr_56",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "alphabet-series"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_57",
+        "difficulty": "easy",
+        "question_text": "Which letter would be exactly in the middle of the eighteenth letter from the beginning and the fifteenth letter from the end in the English alphabet?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "N",
+            "O",
+            "P",
+            "Q"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Alphabet Series",
+        "explanation": "The 18th letter from the beginning is R. The 15th letter from the end is L. Their positions are 18 and 12 respectively. The middle position is (18 + 12) / 2 = 15. The 15th letter of the alphabet is O.",
+        "question_id": "nimcet_2015_lr_57",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "alphabet-series"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_58",
+        "difficulty": "hard",
+        "question_text": "In an examination there are 100 questions divided into 3 parts A, B and C, and each part contains at least one question. Each question in parts A, B and C carries 1, 2 and 3 marks respectively. Part A accounts for at least 60% of the total marks and part B contains 23 questions. How many questions must be set in part C?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "Let the number of questions in parts A, B and C be A, 23 and C respectively.\nThen A + C = 77.\nTotal marks = A + 46 + 3C.\nSince part A accounts for at least 60% of the total marks:\nA ≥ 0.6(A + 46 + 3C)\n0.4A ≥ 27.6 + 1.8C\nSubstitute A = 77 − C:\n0.4(77 − C) ≥ 27.6 + 1.8C\n30.8 − 0.4C ≥ 27.6 + 1.8C\n3.2 ≥ 2.2C\nC ≤ 1.45\nSince C must be at least 1 and an integer, C = 1.",
+        "question_id": "nimcet_2015_lr_58",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_59",
+        "difficulty": "medium",
+        "question_text": "If ÷ means addition, − means division, × means subtraction and + means multiplication, then the value of ((36 × 4) − 8 × 4) / (4 + 8 × 2 + 16 ÷ 1) is:",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "0",
+            "8",
+            "12",
+            "16"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Mathematical Operations",
+        "explanation": "Replace the operators according to the given meanings:\n÷ → +\n− → ÷\n× → −\n+ → ×\n\nNumerator:\n(36 × 4) − 8 × 4 → (36 − 4) ÷ 8 − 4 = 32 ÷ 8 − 4 = 4 − 4 = 0\n\nDenominator:\n4 + 8 × 2 + 16 ÷ 1 → 4 × 8 − 2 × 16 + 1 = 32 − 32 + 1 = 1\n\nTherefore the value is 0 / 1 = 0.",
+        "question_id": "nimcet_2015_lr_59",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "mathematical-operations"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_60",
+        "difficulty": "easy",
+        "question_text": "Which letter in the word CYBERNETICS occupies the same position as it does in the English alphabet?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "C",
+            "E",
+            "I",
+            "T"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Alphabet Series",
+        "explanation": "In the word CYBERNETICS, the letter I is at the 9th position. In the English alphabet, I is also the 9th letter. Hence I occupies the same position in both cases.",
+        "question_id": "nimcet_2015_lr_60",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "alphabet-series"
+        ]
+    },
+    {
+        "id": "nimcet_2015_mat_61",
+        "difficulty": "medium",
+        "question_text": "The remainder when 2^31 is divided by 5 is:",
+        "year": 2015,
+        "subject": "Mathematics",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Number Theory",
+        "explanation": "The powers of 2 modulo 5 repeat every 4 terms:\n2¹ ≡ 2,\n2² ≡ 4,\n2³ ≡ 3,\n2⁴ ≡ 1 (mod 5).\nSince 31 = 4 × 7 + 3,\n2³¹ ≡ 2³ ≡ 3 (mod 5).\nTherefore the remainder is 3.",
+        "question_id": "nimcet_2015_mat_61",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "number-theory"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_62",
+        "difficulty": "medium",
+        "question_text": "If the English word EXAMINATION is coded as 56149512965, then the word GOVERNMENT is coded as:",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "7645955423",
+            "7654694562",
+            "7649545452",
+            "7654964526"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Coding-Decoding",
+        "explanation": "Each letter is coded by the sum of the digits of its alphabetical position.\nE(5) → 5\nX(24) → 2+4 = 6\nA(1) → 1\nM(13) → 1+3 = 4\nI(9) → 9\nN(14) → 1+4 = 5\nT(20) → 2+0 = 2\nO(15) → 1+5 = 6\n\nApplying the same rule:\nG(7) → 7\nO(15) → 6\nV(22) → 4\nE(5) → 5\nR(18) → 9\nN(14) → 5\nM(13) → 4\nE(5) → 5\nN(14) → 5\nT(20) → 2\n\nTherefore GOVERNMENT is coded as 7649545452.",
+        "question_id": "nimcet_2015_lr_62",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "coding-decoding"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_63",
+        "difficulty": "medium",
+        "question_text": "Gopal starts from his house towards West. After walking 30 meters, he turns right and walks 20 meters. He then turns left and walks 100 meters. He again turns left and walks 40 meters. He then turns left and walks 5 meters. Finally, he turns left. In which direction is he walking now?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "North",
+            "South",
+            "East",
+            "South West"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Direction Sense",
+        "explanation": "Initially Gopal faces West.\nAfter turning right from West, he faces North.\nAfter turning left from North, he faces West.\nAfter turning left from West, he faces South.\nAfter turning left from South, he faces East.\nFinally, turning left from East makes him face North.\nTherefore he is walking towards North.",
+        "question_id": "nimcet_2015_lr_63",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "direction-sense"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_64",
+        "difficulty": "medium",
+        "question_text": "Read the conclusions and decide which logically follows from the given statements, disregarding commonly known facts.\n\nStatement-1: No woman teacher can play.\nStatement-2: Some woman teachers are athletes.\n\nConclusion-1: Male athletes can play.\nConclusion-2: Some athletes can play.",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Only conclusion-1 follows",
+            "Only conclusion-2 follows",
+            "Either 1 or 2 follows",
+            "Neither 1 nor 2 follows"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Syllogism",
+        "explanation": "From Statement-2, some woman teachers are athletes. From Statement-1, no woman teacher can play. Therefore those athletes who are woman teachers cannot play.\nConclusion-1 does not follow because nothing is stated about male athletes.\nConclusion-2 also does not follow because the given athlete group cannot play.\nHence neither conclusion follows.",
+        "question_id": "nimcet_2015_lr_64",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "syllogism"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_65",
+        "difficulty": "medium",
+        "question_text": "Which of the following numbers comes next in the series 8, 6, 9, 23, 87, ...... ?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "128",
+            "226",
+            "324",
+            "429"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Series",
+        "explanation": "The pattern is:\n8 × 1 − 2 = 6\n6 × 2 − 3 = 9\n9 × 3 − 4 = 23\n23 × 4 − 5 = 87\nTherefore,\n87 × 5 − 6 = 429.\nHence the next term is 429.",
+        "question_id": "nimcet_2015_lr_65",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "series"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_66",
+        "difficulty": "medium",
+        "question_text": "Question 66 to 69 are based on the following:\n- There is a family of six members A, B, C, D, E and F.\n- There are two married couples in the family and the members represent three generations.\n- Each member has a distinct choice of a color among Green, Yellow, Black, Red, White and Pink.\n- No lady member likes either Green or White.\n- C, who likes Black color, is the daughter-in-law of E.\n- B is the brother of F and son of D and likes Pink.\n- A is the grandmother of F and F does not like Red.\n- Wife of the husband having a choice for Green color likes Yellow.\n\nWhich of the following is the color preference of A?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Red",
+            "Yellow",
+            "Either Red or Yellow",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "C likes Black and B likes Pink. Since no lady likes Green or White, C and A cannot like those colors. If D liked Green, then his wife C would have to like Yellow, which is impossible because C likes Black. Therefore E likes Green and his wife A likes Yellow. Hence A's color preference is Yellow.",
+        "question_id": "nimcet_2015_lr_66",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_67",
+        "difficulty": "medium",
+        "question_text": "Question 66 to 69 are based on the following:\n- There is a family of six members A, B, C, D, E and F.\n- There are two married couples in the family and the members represent three generations.\n- Each member has a distinct choice of a color among Green, Yellow, Black, Red, White and Pink.\n- No lady member likes either Green or White.\n- C, who likes Black color, is the daughter-in-law of E.\n- B is the brother of F and son of D and likes Pink.\n- A is the grandmother of F and F does not like Red.\n- Wife of the husband having a choice for Green color likes Yellow.\n\nWhich of the following could be the color combination of one of the couples?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Yellow-Red",
+            "Green-Black",
+            "Red-Yellow",
+            "Yellow-Green"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "E likes Green and his wife A likes Yellow. Therefore one married couple has the color combination Yellow-Green.",
+        "question_id": "nimcet_2015_lr_67",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_68",
+        "difficulty": "medium",
+        "question_text": "Question 66 to 69 are based on the following:\n- There is a family of six members A, B, C, D, E and F.\n- There are two married couples in the family and the members represent three generations.\n- Each member has a distinct choice of a color among Green, Yellow, Black, Red, White and Pink.\n- No lady member likes either Green or White.\n- C, who likes Black color, is the daughter-in-law of E.\n- B is the brother of F and son of D and likes Pink.\n- A is the grandmother of F and F does not like Red.\n- Wife of the husband having a choice for Green color likes Yellow.\n\nWhich of the following is one of the married couples?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "CD",
+            "AC",
+            "AD",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "C is the daughter-in-law of E, and D is the parent of B and F. Therefore D and C form one married couple. Hence CD is the correct answer.",
+        "question_id": "nimcet_2015_lr_68",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_69",
+        "difficulty": "medium",
+        "question_text": "Question 66 to 69 are based on the following:\n- There is a family of six members A, B, C, D, E and F.\n- There are two married couples in the family and the members represent three generations.\n- Each member has a distinct choice of a color among Green, Yellow, Black, Red, White and Pink.\n- No lady member likes either Green or White.\n- C, who likes Black color, is the daughter-in-law of E.\n- B is the brother of F and son of D and likes Pink.\n- A is the grandmother of F and F does not like Red.\n- Wife of the husband having a choice for Green color likes Yellow.\n\nWhich of the following is true about F?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Brother of B",
+            "Sister of B",
+            "Daughter of C",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "The remaining available color for F is White. Since no lady member likes White, F must be male. As B is the brother of F, F is also the brother of B.",
+        "question_id": "nimcet_2015_lr_69",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_70",
+        "difficulty": "easy",
+        "question_text": "If Tuesday falls on the 4th of a month, then which day will fall three days after the 24th of the same month?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Calendar",
+        "explanation": "If the 4th is Tuesday, then the 24th is 20 days later.\n20 ≡ 6 (mod 7), so the 24th falls on Monday.\nThree days after Monday is Thursday.\nHence the correct answer is Thursday.",
+        "question_id": "nimcet_2015_lr_70",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "calendar"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_71",
+        "difficulty": "medium",
+        "question_text": "If the statements \"All chickens are birds\", \"Some chickens are hens\" and \"Female birds lay eggs\" are facts, then which of the following must also be a fact?\n\n1. All birds lay eggs\n2. Some hens are birds\n3. Some chickens are not hens",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Only 2 follows",
+            "2 and 3",
+            "1 and 3",
+            "None of these"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Syllogism",
+        "explanation": "All chickens are birds and some chickens are hens. Therefore those hens are also birds, so statement 2 follows.\nStatement 1 does not follow because only female birds are said to lay eggs.\nStatement 3 does not follow because it is possible that all chickens are hens.\nHence only statement 2 follows.",
+        "question_id": "nimcet_2015_lr_71",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "syllogism"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_72",
+        "difficulty": "hard",
+        "question_text": "Question 72 to 75 are based on the following:\nA circular field with inner radius 10 meters and outer radius 20 meters is divided into 5 successive stages for ploughing. The ploughing at each stage, with starting points P1, P2, P3, P4 and P5, was allotted to one of the five farmers F1, F2, F3, F4 and F5, not necessarily in that order.\n- F5 was allotted the stage starting at point P4.\n- The stage from P5 to P3 was not the first stage.\n- F4 was allotted the work of the fourth stage.\n- The finishing point of stage 3 was P1 and the work was not allotted to F1.\n- F3 was allotted the work of the stage ending at P5.\n\nWhich of the following is the finishing point for farmer F2?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "P1",
+            "P2",
+            "P3",
+            "P4"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "The valid stage arrangement is:\nStage 1: P2 → P3\nStage 2: P3 → P5\nStage 3: P5 → P1\nStage 4: P1 → P4\nStage 5: P4 → P2\n\nF3 was allotted the stage ending at P5, so F3 handled Stage 2.\nF5 was allotted the stage starting at P4, so F5 handled Stage 5.\nF4 handled Stage 4.\nStage 3 was not allotted to F1.\nTherefore the remaining farmer for Stage 3 is F2.\nStage 3 ends at P1.\nHence the finishing point for F2 is P1.",
+        "question_id": "nimcet_2015_lr_72",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_73",
+        "difficulty": "hard",
+        "question_text": "Question 72 to 75 are based on the following:\nA circular field with inner radius 10 meters and outer radius 20 meters is divided into 5 successive stages for ploughing. The ploughing at each stage, with starting points P1, P2, P3, P4 and P5, was allotted to one of the five farmers F1, F2, F3, F4 and F5, not necessarily in that order.\n- F5 was allotted the stage starting at point P4.\n- The stage from P5 to P3 was not the first stage.\n- F4 was allotted the work of the fourth stage.\n- The finishing point of stage 3 was P1 and the work was not allotted to F1.\n- F3 was allotted the work of the stage ending at P5.\n\nWhich stage was ploughed by F5?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "The valid stage sequence is:\nStage 1: P2 → P3\nStage 2: P3 → P5\nStage 3: P5 → P1\nStage 4: P1 → P4\nStage 5: P4 → P2\n\nF5 was allotted the stage starting at P4, which is Stage 5. Therefore F5 ploughed Stage 5.",
+        "question_id": "nimcet_2015_lr_73",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_74",
+        "difficulty": "hard",
+        "question_text": "Question 72 to 75 are based on the following:\nA circular field with inner radius 10 meters and outer radius 20 meters is divided into 5 successive stages for ploughing. The ploughing at each stage, with starting points P1, P2, P3, P4 and P5, was allotted to one of the five farmers F1, F2, F3, F4 and F5, not necessarily in that order.\n- F5 was allotted the stage starting at point P4.\n- The stage from P5 to P3 was not the first stage.\n- F4 was allotted the work of the fourth stage.\n- The finishing point of stage 3 was P1 and the work was not allotted to F1.\n- F3 was allotted the work of the stage ending at P5.\n\nWhat are the starting and ending points of the field ploughed by F4?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "P1 and P2",
+            "P1 and P4",
+            "P4 and P2",
+            "P2 and P4"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "F4 was allotted Stage 4. From the valid stage sequence:\nStage 4 = P1 → P4.\nTherefore the starting point is P1 and the ending point is P4.",
+        "question_id": "nimcet_2015_lr_74",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_75",
+        "difficulty": "hard",
+        "question_text": "Question 72 to 75 are based on the following:\nA circular field with inner radius 10 meters and outer radius 20 meters is divided into 5 successive stages for ploughing. The ploughing at each stage, with starting points P1, P2, P3, P4 and P5, was allotted to one of the five farmers F1, F2, F3, F4 and F5, not necessarily in that order.\n- F5 was allotted the stage starting at point P4.\n- The stage from P5 to P3 was not the first stage.\n- F4 was allotted the work of the fourth stage.\n- The finishing point of stage 3 was P1 and the work was not allotted to F1.\n- F3 was allotted the work of the stage ending at P5.\n\nWhat is the starting point for stage 3?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "P2",
+            "P3",
+            "P5",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "From the valid stage arrangement:\nStage 3 = P5 → P1.\nTherefore the starting point for Stage 3 is P5.",
+        "question_id": "nimcet_2015_lr_75",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_76",
+        "difficulty": "easy",
+        "question_text": "How many times do the hour and minute hands of a clock overlap in 24 hours?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "24",
+            "22",
+            "26",
+            "20"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Clock",
+        "explanation": "The minute hand overlaps the hour hand 11 times in 12 hours. Therefore, in 24 hours they overlap 11 × 2 = 22 times.",
+        "question_id": "nimcet_2015_lr_76",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "clock"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_77",
+        "difficulty": "medium",
+        "question_text": "In a certain code TOGETHER is coded as RQEGRJCT. In the same code, PAROLE will be written as:",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "NCPQJG",
+            "NCQPJG",
+            "RCPQJK",
+            "RCTQNG"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Coding-Decoding",
+        "explanation": "Letters in odd positions are shifted backward by 2 and letters in even positions are shifted forward by 2.\n\nPAROLE:\nP → N\nA → C\nR → P\nO → Q\nL → J\nE → G\n\nHence the code is NCPQJG.",
+        "question_id": "nimcet_2015_lr_77",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "coding-decoding"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_78",
+        "difficulty": "easy",
+        "question_text": "A drawer contains 10 black and 10 brown socks mixed together. What is the smallest number of socks that must be taken out without seeing them to ensure that there is at least one pair of the same color?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "11",
+            "10",
+            "3",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "There are only two possible colors: black and brown. In the worst case, the first two socks are of different colors. The third sock must match one of them. Therefore at least one pair of the same color is guaranteed with 3 socks.",
+        "question_id": "nimcet_2015_lr_78",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_79",
+        "difficulty": "medium",
+        "question_text": "Find the missing number in the series 4, 7, 9, 13, 16, 21, ?, 31.",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "24",
+            "25",
+            "26",
+            "27"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Series",
+        "explanation": "The differences follow the pattern:\n+3, +2, +4, +3, +5, +4, +6\n\n4 + 3 = 7\n7 + 2 = 9\n9 + 4 = 13\n13 + 3 = 16\n16 + 5 = 21\n21 + 4 = 25\n25 + 6 = 31\n\nHence the missing number is 25.",
+        "question_id": "nimcet_2015_lr_79",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "series"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_80",
+        "difficulty": "medium",
+        "question_text": "Question 80 to 83 are based on the following:\nA, B, C, D, E, F and G are seven girls having different amounts of money among Rs. 10, 20, 40, 60, 80, 120 and 200. They had 3 chocolates, 2 toffees and 2 lollipops together, each girl having one of these items.\n- B and D do not have chocolates and they have Rs. 200 and Rs. 80 respectively.\n- C has Rs. 60 and G has an amount which is neither Rs. 40 nor Rs. 120.\n- A has Rs. 10 and does not have a toffee.\n- The girl having Rs. 40 is the only one other than A to have the same type of item.\n- E and the girl having Rs. 20 have the same kind of item.\n\nHow much money does G have?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "20",
+            "10",
+            "60",
+            "None of these"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "A has Rs. 10 and does not have a toffee. Since only one other girl has the same type of item as A, A must have a lollipop and the girl with Rs. 40 also has a lollipop.\nB and D do not have chocolates, so they must have toffees.\nThus chocolates are with C, F and G.\nE and the girl with Rs. 20 have the same type of item, so E cannot have a chocolate. Therefore E must have a lollipop, which forces E to have Rs. 40.\nThe remaining valid amount for G is Rs. 20.",
+        "question_id": "nimcet_2015_lr_80",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_81",
+        "difficulty": "medium",
+        "question_text": "Question 80 to 83 are based on the following:\nA, B, C, D, E, F and G are seven girls having different amounts of money among Rs. 10, 20, 40, 60, 80, 120 and 200. They had 3 chocolates, 2 toffees and 2 lollipops together, each girl having one of these items.\n- B and D do not have chocolates and they have Rs. 200 and Rs. 80 respectively.\n- C has Rs. 60 and G has an amount which is neither Rs. 40 nor Rs. 120.\n- A has Rs. 10 and does not have a toffee.\n- The girl having Rs. 40 is the only one other than A to have the same type of item.\n- E and the girl having Rs. 20 have the same kind of item.\n\nWhich of the following girls have chocolates?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "F, C, G",
+            "C, G, E",
+            "C, G, D",
+            "G, D, E"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "A and the girl with Rs. 40 have the same item, so they must be the two girls with lollipops. Since B and D do not have chocolates, they must have toffees. Therefore the remaining girls C, F and G must have chocolates.",
+        "question_id": "nimcet_2015_lr_81",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_82",
+        "difficulty": "medium",
+        "question_text": "Question 80 to 83 are based on the following:\nA, B, C, D, E, F and G are seven girls having different amounts of money among Rs. 10, 20, 40, 60, 80, 120 and 200. They had 3 chocolates, 2 toffees and 2 lollipops together, each girl having one of these items.\n- B and D do not have chocolates and they have Rs. 200 and Rs. 80 respectively.\n- C has Rs. 60 and G has an amount which is neither Rs. 40 nor Rs. 120.\n- A has Rs. 10 and does not have a toffee.\n- The girl having Rs. 40 is the only one other than A to have the same type of item.\n- E and the girl having Rs. 20 have the same kind of item.\n\nWhich of the following combinations is definitely correct?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "C-chocolate-Rs. 60",
+            "G-toffee-Rs. 20",
+            "D-chocolate-Rs. 40",
+            "None of these"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "C is explicitly given to have Rs. 60. Since B and D do not have chocolates and A and the Rs. 40 girl have lollipops, the remaining girls C, F and G must have chocolates. Therefore C definitely has chocolate and Rs. 60.",
+        "question_id": "nimcet_2015_lr_82",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_83",
+        "difficulty": "medium",
+        "question_text": "Question 80 to 83 are based on the following:\nA, B, C, D, E, F and G are seven girls having different amounts of money among Rs. 10, 20, 40, 60, 80, 120 and 200. They had 3 chocolates, 2 toffees and 2 lollipops together, each girl having one of these items.\n- B and D do not have chocolates and they have Rs. 200 and Rs. 80 respectively.\n- C has Rs. 60 and G has an amount which is neither Rs. 40 nor Rs. 120.\n- A has Rs. 10 and does not have a toffee.\n- The girl having Rs. 40 is the only one other than A to have the same type of item.\n- E and the girl having Rs. 20 have the same kind of item.\n\nWhich girl has Rs. 40?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "E",
+            "A",
+            "D",
+            "None of these"
+        ],
+        "correct_answers": [
+            0
+        ],
+        "topic": "Analytical Reasoning",
+        "explanation": "A has Rs. 10 and is one of the two girls sharing the same item type. Since E and the girl with Rs. 20 share the same item type, E cannot be the Rs. 20 girl. Therefore E must be the other girl sharing A's item type, which corresponds to the girl having Rs. 40. Hence E has Rs. 40.",
+        "question_id": "nimcet_2015_lr_83",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "analytical-reasoning"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_84",
+        "difficulty": "medium",
+        "question_text": "P, Q, R, S, T, U and V are sitting in a row facing North. To determine who is sitting exactly in the middle of the row, which of the following information is needed?\nI) T and U are sitting at the extreme ends of the row.\nII) S is third to the right of T.\nIII) Q is four places to the left of R and P is two places to the left of V.",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "I and II only are sufficient",
+            "I and III only are sufficient",
+            "I and either II or III are sufficient",
+            "I, II and III together are sufficient"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Seating Arrangement",
+        "explanation": "Using Statement I with Statement II:\nIf T is at one end, then S becomes fixed at the middle position.\n\nUsing Statement I with Statement III:\nThe relative positions of Q, R, P and V become fixed, which determines the middle position uniquely.\n\nTherefore Statement I together with either Statement II or Statement III is sufficient.",
+        "question_id": "nimcet_2015_lr_84",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "seating-arrangement"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_85",
+        "difficulty": "medium",
+        "question_text": "Question 85 to 88 are based on the following:\nIn a family of six persons A, B, C, D, E and F there are two married couples.\n- D is grandmother of A and mother of B.\n- C is wife of B and mother of F.\n- F is the granddaughter of E.\n\nWhat is C to A?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Daughter",
+            "Grandmother",
+            "Mother",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Blood Relations",
+        "explanation": "D is grandmother of A and mother of B. Therefore B is a parent of A. Since C is the wife of B, C is also a parent of A. Hence C is the mother of A.",
+        "question_id": "nimcet_2015_lr_85",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "blood-relations"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_86",
+        "difficulty": "medium",
+        "question_text": "Question 85 to 88 are based on the following:\nIn a family of six persons A, B, C, D, E and F there are two married couples.\n- D is grandmother of A and mother of B.\n- C is wife of B and mother of F.\n- F is the granddaughter of E.\n\nHow many male members are there in the family?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Blood Relations",
+        "explanation": "D, C and F are female. B is male because C is his wife. E must be male because F is stated to be his granddaughter. The gender of A is not specified. Therefore the exact number of male members cannot be determined.",
+        "question_id": "nimcet_2015_lr_86",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "blood-relations"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_87",
+        "difficulty": "medium",
+        "question_text": "Question 85 to 88 are based on the following:\nIn a family of six persons A, B, C, D, E and F there are two married couples.\n- D is grandmother of A and mother of B.\n- C is wife of B and mother of F.\n- F is the granddaughter of E.\n\nWho among the following is one of the couples?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "CD",
+            "DE",
+            "EB",
+            "Cannot be determined"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Blood Relations",
+        "explanation": "One married couple is explicitly given as B and C. Since D is the grandmother of F and E is the grandfather of F, D and E form the other married couple.",
+        "question_id": "nimcet_2015_lr_87",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "blood-relations"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_88",
+        "difficulty": "medium",
+        "question_text": "Question 85 to 88 are based on the following:\nIn a family of six persons A, B, C, D, E and F there are two married couples.\n- D is grandmother of A and mother of B.\n- C is wife of B and mother of F.\n- F is the granddaughter of E.\n\nWhich of the following is true?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "A is brother of F",
+            "A is sister of F",
+            "B has two daughters",
+            "None of these"
+        ],
+        "correct_answers": [
+            3
+        ],
+        "topic": "Blood Relations",
+        "explanation": "The gender of A is not specified, so A may be either the brother or sister of F. Also, only F is confirmed to be female. Therefore none of the given statements is definitely true.",
+        "question_id": "nimcet_2015_lr_88",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "blood-relations"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_89",
+        "difficulty": "easy",
+        "question_text": "There are five books A, B, C, D and E placed on a table. If A is placed below E, C is placed above D, B is placed below A and D is placed between A and E, then which of the following books can be on the top?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "D or E",
+            "C or E",
+            "A or E",
+            "None of these"
+        ],
+        "correct_answers": [
+            1
+        ],
+        "topic": "Ordering",
+        "explanation": "From the conditions:\nE is above A,\nA is above B,\nC is above D,\nand D lies between A and E.\n\nPossible valid arrangements allow either C or E to be at the top. Hence the correct answer is C or E.",
+        "question_id": "nimcet_2015_lr_89",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "ordering"
+        ]
+    },
+    {
+        "id": "nimcet_2015_lr_90",
+        "difficulty": "easy",
+        "question_text": "Among five children A, B, C, D and E, B is taller than E but shorter than D. A is shorter than C but taller than D. If all the children stand in a line according to their heights, then who would be fourth when counted from the tallest?",
+        "year": 2015,
+        "subject": "Logical Reasoning",
+        "imageUrl": "",
+        "imageSection": "none",
+        "options": [
+            "D",
+            "C",
+            "B",
+            "A"
+        ],
+        "correct_answers": [
+            2
+        ],
+        "topic": "Ordering",
+        "explanation": "Given:\nD > B > E\nC > A > D\nCombining these relations:\nC > A > D > B > E\nCounting from the tallest:\nC(1), A(2), D(3), B(4), E(5)\nHence B is fourth from the tallest.",
+        "question_id": "nimcet_2015_lr_90",
+        "exam_id": "nimcet",
+        "tags": [
+            "p_y_q",
+            "2015",
+            "ordering"
+        ]
+    }
+]
