@@ -191,22 +191,22 @@
   {
     "id": "nimcet_2020_rea_58",
     "difficulty": "easy",
-    "question_text": "In a certain code, DOES is written as 5$3% and SITE is written as %4#3. How is EDIT written in that code?",
+    "question_text": "In a certain code, DOES is written as 5＄3% and SITE is written as %4#3. How is EDIT written in that code?",
     "year": 2020,
     "subject": "Logical Reasoning",
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "3#4$",
+      "3#4＄",
       "%3#5",
       "354#",
-      "4#5$"
+      "4#5＄"
     ],
     "correct_answers": [
       2
     ],
     "topic": "Coding and Decoding",
-    "explanation": "From DOES → 5$3%:\nD=5, O=$, E=3, S=%.\nFrom SITE → %4#3:\nS=%, I=4, T=#, E=3.\nTherefore EDIT becomes:\nE=3, D=5, I=4, T=#.\nSo code = 354#.\nHence the correct answer is 354#.",
+    "explanation": "From DOES → 5＄3%:\nD=5, O=＄, E=3, S=%.\nFrom SITE → %4#3:\nS=%, I=4, T=#, E=3.\nTherefore EDIT becomes:\nE=3, D=5, I=4, T=#.\nSo code = 354#.\nHence the correct answer is 354#.",
     "question_id": "nimcet_2020_rea_58",
     "exam_id": "nimcet",
     "tags": [
@@ -569,7 +569,7 @@
   {
     "id": "nimcet_2020_rea_72",
     "difficulty": "hard",
-    "question_text": "In the following questions, the symbols $, #, @, % and * illustrate the following meanings.\n\n• P$Q – P is not smaller than Q\n• P#Q – P is neither greater than nor equal to Q.\n• P@Q – P is neither smaller than nor equal to Q.\n• P%Q – P is not greater than Q\n• P*Q – P is neither greater than nor smaller than Q.\n\nStatements:\n\nK # L, L % M, M * N, N # O\n\nConclusions:\n\nI. K # M\nII. K * M\nIII. L % O",
+    "question_text": "In the following questions, the symbols ＄, #, @, % and * illustrate the following meanings.\n\n• P＄Q – P is not smaller than Q\n• P#Q – P is neither greater than nor equal to Q.\n• P@Q – P is neither smaller than nor equal to Q.\n• P%Q – P is not greater than Q\n• P*Q – P is neither greater than nor smaller than Q.\n\nStatements:\n\nK # L, L % M, M * N, N # O\n\nConclusions:\n\nI. K # M\nII. K * M\nIII. L % O",
     "year": 2020,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -596,7 +596,7 @@
   {
     "id": "nimcet_2020_rea_73",
     "difficulty": "medium",
-    "question_text": "Study the following arrangement carefully and answer the question given below:\n\nW 1 R % 4 J E # 7 M T 2 I 9 B H 3 A $ 9 F Q 5 D G 6 U S P\n\nThree of the following are alike in a certain way on the basis of above arrangement and hence form a group. Which one does not belong to that group?",
+    "question_text": "Study the following arrangement carefully and answer the question given below:\n\nW 1 R % 4 J E # 7 M T 2 I 9 B H 3 A ＄ 9 F Q 5 D G 6 U S P\n\nThree of the following are alike in a certain way on the basis of above arrangement and hence form a group. Which one does not belong to that group?",
     "year": 2020,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -604,7 +604,7 @@
     "options": [
       "R W 4",
       "9 Q A",
-      "3 B $",
+      "3 B ＄",
       "5 F G"
     ],
     "correct_answers": [
