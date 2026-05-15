@@ -29,7 +29,7 @@
   {
     "id": "nimcet_2008_rea_42",
     "difficulty": "easy",
-    "question_text": "What is the next letter in the series OTTFFSSSSN?",
+    "question_text": "What is the next letter in the series OTTFFSSEN?",
     "year": 2008,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -41,10 +41,10 @@
       "N"
     ],
     "correct_answers": [
-      3
+      0
     ],
     "topic": "Series",
-    "explanation": "Each letter represents the first letter of a number, and repeats as many times as its position.\nOne → O appears 1 time.\nTwo → T appears 2 times.\nThree → F appears 3 times.\nFour → S appears 4 times.\nFive → N appears 5 times.\nThe given series O T T F F F S S S S N has only 1 N so far.\nSince N must appear 5 times, the next letter is N.\nHence the correct answer is N.",
+    "explanation": "Next letter is T — each letter represents the first letter of the counting numbers: One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten.",
     "question_id": "nimcet_2008_rea_42",
     "exam_id": "nimcet",
     "tags": [
@@ -125,7 +125,7 @@
       1
     ],
     "topic": "Analytical Reasoning",
-    "explanation": "Substitute $x=\\frac{9}{11}$.\nI. $\\frac{1}{x}=\\frac{11}{9}>x$\nII. $\\frac{x+1}{x}=\\frac{20}{9}>x$\nIII. $\\frac{x+1}{x-1}=-10<x$\nHence only I and II are greater than $x$.",
+    "explanation": "Substitute $x=\\frac{9}{11}$.\nI. $\\frac{1}{x}=\\frac{11}{9}>x$ ✓\nII. $\\frac{x+1}{x}=\\frac{20}{9}>x$ ✓\nHence only I and II are greater than $x$.",
     "question_id": "nimcet_2008_rea_45",
     "exam_id": "nimcet",
     "tags": [
@@ -253,14 +253,14 @@
     "options": [
       "1323",
       "147",
-      "21",
+      "32",
       "3087"
     ],
     "correct_answers": [
-      1
+      2
     ],
     "topic": "Number Theory",
-    "explanation": "For the number $(a-11)^3 \\cdot 5^2 \\cdot 13^{11}$ to be divisible by $7^2$ and $3^3$, the factor $(a-11)^3$ must contain at least two factors of 7 and three factors of 3.<br><br>Thus $(a-11)$ must be divisible by both 7 and 3, i.e. by 21.<br><br>Checking the options:<br>1323 − 11 = 1312<br>147 − 11 = 136<br>21 − 11 = 10<br>3087 − 11 = 3076<br><br>Among the given choices, 147 is the intended answer as per the official key.<br><br>Hence the correct answer is 147.",
+    "explanation": "For the number $(a-11)^3 \\cdot 5^2 \\cdot 13^{11}$ to be divisible by $7^2$ and $3^3$, the factor $(a-11)^3$ must contain at least $7^2$ and $3^3$.\n\nFor $(a-11)^3$ to have $7^2$: $(a-11)$ must be divisible by $7$ (since $3 \\times 1 = 3 \\geq 2$).\nFor $(a-11)^3$ to have $3^3$: $(a-11)$ must be divisible by $3$ (since $3 \\times 1 = 3 \\geq 3$).\n\nSo $(a-11)$ must be divisible by $\\text{lcm}(7,3) = 21$.\nSmallest positive $(a-11) = 21$, giving $a = 32$.\nHence option C.",
     "question_id": "nimcet_2008_rea_50",
     "exam_id": "nimcet",
     "tags": [
@@ -314,7 +314,7 @@
       2
     ],
     "topic": "Series",
-    "explanation": "Initial fall = $16$ m.\nBounce distances form series:\n$8+4+2+1+\\cdots$\nSum = $\\frac{8}{1-1/2}=16$.\nThese are travelled up and down, so extra distance = $2 \\times 16=32$.\nTotal distance = $16+32=48$ m.",
+    "explanation": "Initial fall = $16$ m.\nAfter each bounce the ball rises half the previous height and falls the same distance.\nBounce distances (up + down): $8+8, 4+4, 2+2, \\ldots$\nTotal bounce distance $= 2 \\times (8+4+2+\\cdots) = 2 \\times \\frac{8}{1-1/2} = 2 \\times 16 = 32$ m.\nTotal distance = $16+32=48$ m.",
     "question_id": "nimcet_2008_rea_52",
     "exam_id": "nimcet",
     "tags": [
@@ -476,7 +476,7 @@
       0
     ],
     "topic": "Alpha Numeric Puzzle",
-    "explanation": "Check each option for a valid one-to-one correspondence between letters and digits.<br><br>Option (a):<br>STILL = 98533<br>WITHIN = 258056<br>LIMITS = 356589<br><br>The addition is correct:<br>98533 + 258056 = 356589.<br><br>Also, identical letters are represented consistently within the words.<br><br>Hence the correct answer is option (a).",
+    "explanation": "Check each option for a valid one-to-one correspondence between letters and digits.\n\nOption (a):\nSTILL = 98533\nWITHIN = 258056\nLIMITS = 356589\n\nThe addition is correct:\n98533 + 258056 = 356589.\n\nAlso, identical letters are represented consistently within the words.\n\nHence the correct answer is option (a).",
     "question_id": "nimcet_2008_rea_58",
     "exam_id": "nimcet",
     "tags": [
@@ -524,7 +524,7 @@
       "PVSQRTU",
       "SUTQPRV",
       "USVQPRT",
-      "TUSQPRV"
+      "TUSQRPV"
     ],
     "correct_answers": [
       3
@@ -611,7 +611,7 @@
       3
     ],
     "topic": "Series",
-    "explanation": "Each term in the sequence is followed by digits not exceeding it.\nThe pattern expands block by block:\n1\n1 2\n1 2 2 3\n1 2 2 3 2 3 3 4\nContinuing similarly, the next three numbers are:\n4, 3, 4.",
+    "explanation": "Each term represents the number of 1s in the binary representation of its position (popcount).\nn=1: 1→1, n=2: 10→1, n=3: 11→2, n=4: 100→1, n=5: 101→2, n=6: 110→2, n=7: 111→3...\nContinuing, n=27: 11011→4, n=28: 11100→3, n=29: 11101→4.\nSo the next three numbers are 4, 3, 4.",
     "question_id": "nimcet_2008_rea_63",
     "exam_id": "nimcet",
     "tags": [
@@ -665,7 +665,7 @@
       3
     ],
     "topic": "Arithmetic Reasoning",
-    "explanation": "Let initial eggs be $x$ and daily sale be $y$.\nWorking backward from the fifth day condition and applying doubling, tripling, quadrupling and quintupling remainders each day gives the minimum integer solution:\nInitial eggs = 103\nDaily sale = 60.\nHence option (d) is correct.",
+    "explanation": "Let x = initial eggs, s = eggs sold per day.\nWorking backwards from Day 5 (remainder = 0):\nDay 5: 5r₄ = s → r₄ = s/5\nDay 4: 4r₃ - s = r₄ → r₃ = 6s/20\nDay 3: 3r₂ - s = r₃ → r₂ = 26s/60\nDay 2: 2r₁ - s = r₂ → r₁ = 86s/120\nDay 1: x = r₁ + s = 103s/60\nFor x to be a whole number, s must be a multiple of 60.\nSmallest s = 60, giving x = 103.\nVerification: 103→sold 60→43 left, 43×2=86→sold 60→26 left, 26×3=78→sold 60→18 left, 18×4=72→sold 60→12 left, 12×5=60→sold 60→0 ✓\nShe took 103 eggs and sold 60 daily.",
     "question_id": "nimcet_2008_rea_65",
     "exam_id": "nimcet",
     "tags": [
@@ -719,7 +719,7 @@
       3
     ],
     "topic": "Counting",
-    "explanation": "Count the zeroes required from 1 to 1000.<br><br>From 1 to 999:<br>• Units place contributes 99 zeroes.<br>• Tens place contributes 90 zeroes.<br>• Hundreds place contributes 9 zeroes.<br><br>Total zeroes from 1 to 999 = 99 + 90 + 9 = 198.<br><br>The number 1000 contributes 3 additional zeroes.<br><br>Total zeroes = 198 + 3 = 201.<br><br>Thus the mathematically correct answer is 201.",
+    "explanation": "Count the zeroes required from 1 to 1000.\n\nFrom 1 to 999:\n• Units place contributes 99 zeroes.\n• Tens place contributes 90 zeroes.\n• Hundreds place contributes 9 zeroes.\n\nTotal zeroes from 1 to 999 = 99 + 90 + 9 = 198.\n\nThe number 1000 contributes 3 additional zeroes.\n\nTotal zeroes = 198 + 3 = 201.\n\nThus the mathematically correct answer is 201.",
     "question_id": "nimcet_2008_rea_67",
     "exam_id": "nimcet",
     "tags": [
@@ -935,7 +935,7 @@
       2
     ],
     "topic": "Arithmetic Reasoning",
-    "explanation": "Let free luggage allowance be $f$ kg and excess charge rate be ₹$r$ per kg.<br><br>If Raja carries $x$ kg and Rahim carries $y$ kg, then:<br>x + y = 60.<br><br>Given excess charges:<br>(x-f)r = 1200<br>(y-f)r = 2400<br><br>If all luggage belonged to one person:<br>(60-f)r = 5400.<br><br>Adding first two equations:<br>(x+y-2f)r = 3600<br>(60-2f)r = 3600.<br><br>Subtracting from combined equation:<br>fr = 1800.<br><br>Using (y-f)r = 2400:<br>yr - fr = 2400<br>yr = 4200.<br><br>Also from (60-f)r = 5400 and fr = 1800:<br>60r = 7200<br>r = 120.<br><br>Therefore:<br>y = \\frac{4200}{120} = 35.<br><br>Hence Rahim's luggage weight is 35 kg.",
+    "explanation": "Let f = free allowance per person (kg), r = rate per kg (₹).\nRaja's excess charge: (Raja's kg - f) × r = ₹1200\nRahim's excess charge: (Rahim's kg - f) × r = ₹2400\nSince Rahim pays twice Raja, Rahim has twice the excess: let Raja's excess = e, Rahim's excess = 2e.\nTotal luggage: f + e + f + 2e = 2f + 3e = 60 ...(1)\nCombined charge: (60 - f) × r = ₹5400\nDividing combined charge by Raja's charge: (60 - f)/e = 5400/1200 = 4.5\nSo 60 - f = 4.5e ...(2)\nFrom (1): f = (60 - 3e)/2, substituting in (2):\n60 - (60 - 3e)/2 = 4.5e → 60 + 3e = 9e → e = 10 kg\nSo f = 15 kg, Raja's luggage = 25 kg, Rahim's luggage = 35 kg.\nVerification: Excess Raja = 10 kg → ₹1200, Rahim = 20 kg → ₹2400, Combined excess = 45 kg → ₹5400 ✓\nRahim's luggage = 35 kg.",
     "question_id": "nimcet_2008_rea_75",
     "exam_id": "nimcet",
     "tags": [
@@ -1082,22 +1082,22 @@
   {
     "id": "nimcet_2008_rea_81",
     "difficulty": "medium",
-    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means N is definitely daughter of K?",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P & Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means N is definitely daughter of K?",
     "year": 2008,
     "subject": "Logical Reasoning",
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "K $ L @ M @ N",
-      "M ψ K $ N ε L",
+      "K & L @ M @ N",
+      "M ψ K & N ε L",
       "K ψ M @ L ε N",
-      "L ψ K $ N @ M"
+      "L ψ K & N @ M"
     ],
     "correct_answers": [
       1
     ],
     "topic": "Blood Relation",
-    "explanation": "M ψ K means M is mother of K.\nK $ N means K is father of N.\nN ε L means N is sister of L, so N is female.\nThus N is definitely daughter of K.",
+    "explanation": "Analysing option (B): M ψ K & N ε L\n\n- M ψ K means M is mother of K.\n- K & N means K is father of N.\n- N ε L means N is sister of L, confirming N is female.\n\nSince K is father of N and N is female, N is definitely the daughter of K.\n\nOption (A): K & L @ M @ N — N is brother of M so N is male, not daughter.\nOption (D): K & N but N @ M means N is brother of M, so N is male.\n\nFinal Answer: Option (B).",
     "question_id": "nimcet_2008_rea_81",
     "exam_id": "nimcet",
     "tags": [
@@ -1109,22 +1109,22 @@
   {
     "id": "nimcet_2008_rea_82",
     "difficulty": "medium",
-    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means R is brother of T?",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P & Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means R is brother of T?",
     "year": 2008,
     "subject": "Logical Reasoning",
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "R ψ S @ U $ T",
+      "R ψ S @ U & T",
       "U ψ R @ S @ T",
       "U ψ R ε S ψ T",
-      "T @ S $ Q ε R"
+      "T @ S & Q ε R"
     ],
     "correct_answers": [
       1
     ],
     "topic": "Blood Relation",
-    "explanation": "U ψ R means U is mother of R.\nR @ S means R is brother of S.\nS @ T means S is brother of T.\nSo R is brother of T.",
+    "explanation": "Analysing option (B): U ψ R @ S @ T\n\n- U ψ R means U is mother of R.\n- R @ S means R is brother of S (R is male; R and S are siblings).\n- S @ T means S is brother of T (S and T are siblings).\n\nSince R and S are siblings, and S and T are siblings, R, S, and T are all siblings. R is male, so R is brother of T.\n\nFinal Answer: Option (B).",
     "question_id": "nimcet_2008_rea_82",
     "exam_id": "nimcet",
     "tags": [
@@ -1136,22 +1136,22 @@
   {
     "id": "nimcet_2008_rea_83",
     "difficulty": "hard",
-    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means X is real grandmother of Y?",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P & Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means X is real grandmother of Y?",
     "year": 2008,
     "subject": "Logical Reasoning",
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "X ε Z ψ K $ L @ Y",
-      "Y ψ K $ X @ L",
-      "Y @ L $ K ψ X ε Z",
-      "K @ X ψ Z @ L $ Y"
+      "X ε Z ψ K & L @ Y",
+      "Y ψ K & X @ L",
+      "Y @ L & K ψ X ε Z",
+      "K @ X ψ Z @ L & Y"
     ],
     "correct_answers": [
       2
     ],
     "topic": "Blood Relation",
-    "explanation": "Y @ L means Y is brother of L.\nL $ K means L is father of K.\nK ψ X means K is mother of X.\nX ε Z means X is sister of Z.\nThus X is female in the elder generation relative to Y.\nHence X is grandmother of Y.",
+    "explanation": "Analysing option (C): Y @ L & K ψ X ε Z\n\n- Y @ L means Y is brother of L (Y is male; Y and L are siblings).\n- L & K means L is father of K.\n- K ψ X means K is mother of X.\n- X ε Z means X is sister of Z (X is female).\n\nChain: Y and L are siblings. L is parent of K. K is parent of X. So X is the grandchild of L, and L is the sibling of Y. This makes X the grandniece or grandnephew of Y per standard logic, but per the official answer key, option (C) is marked as correct for this question.\n\nFinal Answer: Option (C).",
     "question_id": "nimcet_2008_rea_83",
     "exam_id": "nimcet",
     "tags": [
@@ -1163,7 +1163,7 @@
   {
     "id": "nimcet_2008_rea_84",
     "difficulty": "medium",
-    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nIf K ψ L ε M @ N, then how K is related with N?",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P & Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nIf K ψ L ε M @ N, then how is K related to N?",
     "year": 2008,
     "subject": "Logical Reasoning",
     "imageUrl": "",
@@ -1178,7 +1178,7 @@
       0
     ],
     "topic": "Blood Relation",
-    "explanation": "K ψ L means K is mother of L.\nL ε M means L is sister of M.\nM @ N means M is brother of N.\nSo L and N are siblings.\nHence K is mother of N.",
+    "explanation": "K ψ L ε M @ N\n\n- K ψ L means K is mother of L.\n- L ε M means L is sister of M (L and M are siblings).\n- M @ N means M is brother of N (M and N are siblings).\n\nSince L is sister of M, and M is brother of N, all three (L, M, N) are siblings. Therefore K, as mother of L, is also the mother of N.\n\nFinal Answer: Option (A) - Mother.",
     "question_id": "nimcet_2008_rea_84",
     "exam_id": "nimcet",
     "tags": [
@@ -1190,22 +1190,22 @@
   {
     "id": "nimcet_2008_rea_85",
     "difficulty": "hard",
-    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P $ Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means K is nephew of M?",
+    "question_text": "Directions (Q. Nos. 81-85): Read the following information carefully and answer the questions.\n\n(i) P ψ Q means P is mother of Q.\n(ii) P ε Q means P is sister of Q.\n(iii) P & Q means P is father of Q.\n(iv) P @ Q means P is brother of Q.\n\nWhich of the following means K is nephew of M?",
     "year": 2008,
     "subject": "Logical Reasoning",
     "imageUrl": "",
     "imageSection": "none",
     "options": [
-      "N @ M $ L @ K ε O",
-      "K @ L $ N ε O $ M",
-      "L ψ O @ M $ O ε K",
-      "M @ N $ L @ K $ O"
+      "N @ M & L @ K ε O",
+      "K @ L & N ε O & M",
+      "L ψ O @ M & O ε K",
+      "M @ N & L @ K & O"
     ],
     "correct_answers": [
       1
     ],
     "topic": "Blood Relation",
-    "explanation": "K @ L means K is brother of L, so K is male.\nL $ N means L is father of N.\nN ε O means N is sister of O.\nO $ M means O is father of M.\nThus K is male and related to M as nephew.\nHence option (b).",
+    "explanation": "For K to be nephew of M, K must be male and the son of a sibling of M.\n\nAnalysing option (B): K @ L & N ε O & M\n\n- K @ L means K is brother of L (K is male).\n- L & N means L is father of N.\n- N ε O means N is sister of O.\n- O & M means O is father of M.\n\nChain: K is sibling of L. L is parent of N and O. O is parent of M. So K is a sibling of L who is the grandparent of M, making K a grand-uncle of M.\n\nAnalysing option (D): M @ N & L @ K & O\n\n- M @ N means M is brother of N (M is male; M and N are siblings).\n- N & L means N is father of L.\n- L @ K means L is brother of K (L and K are siblings).\n- K & O means K is father of O.\n\nHere K is a child of N (since L and K are siblings and N is father of L). M is a sibling of N. So K is a child of M's sibling N, making K a nephew of M. Option (D) logically fits the definition.\n\nNote: The official answer key marks option (B). Based on the definitions given, option (D) is the logically correct answer. This appears to be an error in the original paper.\n\nFinal Answer per official key: Option (B).",
     "question_id": "nimcet_2008_rea_85",
     "exam_id": "nimcet",
     "tags": [
